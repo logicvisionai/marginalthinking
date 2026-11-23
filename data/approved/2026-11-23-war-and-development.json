@@ -5,9 +5,9 @@
   "revision": 2,
   "program": "political-economy-markets",
   "qa_status": "approved",
-  "reviewed_at": "2026-11-23T19:41:00.000Z",
-  "reviewed_commit": "4e0656802dfb7672e1a4d963d7d6cff61ce59383",
-  "pending_blob_sha": "afd7efb0a1cd933ec691d17f543222b2f7334d2f",
+  "reviewed_at": "2026-11-23T19:52:00Z",
+  "reviewed_commit": "b3735c1770a17f5bad953e2341d3f2ebc536d67e",
+  "pending_blob_sha": "e6ede869b24d29d34c257826e0ec4853f3a53bd0",
   "source_blob_shas": {
     "en": "212281a45bf14882f794a3a462d8185382503a01",
     "pt-BR": "dc29c63d7fe1a74a52e7d7ff059493532e629b8b"
@@ -18,15 +18,15 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pending revision 2 and both locale Markdown files reread from main. Exact blob SHAs: pending afd7efb0a1cd933ec691d17f543222b2f7334d2f; EN 212281a45bf14882f794a3a462d8185382503a01; PT-BR dc29c63d7fe1a74a52e7d7ff059493532e629b8b."
+      "summary": "Pending revision 2 and both locale files reread from main. Exact blob SHAs: pending e6ede869b24d29d34c257826e0ec4853f3a53bd0; EN 212281a45bf14882f794a3a462d8185382503a01; PT-BR dc29c63d7fe1a74a52e7d7ff059493532e629b8b."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Schema v2, taxonomy 1.0, Political Economy & Markets program, global geography, dimensions, controlled topics and phenomena, research-report format, and event-driven cadence checked."
+      "summary": "Schema v2, taxonomy 1.0, Political Economy & Markets program, global geography, dimensions, controlled topics and phenomena, research-report format and event-driven cadence checked."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "Historical sources and contemporary 2026 ECB/IMF analyses checked against their cited publication records. Historical observations, institutional disclosures and model estimates are explicitly distinguished."
+      "summary": "Historical sources and contemporary 2026 ECB/IMF analyses checked against the cited publication records. Historical observations, institutional disclosures and model estimates are explicitly distinguished."
     },
     "factual_methodology": {
       "result": "passed",
@@ -34,11 +34,11 @@
     },
     "evidence_traceability": {
       "result": "passed",
-      "summary": "Both language editions contain 12 unique URLs across 9 source domains. Quantitative and corporate claims cite the relevant source numbers; BMW institutional disclosures are accompanied by independent Holocaust/occupation-history sources."
+      "summary": "Both language editions contain 12 unique URLs across 9 source domains. Quantitative and corporate claims cite the relevant source numbers; BMW institutional disclosures are accompanied by independent Holocaust and occupation-history sources."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "Long-form research report with seven analytical sections, comparative evidence tables, two quantitative exhibits, causal and geographic visual blocks, a synthesis and 12 references. Text exceeds the 1,700-word threshold in both locales."
+      "summary": "Long-form research report with seven analytical sections, three comparative evidence tables, two quantitative charts, one causal flow, one geographic map, synthesis and 12 references; both locales exceed the 1,700-word minimum."
     },
     "visual_evidence_readiness": {
       "result": "passed",
@@ -54,15 +54,19 @@
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "Separates mobilisation from destruction, identifies conversion conditions and failure channels, considers the role of surviving capacity and external demand, and tests whether civilian procurement/R&D can produce similar capabilities without war."
+      "summary": "Separates mobilisation from destruction, identifies conversion conditions and failure channels, considers surviving industrial capacity and external demand, and tests whether civilian procurement and R&D can produce similar capabilities without war."
     },
     "editorial_style": {
       "result": "passed",
       "summary": "Public prose contains no self-referential report descriptions, internal process narration, publication-pipeline language or generic AI framing."
     },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "Run 2026-11-23-mt-pe-2026-11-23-war-and-development-reconciliation records decisions for all seven active cumulative assets. The review found no justified canonical changes to the dependency network, opportunity atlas, resource-control atlas, policy-case atlas, strategic actors, conflict systems or technology-signal ledger."
+    },
     "publication_snapshot_integrity": {
       "result": "passed",
-      "summary": "Revision ${p.revision} pending object and exact locale source blob SHAs are embedded in the approval record."
+      "summary": "Revision 2 pending object and exact locale source blob SHAs are embedded in the approval record."
     }
   },
   "contrary_evidence": [
@@ -79,7 +83,7 @@
     "The ECB's 0.3% long-run productivity estimate is model-based, not a guaranteed return from a specific defence programme.",
     "Historical European defence-spending multipliers may not transfer directly to the current, more synchronised procurement cycle."
   ],
-  "notes": "Revision 2 reviewed after adding visual evidence. The record preserves explicit historical, source and model-estimate limitations. Production build and Cloudflare deployment remain separate release gates.",
+  "notes": "Revision 2 approved after visual-evidence and seven-asset reconciliation checks. Explicit historical, source and model-estimate limitations are retained. Production build and Cloudflare deployment remain separate release gates.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -268,14 +272,46 @@
         "references_en": 12,
         "references_pt": 12,
         "ready_for_independent_qa": true,
-        "revision": 2
+        "revision": 2,
+        "reconciliation_complete": true
       },
       "visual_evidence": {
         "charts": 2,
         "tables": 3,
         "flows": 1,
         "maps": 1
-      }
+      },
+      "reconciliation_run_id": "2026-11-23-mt-pe-2026-11-23-war-and-development-reconciliation",
+      "reconciliation_decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable"
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable"
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change"
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable"
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable"
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change"
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable"
+        }
+      ]
     },
     "revision": 2,
     "revision_reason": "Revision 2 adds comparable evidence tables, explicit quantitative exhibits and causal/geographic visual blocks in both languages. No underlying historical observation, source citation or analytical conclusion changed.",
