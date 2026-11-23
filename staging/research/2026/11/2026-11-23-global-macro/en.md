@@ -127,7 +127,7 @@ Credit conditions deserve a separate qualification. The ECB identifies vulnerabi
 | Singapore iron-ore Dec contract | US$88.25/t | 23 Nov, 01:43 GMT; −0.25% |
 ```
 
-European flash purchasing-managers’ surveys released on 23 November point to a stable aggregate but divergent national conditions: Germany’s composite index strengthened to 55.0, while France remained in contraction at 46.2. These are survey readings, not official output data. They suggest that European manufacturing and services are not moving in lockstep, which matters for steel demand and capital spending across the region. [18][19]
+European flash purchasing-managers’ surveys released on 23 November point to a stable aggregate but divergent national conditions: Germany’s composite index strengthened to 55.0, while France remained in contraction at 46.2 [23]. These are survey readings, not official output data. They suggest that European manufacturing and services are not moving in lockstep, which matters for steel demand and capital spending across the region. [18][19]
 
 The dollar eased from a recent 19-month high during Monday’s Asian session, while gold rebounded after a sharp weekly decline. That combination is consistent with some unwinding of the most crowded dollar positions, but it is not evidence of a sustained change in the dollar cycle. The oil and gold quotations above are time-stamped market snapshots; they should not be treated as daily closing prices. [20]
 
@@ -201,3 +201,4 @@ Gulf shipping and refined-product disruption
 20. Reuters, gold and currency-market update, 23 November 2026. https://www.reuters.com/world/india/gold-rises-14-month-low-markets-await-key-us-inflation-data-2026-11-23/
 21. International Energy Agency, Oil Market Report — November 2026, 13 November 2026. https://www.iea.org/reports/oil-market-report-november-2026
 22. Reuters, oil-market update, 23 November 2026. https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/
+23. Reuters, “French private sector downturn deepens to six-month low, PMI shows”, syndicated by Euronext, 23 November 2026, 09:18 CET (08:18 UTC; 05:18 BRT). https://live.euronext.com/en/financial-news/french-private-sector-downturn-deepens-six-month-low-pmi-shows

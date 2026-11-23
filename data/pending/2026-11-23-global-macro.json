@@ -148,8 +148,8 @@
       "tables": 3,
       "flows": 1,
       "maps": 1,
-      "references_en": 22,
-      "references_pt": 22
+      "references_en": 23,
+      "references_pt": 23
     },
     "visual_evidence": {
       "charts": 3,
@@ -158,12 +158,12 @@
       "maps": 1
     },
     "source_audit": {
-      "references": 22,
+      "references": 23,
       "primary_institutional_sources": 15,
-      "market_reporting_sources": 5,
+      "market_reporting_sources": 6,
       "industry_data_sources": 2,
-      "urls_unique": 22,
-      "domains": 15,
+      "urls_unique": 23,
+      "domains": 16,
       "reproducibility_notes": {
         "comex_stat": {
           "flow": "export",
@@ -176,7 +176,15 @@
           "unit_value_formula": "FOB value USD / net mass tonnes",
           "limitation": "The exact CSV export is not embedded in this revision; preserve the query result or export if available."
         },
-        "ecb_added": true
+        "ecb_added": true,
+        "pmi_france": {
+          "observation": "Flash France Composite PMI Output Index, November 2026: 46.2; October 2026: 46.6",
+          "source": "Reuters report syndicated by Euronext",
+          "publication_time": "2026-11-23 09:18 CET (08:18 UTC; 05:18 BRT)",
+          "cutoff": "2026-11-23 06:20 America/Sao_Paulo",
+          "classification": "market_reporting_source",
+          "qualification": "Survey reading, not official output data"
+        }
       }
     },
     "manual_preflight": {
@@ -186,30 +194,33 @@
       "phenomena_valid": true,
       "word_count_en": 3043,
       "word_count_pt": 3589,
-      "references_en": 22,
-      "references_pt": 22,
+      "references_en": 23,
+      "references_pt": 23,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "Strict editorial-health workflow will re-run validate-pipeline and validate-editorial-depth on this complete revision-1 tuple after commit."
+      "repository_script_validator": "Strict editorial-health workflow will re-run validate-pipeline and validate-editorial-depth on this complete revision-1 tuple after commit.",
+      "revision": 2
     }
   },
-  "revision": 1,
-  "revision_reason": "Independent QA rework: correct FOMC/ECB and Simandou source mapping, add the missing ECB primary source, classify the materially relevant war phenomenon, remove repeated formulaic signposting, and document the Comex Stat extraction parameters.",
+  "revision": 2,
+  "revision_reason": "Independent QA rework: add the missing source for France's 23 November flash composite PMI at 46.2, cite it in both locales and reconcile the bilingual source audit.",
   "revision_scope": [
     "Correct FOMC minutes citation to Federal Reserve source [14] in both editions.",
     "Add the ECB Financial Stability Review, November 2026, as source [15] and renumber subsequent references consistently.",
     "Correct the EN Simandou shipment citation from Pilbara Ports [9] to SimFer [10] to match PT-BR.",
     "Add the controlled phenomenon war-armed-conflict because the report's energy and freight mechanism materially depends on the ongoing war.",
     "Replace repeated formulaic distinction-signposting with direct economic statements.",
-    "Preserve the Comex Stat query parameters and FOB-value/net-mass calculation as a reproducibility note."
+    "Preserve the Comex Stat query parameters and FOB-value/net-mass calculation as a reproducibility note.",
+    "Add Reuters' France flash PMI report syndicated by Euronext as reference [23] in both editions; cite the 46.2 survey reading directly and update reference, source-class and unique-domain counts."
   ],
   "qa_rework": {
     "prior_record": "data/rejected/2026-11-23-global-macro.json",
-    "prior_revision": 0,
+    "prior_revision": 1,
     "resolved_material_issues": [
       "FOMC reference mapping corrected",
       "ECB primary source added and cited",
       "Simandou citation corrected in EN",
-      "war-armed-conflict phenomenon added"
+      "war-armed-conflict phenomenon added",
+      "France flash composite PMI 46.2 directly sourced and cited in both locales"
     ],
     "editorial_cleanup": [
       "Repeated distinction signposting rewritten in EN and PT-BR"

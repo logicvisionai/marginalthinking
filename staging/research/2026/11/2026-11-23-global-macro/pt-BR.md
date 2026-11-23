@@ -127,7 +127,7 @@ As condições de crédito exigem uma ressalva própria. O BCE identifica vulner
 | Minério de ferro, contrato dez. em Singapura | US$ 88,25/t | 23 nov., 01h43 GMT; −0,25% |
 ```
 
-As pesquisas preliminares de gerentes de compras divulgadas na Europa em 23 de novembro apontam agregado estável, mas condições nacionais divergentes: o índice composto da Alemanha avançou para 55,0, enquanto a França permaneceu em contração, em 46,2. São leituras de pesquisa, não dados oficiais de produção. Elas sugerem que manufatura e serviços europeus não caminham no mesmo ritmo, o que importa para a demanda de aço e o investimento de capital na região. [18][19]
+As pesquisas preliminares de gerentes de compras divulgadas na Europa em 23 de novembro apontam agregado estável, mas condições nacionais divergentes: o índice composto da Alemanha avançou para 55,0, enquanto a França permaneceu em contração, em 46,2 [23]. São leituras de pesquisa, não dados oficiais de produção. Elas sugerem que manufatura e serviços europeus não caminham no mesmo ritmo, o que importa para a demanda de aço e o investimento de capital na região. [18][19]
 
 O dólar recuou em relação à máxima recente de 19 meses durante a sessão asiática de segunda-feira, enquanto o ouro se recuperou após forte queda semanal. A combinação é compatível com algum desmonte de posições concentradas em dólar, mas não comprova uma mudança sustentada do ciclo da moeda americana. As cotações de petróleo e ouro acima são fotografias de mercado com horário definido; não devem ser tratadas como preços de fechamento diário. [20]
 
@@ -201,3 +201,4 @@ Interrupções no transporte marítimo e nos derivados no Golfo
 20. Reuters, atualização de ouro e câmbio, 23 nov. 2026. https://www.reuters.com/world/india/gold-rises-14-month-low-markets-await-key-us-inflation-data-2026-11-23/
 21. Agência Internacional de Energia, Oil Market Report — November 2026, 13 nov. 2026. https://www.iea.org/reports/oil-market-report-november-2026
 22. Reuters, atualização do mercado de petróleo, 23 nov. 2026. https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/
+23. Reuters, “French private sector downturn deepens to six-month low, PMI shows”, republicada pela Euronext, 23 nov. 2026, 09h18 CET (08h18 UTC; 05h18 BRT). https://live.euronext.com/en/financial-news/french-private-sector-downturn-deepens-six-month-low-pmi-shows
