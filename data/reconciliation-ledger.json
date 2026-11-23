@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-23T12:16:17.538Z",
+  "last_reconciled_at": "2026-11-23T19:52:00-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10142,6 +10142,50 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "No new technical capability, reproducible performance threshold, technology deployment or commissioning milestone is evidenced. Mine, rail and port progress is infrastructure execution, not a technology signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-mt-pe-2026-11-23-war-and-development-reconciliation",
+      "reconciled_at": "2026-11-23T19:52:00-03:00",
+      "report_ids_reviewed": [
+        "MT-PE-2026-11-23"
+      ],
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "not_applicable",
+          "note": "The report compares industrial capabilities and institutional history across the United States and Western Europe but does not establish a new, source-audited current bilateral trade, finance, energy or logistics dependency edge for the canonical network."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The defence and industrial-policy discussion does not establish a specific investable site or project with validated ownership, permits, remaining capex, utilities, contracted demand, capacity and cash flows. No structural opportunity is promoted."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "BMW, IG Farben and successor-company histories are used as historical case evidence. The report does not establish a current change in beneficial ownership, voting rights, board control, operating rights or strategic mandate for a tracked actor."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "The report does not establish a current change in resource ownership, concession, licence, operating rights or control of a strategic natural resource or industrial asset."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The historical discussion of the Schuman Declaration and postwar reforms is comparative context, not a bounded new policy-case evaluation with a defined implementation, measured outcomes and counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "verified_no_change",
+          "note": "The report analyses historical war mobilisation and the institutional prevention of another Franco-German war. It provides no new independently verified current incident, territorial-control change, order-of-battle update or conflict-system transition."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "OSRD and defence R&D are discussed as historical innovation mechanisms. No new discrete present-day technical capability, reproducible performance threshold, deployment milestone or technology-supply-chain signal is established."
         }
       ]
     }
