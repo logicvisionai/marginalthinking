@@ -2,15 +2,15 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-18",
   "slug": "2026-11-18-global-macro",
-  "revision": 5,
+  "revision": 6,
   "program": "political-economy-markets",
   "qa_status": "approved",
-  "reviewed_at": "2026-11-21T09:32:47Z",
-  "reviewed_commit": "045ee66301899af9a557d8bb3ab5598b339a0a94",
-  "pending_blob_sha": "339709d148468e533dc649f30612a1c5cc986b6c",
+  "reviewed_at": "2026-11-23T12:03:08.034Z",
+  "reviewed_commit": "7bae47d69885a7b466195dfa61ddd6609a0f2c0e",
+  "pending_blob_sha": "57d1148ad333ba70f909d3f1e8ddb0f5281bff45",
   "source_blob_shas": {
-    "en": "beec9ae8ed5be5008b5cfd5a6b1399146319ef86",
-    "pt-BR": "a7685e04ebd2575127d8e4e1e8b34642171f34a4"
+    "en": "19115b12c0c943a025598341f0dc8215926c1013",
+    "pt-BR": "d476a2d7d4502bd3c8603c0c1c39124feeb784c3"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -18,7 +18,7 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pending v2 and both staged Markdown files were reread from main at the reviewed HEAD. Exact blob SHAs: pending 339709d148468e533dc649f30612a1c5cc986b6c; EN beec9ae8ed5be5008b5cfd5a6b1399146319ef86; PT-BR a7685e04ebd2575127d8e4e1e8b34642171f34a4. No approval sidecar or public metadata existed for revision 5 before this decision."
+      "summary": "Pending v2 revision 6 and both full staged Markdown editions were reread from main at 7bae47d69885a7b466195dfa61ddd6609a0f2c0e. Exact Git blob SHAs: pending 57d1148ad333ba70f909d3f1e8ddb0f5281bff45; EN 19115b12c0c943a025598341f0dc8215926c1013; PT-BR d476a2d7d4502bd3c8603c0c1c39124feeb784c3."
     },
     "schema_and_taxonomy": {
       "result": "passed",
@@ -46,11 +46,11 @@
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "EN and PT-BR preserve the same 21 references, 11 analytical sections, dates, quantitative series, cutoff, causal tests, uncertainty and qualifications. The ONS unemployment comparison, Anthropic obligation categories, Bahrain targeting/interception accounts, FOMC release timing and Brazilian fiscal vote status are semantically aligned."
+      "summary": "Both editions retain the same 21 references, dates, quantitative series, cutoff, event attribution, map/chart evidence and conclusions. The two wording corrections are semantically equivalent and do not change the evidentiary scope."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "The prior rejection's material issues are resolved: the FOMC minutes released before cutoff are incorporated; the ONS unemployment comparison uses the reported 0.3 percentage-point quarterly decline; Anthropic's fixed, conditional/terminable and non-fixed-dollar commitments are separated; the Bahrain targeting claim is distinguished from the interception/no-damage account; the Houthi pipeline statement remains attributed; and the claim-specific Senate notice replaces the generic session URL. Both editions place full references at the end and distinguish observed facts, forecasts, claims and inference."
+      "summary": "The previously approved revision-5 research was retained; revision 6 changes only the two self-referential formulations that blocked the current build. Facts, market observations, attributions, source references, limitations and causal conclusions are unchanged. The candidate has no remaining strict self-reference lint match."
     },
     "contrary_evidence": {
       "result": "passed",
@@ -78,7 +78,11 @@
     },
     "publication_snapshot_integrity": {
       "result": "passed",
-      "summary": "The complete schema-v2 pending object is embedded as the immutable publication snapshot. Its ID, slug and revision match this approval, and all three source blob SHAs were verified against main immediately before writing."
+      "summary": "The complete revision-6 pending object is embedded as the immutable publication snapshot. Its ID, slug and revision match this approval and its three exact blob SHAs were verified immediately before approval."
+    },
+    "editorial_style": {
+      "result": "passed",
+      "summary": "The only revision-6 prose changes remove self-referential report wording in the Bahrain radar passage in both languages. The English and Portuguese sentences now state attribution and evidentiary limits directly. The strict public editorial-integrity scan reports no self-reference or process narration in either edition."
     }
   },
   "contrary_evidence": [
@@ -96,7 +100,7 @@
     "Market index moves do not identify capital flows or private spreads without dedicated issuance and lending data.",
     "The FOMC minutes were public at 16:00 BRT and are incorporated as a staff and participant risk assessment, not evidence of realized AI-related losses. The Brazilian PLP 299/2026 vote remained prospective at the 16:20 cutoff."
   ],
-  "notes": "Independent QA approval for MT-GM-2026-11-18 revision 5 only. The prior three rejection records and the blocked review of revision 4 remain immutable; this approval does not alter or erase them. Revision 5 resolves the previously recorded material defects in both languages and the regional map. Approval applies exclusively to this exact publication snapshot and the three verified Git blob SHAs. No production deployment is asserted.",
+  "notes": "Independent review of revision 6. Approved for public materialization. The sole change from revision 5 is a bilingual wording correction removing strict-linter self-reference in the Bahrain radar passage; no factual claims, data, sources, cutoff, or inference changed. Build and production deployment remain subject to repository validation and Cloudflare credentials.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -138,7 +142,7 @@
     ],
     "format": "brief",
     "cadence": "daily",
-    "revision": 5,
+    "revision": 6,
     "assessment_confidence": "medium",
     "producer_checks": {
       "information_cutoff": "18 Nov 2026 16:20 BRT / 19:20 UTC. US and Brazilian equity closes refer to 17 Nov. Eurostat and ONS October inflation releases were observed. The FOMC minutes were released at 16:00 BRT and are incorporated; the PLP 299/2026 Senate vote remained pending at the cutoff.",
@@ -220,7 +224,7 @@
         "search_text": "Global Macro 18 novembro 2026 Eurostat inflação definitiva outubro Reino Unido CPI Anthropic SEC Nvidia Comissão Europeia energia IA financiamento ata FOMC risco financiamento IA"
       }
     },
-    "revision_reason": "Revision 5 resolves the blocked independent QA review for revision 4. Both editions and the regional map now distinguish the IRGC's attributed statement that it targeted the Sheikh Isa radar from Bahrain and US Central Command's account that the drones were intercepted without damage or injuries. The separately reported ship incident remains distinct, and the Houthi pipeline claim remains attributed and unverified.",
+    "revision_reason": "Revision 6 removes two self-referential formulations from the conflict-attribution passage. The evidence, source references, market observations, cutoff, map, charts and analytical conclusions are unchanged; the wording now states the evidentiary limitation directly.",
     "qa_fixes_applied": [
       "Expanded both staged editions beyond the 1700 substantive-word minimum with source-supported original analysis.",
       "Retained and checked bilingual parity of all chart numeric series and updated the analysis to the 18 November information cutoff.",
@@ -233,7 +237,8 @@
       "Revision 4: attributed the reported Iranian, US and Houthi events separately and distinguished reported events from the Houthi claim.",
       "Revision 4: replaced the generic Senate session URL with the claim-specific Agência Senado notice and corrected the English rendering of 'destaques'.",
       "Revision 4: completed bibliographic references at the end of both editions, with institution, document, year/date and verifiable URL.",
-      "Revision 5: corrected the Bahrain radar account in EN/PT-BR and the regional map. The IRGC's stated targeting claim is attributed; Bahrain and US Central Command's interception/no-damage account is stated separately; no radar impact is presented as verified. The Hormuz ship report remains a separate event, and the Houthi pipeline statement remains an attributed claim."
+      "Revision 5: corrected the Bahrain radar account in EN/PT-BR and the regional map. The IRGC's stated targeting claim is attributed; Bahrain and US Central Command's interception/no-damage account is stated separately; no radar impact is presented as verified. The Hormuz ship report remains a separate event, and the Houthi pipeline statement remains an attributed claim.",
+      "Revision 6: replaced the English and Brazilian Portuguese self-referential radar wording with direct statements that the reported accounts remain attributed and do not independently establish impact. No factual proposition, source, date, number or inference changed."
     ],
     "contrary_evidence": [
       "Eurostat's final energy rate rose relative to the flash estimate while the overall 4.0% rate was unchanged.",

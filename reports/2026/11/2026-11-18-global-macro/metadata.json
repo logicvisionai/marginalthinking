@@ -39,7 +39,7 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 5,
+  "revision": 6,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "18 Nov 2026 16:20 BRT / 19:20 UTC. US and Brazilian equity closes refer to 17 Nov. Eurostat and ONS October inflation releases were observed. The FOMC minutes were released at 16:00 BRT and are incorporated; the PLP 299/2026 Senate vote remained pending at the cutoff.",
@@ -82,9 +82,9 @@
   ],
   "url": "/reports/2026/11/2026-11-18-global-macro.html",
   "qa_status": "approved",
-  "qa_reviewed_at": "2026-11-21T09:32:47Z",
+  "qa_reviewed_at": "2026-11-23T12:03:08.034Z",
   "qa_confidence": "high",
-  "qa_reviewed_commit": "045ee66301899af9a557d8bb3ab5598b339a0a94",
+  "qa_reviewed_commit": "7bae47d69885a7b466195dfa61ddd6609a0f2c0e",
   "locales": {
     "en": {
       "markdown": "en.md",
