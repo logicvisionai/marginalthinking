@@ -434,7 +434,25 @@
           "validate-research.mjs runs before validate-editorial-depth.mjs"
         ],
         "evidence": "On the exact reviewed HEAD, GitHub Actions run 45009879036 executed scripts/validate-pipeline.mjs successfully (208 public bundles, zero unpublished pending and zero approved-unpublished), then failed in scripts/validate-research.mjs on editorial self-reference in the already-public MT-GM-2026-11-18 English and Portuguese editions. The build skipped visual-semantics, generated-site and editorial-depth steps. The required strict editorial-depth script was not executed against this candidate revision.",
-        "required_correction": "Resolve the pre-existing public-report validation failure through the appropriate editorial correction process, then rerun the repository build and strict editorial-depth validation against the exact candidate fingerprints. QA must not alter reports/** or bypass the failed prerequisite."
+        "required_correction": "Resolve the pre-existing public-report validation failure through the appropriate editorial correction process, then rerun the repository build and strict editorial-depth validation against the exact candidate fingerprints. QA must not alter reports/** or bypass the failed prerequisite.",
+        "active_for_rework": false,
+        "qa_disposition": "superseded_by_exact_candidate_depth_run",
+        "superseded_by": "EDITORIAL_DEPTH_SCRIPT_EXECUTED_AFTER_BLOCK_ON_EXACT_HEAD"
+      },
+      {
+        "severity": "material",
+        "code": "REPOSITORY_BUILD_BLOCKED_BY_EXISTING_PUBLIC_REPORT",
+        "paths": [
+          "reports/2026/11/2026-11-18-global-macro/en.md",
+          "reports/2026/11/2026-11-18-global-macro/pt-BR.md"
+        ],
+        "locations": [
+          "reports/2026/11/2026-11-18-global-macro/en.md:60",
+          "reports/2026/11/2026-11-18-global-macro/pt-BR.md:60",
+          "GitHub Actions run 45096457016, build job 137437214148, step 'Validate and build'"
+        ],
+        "evidence": "On exact main HEAD 291bb2f1d09a6ab587f037f05720394c128207be, GitHub Actions run 45096457016 passed scripts/validate-pipeline.mjs (208 public bundles; 0 unpublished pending; 0 approved unpublished; 6 legacy pending already public) and then failed scripts/validate-research.mjs on editorial self-reference in the already-public MT-GM-2026-11-18 English and Portuguese editions at line 60. The depth step was skipped in this build because validation stopped earlier. Separately, strict editorial-depth workflow run 45052860295 on parent HEAD 95099df93bc0982b0fbf3cdac20c830bf4dc0517 executed scripts/validate-editorial-depth.mjs against the exact same pending/source tuple for MT-GM-2026-11-19 revision 5; this candidate was not among its seven failures. The intervening commit 291bb2f changed only this rejected sidecar, not the pending, staged Markdown or validation scripts. Thus the candidate-specific depth-script prerequisite is superseded, while the independent public-build failure remains.",
+        "required_correction": "Correct the existing public bilingual self-reference through the appropriate editorial maintenance process, without QA modifying reports/**. Then rerun the full repository build and verify the deploy job and public HTTP smoke tests independently."
       }
     ],
     "notes": "Revision 5 is a new pending/source fingerprint after the single recovery review of revision 4. The three-rejection limit remains reached. This is a blocked recovery review, not a fourth rejection: rejection_count_for_id remains 3 and rejection_loop_limit_reached remains true. The 11/19 Media Selangor Reuters syndication now reproduces the 09:53 GMT oil quote; The Edge page exposes its 11:08 GMT closing edition; the IEA launch event is scheduled at 13:00 Antalya time on 19 November, before the report cutoff. Those corrections do not resolve the Reuters final-close update-time gap, the missing persisted source audit, or the repository build prerequisite. Return the corrections to MT 1/5 — Diário e Radar. No approval or publication authorization.",
@@ -443,7 +461,7 @@
     ],
     "active_issue_codes": [
       "REUTERS_FINAL_MARKET_CLOSE_UPDATE_TIME_UNVERIFIABLE",
-      "REPOSITORY_BUILD_BLOCKS_REQUIRED_DEPTH_SCRIPT"
+      "REPOSITORY_BUILD_BLOCKED_BY_EXISTING_PUBLIC_REPORT"
     ]
   },
   "qa_record_anomalies": [
@@ -475,6 +493,36 @@
       "workflow_job_id": 137301599538,
       "evidence": "The exact-HEAD workflow run 45052860295 (head 95099df93bc0982b0fbf3cdac20c830bf4dc0517) executed scripts/validate-pipeline.mjs and scripts/validate-editorial-depth.mjs in job 137301599538. validate-pipeline passed. The depth script ran and reported seven failures in other staged items; MT-GM-2026-11-19 revision 5 with pending SHA c7cc1303f158b74215ed1d7f7447beae5e1836ab and EN/PT-BR SHAs da30446a81eb1e85e510701cdac4ebd1c8eccf26 / 6f04c99211149bc199f84de02b06f4536076fe31 was not among the failures. Therefore the prior blocked_review statement that the required strict depth script was not executed against this candidate is superseded by this later exact-head run. Separately, repository build run 45051664443 on the same HEAD still failed in Validate and build because of the already-public MT-GM-2026-11-18 self-reference; deploy was skipped. The Reuters final-market-close update-time traceability issue in the blocked review remains unresolved.",
       "disposition": "Audit annotation only. Treat candidate-specific editorial-depth validation as subsequently executed without a candidate failure; do not remove the existing block, because source-vintage traceability remains materially unresolved and the repository-wide build still fails. Preserve the original blocked_review, rejection_count_for_id=3 and rejection_loop_limit_reached=true. This is not a new rejection, approval, or replay of the pending/source tuple."
+    },
+    {
+      "code": "BLOCKED_REVIEW_ACTIVE_ISSUES_RECONCILED_AFTER_DEPTH_RUN",
+      "reviewed_at": "2026-11-23T02:35:08Z",
+      "reviewed_commit": "291bb2f1d09a6ab587f037f05720394c128207be",
+      "pending_blob_sha": "c7cc1303f158b74215ed1d7f7447beae5e1836ab",
+      "source_blob_shas": {
+        "en": "da30446a81eb1e85e510701cdac4ebd1c8eccf26",
+        "pt-BR": "6f04c99211149bc199f84de02b06f4536076fe31"
+      },
+      "prior_rejection_record_blob_sha": "47d3e68107a821f01c4c0903540d916f45b34358",
+      "workflow_runs": [
+        {
+          "run_id": 45052860295,
+          "job_id": 137301599538,
+          "head_sha": "95099df93bc0982b0fbf3cdac20c830bf4dc0517",
+          "result": "validate-pipeline passed; strict editorial-depth executed; candidate not listed among seven failures"
+        },
+        {
+          "run_id": 45096457016,
+          "job_id": 137437214148,
+          "head_sha": "291bb2f1d09a6ab587f037f05720394c128207be",
+          "result": "validate-pipeline passed; validate-research failed on existing public MT-GM-2026-11-18 line 60 in both locales; deploy skipped"
+        }
+      ],
+      "evidence": "The prior active blocker REPOSITORY_BUILD_BLOCKS_REQUIRED_DEPTH_SCRIPT is no longer accurate for this exact candidate tuple: the strict depth workflow ran on 95099df and did not list this candidate among its failures. The latest exact-HEAD build on 291bb2f confirms pipeline validation passes but the repository build remains blocked by an unrelated pre-existing public bilingual self-reference in MT-GM-2026-11-18. The candidate's Reuters final-market-close update-time traceability issue remains unresolved.",
+      "disposition": "Audit-state correction only. Supersede REPOSITORY_BUILD_BLOCKS_REQUIRED_DEPTH_SCRIPT, retain REUTERS_FINAL_MARKET_CLOSE_UPDATE_TIME_UNVERIFIABLE, and track the current global prerequisite as REPOSITORY_BUILD_BLOCKED_BY_EXISTING_PUBLIC_REPORT. Preserve rejection_count_for_id=3 and rejection_loop_limit_reached=true. No fourth rejection, approval or publication authorization is created."
     }
+  ],
+  "superseded_issue_codes": [
+    "REPOSITORY_BUILD_BLOCKS_REQUIRED_DEPTH_SCRIPT"
   ]
 }
