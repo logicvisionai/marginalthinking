@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-23T19:52:00-03:00",
+  "last_reconciled_at": "2026-11-23T16:52:00-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10147,7 +10147,7 @@
     },
     {
       "id": "2026-11-23-mt-pe-2026-11-23-war-and-development-reconciliation",
-      "reconciled_at": "2026-11-23T19:52:00-03:00",
+      "reconciled_at": "2026-11-23T16:52:00-03:00",
       "report_ids_reviewed": [
         "MT-PE-2026-11-23"
       ],
