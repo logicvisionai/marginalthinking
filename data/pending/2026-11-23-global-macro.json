@@ -39,7 +39,9 @@
     "institutions-governance",
     "geopolitics-security"
   ],
-  "phenomena": [],
+  "phenomena": [
+    "war-armed-conflict"
+  ],
   "format": "brief",
   "cadence": "daily",
   "sources": {
@@ -145,7 +147,9 @@
       "charts": 3,
       "tables": 3,
       "flows": 1,
-      "maps": 1
+      "maps": 1,
+      "references_en": 22,
+      "references_pt": 22
     },
     "visual_evidence": {
       "charts": 3,
@@ -154,23 +158,64 @@
       "maps": 1
     },
     "source_audit": {
-      "references": 21,
-      "primary_institutional_sources": 14,
+      "references": 22,
+      "primary_institutional_sources": 15,
       "market_reporting_sources": 5,
       "industry_data_sources": 2,
-      "urls_unique": 21
+      "urls_unique": 22,
+      "domains": 15,
+      "reproducibility_notes": {
+        "comex_stat": {
+          "flow": "export",
+          "period": "2026-10",
+          "ncm": "2601",
+          "measures": [
+            "FOB value in USD",
+            "net mass in kg"
+          ],
+          "unit_value_formula": "FOB value USD / net mass tonnes",
+          "limitation": "The exact CSV export is not embedded in this revision; preserve the query result or export if available."
+        },
+        "ecb_added": true
+      }
     },
     "manual_preflight": {
       "schema_v2": true,
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 3504,
-      "word_count_pt": 4134,
-      "references_en": 21,
-      "references_pt": 21,
+      "word_count_en": 3043,
+      "word_count_pt": 3589,
+      "references_en": 22,
+      "references_pt": 22,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "not executed in this run; independent QA must run repository validators"
+      "repository_script_validator": "Strict editorial-health workflow will re-run validate-pipeline and validate-editorial-depth on this complete revision-1 tuple after commit."
     }
+  },
+  "revision": 1,
+  "revision_reason": "Independent QA rework: correct FOMC/ECB and Simandou source mapping, add the missing ECB primary source, classify the materially relevant war phenomenon, remove repeated formulaic signposting, and document the Comex Stat extraction parameters.",
+  "revision_scope": [
+    "Correct FOMC minutes citation to Federal Reserve source [14] in both editions.",
+    "Add the ECB Financial Stability Review, November 2026, as source [15] and renumber subsequent references consistently.",
+    "Correct the EN Simandou shipment citation from Pilbara Ports [9] to SimFer [10] to match PT-BR.",
+    "Add the controlled phenomenon war-armed-conflict because the report's energy and freight mechanism materially depends on the ongoing war.",
+    "Replace repeated formulaic distinction-signposting with direct economic statements.",
+    "Preserve the Comex Stat query parameters and FOB-value/net-mass calculation as a reproducibility note."
+  ],
+  "qa_rework": {
+    "prior_record": "data/rejected/2026-11-23-global-macro.json",
+    "prior_revision": 0,
+    "resolved_material_issues": [
+      "FOMC reference mapping corrected",
+      "ECB primary source added and cited",
+      "Simandou citation corrected in EN",
+      "war-armed-conflict phenomenon added"
+    ],
+    "editorial_cleanup": [
+      "Repeated distinction signposting rewritten in EN and PT-BR"
+    ],
+    "remaining_limitations": [
+      "Comex Stat exact CSV export remains unembedded; query parameters and calculation formula are recorded."
+    ]
   }
 }
