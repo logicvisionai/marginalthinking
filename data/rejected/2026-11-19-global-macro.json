@@ -459,6 +459,22 @@
       "rejection_record_blob_sha": "7851a7d95ed5ad77c1eddfce0d3ddf3ebb6a4995",
       "evidence": "The exact pending blob for blocked_review revision 5 contains producer_checks.source_audit with references=14, distinct_domains=10, primary_institutional_sources=7, market_reporting_sources=7 and a reference-by-reference classification_rule. The current EN/PT-BR source blob SHAs match the blocked_review tuple. The prior statement that source_audit is absent both at top level and inside producer_checks is contradicted by the reviewed pending artifact.",
       "disposition": "Retain the original blocked_review issue for audit history, but remove SOURCE_AUDIT_NOT_PERSISTED_IN_PENDING from the active producer correction scope. This correction does not resolve REUTERS_FINAL_MARKET_CLOSE_UPDATE_TIME_UNVERIFIABLE or the repository-wide validation prerequisite. No new rejection, approval or publication authorization is created."
+    },
+    {
+      "code": "EDITORIAL_DEPTH_SCRIPT_EXECUTED_AFTER_BLOCK_ON_EXACT_HEAD",
+      "reviewed_at": "2026-11-23T01:33:38Z",
+      "reviewed_commit": "95099df93bc0982b0fbf3cdac20c830bf4dc0517",
+      "pending_blob_sha": "c7cc1303f158b74215ed1d7f7447beae5e1836ab",
+      "source_blob_shas": {
+        "en": "da30446a81eb1e85e510701cdac4ebd1c8eccf26",
+        "pt-BR": "6f04c99211149bc199f84de02b06f4536076fe31"
+      },
+      "rejection_record_blob_sha": "684a238c5d4f03e547ba08257d45d4c82bf42a7c",
+      "workflow_run_id": 45052860295,
+      "workflow_run_url": "https://github.com/logicvisionai/marginalthinking/actions/runs/45052860295",
+      "workflow_job_id": 137301599538,
+      "evidence": "The exact-HEAD workflow run 45052860295 (head 95099df93bc0982b0fbf3cdac20c830bf4dc0517) executed scripts/validate-pipeline.mjs and scripts/validate-editorial-depth.mjs in job 137301599538. validate-pipeline passed. The depth script ran and reported seven failures in other staged items; MT-GM-2026-11-19 revision 5 with pending SHA c7cc1303f158b74215ed1d7f7447beae5e1836ab and EN/PT-BR SHAs da30446a81eb1e85e510701cdac4ebd1c8eccf26 / 6f04c99211149bc199f84de02b06f4536076fe31 was not among the failures. Therefore the prior blocked_review statement that the required strict depth script was not executed against this candidate is superseded by this later exact-head run. Separately, repository build run 45051664443 on the same HEAD still failed in Validate and build because of the already-public MT-GM-2026-11-18 self-reference; deploy was skipped. The Reuters final-market-close update-time traceability issue in the blocked review remains unresolved.",
+      "disposition": "Audit annotation only. Treat candidate-specific editorial-depth validation as subsequently executed without a candidate failure; do not remove the existing block, because source-vintage traceability remains materially unresolved and the repository-wide build still fails. Preserve the original blocked_review, rejection_count_for_id=3 and rejection_loop_limit_reached=true. This is not a new rejection, approval, or replay of the pending/source tuple."
     }
   ]
 }
