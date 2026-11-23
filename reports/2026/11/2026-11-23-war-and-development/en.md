@@ -100,6 +100,62 @@ The claim that the West cannot remain at peace for long also overstates the evid
 
 The economic lesson is not that war creates prosperity. It is that states can mobilise capital, research, labour and industry when they treat a technological or strategic objective as urgent. The harder question is whether they can achieve the same coordination under normal political conditions, with transparent procurement, civilian spillovers and democratic accountability. A state that needs a war to build a power grid, a machine-tool industry or a research system has a problem of institutional design, not a law of economic development.
 
+
+## Comparative evidence and industrial transmission
+
+| Dimension | United States, 1940s | West Germany, 1945–1960 | Main economic condition |
+|---|---|---|---|
+| Initial productive position | Large industrial base; continental core largely outside the main destruction zones | Severe physical damage, but firms, engineers and industrial knowledge survived in part | Surviving capital and knowledge determine the starting point |
+| State coordination | Federal procurement and OSRD-linked research | Currency reform, reconstruction and export-oriented institutions | Coordination must persist beyond emergency orders |
+| External demand | Federal wartime procurement, then household and civilian markets | European and global trade; Korean War commodity and investment boom | A buyer must exist for converted capacity |
+| Main conversion channel | Research networks, standards, skilled suppliers and civilian diffusion [1] | Repaired plants, skilled labour, monetary stability and export markets [3][4][5] | Civilian uses and competitive markets support durable returns |
+| Principal loss channel | Obsolete specialised facilities and distorted resource allocation [2] | Bombing, territorial losses, dismantling and occupation | Destruction can outweigh the benefits of mobilisation |
+
+| West German recovery indicator | Reported observation | Source and qualification |
+|---|---:|---|
+| Industrial production in 1948 | Approximately one-third of 1936 level | Historical comparison cited in the 1991 Economic Report [3] |
+| Industrial production, second half of 1948 | Approximately +40% | Increase after the currency and price reforms; not an annual rate [3] |
+| Industrial production, 1949–1959 | Approximately +11% annual average | Period average reported by the Economic Report [3] |
+| Trade balance, 1950 | Exports exceeded imports | IMF postwar catch-up analysis [5] |
+| Global trade position, 1960 | Export and import shares above the prewar Reich benchmark | IMF historical comparison; West Germany is not territorially identical to prewar Germany [5] |
+
+| Conversion condition | Evidence of durable capacity | Failure mode |
+|---|---|---|
+| Domestic research | Public R&D, university links, technical knowledge and measurable civilian spillovers | Research remains confined to narrow military specifications |
+| Industrial procurement | Multi-year orders, domestic suppliers, tooling, testing and workforce development | Import dependence, fragmented orders and low local learning |
+| Market structure | Competition, export access and standards that permit scale | Protected incumbents, cost escalation and rent-seeking |
+| Fiscal design | Transparent lifecycle costs and credible multi-year financing | Debt service and procurement crowds out civilian infrastructure |
+| Demobilisation | Equipment, skills and institutions can be redirected to civilian uses | Facilities become obsolete and specialised labour is stranded |
+
+```chart
+type: bar
+title: Public defence R&D intensity, 2022
+unit: % of GDP
+European Union | 0.03
+United States | 0.30
+```
+
+```chart
+type: bar
+title: West German industrial production: reported recovery rates over different periods
+unit: % change; second-half 1948 and annual average 1949–1959 are different time windows
+Second half of 1948 | 40
+Annual average 1949–1959 | 11
+```
+
+```flow
+Military requirement → guaranteed procurement → research contracts and engineering teams → specialist suppliers, standards and production equipment → surviving technical capacity → civilian products, exports and productivity
+Physical destruction, dismantling or import-heavy procurement → lost equipment and supplier learning → weaker domestic conversion → smaller civilian spillovers
+```
+
+```map
+title: Industrial mobilisation and postwar conversion across the Atlantic
+United States | OSRD, federal procurement, universities and a largely intact continental industrial base | Research networks and supplier capabilities could be redirected to civilian markets after 1945
+West Germany | Damaged factories, surviving engineering knowledge and the 1948 currency reform | Reconstruction and export recovery converted part of the surviving industrial base into growth
+France | Coal and steel production placed in a shared institutional framework with West Germany under the Schuman initiative | Strategic industrial inputs became instruments of integration rather than bilateral military competition
+Western Europe | Marshall Plan assistance, trade recovery and NATO security arrangements | Reconstruction occurred alongside institutional constraints on renewed Franco-German rivalry
+```
+
 ## References
 
 1. Gross, Daniel P. and Bhaven N. Sampat. “America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System.” *American Economic Review* 113(12), 2023. [AEA](https://www.aeaweb.org/articles?id=10.1257/aer.20221365).
