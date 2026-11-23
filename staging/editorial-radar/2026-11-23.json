@@ -1,0 +1,611 @@
+{
+  "date": "2026-11-23",
+  "reviewed_at": "2026-11-23T06:20:00-03:00",
+  "timezone": "America/Sao_Paulo",
+  "registry_path": "data/system-registry.json",
+  "registry_sha": "63fffd5ad8ce99e0dcb25541687414239e80d86b",
+  "previous_radar": "staging/editorial-radar/2026-11-22.json",
+  "reviewed_active_count": 63,
+  "reviewed_assets": [
+    {
+      "id": "series-energy-materials-industrial-systems",
+      "decision": "verified_no_change",
+      "note": "NBS, Worldsteel, MDIC, Pilbara Ports, Simandou and IEA sources reviewed. Global Macro uses the physical ore/steel signal; no new Atlas candidate passed validation."
+    },
+    {
+      "id": "series-global-monetary-financial-institutions",
+      "decision": "verified_no_change",
+      "note": "Fed October minutes, ECB November FSR and BCB fiscal/Selic records reviewed. No new central-bank decision on 23 Nov; relevant rates, yields and financing risks are in Global Macro."
+    },
+    {
+      "id": "series-policy-experiments-institutional-transitions",
+      "decision": "not_applicable",
+      "note": "Institutional and development screen found no completed policy outcome beyond the Guinea Simandou committee's review of the sovereign-fund ratification process; no ratification or capitalization claimed."
+    },
+    {
+      "id": "global-dependency-network",
+      "decision": "deferred_evidence_gap",
+      "note": "Ore-corridor evidence is directional but does not yet establish a new bilateral dependency edge with a consistent, matched flow series."
+    },
+    {
+      "id": "structural-opportunity-atlas",
+      "decision": "deferred_evidence_gap",
+      "note": "Daily Atlas scan completed; hypotheses on China ore inventories, Simandou logistics and veterinary data infrastructure remain unvalidated pending financing, utilization, procurement and operating evidence."
+    },
+    {
+      "id": "strategic-actors",
+      "decision": "not_applicable",
+      "note": "No verified change in ownership, control or decision rights relevant to the registered actor series."
+    },
+    {
+      "id": "resource-control-atlas",
+      "decision": "deferred_evidence_gap",
+      "note": "No new concession, ownership transfer or production-right change was verified; Simandou construction progress is not treated as a transfer of control."
+    },
+    {
+      "id": "policy-case-atlas",
+      "decision": "deferred_evidence_gap",
+      "note": "No completed intervention with a measurable outcome and counterfactual was found; no policy case promoted."
+    },
+    {
+      "id": "conflict-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Gulf and Iran-conflict reporting screened with attribution to named sources. Shipping and energy risk is conditional; no imminent-war claim or unverified actor attribution added."
+    },
+    {
+      "id": "technology-signal-ledger",
+      "decision": "not_applicable",
+      "note": "No new primary-source commissioning, financing close or measured productivity outcome beyond existing corpus was verified; no separate technology article."
+    },
+    {
+      "id": "country-region-navigation",
+      "decision": "not_applicable",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "research-workspace",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "global-search",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "research-intelligence",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "evergreen-research-hubs",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "data-catalog",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "mcp",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "program-global-system-power",
+      "decision": "not_applicable",
+      "note": "Four registered programs preserved; no new program, line, kind or taxonomy value created."
+    },
+    {
+      "id": "program-political-economy-markets",
+      "decision": "not_applicable",
+      "note": "Institutional and development screen found no completed policy outcome beyond the Guinea Simandou committee's review of the sovereign-fund ratification process; no ratification or capitalization claimed."
+    },
+    {
+      "id": "program-strategic-transitions",
+      "decision": "not_applicable",
+      "note": "Four registered programs preserved; no new program, line, kind or taxonomy value created."
+    },
+    {
+      "id": "program-technology-production-society",
+      "decision": "not_applicable",
+      "note": "No new primary-source commissioning, financing close or measured productivity outcome beyond existing corpus was verified; no separate technology article."
+    },
+    {
+      "id": "editorial-global-macro-daily",
+      "decision": "updated",
+      "note": "Global Macro 23 Nov staged in EN/PT with pending v2. New physical-market thesis: Chinese ore inflows versus steel output, port stocks and exporter receipts; compared with 22/21/19 Nov editions."
+    },
+    {
+      "id": "editorial-wealth-flow-weekly",
+      "decision": "verified_no_change",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-strategic-transitions",
+      "decision": "verified_no_change",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-country-context",
+      "decision": "verified_no_change",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-technology-signals-weekly",
+      "decision": "verified_no_change",
+      "note": "No new primary-source commissioning, financing close or measured productivity outcome beyond existing corpus was verified; no separate technology article."
+    },
+    {
+      "id": "editorial-strategic-technology-monthly",
+      "decision": "verified_no_change",
+      "note": "No new primary-source commissioning, financing close or measured productivity outcome beyond existing corpus was verified; no separate technology article."
+    },
+    {
+      "id": "editorial-conflict-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Gulf and Iran-conflict reporting screened with attribution to named sources. Shipping and energy risk is conditional; no imminent-war claim or unverified actor attribution added."
+    },
+    {
+      "id": "editorial-strategic-actors",
+      "decision": "verified_no_change",
+      "note": "No verified change in ownership, control or decision rights relevant to the registered actor series."
+    },
+    {
+      "id": "editorial-global-monetary-daily",
+      "decision": "verified_no_change",
+      "note": "Fed October minutes, ECB November FSR and BCB fiscal/Selic records reviewed. No new central-bank decision on 23 Nov; relevant rates, yields and financing risks are in Global Macro."
+    },
+    {
+      "id": "editorial-institutional-decisions",
+      "decision": "verified_no_change",
+      "note": "Institutional and development screen found no completed policy outcome beyond the Guinea Simandou committee's review of the sovereign-fund ratification process; no ratification or capitalization claimed."
+    },
+    {
+      "id": "editorial-policy-case-studies",
+      "decision": "verified_no_change",
+      "note": "No completed intervention with a measurable outcome and counterfactual was found; no policy case promoted."
+    },
+    {
+      "id": "series-economic-paradigms-market-design",
+      "decision": "verified_no_change",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-economic-paradigms-market-design",
+      "decision": "verified_no_change",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "system-status",
+      "decision": "not_applicable",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "research-coverage",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "agent-discovery",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "editorial-wealth-power-monthly",
+      "decision": "verified_no_change",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-wealth-power-annual",
+      "decision": "verified_no_change",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-global-institution-systems",
+      "decision": "verified_no_change",
+      "note": "Institutional and development screen found no completed policy outcome beyond the Guinea Simandou committee's review of the sovereign-fund ratification process; no ratification or capitalization claimed."
+    },
+    {
+      "id": "editorial-regional-integration-systems",
+      "decision": "deferred_evidence_gap",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-technology-society-essays",
+      "decision": "verified_no_change",
+      "note": "No new primary-source commissioning, financing close or measured productivity outcome beyond existing corpus was verified; no separate technology article."
+    },
+    {
+      "id": "editorial-food-systems-development",
+      "decision": "deferred_evidence_gap",
+      "note": "FAO October Food Price Index: 133.9 points, −1.2% m/m and +5.9% y/y; cereals −4.5% m/m, sugar +6.6%. Commodity index is not household affordability or nutrition outcome; no separate article."
+    },
+    {
+      "id": "editorial-biosecurity-livestock-governance",
+      "decision": "updated",
+      "note": "New event-driven AMR implementation-gap report staged from WHO TrACSS 2026, WOAH ANIMUSE 2024 and ECDC/WHO 2025. Human clinical resistance and animal-use quantities are kept separate; no causal attribution."
+    },
+    {
+      "id": "editorial-major-power-conflict",
+      "decision": "deferred_evidence_gap",
+      "note": "Gulf and Iran-conflict reporting screened with attribution to named sources. Shipping and energy risk is conditional; no imminent-war claim or unverified actor attribution added."
+    },
+    {
+      "id": "editorial-pandemic-preparedness",
+      "decision": "verified_no_change",
+      "note": "WHO updates reviewed: Bundibugyo transmission remains high in DRC as of 17 Nov; Qatar MERS cases had 99 negative contacts and no secondary cases; France Shamonda case remains a single documented human infection with source unknown. No extrapolation to imminent pandemic."
+    },
+    {
+      "id": "global-conditions-observations",
+      "decision": "deferred_evidence_gap",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-historical-intellectual-research",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "editorial-energy-industrial-systems-research",
+      "decision": "not_applicable",
+      "note": "NBS, Worldsteel, MDIC, Pilbara Ports, Simandou and IEA sources reviewed. Global Macro uses the physical ore/steel signal; no new Atlas candidate passed validation."
+    },
+    {
+      "id": "editorial-political-economy-election-assessment",
+      "decision": "verified_no_change",
+      "note": "Institutional and development screen found no completed policy outcome beyond the Guinea Simandou committee's review of the sovereign-fund ratification process; no ratification or capitalization claimed."
+    },
+    {
+      "id": "editorial-resource-sovereignty-geopolitics",
+      "decision": "not_applicable",
+      "note": "Gulf and Iran-conflict reporting screened with attribution to named sources. Shipping and energy risk is conditional; no imminent-war claim or unverified actor attribution added."
+    },
+    {
+      "id": "editorial-energy-security-binational-digital",
+      "decision": "deferred_evidence_gap",
+      "note": "Gulf and Iran-conflict reporting screened with attribution to named sources. Shipping and energy risk is conditional; no imminent-war claim or unverified actor attribution added."
+    },
+    {
+      "id": "editorial-strategic-global-trade-corridors",
+      "decision": "deferred_evidence_gap",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-strategic-resource-stocks-security",
+      "decision": "deferred_evidence_gap",
+      "note": "Gulf and Iran-conflict reporting screened with attribution to named sources. Shipping and energy risk is conditional; no imminent-war claim or unverified actor attribution added."
+    },
+    {
+      "id": "editorial-historical-civilizations-political-economy",
+      "decision": "verified_no_change",
+      "note": "Institutional and development screen found no completed policy outcome beyond the Guinea Simandou committee's review of the sovereign-fund ratification process; no ratification or capitalization claimed."
+    },
+    {
+      "id": "editorial-accelerationism-systems",
+      "decision": "verified_no_change",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-historical-strategic-security",
+      "decision": "verified_no_change",
+      "note": "Gulf and Iran-conflict reporting screened with attribution to named sources. Shipping and energy risk is conditional; no imminent-war claim or unverified actor attribution added."
+    },
+    {
+      "id": "editorial-structural-economic-outlook",
+      "decision": "verified_no_change",
+      "note": "Reviewed against the 23 November source screen; no material new delta or sufficient primary evidence to justify a separate article."
+    },
+    {
+      "id": "editorial-strategic-security-resilience",
+      "decision": "deferred_evidence_gap",
+      "note": "Gulf and Iran-conflict reporting screened with attribution to named sources. Shipping and energy risk is conditional; no imminent-war claim or unverified actor attribution added."
+    },
+    {
+      "id": "editorial-historical-soft-power-research",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "editorial-historical-monetary-stabilization",
+      "decision": "verified_no_change",
+      "note": "Fed October minutes, ECB November FSR and BCB fiscal/Selic records reviewed. No new central-bank decision on 23 Nov; relevant rates, yields and financing risks are in Global Macro."
+    },
+    {
+      "id": "editorial-regional-geoeconomic-integration-research",
+      "decision": "not_applicable",
+      "note": "Operational registry row reviewed; no editorial article or canonical mutation required."
+    },
+    {
+      "id": "editorial-brazil-semiconductor-industrialization",
+      "decision": "deferred_evidence_gap",
+      "note": "NBS, Worldsteel, MDIC, Pilbara Ports, Simandou and IEA sources reviewed. Global Macro uses the physical ore/steel signal; no new Atlas candidate passed validation."
+    }
+  ],
+  "sources_reviewed": [
+    {
+      "title": "FAO Food Price Index — October 2026",
+      "date": "2026-11-06",
+      "type": "primary",
+      "url": "https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand",
+      "finding": "133.9 points, −1.2% m/m, +5.9% y/y; cereals −4.5% m/m; sugar +6.6% m/m. Commodity benchmark only, not household affordability."
+    },
+    {
+      "title": "Anvisa PARA 2026 sampling plan",
+      "date": "2026-05-18",
+      "type": "primary",
+      "url": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-inicia-execucao-do-novo-plano-plurianual-de-monitoramento-de-residuos-de-agrotoxicos-em-alimentos",
+      "finding": "3,613 samples across 14 foods; collection runs through 2 December 2026; no 2026 residue results available at cut-off."
+    },
+    {
+      "title": "WOAH HPAI outbreak vigilance",
+      "date": "2026-11-16",
+      "type": "primary",
+      "url": "https://www.woah.org/en/woah-calls-for-heightened-vigilance-as-reported-avian-influenza-outbreaks-rise/",
+      "finding": "Reported outbreaks increased over the previous three weeks in poultry and wild birds; this is an alert for surveillance, not proof of a new global pandemic or human transmission."
+    },
+    {
+      "title": "WHO MERS — Qatar",
+      "date": "2026-11-13",
+      "type": "primary",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON626",
+      "finding": "Two confirmed cases with camel exposure; 99 contacts tested negative; no secondary cases identified; WHO describes sporadic zoonotic infections, not sustained human transmission."
+    },
+    {
+      "title": "WHO Shamonda virus in human — France",
+      "date": "2026-11-02",
+      "type": "primary",
+      "url": "https://www.who.int/emergencies/emergency-events/item/2026-DON623",
+      "finding": "First documented human infection; source and route remain unknown; no inference of sustained human transmission."
+    },
+    {
+      "title": "WHO Bundibugyo virus outbreak update",
+      "date": "2026-11-20",
+      "type": "primary",
+      "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
+      "finding": "As of 17 November, 11,613 confirmed cases and 5,678 deaths across 68 health zones in eight DRC provinces; PHEIC continued on 18 November; no new countries reported cases since prior update."
+    },
+    {
+      "title": "WHO TrACSS 2026 implementation survey",
+      "date": "2026-11-16",
+      "type": "primary",
+      "url": "https://www.who.int/vanuatu/news/detail-global/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment",
+      "finding": "183 countries; 173 national plans; 22% report funding plus full implementation; 36% report reference-laboratory capacity."
+    },
+    {
+      "title": "WOAH ANIMUSE Global Report — 2024 data",
+      "date": "2026-11-17",
+      "type": "primary",
+      "url": "https://www.woah.org/app/uploads/2026/11/animuseglobalreporten.pdf",
+      "finding": "119 quantitative participants cover 74% of food-animal biomass; only five use farm records; 2024 animal-use baseline and species-level collection now beginning."
+    },
+    {
+      "title": "ECDC/WHO Europe AMR surveillance — 2025 data",
+      "date": "2026-11-18",
+      "type": "primary",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/surveillance-antimicrobial-resistance-europe-2025-data",
+      "finding": "Invasive human-isolate surveillance; 21/43 countries report ≥50% third-generation cephalosporin resistance in K. pneumoniae; 21/38 report ≥50% carbapenem resistance in Acinetobacter."
+    },
+    {
+      "title": "ECDC ESAC-Net antimicrobial consumption — 2025",
+      "date": "2026-11-18",
+      "type": "primary",
+      "url": "https://www.ecdc.europa.eu/en/publications-data/antimicrobial-consumption-eueea-esac-net-annual-epidemiological-report-2025",
+      "finding": "EU/EEA consumption down 5% from 2019, but still above 2030 target; AWaRe Access share 62.5% versus 65% target."
+    },
+    {
+      "title": "WHO Global Action Plan on AMR 2026–2036",
+      "date": "2026-05-25",
+      "type": "primary",
+      "url": "https://www.who.int/news/item/25-05-2026-the-world-health-assembly-adopts-updated-global-action-plan-on-antimicrobial-resistance-%282026-2036%29",
+      "finding": "Updated global policy framework; implementation and financing remain the key monitored constraints."
+    },
+    {
+      "title": "NBS China October industrial production",
+      "date": "2026-11-17",
+      "type": "primary",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965883.html",
+      "finding": "Industrial production +4.8% y/y; high-tech manufacturing +17.6%; ferrous metals and steel output weaker."
+    },
+    {
+      "title": "NBS China October national economy",
+      "date": "2026-11-16",
+      "type": "primary",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202611/t20261116_1965843.html",
+      "finding": "Retail sales +0.4% y/y; fixed investment −8.1% Jan–Oct; real-estate investment −21.6%."
+    },
+    {
+      "title": "China Mining Association / GACC iron-ore imports",
+      "date": "2026-11-18",
+      "type": "industry-data",
+      "url": "https://chinamining.org.cn/index.php/news/4/16258",
+      "finding": "China iron-ore imports +3.1% Jan–Oct 2026; interpreted as a trade flow, not consumption."
+    },
+    {
+      "title": "SteelHome China port inventory survey",
+      "date": "2026-11-19",
+      "type": "industry-data",
+      "url": "https://en.steelhome.com/news/3587392",
+      "finding": "157.36 Mt monitored port inventory, +1.16 Mt w/w; trader-held inventory estimate is not an official full census."
+    },
+    {
+      "title": "World Steel Association September production",
+      "date": "2026-10-23",
+      "type": "primary-industry",
+      "url": "https://worldsteel.org/media/press-releases/2026/september-2026-crude-steel-production/",
+      "finding": "Global production 0.7% lower Jan–Sep; regional dispersion; October global release due 24 November."
+    },
+    {
+      "title": "MDIC Comex Stat consolidated trade database",
+      "date": "2026-11-06",
+      "type": "primary",
+      "url": "https://balanca.economia.gov.br/balanca/publicacoes_dados_consolidados/pg.html",
+      "finding": "Product-level NCM 2601 extraction shows October iron-ore volume and unit-value pressure; calculation method retained."
+    },
+    {
+      "title": "Pilbara Ports October shipping figures",
+      "date": "2026-11-13",
+      "type": "primary",
+      "url": "https://www.pilbaraports.com.au/about-pilbara-ports/news%2C-media-and-statistics/news/2026/november/october-2026-shipping-figures",
+      "finding": "Port Hedland iron-ore exports 4% lower y/y in October."
+    },
+    {
+      "title": "Rio Tinto / SimFer Simandou progress",
+      "date": "2026-08-06",
+      "type": "company-primary",
+      "url": "https://riotintoguinee.com/en/media/press-release/simfer-advances-the-simandou-project-at-pace-reaching-new-operational-milestones/",
+      "finding": "2.2 Mt shipped in H1; mine and port construction milestones are not equivalent to full capacity."
+    },
+    {
+      "title": "Government of Guinea — Simandou 2040",
+      "date": "2026-11-19",
+      "type": "primary",
+      "url": "https://gouvernement.gov.gn/simandou-2040-le-comite-strategique-renforce-le-suivi-du-megaprojet-et-examine-le-fonds-souverain/",
+      "finding": "Sovereign-fund law ratification process discussed; no claim of completed ratification or capitalization."
+    },
+    {
+      "title": "US Treasury daily par yield curve",
+      "date": "2026-11-20",
+      "type": "primary",
+      "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2026",
+      "finding": "Latest complete 20 November curve: 2y 4.63%, 10y 4.92%, 30y 5.31%."
+    },
+    {
+      "title": "Federal Reserve October FOMC minutes",
+      "date": "2026-11-18",
+      "type": "primary",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+      "finding": "10–2 hold at 3.75%–4.00%; two members preferred a 25bp increase; December hike remains market expectation, not decision."
+    },
+    {
+      "title": "ECB Financial Stability Review",
+      "date": "2026-11-19",
+      "type": "primary",
+      "url": "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202611~e03b919d36.en.html",
+      "finding": "Non-bank leverage, sovereign funding needs and liquidity mismatches remain vulnerabilities; qualitative risk assessment."
+    },
+    {
+      "title": "Central Bank of Brazil fiscal statistics",
+      "date": "2026-10-29",
+      "type": "primary",
+      "url": "https://www.bcb.gov.br/estatisticas/estatisticasfiscais",
+      "finding": "September fiscal data: gross debt 82.9% GDP, nominal interest 8.99% GDP, primary deficit 0.52% GDP."
+    },
+    {
+      "title": "International Energy Agency Oil Market Report — November",
+      "date": "2026-11-13",
+      "type": "primary",
+      "url": "https://www.iea.org/reports/oil-market-report-november-2026",
+      "finding": "Crude supply recovery coexists with tight refined-product stocks, elevated diesel and freight risks."
+    }
+  ],
+  "articles_staged": [
+    {
+      "id": "MT-GM-2026-11-23",
+      "slug": "2026-11-23-global-macro",
+      "kind": "daily-global-macro",
+      "program": "political-economy-markets",
+      "status": "pending",
+      "commit": "967bf883b34bd1f75e35ee1a04051edf9db94bc2"
+    },
+    {
+      "id": "MT-BIO-2026-11-23-amr-implementation-gap",
+      "slug": "2026-11-23-amr-implementation-gap",
+      "kind": "biosecurity-livestock-governance",
+      "program": "technology-production-society",
+      "status": "pending",
+      "commit": "pending verification in HEAD"
+    }
+  ],
+  "no_additional_articles": [
+    {
+      "line": "food systems/nutrition/development",
+      "reason": "FAO commodity index eased in October but no new household-level affordability or nutrition outcome series was found."
+    },
+    {
+      "line": "agrochemicals/pesticide exposure",
+      "reason": "Anvisa 2026 sampling is still in progress; results are not yet available."
+    },
+    {
+      "line": "livestock disease/HPAI",
+      "reason": "WOAH reports increased animal outbreaks, but no new evidence supports a separate article beyond the AMR update."
+    },
+    {
+      "line": "pandemic/virology",
+      "reason": "Bundibugyo update is already covered by the existing outbreak dossier; MERS contacts were negative; Shamonda source remains unknown."
+    },
+    {
+      "line": "chemical/biological weapons governance",
+      "reason": "No new independently verified institutional decision or attribution passed the evidence threshold."
+    },
+    {
+      "line": "conflict and imminent-war scenarios",
+      "reason": "Current claims remain attributed and conditional; no new verified escalation threshold was established."
+    },
+    {
+      "line": "social transformation/development",
+      "reason": "No completed policy outcome with sufficient primary evidence beyond existing corpus."
+    },
+    {
+      "line": "semiconductor and social-impact technology",
+      "reason": "No new financing close, commissioning or measured productivity outcome verified."
+    }
+  ],
+  "rejection_followup": {
+    "action": "No additional rejection was edited because the currently staged revisions already contain the known corrections or have reached the rejection-loop limit.",
+    "already_corrected_or_pending": [
+      {
+        "id": "MT-GM-2026-11-13",
+        "pending_revision": 2,
+        "rejected_revision": 1,
+        "status": "correction already staged; no duplicate edit"
+      },
+      {
+        "id": "MT-GM-2026-11-21",
+        "pending_revision": 3,
+        "rejected_revision": 2,
+        "status": "BLS national Employment Situation reference already present in current pending revision"
+      },
+      {
+        "id": "MT-GM-2026-11-22",
+        "pending_revision": 7,
+        "rejection_loop_limit_reached": true,
+        "status": "no further producer rework"
+      },
+      {
+        "id": "MT-GM-2026-11-19",
+        "pending_revision": 5,
+        "rejection_loop_limit_reached": true,
+        "status": "no further producer rework"
+      },
+      {
+        "id": "MT-GM-2026-11-17",
+        "pending_revision": 4,
+        "rejection_loop_limit_reached": true,
+        "status": "no further producer rework"
+      },
+      {
+        "id": "MT-GM-2026-11-18",
+        "pending_revision": 3,
+        "rejection_loop_limit_reached": true,
+        "status": "no further producer rework"
+      }
+    ],
+    "new_correction_count": 0
+  },
+  "evidence_gaps": [
+    "No 2026 PARA pesticide-residue results before the 2 December sampling close.",
+    "No matched country-level veterinary antimicrobial administration and human clinical resistance dataset; causal attribution is not possible.",
+    "No new veterinary farm-record series beyond the five ANIMUSE participants.",
+    "No new independently verified chemical/biological weapons finding or arms-governance decision.",
+    "No completed ratification or capitalization of Guinea's sovereign fund verified.",
+    "No project-level financing close, utilization or commissioning evidence for the preliminary Atlas hypotheses."
+  ],
+  "operational_limits": [
+    "All 63 active registry rows were reconciled; this is a source-screen record, not an exhaustive primary-source investigation of every line.",
+    "The hourly QA automation is separate. No direct handoff action is available in the current tool set; the pending records remain available for the independent QA process.",
+    "No public HTML, approved report, reports directory, CSS, index, route, registry or taxonomy file was changed."
+  ],
+  "result": "63/63 active rows reviewed. One new daily Global Macro and one event-driven AMR update staged; no other thematic article met the evidence threshold."
+}
