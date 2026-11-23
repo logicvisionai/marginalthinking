@@ -507,7 +507,7 @@
       "kind": "daily-global-macro",
       "program": "political-economy-markets",
       "status": "pending",
-      "commit": "967bf883b34bd1f75e35ee1a04051edf9db94bc2"
+      "commit": "db858a5858447b8f1a90a12d82454c2923f03d61"
     },
     {
       "id": "MT-BIO-2026-11-23-amr-implementation-gap",
@@ -515,7 +515,7 @@
       "kind": "biosecurity-livestock-governance",
       "program": "technology-production-society",
       "status": "pending",
-      "commit": "pending verification in HEAD"
+      "commit": "967bf883b34bd1f75e35ee1a04051edf9db94bc2"
     }
   ],
   "no_additional_articles": [
@@ -607,5 +607,11 @@
     "The hourly QA automation is separate. No direct handoff action is available in the current tool set; the pending records remain available for the independent QA process.",
     "No public HTML, approved report, reports directory, CSS, index, route, registry or taxonomy file was changed."
   ],
-  "result": "63/63 active rows reviewed. One new daily Global Macro and one event-driven AMR update staged; no other thematic article met the evidence threshold."
+  "result": "63/63 active rows reviewed. One new daily Global Macro and one event-driven AMR update staged; no other thematic article met the evidence threshold.",
+  "verified_commits": {
+    "global_macro": "db858a5858447b8f1a90a12d82454c2923f03d61",
+    "amr_thematic": "967bf883b34bd1f75e35ee1a04051edf9db94bc2",
+    "radar": "57a79bdd8c3685c535253e9c2fbd8ab76fd9f678",
+    "structural_opportunity_scan": "ad739efabf76f4b72805b7a16c091941ea8b7291"
+  }
 }
