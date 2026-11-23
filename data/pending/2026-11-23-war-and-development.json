@@ -162,6 +162,10 @@
     "bilingual_parity": {
       "same_numeric_series": true,
       "same_reference_count": true,
+      "charts": 2,
+      "tables": 3,
+      "flows": 1,
+      "maps": 1,
       "references_en": 12,
       "references_pt": 12
     },
@@ -170,28 +174,37 @@
       "primary_institutional_sources": 7,
       "academic_sources": 5,
       "urls_unique": 12,
-      "domains": 10
+      "domains": 9
     },
     "manual_preflight": {
       "schema_v2": true,
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 3314,
-      "word_count_pt": 3555,
+      "word_count_en": 3677,
+      "word_count_pt": 3995,
       "references_en": 12,
       "references_pt": 12,
       "ready_for_independent_qa": true,
-      "revision": 1
+      "revision": 2
+    },
+    "visual_evidence": {
+      "charts": 2,
+      "tables": 3,
+      "flows": 1,
+      "maps": 1
     }
   },
-  "revision": 1,
-  "revision_reason": "Initial long-form research report examining war mobilisation, industrial development and the conversion of defence spending into civilian productive capacity.",
+  "revision": 2,
+  "revision_reason": "Revision 2 adds comparable evidence tables, explicit quantitative exhibits and causal/geographic visual blocks in both languages. No underlying historical observation, source citation or analytical conclusion changed.",
   "revision_scope": [
     "Separate wartime mobilisation from physical destruction.",
     "Compare US wartime R&D and postwar conversion with West German reconstruction.",
     "Examine German corporate continuity, forced labour, Allied dismantling and successor structures.",
-    "Connect the historical evidence to current ECB and IMF assessments of European defence spending."
+    "Connect the historical evidence to current ECB and IMF assessments of European defence spending.",
+    "Add three comparative evidence tables, two quantitative charts, one causal flow and one geographic map with bilingual visual parity."
   ],
-  "qa_fixes_applied": []
+  "qa_fixes_applied": [
+    "Revision 2: added three evidence tables, two quantitative charts, one causal flow and one geographic map per locale; chart numeric values are bilingual-equivalent."
+  ]
 }
