@@ -156,7 +156,7 @@
   "qa_reviewed_commit": "5e3751a67bf2f7a15ea192517980828f457ed671",
   "locales": {
     "en": {
-      "markdown": "staging/research/2026/11/2026-11-19-global-macro/en.md",
+      "markdown": "en.md",
       "title": "Global Macro — Energy security turns the Hormuz shock into a global capital-allocation test",
       "deck": "The IEA's new outlook quantifies the capital, equipment and financing needed to diversify energy supply and expand electricity grids, even as crude prices soften.",
       "tags": [
@@ -189,7 +189,7 @@
       "search_text": "Global Macro 19 November 2026 IEA World Energy Outlook Hormuz energy security pipeline grid capex electricity demand financing emerging market debt Treasury yields"
     },
     "pt-BR": {
-      "markdown": "staging/research/2026/11/2026-11-19-global-macro/pt-BR.md",
+      "markdown": "pt-BR.md",
       "title": "Global Macro — Segurança energética transforma o choque de Hormuz em teste global de alocação de capital",
       "deck": "A nova perspectiva da AIE quantifica o capital, os equipamentos e o financiamento necessários para diversificar a oferta de energia e ampliar as redes elétricas, mesmo com petróleo mais barato.",
       "tags": [
@@ -221,5 +221,8 @@
       ],
       "search_text": "Global Macro 19 novembro 2026 AIE World Energy Outlook Hormuz segurança energética oleodutos redes elétricas demanda eletricidade financiamento dívida emergente juros Treasuries"
     }
-  }
+  },
+  "qa_fixes_applied": [
+    "Build correction: public bundle locale Markdown paths now resolve to en.md and pt-BR.md within the report directory, instead of the original staging source paths."
+  ]
 }
