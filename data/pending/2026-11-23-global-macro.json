@@ -228,5 +228,8 @@
     "remaining_limitations": [
       "Comex Stat exact CSV export remains unembedded; query parameters and calculation formula are recorded."
     ]
-  }
+  },
+  "qa_fixes_applied": [
+    "FRANCE_FLASH_PMI_CITATION_MISSING"
+  ]
 }
