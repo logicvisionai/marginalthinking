@@ -100,6 +100,62 @@ A afirmação de que o Ocidente não consegue permanecer em paz por muito tempo 
 
 A lição econômica não é que a guerra produz prosperidade. É que os Estados conseguem mobilizar capital, pesquisa, trabalho e indústria quando tratam um objetivo tecnológico ou estratégico como urgente. A questão mais difícil é saber se conseguem alcançar a mesma coordenação em condições políticas normais, com compras transparentes, benefícios civis e responsabilidade democrática. Um Estado que precisa de uma guerra para construir uma rede elétrica, uma indústria de máquinas-ferramenta ou um sistema de pesquisa enfrenta um problema de desenho institucional, não uma lei do desenvolvimento econômico.
 
+
+## Evidências comparativas e transmissão industrial
+
+| Dimensão | Estados Unidos, anos 1940 | Alemanha Ocidental, 1945–1960 | Condição econômica principal |
+|---|---|---|---|
+| Posição produtiva inicial | Grande base industrial; núcleo continental fora das principais zonas de destruição | Danos físicos severos, mas parte das empresas, dos engenheiros e do conhecimento industrial sobreviveu | Capital e conhecimento preservados determinam o ponto de partida |
+| Coordenação estatal | Compras federais e pesquisa vinculada ao OSRD | Reforma monetária, reconstrução e instituições orientadas à exportação | A coordenação precisa sobreviver ao fim das encomendas emergenciais |
+| Demanda externa | Compras federais durante a guerra e, depois, mercados doméstico e civil | Comércio europeu e mundial; ciclo de commodities e investimento associado à Guerra da Coreia | É necessário haver compradores para a capacidade reconvertida |
+| Canal de conversão | Redes de pesquisa, padrões técnicos, fornecedores qualificados e difusão civil [1] | Fábricas reparadas, mão de obra qualificada, estabilidade monetária e mercados externos [3][4][5] | Usos civis e mercados competitivos sustentam retornos duradouros |
+| Principal canal de perdas | Instalações especializadas obsoletas e distorções na alocação de recursos [2] | Bombardeios, perdas territoriais, desmantelamento e ocupação | A destruição pode superar os benefícios da mobilização |
+
+| Indicador da recuperação alemã | Observação divulgada | Fonte e qualificação |
+|---|---:|---|
+| Produção industrial em 1948 | Aproximadamente um terço do nível de 1936 | Comparação histórica citada no relatório econômico de 1991 [3] |
+| Produção industrial, segundo semestre de 1948 | Aproximadamente +40% | Aumento após as reformas monetária e de preços; não é taxa anual [3] |
+| Produção industrial, 1949–1959 | Média anual aproximada de +11% | Média do período informada pelo relatório econômico [3] |
+| Balança comercial, 1950 | Exportações superaram importações | Análise do FMI sobre a recuperação do pós-guerra [5] |
+| Posição no comércio mundial, 1960 | Participações nas exportações e importações acima da referência do Reich anterior à guerra | Comparação histórica do FMI; a Alemanha Ocidental não tinha o mesmo território da Alemanha pré-guerra [5] |
+
+| Condição de conversão | Evidência de capacidade duradoura | Modo de fracasso |
+|---|---|---|
+| Pesquisa doméstica | Pesquisa pública, vínculos universitários, conhecimento técnico e transbordamentos civis mensuráveis | Pesquisa permanece limitada a especificações militares estreitas |
+| Compras industriais | Encomendas plurianuais, fornecedores nacionais, ferramental, testes e formação profissional | Dependência de importações, encomendas fragmentadas e pouco aprendizado local |
+| Estrutura de mercado | Concorrência, acesso a exportações e padrões que permitam escala | Empresas protegidas, aumento de custos e busca de rendas |
+| Desenho fiscal | Custos de ciclo de vida transparentes e financiamento plurianual crível | Serviço da dívida e compras militares deslocam infraestrutura civil |
+| Desmobilização | Equipamentos, competências e instituições podem ser redirecionados a usos civis | Instalações tornam-se obsoletas e trabalhadores especializados ficam sem aplicação |
+
+```chart
+type: bar
+title: Intensidade da pesquisa pública em defesa, 2022
+unit: % do PIB
+União Europeia | 0.03
+Estados Unidos | 0.30
+```
+
+```chart
+type: bar
+title: Produção industrial da Alemanha Ocidental: taxas de recuperação divulgadas em períodos distintos
+unit: % de variação; segundo semestre de 1948 e média anual de 1949–1959 são janelas diferentes
+Segundo semestre de 1948 | 40
+Média anual de 1949–1959 | 11
+```
+
+```flow
+Necessidade militar → compras públicas garantidas → contratos de pesquisa e equipes de engenharia → fornecedores especializados, padrões e equipamentos produtivos → capacidade técnica preservada → produtos civis, exportações e produtividade
+Destruição física, desmantelamento ou compras concentradas em importações → perda de equipamentos e aprendizado dos fornecedores → conversão doméstica mais fraca → menores transbordamentos civis
+```
+
+```map
+title: Mobilização industrial e conversão no pós-guerra dos dois lados do Atlântico
+Estados Unidos | OSRD, compras federais, universidades e base industrial continental amplamente preservada | Redes de pesquisa e fornecedores puderam ser redirecionadas aos mercados civis depois de 1945
+Alemanha Ocidental | Fábricas danificadas, conhecimento de engenharia preservado e reforma monetária de 1948 | Reconstrução e recuperação das exportações converteram parte da base industrial sobrevivente em crescimento
+França | Produção de carvão e aço inserida em uma estrutura institucional comum com a Alemanha Ocidental pela iniciativa Schuman | Insumos industriais estratégicos tornaram-se instrumentos de integração, em vez de competição militar bilateral
+Europa Ocidental | Assistência do Plano Marshall, recuperação comercial e arranjos de segurança da OTAN | A reconstrução avançou ao lado de instituições que limitavam uma nova rivalidade franco-alemã
+```
+
 ## Referências
 
 1. Gross, Daniel P. e Bhaven N. Sampat. “America, Jump-Started: World War II R&D and the Takeoff of the US Innovation System.” *American Economic Review* 113(12), 2023. [AEA](https://www.aeaweb.org/articles?id=10.1257/aer.20221365).
