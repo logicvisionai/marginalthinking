@@ -39,7 +39,7 @@
   ],
   "format": "brief",
   "cadence": "daily",
-  "revision": 5,
+  "revision": 6,
   "assessment_confidence": "medium",
   "producer_checks": {
     "information_cutoff": "18 Nov 2026 16:20 BRT / 19:20 UTC. US and Brazilian equity closes refer to 17 Nov. Eurostat and ONS October inflation releases were observed. The FOMC minutes were released at 16:00 BRT and are incorporated; the PLP 299/2026 Senate vote remained pending at the cutoff.",
@@ -121,7 +121,7 @@
       "search_text": "Global Macro 18 novembro 2026 Eurostat inflação definitiva outubro Reino Unido CPI Anthropic SEC Nvidia Comissão Europeia energia IA financiamento ata FOMC risco financiamento IA"
     }
   },
-  "revision_reason": "Revision 5 resolves the blocked independent QA review for revision 4. Both editions and the regional map now distinguish the IRGC's attributed statement that it targeted the Sheikh Isa radar from Bahrain and US Central Command's account that the drones were intercepted without damage or injuries. The separately reported ship incident remains distinct, and the Houthi pipeline claim remains attributed and unverified.",
+  "revision_reason": "Revision 6 removes two self-referential formulations from the conflict-attribution passage. The evidence, source references, market observations, cutoff, map, charts and analytical conclusions are unchanged; the wording now states the evidentiary limitation directly.",
   "qa_fixes_applied": [
     "Expanded both staged editions beyond the 1700 substantive-word minimum with source-supported original analysis.",
     "Retained and checked bilingual parity of all chart numeric series and updated the analysis to the 18 November information cutoff.",
@@ -134,7 +134,8 @@
     "Revision 4: attributed the reported Iranian, US and Houthi events separately and distinguished reported events from the Houthi claim.",
     "Revision 4: replaced the generic Senate session URL with the claim-specific Agência Senado notice and corrected the English rendering of 'destaques'.",
     "Revision 4: completed bibliographic references at the end of both editions, with institution, document, year/date and verifiable URL.",
-    "Revision 5: corrected the Bahrain radar account in EN/PT-BR and the regional map. The IRGC's stated targeting claim is attributed; Bahrain and US Central Command's interception/no-damage account is stated separately; no radar impact is presented as verified. The Hormuz ship report remains a separate event, and the Houthi pipeline statement remains an attributed claim."
+    "Revision 5: corrected the Bahrain radar account in EN/PT-BR and the regional map. The IRGC's stated targeting claim is attributed; Bahrain and US Central Command's interception/no-damage account is stated separately; no radar impact is presented as verified. The Hormuz ship report remains a separate event, and the Houthi pipeline statement remains an attributed claim.",
+    "Revision 6: replaced the English and Brazilian Portuguese self-referential radar wording with direct statements that the reported accounts remain attributed and do not independently establish impact. No factual proposition, source, date, number or inference changed."
   ],
   "contrary_evidence": [
     "Eurostat's final energy rate rose relative to the flash estimate while the overall 4.0% rate was unchanged.",
