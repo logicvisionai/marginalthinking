@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-11-23",
+  "slug": "2026-11-23-war-and-development",
+  "revision": 1,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-23T18:35:00.000Z",
+  "reviewed_commit": "cf6a0adee4e7441c94b1be418c3c1dc347c095b6",
+  "pending_blob_sha": "2bf2c9093e90f448f5d14048da2a1b89b1591134",
+  "source_blob_shas": {
+    "en": "7ec092446a647fd037bfc3be14b4f9f3756ce6ed",
+    "pt-BR": "aa422d031e80099a598c81357a3677e4bb219d97"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pending and both locale files reread from main. Exact Git blob SHAs: pending 2bf2c9093e90f448f5d14048da2a1b89b1591134; EN 7ec092446a647fd037bfc3be14b4f9f3756ce6ed; PT-BR aa422d031e80099a598c81357a3677e4bb219d97."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Schema v2, taxonomy 1.0, Political Economy & Markets program, global geography, dimensions, controlled topics, phenomena, research-report format and event-driven cadence checked."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Historical sources and current 2026 ECB/IMF analyses were checked against publication records. The report distinguishes historical observations, institutional accounts and model-based estimates."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "US OSRD research effects are attributed to Gross and Sampat; manufacturing productivity caveats to Alexander Field; West German output and reform claims to the 1991 Economic Report of the President and IMF; forced-labour claims to BMW and USHMM records; current defence-spending mechanisms to ECB and IMF 2026 studies. Estimates are qualified by source and method."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Both language versions contain the same twelve references and cite each major historical or policy claim. Corporate self-histories are paired with independent Holocaust and occupation-history sources."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Long-form report with seven analytical sections, central assessment, historical comparison, corporate case studies, contemporary policy assessment, mechanism synthesis and twelve references; approximately 3,314 English and 3,555 Brazilian Portuguese words."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "English and Brazilian Portuguese versions preserve the same argument, source set, key figures, qualifications and conclusions."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The report is a distinct long-form historical and institutional analysis, not a daily market brief. It links US wartime R&D, West German reconstruction, corporate accountability and contemporary European defence procurement."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The analysis separates mobilisation from destruction, considers surviving industrial capacity and external demand, identifies the limits of wartime productivity and specifies civilian procurement and R&D as alternative routes to industrial coordination."
+    },
+    "editorial_style": {
+      "result": "passed",
+      "summary": "No self-referential descriptions of the report, publication-process narration, generic AI framing or formulaic section conclusions. Argument proceeds through evidence, causal mechanisms and institutional comparisons."
+    },
+    "publication_snapshot_integrity": {
+      "result": "passed",
+      "summary": "Complete revision-1 pending object is embedded as the immutable approval snapshot; ID, slug, revision, pending SHA and locale source SHAs match."
+    }
+  },
+  "contrary_evidence": [
+    "US wartime manufacturing productivity fell during 1941–45 and some specialised facilities became obsolete after demobilisation.",
+    "West Germany's recovery included severe adjustment costs, including a sharp rise in unemployment after the 1948 reforms.",
+    "BMW lost control of assets and had plants dismantled by the Allies after 1945 despite its wartime expansion.",
+    "IG Farben was dissolved by the Allies; successor firms did not represent an unchanged continuation of the conglomerate.",
+    "Defence imports, personnel-heavy budgets and fragmented procurement reduce the domestic productivity potential of higher defence spending."
+  ],
+  "limitations": [
+    "The Marshall Plan's direct contribution relative to currency reform, domestic institutions and surviving industrial capacity remains debated among economic historians.",
+    "The 1991 US Economic Report and IMF historical analysis use different statistical series and should not be treated as a single harmonised dataset.",
+    "BMW's corporate history is a primary institutional disclosure; forced-labour claims are cross-checked against independent museum and Holocaust documentation.",
+    "ECB estimates of long-run productivity effects are model-based and do not guarantee returns from individual defence programmes.",
+    "Historical European defence-spending multipliers may not transfer directly to the current, more synchronised procurement cycle."
+  ],
+  "notes": "Editorial QA completed against the source files and current taxonomy. Approval applies to revision 1 only. Production build and Cloudflare deployment remain separate release gates.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-11-23",
+    "slug": "2026-11-23-war-and-development",
+    "date": "2026-11-23",
+    "published_at": "2026-11-23T15:20:00-03:00",
+    "kind": "economic-paradigm-assessment",
+    "priority": 4,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "subregions": [
+        "north-america",
+        "western-europe"
+      ],
+      "countries": [
+        {
+          "code": "US",
+          "slug": "united-states"
+        },
+        {
+          "code": "DE",
+          "slug": "germany"
+        },
+        {
+          "code": "FR",
+          "slug": "france"
+        },
+        {
+          "code": "GB",
+          "slug": "united-kingdom"
+        }
+      ]
+    },
+    "topics": [
+      "macroeconomics",
+      "fiscal-policy",
+      "trade-investment",
+      "industry-production",
+      "technology-innovation",
+      "institutions-governance",
+      "geopolitics-security",
+      "demography-labor"
+    ],
+    "phenomena": [
+      "war-armed-conflict",
+      "defense-security",
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-23-war-and-development/en.md",
+        "title": "War, Industrial Power and the Limits of the Development Thesis",
+        "deck": "War can accelerate research, industrial coordination and state capacity, but mobilisation is not the same as destruction. The American and German postwar experiences show how surviving capabilities, institutions and external demand determine whether military investment becomes civilian prosperity.",
+        "tags": [
+          "Political Economy",
+          "War",
+          "Industrial Policy",
+          "United States",
+          "Germany",
+          "Europe",
+          "Defence",
+          "Economic History"
+        ],
+        "keywords": [
+          "war economy",
+          "military mobilisation",
+          "industrial development",
+          "US innovation system",
+          "German economic miracle",
+          "Marshall Plan",
+          "defence spending",
+          "dual-use technology",
+          "forced labour"
+        ],
+        "regime": "Strategic competition and defence mobilisation are again shaping industrial policy, procurement and research priorities across advanced economies.",
+        "key_risk": "Governments may mistake higher defence outlays for durable productive capacity while imports, fragmented procurement and weak civilian spillovers limit domestic learning.",
+        "watch": [
+          "Domestic share of European defence procurement",
+          "Public defence R&D and civilian technology spillovers",
+          "Joint procurement and standardisation across Europe",
+          "Industrial capacity and skilled-labour constraints",
+          "Fiscal trade-offs between defence and civilian infrastructure"
+        ]
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-23-war-and-development/pt-BR.md",
+        "title": "Guerra, poder industrial e os limites da tese do desenvolvimento",
+        "deck": "A guerra pode acelerar pesquisa, coordenação industrial e capacidade estatal, mas mobilização não é o mesmo que destruição. As experiências americana e alemã no pós-guerra mostram como capacidades preservadas, instituições e demanda externa determinam se o investimento militar se converte em prosperidade civil.",
+        "tags": [
+          "Economia Política",
+          "Guerra",
+          "Política Industrial",
+          "Estados Unidos",
+          "Alemanha",
+          "Europa",
+          "Defesa",
+          "História Econômica"
+        ],
+        "keywords": [
+          "economia de guerra",
+          "mobilização militar",
+          "desenvolvimento industrial",
+          "sistema americano de inovação",
+          "milagre econômico alemão",
+          "Plano Marshall",
+          "gastos de defesa",
+          "tecnologia de uso dual",
+          "trabalho forçado"
+        ],
+        "regime": "A competição estratégica e a mobilização de defesa voltaram a influenciar a política industrial, as compras públicas e as prioridades de pesquisa nas economias avançadas.",
+        "key_risk": "Governos podem confundir aumento dos gastos de defesa com capacidade produtiva duradoura, enquanto importações, compras fragmentadas e poucos transbordamentos civis limitam o aprendizado doméstico.",
+        "watch": [
+          "Participação doméstica nas compras europeias de defesa",
+          "Pesquisa pública em defesa e transbordamentos tecnológicos civis",
+          "Compras conjuntas e padronização na Europa",
+          "Capacidade industrial e restrições de mão de obra qualificada",
+          "Custos fiscais em relação à infraestrutura civil"
+        ]
+      }
+    },
+    "signal_rationale": {
+      "delta": "The report revisits the historical claim that war is a recurring engine of Western development, connecting US wartime R&D, West German reconstruction and contemporary European defence procurement through the mechanisms of industrial conversion.",
+      "evidence": "Gross and Sampat (AER 2023) identify persistent OSRD innovation-cluster effects; Field (2022) documents wartime manufacturing productivity losses; US Economic Report 1991 and IMF historical analysis document West German recovery; BMW and USHMM histories document forced labour and postwar dismantling; ECB and IMF 2026 studies assess defence-spending multipliers and productivity channels.",
+      "scale_path": "Public procurement and R&D → engineering, supplier and production capabilities → civilian diffusion and export competitiveness; destruction, imports and fragmented demand can interrupt this chain.",
+      "transmission": "Military demand and research funding → capital formation, standards and technical knowledge → surviving industrial capacity → postwar conversion, trade and productivity; fiscal burdens and physical destruction operate in the opposite direction.",
+      "falsifier": "The development-conversion thesis would weaken if defence R&D and domestic equipment procurement repeatedly failed to produce measurable supplier capability, civilian diffusion or productivity gains after controlling for broader economic conditions."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "Historical growth and productivity estimates use different national-accounting methods and periods; they should not be compared as a single continuous series.",
+      "The effects of the Marshall Plan, currency reform and surviving industrial capacity are debated in the economic-history literature; the report presents them as interacting mechanisms, not exclusive causes.",
+      "Corporate histories supplied by BMW are relevant primary institutional disclosures but should be read alongside independent Holocaust and occupation-history sources.",
+      "The ECB's 0.3% long-run TFP estimate is model-based and is not a guaranteed causal return from any specific defence budget.",
+      "The IMF estimates reflect historical European spending episodes and may not transfer directly to the scale and synchronisation of the current defence build-up."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-23 15:20 America/Sao_Paulo",
+      "comparative_editions": [
+        "MT-GM-2026-11-22",
+        "MT-GM-2026-11-19"
+      ],
+      "novelty_decision": "Long-form historical and institutional analysis; not a daily market brief. Connects war mobilisation to postwar industrial conversion and current defence-spending policy.",
+      "fact_inference_scenario_separated": true,
+      "bilingual_parity": {
+        "same_numeric_series": true,
+        "same_reference_count": true,
+        "references_en": 12,
+        "references_pt": 12
+      },
+      "source_audit": {
+        "references": 12,
+        "primary_institutional_sources": 7,
+        "academic_sources": 5,
+        "urls_unique": 12,
+        "domains": 10
+      },
+      "manual_preflight": {
+        "schema_v2": true,
+        "controlled_programs": true,
+        "controlled_topics": true,
+        "phenomena_valid": true,
+        "word_count_en": 3314,
+        "word_count_pt": 3555,
+        "references_en": 12,
+        "references_pt": 12,
+        "ready_for_independent_qa": true,
+        "revision": 1
+      }
+    },
+    "revision": 1,
+    "revision_reason": "Initial long-form research report examining war mobilisation, industrial development and the conversion of defence spending into civilian productive capacity.",
+    "revision_scope": [
+      "Separate wartime mobilisation from physical destruction.",
+      "Compare US wartime R&D and postwar conversion with West German reconstruction.",
+      "Examine German corporate continuity, forced labour, Allied dismantling and successor structures.",
+      "Connect the historical evidence to current ECB and IMF assessments of European defence spending."
+    ],
+    "qa_fixes_applied": []
+  }
+}
