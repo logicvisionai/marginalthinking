@@ -199,10 +199,11 @@
       "ready_for_independent_qa": true,
       "repository_script_validator": "Strict editorial-health workflow will re-run validate-pipeline and validate-editorial-depth on this complete revision-1 tuple after commit.",
       "revision": 2
-    }
+    },
+    "reconciliation_run_id": "2026-11-23-mt-gm-2026-11-23-revision-3-publication-reconciliation"
   },
-  "revision": 2,
-  "revision_reason": "Independent QA rework: add the missing source for France's 23 November flash composite PMI at 46.2, cite it in both locales and reconcile the bilingual source audit.",
+  "revision": 3,
+  "revision_reason": "Revision 3 removes two English self-referential formulations identified by the strict editorial lint and records the report-specific seven-asset cumulative-system reconciliation. No source, observation, value, chart, information cutoff or analytical inference changed.",
   "revision_scope": [
     "Correct FOMC minutes citation to Federal Reserve source [14] in both editions.",
     "Add the ECB Financial Stability Review, November 2026, as source [15] and renumber subsequent references consistently.",
@@ -230,6 +231,7 @@
     ]
   },
   "qa_fixes_applied": [
-    "FRANCE_FLASH_PMI_CITATION_MISSING"
+    "FRANCE_FLASH_PMI_CITATION_MISSING",
+    "Revision 3: removed two English self-referential phrases while retaining the same market session and credit-risk caveats; completed seven-asset cumulative-system reconciliation with no unsupported canonical data changes."
   ]
 }

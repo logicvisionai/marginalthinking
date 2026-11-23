@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-23T12:10:48.558Z",
+  "last_reconciled_at": "2026-11-23T12:16:17.538Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10097,6 +10097,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Productivity and portfolio-allocation observations are relevant context, but they do not demonstrate a new technical capability, replication result, reliability/yield threshold, commissioning milestone or deployment at scale. Preserve as context, not a promoted signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-mt-gm-2026-11-23-revision-3-publication-reconciliation",
+      "reconciled_at": "2026-11-23T12:16:17.538Z",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-23"
+      ],
+      "audit_note": "Reviewed the 23 November Global Macro edition on iron ore inflows, steel contraction, exporter receipts and the Simandou corridor against all seven active cumulative assets. Available aggregate customs flows, port-stock survey, steel-output and project milestones do not establish a new audited bilateral dependency weight, a fully qualified additional structural opportunity, any transfer of strategic ownership/control, a completed change in mineral concession or resource rights, a completed sovereign-fund policy intervention, a new conflict-system transition, or a technology capability/deployment milestone. SimFer is already shipping, but the port was still reported 85% complete and commissioning remained expected in Q1 2027; Guinea's sovereign-fund law was still under ratification review. No canonical cumulative dataset changed.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report establishes aggregate China iron-ore imports and separate national exporter volumes, but does not provide a source-audited bilateral China-by-origin trade matrix with consistent weights. Do not infer Brazil/Australia/Guinea bilateral edges from global or national totals."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Simandou's mine/rail/port progress is relevant, but current sources report partial completion and commissioning milestones rather than a newly qualified site-level opportunity with validated remaining capex, permits, grid/utilities, contracted demand, capacity and cash flows. No opportunity record promoted."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "No verified change in beneficial ownership, voting rights, control, board authority or strategic mandate for Rio Tinto, SimFer, state entities or tracked exporters is evidenced."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No concession transfer, licence amendment, new beneficial owner, operator-rights transfer or jurisdictional change is established. The Guinea sovereign-fund law remains under ratification consideration, not an operative resource-rights event."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The Guinea committee examined ratification of the sovereign-fund law, but the cited release does not state that the law was ratified, the fund capitalized, or an intervention implemented with measurable outcomes and counterfactual. No policy case opened."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The edition references the broader conflict-related energy market risk already tracked but contains no new independently verified incident or conflict-system transition."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "No new technical capability, reproducible performance threshold, technology deployment or commissioning milestone is evidenced. Mine, rail and port progress is infrastructure execution, not a technology signal."
         }
       ]
     }

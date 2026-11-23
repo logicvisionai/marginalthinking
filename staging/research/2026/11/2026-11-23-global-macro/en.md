@@ -101,7 +101,7 @@ The supply map is therefore not simply “China versus the rest”. Brazil faces
 
 ## 3. Financial conditions: a high hurdle for marginal capacity
 
-The latest complete US trading session before this report was Friday, 20 November. The S&P 500 fell 3.7% and the Nasdaq 5.3%, with technology shares leading the decline. The US Treasury par curve closed around 4.63% at two years, 4.92% at ten years and 5.31% at thirty years. The curve was positive, but the absolute cost of long-duration financing remained high. The market session on 23 November was still in progress in Asia at the information cut-off; US trading had not reopened. [12][13]
+The latest complete US trading session was Friday, 20 November. The S&P 500 fell 3.7% and the Nasdaq 5.3%, with technology shares leading the decline. The US Treasury par curve closed around 4.63% at two years, 4.92% at ten years and 5.31% at thirty years. The curve was positive, but the absolute cost of long-duration financing remained high. The market session on 23 November was still in progress in Asia at the information cut-off; US trading had not reopened. [12][13]
 
 The Federal Reserve’s October meeting minutes, published on 18 November, show a 10–2 vote to keep the federal-funds target range at 3.75%–4.00%. Two members preferred a 25-basis-point increase. Participants described inflation as elevated and noted that AI-related capital spending, energy prices and geopolitical uncertainty could sustain price pressure. The minutes also recorded uncertainty about the timing and distribution of productivity gains from AI. A possible December increase is a market expectation, not a decision already taken by the Committee. [14]
 
@@ -109,7 +109,7 @@ The European Central Bank’s November Financial Stability Review warns that hig
 
 Brazil illustrates the fiscal and monetary constraint faced by commodity exporters. The Central Bank reported a consolidated primary deficit of 0.52% of GDP over the twelve months to September, nominal interest expenditure of 8.99% of GDP and gross public debt of 82.9% of GDP. The Copom kept the Selic rate at 13.75% on 4 November. A weaker iron-ore unit value can reduce export receipts and mining cash flow, while a high domestic policy rate raises the hurdle for new logistics, processing and industrial projects. The fiscal data do not establish that mining receipts alone determine debt dynamics; they show the financing environment in which any new investment must compete. [16][17]
 
-Credit conditions deserve a separate qualification. The ECB identifies vulnerabilities in non-bank finance and private credit, but a fully comparable same-day global credit-spread series was not available by the cut-off. This report therefore does not infer a new credit shock from the equity sell-off. The relevant question is whether a prolonged period of high long-term yields and weaker commodity receipts raises refinancing costs for marginal mines, railways, ports and steel capacity.
+Credit conditions deserve a separate qualification. The ECB identifies vulnerabilities in non-bank finance and private credit, but a fully comparable same-day global credit-spread series was not available by the cut-off. The equity sell-off alone does not establish a new credit shock. The relevant question is whether a prolonged period of high long-term yields and weaker commodity receipts raises refinancing costs for marginal mines, railways, ports and steel capacity.
 
 ```table
 | Market or policy indicator | Latest observation | Date and qualification |
