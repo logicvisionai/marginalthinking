@@ -2,15 +2,15 @@
   "schema_version": 2,
   "id": "MT-PE-2026-11-23",
   "slug": "2026-11-23-war-and-development",
-  "revision": 1,
+  "revision": 2,
   "program": "political-economy-markets",
   "qa_status": "approved",
-  "reviewed_at": "2026-11-23T18:23:00.000Z",
-  "reviewed_commit": "cf6a0adee4e7441c94b1be418c3c1dc347c095b6",
-  "pending_blob_sha": "2bf2c9093e90f448f5d14048da2a1b89b1591134",
+  "reviewed_at": "2026-11-23T19:41:00.000Z",
+  "reviewed_commit": "4e0656802dfb7672e1a4d963d7d6cff61ce59383",
+  "pending_blob_sha": "afd7efb0a1cd933ec691d17f543222b2f7334d2f",
   "source_blob_shas": {
-    "en": "7ec092446a647fd037bfc3be14b4f9f3756ce6ed",
-    "pt-BR": "aa422d031e80099a598c81357a3677e4bb219d97"
+    "en": "212281a45bf14882f794a3a462d8185382503a01",
+    "pt-BR": "dc29c63d7fe1a74a52e7d7ff059493532e629b8b"
   },
   "taxonomy_check": "passed",
   "translation_check": "passed",
@@ -18,64 +18,68 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pending and both locale files reread from main. Exact Git blob SHAs: pending 2bf2c9093e90f448f5d14048da2a1b89b1591134; EN 7ec092446a647fd037bfc3be14b4f9f3756ce6ed; PT-BR aa422d031e80099a598c81357a3677e4bb219d97."
+      "summary": "Pending revision 2 and both locale Markdown files reread from main. Exact blob SHAs: pending afd7efb0a1cd933ec691d17f543222b2f7334d2f; EN 212281a45bf14882f794a3a462d8185382503a01; PT-BR dc29c63d7fe1a74a52e7d7ff059493532e629b8b."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Schema v2, taxonomy 1.0, Political Economy & Markets program, global geography, dimensions, controlled topics, phenomena, research-report format and event-driven cadence checked."
+      "summary": "Schema v2, taxonomy 1.0, Political Economy & Markets program, global geography, dimensions, controlled topics and phenomena, research-report format, and event-driven cadence checked."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "Historical sources and current 2026 ECB/IMF analyses were checked against publication records. The report distinguishes historical observations, institutional accounts and model-based estimates."
+      "summary": "Historical sources and contemporary 2026 ECB/IMF analyses checked against their cited publication records. Historical observations, institutional disclosures and model estimates are explicitly distinguished."
     },
     "factual_methodology": {
       "result": "passed",
-      "summary": "US OSRD research effects are attributed to Gross and Sampat; manufacturing productivity caveats to Alexander Field; West German output and reform claims to the 1991 Economic Report of the President and IMF; forced-labour claims to BMW and USHMM records; current defence-spending mechanisms to ECB and IMF 2026 studies. Estimates are qualified by source and method."
+      "summary": "US OSRD innovation effects are attributed to Gross and Sampat; wartime manufacturing productivity limitations to Alexander Field; West German recovery indicators to the 1991 Economic Report of the President and IMF; BMW forced-labour and postwar asset losses to BMW records; IG Farben and Auschwitz forced-labour claims to USHMM; current defence-spending mechanisms to ECB and IMF 2026 research."
     },
     "evidence_traceability": {
       "result": "passed",
-      "summary": "Both language versions contain the same twelve references and cite each major historical or policy claim. Corporate self-histories are paired with independent Holocaust and occupation-history sources."
+      "summary": "Both language editions contain 12 unique URLs across 9 source domains. Quantitative and corporate claims cite the relevant source numbers; BMW institutional disclosures are accompanied by independent Holocaust/occupation-history sources."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "Long-form report with seven analytical sections, central assessment, historical comparison, corporate case studies, contemporary policy assessment, mechanism synthesis and twelve references; approximately 3,314 English and 3,555 Brazilian Portuguese words."
+      "summary": "Long-form research report with seven analytical sections, comparative evidence tables, two quantitative exhibits, causal and geographic visual blocks, a synthesis and 12 references. Text exceeds the 1,700-word threshold in both locales."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both locales include three Markdown evidence tables, two chart blocks, one causal flow and one geographic map. Numeric series and visual signatures match across English and Brazilian Portuguese."
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "English and Brazilian Portuguese versions preserve the same argument, source set, key figures, qualifications and conclusions."
+      "summary": "English and Brazilian Portuguese preserve the same analytical sections, source set, figures, chart series, factual qualifications and conclusions."
     },
     "novelty_vs_corpus": {
       "result": "passed",
-      "summary": "The report is a distinct long-form historical and institutional analysis, not a daily market brief. It links US wartime R&D, West German reconstruction, corporate accountability and contemporary European defence procurement."
+      "summary": "Distinct long-form historical and institutional analysis connecting US wartime R&D, West German postwar recovery, corporate accountability and contemporary European defence procurement; not a daily macro market brief."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The analysis separates mobilisation from destruction, considers surviving industrial capacity and external demand, identifies the limits of wartime productivity and specifies civilian procurement and R&D as alternative routes to industrial coordination."
+      "summary": "Separates mobilisation from destruction, identifies conversion conditions and failure channels, considers the role of surviving capacity and external demand, and tests whether civilian procurement/R&D can produce similar capabilities without war."
     },
     "editorial_style": {
       "result": "passed",
-      "summary": "No self-referential descriptions of the report, publication-process narration, generic AI framing or formulaic section conclusions. Argument proceeds through evidence, causal mechanisms and institutional comparisons."
+      "summary": "Public prose contains no self-referential report descriptions, internal process narration, publication-pipeline language or generic AI framing."
     },
     "publication_snapshot_integrity": {
       "result": "passed",
-      "summary": "Complete revision-1 pending object is embedded as the immutable approval snapshot; ID, slug, revision, pending SHA and locale source SHAs match."
+      "summary": "Revision ${p.revision} pending object and exact locale source blob SHAs are embedded in the approval record."
     }
   },
   "contrary_evidence": [
     "US wartime manufacturing productivity fell during 1941–45 and some specialised facilities became obsolete after demobilisation.",
-    "West Germany's recovery included severe adjustment costs, including a sharp rise in unemployment after the 1948 reforms.",
+    "West Germany's recovery included adjustment costs, including rising unemployment after the 1948 reforms.",
     "BMW lost control of assets and had plants dismantled by the Allies after 1945 despite its wartime expansion.",
-    "IG Farben was dissolved by the Allies; successor firms did not represent an unchanged continuation of the conglomerate.",
-    "Defence imports, personnel-heavy budgets and fragmented procurement reduce the domestic productivity potential of higher defence spending."
+    "IG Farben was dissolved by the Allies; successor firms were not an unchanged continuation of the conglomerate.",
+    "Defence imports, personnel-heavy budgets and fragmented procurement can limit domestic productivity gains."
   ],
   "limitations": [
-    "The Marshall Plan's direct contribution relative to currency reform, domestic institutions and surviving industrial capacity remains debated among economic historians.",
-    "The 1991 US Economic Report and IMF historical analysis use different statistical series and should not be treated as a single harmonised dataset.",
-    "BMW's corporate history is a primary institutional disclosure; forced-labour claims are cross-checked against independent museum and Holocaust documentation.",
-    "ECB estimates of long-run productivity effects are model-based and do not guarantee returns from individual defence programmes.",
+    "The Marshall Plan's direct contribution relative to currency reform, domestic institutional changes and surviving industrial capacity remains debated among economic historians.",
+    "The 1991 US Economic Report and IMF historical analysis use different statistical series and should not be treated as one harmonised dataset.",
+    "BMW's corporate history is a primary institutional disclosure; forced-labour claims are cross-checked against independent Holocaust and occupation-history sources.",
+    "The ECB's 0.3% long-run productivity estimate is model-based, not a guaranteed return from a specific defence programme.",
     "Historical European defence-spending multipliers may not transfer directly to the current, more synchronised procurement cycle."
   ],
-  "notes": "Editorial QA completed against the source files and current taxonomy. Approval applies to revision 1 only. Production build and Cloudflare deployment remain separate release gates.",
+  "notes": "Revision 2 reviewed after adding visual evidence. The record preserves explicit historical, source and model-estimate limitations. Production build and Cloudflare deployment remain separate release gates.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -240,6 +244,10 @@
       "bilingual_parity": {
         "same_numeric_series": true,
         "same_reference_count": true,
+        "charts": 2,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1,
         "references_en": 12,
         "references_pt": 12
       },
@@ -248,29 +256,38 @@
         "primary_institutional_sources": 7,
         "academic_sources": 5,
         "urls_unique": 12,
-        "domains": 10
+        "domains": 9
       },
       "manual_preflight": {
         "schema_v2": true,
         "controlled_programs": true,
         "controlled_topics": true,
         "phenomena_valid": true,
-        "word_count_en": 3314,
-        "word_count_pt": 3555,
+        "word_count_en": 3677,
+        "word_count_pt": 3995,
         "references_en": 12,
         "references_pt": 12,
         "ready_for_independent_qa": true,
-        "revision": 1
+        "revision": 2
+      },
+      "visual_evidence": {
+        "charts": 2,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1
       }
     },
-    "revision": 1,
-    "revision_reason": "Initial long-form research report examining war mobilisation, industrial development and the conversion of defence spending into civilian productive capacity.",
+    "revision": 2,
+    "revision_reason": "Revision 2 adds comparable evidence tables, explicit quantitative exhibits and causal/geographic visual blocks in both languages. No underlying historical observation, source citation or analytical conclusion changed.",
     "revision_scope": [
       "Separate wartime mobilisation from physical destruction.",
       "Compare US wartime R&D and postwar conversion with West German reconstruction.",
       "Examine German corporate continuity, forced labour, Allied dismantling and successor structures.",
-      "Connect the historical evidence to current ECB and IMF assessments of European defence spending."
+      "Connect the historical evidence to current ECB and IMF assessments of European defence spending.",
+      "Add three comparative evidence tables, two quantitative charts, one causal flow and one geographic map with bilingual visual parity."
     ],
-    "qa_fixes_applied": []
+    "qa_fixes_applied": [
+      "Revision 2: added three evidence tables, two quantitative charts, one causal flow and one geographic map per locale; chart numeric values are bilingual-equivalent."
+    ]
   }
 }
