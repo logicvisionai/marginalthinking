@@ -208,7 +208,7 @@
   ],
   "qa_status": "approved",
   "qa_reviewed_at": "2026-11-23T12:18:25.340Z",
-  "qa_confidence": "high",
+  "qa_confidence": "medium",
   "qa_reviewed_commit": "4df6f31403ece745ad6399803d4c875b537ee8f6",
   "qa_fixes_applied": [
     "Corrected the Swiss evacuation account: the infected woman and her husband, a close contact, were evacuated from Nigeria to Switzerland; the woman's occupation is not identified. Added the Swiss Federal Council's 26 October release as reference [13].",
