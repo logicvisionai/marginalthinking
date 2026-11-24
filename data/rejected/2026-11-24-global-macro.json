@@ -2,199 +2,163 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-24",
   "slug": "2026-11-24-global-macro",
-  "revision": 2,
-  "rejection_count_for_id": 1,
+  "revision": 3,
+  "rejection_count_for_id": 2,
   "rejection_loop_limit_reached": false,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-24T10:00:56.228Z",
-  "reviewed_commit": "1bf59c407831f419c34baba5b6e95e31eeac66e6",
-  "pending_blob_sha": "1ed09ca7093fb4735231b957e6ee71a5d1ed4326",
+  "reviewed_at": "2026-11-24T07:38:02-03:00",
+  "reviewed_commit": "78a307cd6a8bd354b9fd8461f3c25a3ba082ce79",
+  "pending_blob_sha": "3df6ebe41284dea630587e8ad25f5b6bed6006b3",
   "source_blob_shas": {
-    "en": "6c514a3b804a13e4f8fb76011dcdebe44c452c5b",
-    "pt-BR": "d00131f319b58568037ff490ebb2add824545cee"
+    "en": "d40f5071081f03d7724f09c4da87facc1ca40141",
+    "pt-BR": "45cc23a08a6602d5e6cf6fbe0926f01bb524dd8c"
   },
-  "revoked_approval_blob_sha": "ec17f6e9b75130e8f6d2212aae5af70f2ee98ac9",
-  "revoked_approval_commit_sha": "1bf59c407831f419c34baba5b6e95e31eeac66e6",
-  "previous_rejections": [],
+  "previous_rejections": [
+    {
+      "revision": 2,
+      "reviewed_commit": "1bf59c407831f419c34baba5b6e95e31eeac66e6",
+      "pending_blob_sha": "1ed09ca7093fb4735231b957e6ee71a5d1ed4326",
+      "source_blob_shas": {
+        "en": "6c514a3b804a13e4f8fb76011dcdebe44c452c5b",
+        "pt-BR": "d00131f319b58568037ff490ebb2add824545cee"
+      },
+      "rejection_record_blob_sha": "2ed9ee9c23d738146aa086da6395fe3d1d8ba581",
+      "issue_codes": [
+        "IEA_CITATION_REFERENCE_MISMATCH",
+        "HIGH_YIELD_OAS_UNIT_MISLABELLED",
+        "BRAZIL_FOCUS_REFERENCE_VINTAGE_MISSTATED",
+        "MAP_BLOCK_MARKDOWN_TABLE_GRAMMAR",
+        "RBA_DECISION_EFFECTIVE_DATE_AMBIGUITY",
+        "REPEATED_FORMULAIC_SIGNPOSTING"
+      ],
+      "resolved_in_revision": 3
+    }
+  ],
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pending v2 and both complete staged editions were re-read at HEAD 1bf59c407831f419c34baba5b6e95e31eeac66e6. Exact tuple: pending 1ed09ca7093fb4735231b957e6ee71a5d1ed4326; EN 6c514a3b804a13e4f8fb76011dcdebe44c452c5b; PT-BR d00131f319b58568037ff490ebb2add824545cee."
+      "summary": "Re-read the v2 pending sidecar and both complete staged Markdown editions at HEAD 78a307cd6a8bd354b9fd8461f3c25a3ba082ce79. Exact revision-3 tuple: pending 3df6ebe41284dea630587e8ad25f5b6bed6006b3; EN d40f5071081f03d7724f09c4da87facc1ca40141; PT-BR 45cc23a08a6602d5e6cf6fbe0926f01bb524dd8c. No public metadata exists for this ID/revision."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Schema v2, ready:true, canonical ID/slug, revision 2, daily-global-macro kind, program, dimensions, topics and war-armed-conflict phenomenon are valid."
+      "summary": "Schema v2, ready:true, canonical ID/slug, explicit revision 3, source_locale en, program political-economy-markets, related program, dimensions, global geography, controlled topics and war-armed-conflict phenomenon are valid against taxonomy 1.0."
     },
     "source_vintage_and_cutoff": {
-      "result": "failed",
-      "summary": "Focus reference date is 19 November, with publication on 23 November; the edition labels 23 November as the survey date. RBA decision date is 3 November, while the text says 4 November without identifying effective date."
+      "result": "passed_with_limitation",
+      "summary": "Cutoff is 05:00 BRT on 24 November. The PMI releases, FRED observation through 20 November, 23 November Treasury and market closes, October IEA/FAO/IIF observations, 19 November Focus reference date, 23 November Macrofiscal publication and central-bank decisions precede the cutoff. The BoE statement was published 5 November for an MPC meeting ending 4 November; the staged text uses the publication date without making that distinction explicit. The BoJ 24 September effective date is supported by the official 18 September decision but that specific primary release is absent from the bibliography."
     },
     "factual_methodology": {
-      "result": "failed",
-      "summary": "The FRED OAS series unit is Percent. Levels 3.23 and 3.76 are not percentage-point changes; the 53 bp difference is correct."
+      "result": "passed",
+      "summary": "Rechecked the 7 PMI values and their diffusion-index interpretation; FRED OAS levels 3.23% and 3.76% and the 53 bp change; Treasury par yields and derived curve slopes; IIF October portfolio outflows; IEA October supply/inventory and diesel observations; Reuters Brent settlement and attributed conflict claims; Ministry of Finance forecast vintages and fiscal data; BCB Focus medians; BCB PTAX 5.9708; FAO October index and components; and the central-bank policy settings. No numerical contradiction was found in the revised core dataset."
     },
     "evidence_traceability": {
-      "result": "failed",
-      "summary": "IEA claims at lines 13 and 123 point to Reuters references 18-19 and 18, not IEA reference 17. The primary BCB Focus PDF dated 19 November is absent."
+      "result": "passed_with_limitation",
+      "summary": "The 26 references and 18 source hosts are present in both editions. Primary sources support the policy rates, FRED spread, Treasury curve, IIF flows, IEA oil balance, Ministry forecasts, BCB Focus/PTAX and FAO index. AP reference [23] is present and identifies the specific Nvidia event and its market effect, but the staged narrative does not name that event; this is recorded as a material argument-continuity issue below."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "Independent repository-compatible count: approximately 3,418 substantive EN words and 3,933 PT-BR words, nine H2 sections in each locale, two chart series, tables, one flow and one map. Candidate was not among the seven failures in strict job 45367674952."
+      "summary": "Repository-compatible word count is 3,400 EN and 3,934 PT-BR, with nine H2 sections in each edition, explicit competing evidence, scenarios and falsifiers. The article advances a regional-activity and financing-dispersion thesis rather than merely listing releases."
     },
     "visual_evidence_readiness": {
-      "result": "failed",
-      "summary": "The map violates the line-oriented grammar and the renderer turns its header and separator into geographic cards. The OAS chart unit is incorrect."
+      "result": "passed_with_limitation",
+      "summary": "Both editions contain two charts, three fenced tables, one causal flow and one regional-comparison map. The map has seven headerless three-field rows, so the renderer will create seven geographic comparison cards rather than header/separator cards. Chart numeric series are identical across languages. The PMI comparison chart places the euro-area aggregate beside Germany and France without explicitly saying these are non-additive aggregate/component observations; add that qualification to the chart unit or caption."
     },
     "bilingual_equivalence": {
-      "result": "passed_with_limitation",
-      "summary": "EN and PT-BR preserve the same structure, numeric series and references; the material defects are shared across both locales."
+      "result": "passed",
+      "summary": "EN and PT-BR preserve the same 26 references, all numerical series, dates, qualifications, policy settings, tables, flows and map rows. The unidentified Nvidia catalyst is omitted in both editions, so the defect is shared rather than a translation divergence."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "Scenarios and falsifiers are explicit; PMI, credit, oil and conflict claims are appropriately qualified."
+      "summary": "The report includes adverse interpretations and falsifiers for PMI dispersion, credit-spread widening, emerging-market outflows and energy normalization. It distinguishes survey indices from GDP and monthly portfolio flows from direct investment."
     },
     "novelty_vs_corpus": {
-      "result": "passed",
-      "summary": "The regional PMI-dispersion thesis is distinct from the preceding China ore/steel, AI productivity/valuation and cross-asset repricing editions."
+      "result": "passed_with_limitation",
+      "summary": "The public editions are substantively distinct: 23 November covers China iron ore/steel and exporter inventories; 22 November covers AI productivity and valuation; 21 November covers cross-asset repricing. The new regional-PMI and financing-dispersion thesis is distinct, but pending.signal_rationale.delta lists those prior themes in the wrong chronological order and should be corrected."
     },
     "editorial_style": {
-      "result": "passed_with_limitation",
-      "summary": "No internal labels or inline source interruptions were found; repeated metadiscursive lead-ins should be reduced."
+      "result": "failed",
+      "summary": "At EN line 95 and PT-BR line 95, the sentence calls the market driver only a 'corporate-governance and sector-specific catalyst' / 'catalisador corporativo e setorial'. It does not identify Nvidia, Jensen Huang, the board action or the national-security investigation described by the already-cited AP source. This abstract label withholds the event that explains the concentrated equity move and fails argument continuity."
     },
     "system_registry_reconciliation": {
       "result": "not_run",
-      "summary": "reconciliation_run_id is null and the ledger has no report-specific run for this ID. The publisher must reconcile all active required assets before publication; QA did not alter the canonical ledger."
+      "summary": "pending.reconciliation_run_id is null. Under SYSTEM-REGISTRY.md, the publisher must record a report-specific reconciliation run with a decision for every active registry asset marked reconciliation_required before public promotion. QA did not alter the canonical ledger."
     },
     "editorial_depth_script": {
       "result": "passed",
-      "summary": "Exact-head strict job 45367674952 listed only seven other drafts as editorial-depth failures; this candidate was not among them."
+      "summary": "Exact-HEAD strict workflow 45373539836 ran scripts/validate-editorial-depth.mjs. Revision 3 is not among the seven reported draft failures; the aggregate job failed only on older unrelated drafts. Repository-compatible word counts, source URL counts, 18 hosts, headings, visual floors and bilingual chart-series equivalence were independently recomputed for this tuple."
     },
     "pipeline_validation": {
       "result": "passed",
-      "summary": "Exact-head job 45367674952 reported pipeline validation OK: 212 public bundles, 20 unpublished pending, zero approved-unpublished and six legacy pending already public."
+      "summary": "Exact-HEAD workflow 45373539836 ran scripts/validate-pipeline.mjs and reported Pipeline validation OK: 212 public bundles, 20 unpublished pending, zero approved-unpublished and six legacy pending already public."
     },
     "repository_build": {
-      "result": "passed",
-      "summary": "Job 45367675080 passed Validate and build, research visual semantics and generated-site verification. The candidate-specific map header issue is not covered by that automated check."
-    },
-    "publication_snapshot_integrity": {
-      "result": "passed",
-      "summary": "The original approval publication snapshot is preserved unchanged in the revoked approval record."
+      "result": "passed_with_limitation",
+      "summary": "The exact-HEAD production validation/build workflow completed the repository build and research visual checks. Cloudflare deployment was not confirmed because CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID were unavailable; no deployment is claimed."
     },
     "concurrent_approval_integrity": {
-      "result": "failed",
-      "summary": "Approval blob ec17f6e9b75130e8f6d2212aae5af70f2ee98ac9 was created concurrently during this independent review and is revoked before public metadata exists."
+      "result": "passed",
+      "summary": "No live approval exists for revision 3. data/approved/2026-11-24-global-macro.json remains qa_status revoked for revision 2 and binds only the previous tuple; it does not authorize revision 3."
+    },
+    "publication_snapshot_integrity": {
+      "result": "not_run",
+      "summary": "No approval or publication snapshot was created for revision 3 because editorial publication readiness failed."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "Do not publish revision 2. Correct the material source, vintage, unit and visual issues and resubmit revision 3 with new SHAs."
+      "summary": "Do not approve revision 3. The main equity-rebound paragraph omits the specific Nvidia board-reinstatement catalyst reported by AP, leaving a key market move unexplained. Minor source-date, chart-qualification and novelty-rationale corrections are also listed below. A corrected revision 4 must preserve the canonical ID/slug, explicitly increment revision, update both locales and produce three new blob SHAs."
     }
   },
   "confidence": "high",
   "contrary_evidence": [
-    "PMI readings are diffusion indices, not GDP growth rates.",
-    "The US high-yield OAS is not a global credit-stress measure.",
-    "IIF portfolio flows are monthly estimates, not daily November flows.",
-    "Crude supply recovery does not establish that refined-product availability has normalized.",
-    "Focus medians for 2026 are distinct from the Ministry of Finance 2027 parameter grid.",
-    "Conflict claims remain attributed to the relevant actors and reporting institutions."
+    "The PMI evidence is not a synchronized contraction: six of seven reported composite indices are above 50, while France is below 50.",
+    "The S&P 500 and Nasdaq rebounded 4.7% and 6.5% on 23 November; AP attributes a concentrated part of the move to Nvidia's 31.5% rise after the board reinstated Jensen Huang.",
+    "The IEA reports October supply growth of 2.3 mb/d to 105.4 mb/d and observed inventories rising 52 mb, which supports an oil-market rebalancing interpretation.",
+    "Brent settled 3.46% lower on 23 November, while European diesel remained 77% above pre-war levels and on-land oil inventories remained low.",
+    "Brazil's central-government primary deficit improved year over year through September and real revenue grew faster than real expenditure, tempering a one-sided fiscal deterioration thesis."
   ],
   "limitations": [
-    "The BCB PTAX reference is a dynamic institutional landing page rather than a date-filtered historical endpoint.",
-    "The BCB Focus report is dated 19 November; the B3 story was published 23 November.",
-    "The RBA date may refer to effectiveness, but the report does not label the date type.",
-    "Registry reconciliation remains a publisher prerequisite.",
-    "The production deployment was not confirmed because Cloudflare credentials were missing."
+    "The ICE BofA OAS is a US below-investment-grade corporate-bond measure; it is not a global credit-cost index or a direct measure of private-credit pricing.",
+    "IIF's US$33.8 billion estimate is a monthly non-resident portfolio-flow measure, not total capital flight, foreign direct investment or a daily flow.",
+    "The BCB PTAX figure is correct, but reference [21] points to a dynamic official market-data page rather than a date-filtered historical query; a durable date-specific source would improve reproducibility.",
+    "The Worldsteel October crude-steel release was scheduled for 24 November but was not available by the 05:00 BRT cutoff; the report appropriately leaves it as a watch item rather than inventing October production data.",
+    "The regional PMI chart compares the euro-area aggregate with two member-country readings; these observations are comparable index values but are not additive categories.",
+    "The system-registry reconciliation has not been run for this report and remains a publication prerequisite."
   ],
   "issues": [
     {
+      "code": "NVIDIA_REINSTATEMENT_CATALYST_UNIDENTIFIED",
       "severity": "material",
-      "code": "IEA_CITATION_REFERENCE_MISMATCH",
-      "paths": [
-        "staging/research/2026/11/2026-11-24-global-macro/en.md",
-        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:13,123",
-        "pt-BR.md:13,123"
-      ],
-      "evidence": "The IEA is reference 17. References 18 and 19 are Reuters items. The IEA supply, inventory and diesel claims therefore lack their correct adjacent citation.",
-      "required_correction": "Cite reference 17 for the IEA claims; use 17-18 in the opening energy paragraph and 17 in the inventory paragraph."
+      "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:95; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:95",
+      "evidence": "The paragraph states only that the rally followed a 'corporate-governance and sector-specific catalyst'. The cited AP source [23] identifies the catalyst: Nvidia's board reinstated CEO Jensen Huang amid an investigation into possible foreign-spy and national-security concerns; AP reports Nvidia shares rose 31.5% and AI/data-centre-linked shares led the broader rebound.",
+      "required_correction": "Name Nvidia and Jensen Huang; describe the board's reinstatement decision and the investigation only as AP-attributed context; include the 31.5% Nvidia share move if retained in the analysis; explain why this is a company-specific catalyst and does not establish broad macroeconomic or financing improvement. Make the same analytical correction in EN and PT-BR and retain citation [23]."
     },
     {
-      "severity": "material",
-      "code": "HIGH_YIELD_OAS_UNIT_MISLABELLED",
-      "paths": [
-        "staging/research/2026/11/2026-11-24-global-macro/en.md",
-        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:99,104",
-        "pt-BR.md:99,104"
-      ],
-      "evidence": "FRED labels BAMLH0A0HYM2 in Percent. The report labels 3.23 and 3.76 as percentage points; only the 53 bp change equals 0.53 percentage point.",
-      "required_correction": "Label levels as 3.23% and 3.76% or 323 and 376 bp; change chart unit to percent and retain the 53 bp change."
-    },
-    {
-      "severity": "material",
-      "code": "BRAZIL_FOCUS_REFERENCE_VINTAGE_MISSTATED",
-      "paths": [
-        "staging/research/2026/11/2026-11-24-global-macro/en.md",
-        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md",
-        "data/pending/2026-11-24-global-macro.json"
-      ],
-      "locations": [
-        "en.md:73,86-90",
-        "pt-BR.md:73,86-90",
-        "pending.producer_checks.source_audit.reproducibility_notes.brazil_focus"
-      ],
-      "evidence": "The BCB Focus PDF is dated 19 November and contains 5.55, 5.15% and 1.70%. The B3 item is published 23 November; its publication date is not the Focus reference date.",
-      "required_correction": "State reference date 19 November and release/publication date 23 November; add the official BCB PDF to both bibliographies."
-    },
-    {
-      "severity": "material",
-      "code": "MAP_BLOCK_MARKDOWN_TABLE_GRAMMAR",
-      "paths": [
-        "staging/research/2026/11/2026-11-24-global-macro/en.md",
-        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md",
-        "scripts/lib/research-visuals.mjs",
-        "RESEARCH-VISUALS.md"
-      ],
-      "locations": [
-        "en.md: fenced map block",
-        "pt-BR.md: fenced map block",
-        "scripts/lib/research-visuals.mjs:104-118"
-      ],
-      "evidence": "The map contract requires one region | finding | qualification row per region. The renderer converts every pipe line into a card and does not skip Markdown headers or separators, so the header and separator become two bogus geographic cards.",
-      "required_correction": "Use headerless three-field regional rows, one per line, in both languages; verify the rendered HTML."
-    },
-    {
+      "code": "PMI_CHART_AGGREGATE_COMPONENTS_NOT_DISCLOSED",
       "severity": "minor",
-      "code": "RBA_DECISION_EFFECTIVE_DATE_AMBIGUITY",
-      "paths": [
-        "staging/research/2026/11/2026-11-24-global-macro/en.md",
-        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:60,65",
-        "pt-BR.md:60,65"
-      ],
-      "evidence": "The RBA decision and 6-3 vote were announced on 3 November. The report says 4 November without identifying it as an effective date.",
-      "required_correction": "Label the 3 November decision date and, if intended, the 4 November effective date separately."
+      "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:23-24; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:23-24",
+      "evidence": "The chart compares the euro-area composite with Germany and France, which are constituent economies of that aggregate. RESEARCH-VISUALS.md requires non-additive categories to be identified.",
+      "required_correction": "Add a concise unit/caption note in both locales that the euro-area figure is an aggregate and Germany/France are constituent-country observations; they are comparison readings, not additive categories."
     },
     {
+      "code": "BOJ_POLICY_EFFECTIVE_DATE_SOURCE_NOT_CITED",
       "severity": "minor",
-      "code": "REPEATED_FORMULAIC_SIGNPOSTING",
-      "paths": [
-        "staging/research/2026/11/2026-11-24-global-macro/en.md",
-        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:15,44,67,113,174,180",
-        "pt-BR.md:15,44,67,113,174,180"
-      ],
-      "evidence": "Several sections repeat central-signal, important-contrast and relevant-question lead-ins.",
-      "required_correction": "Rewrite repeated metadiscursive openings as direct substantive observations while retaining the falsifier section."
+      "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:62,67; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:62,67",
+      "evidence": "Reference [13] (the October Outlook Report) confirms the overnight call rate around 1.25% since the September policy meeting but does not state the exact 24 September effective date. The Bank of Japan's 18 September 2026 policy decision says the new guideline applies from the next business day, 24 September.",
+      "required_correction": "Add the official Bank of Japan 18 September 2026 policy-decision PDF to both bibliographies and cite it for the effective date, or remove the exact effective-date clause."
+    },
+    {
+      "code": "BOE_MEETING_AND_RELEASE_DATE_NOT_DISTINGUISHED",
+      "severity": "minor",
+      "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:59,67; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:59,67",
+      "evidence": "The Bank of England source was published on 5 November, but the MPC meeting ended on 4 November. The current text uses 5 November without specifying that it is the announcement/publication date.",
+      "required_correction": "State that the MPC meeting ended on 4 November and the decision was published/announced on 5 November, consistently in both editions."
+    },
+    {
+      "code": "NOVELTY_RATIONALE_PRIOR_EDITION_ORDER_MISMATCH",
+      "severity": "minor",
+      "location": "data/pending/2026-11-24-global-macro.json:signal_rationale.delta",
+      "evidence": "Public metadata shows 23 November was the China iron-ore/steel inventory edition, 22 November was AI productivity/valuation, and 21 November was cross-asset repricing. The delta lists those themes in the reverse order at the ends.",
+      "required_correction": "Rewrite the delta in chronological order matching the comparative_editions array and public metadata: 23 November China iron-ore/steel; 22 November AI productivity/valuation; 21 November cross-asset repricing."
     }
   ],
   "rework_owner": "MT 1/5 — Diário e Radar",
@@ -205,12 +169,8 @@
     "no_fourth_rejection": true
   },
   "publication_prerequisites": [
-    "Do not publish revision 2. Wait for revision 3 with corrected pending, EN and PT-BR blobs and a new QA approval.",
-    "Correct IEA citations, OAS units, Focus reference date and map grammar in both locales.",
-    "Clarify RBA decision date versus effective date and reduce repetitive metadiscursive signposting.",
-    "Before future publication, the publisher must record evidence-based reconciliation decisions for every active registry asset with reconciliation_required.",
-    "Do not claim deployment without Cloudflare credentials and live verification."
+    "Before public promotion, the publisher must record a report-specific reconciliation run in data/reconciliation-ledger.json naming MT-GM-2026-11-24 and a decision for every active reconciliation-required asset in data/system-registry.json.",
+    "The corrected revision must preserve canonical ID MT-GM-2026-11-24 and slug 2026-11-24-global-macro, explicitly use revision 4, and change the pending, EN and PT-BR Git blob SHAs."
   ],
-  "notes": "First rejection for MT-GM-2026-11-24 revision 2. A concurrent approval was committed at 1bf59c407831f419c34baba5b6e95e31eeac66e6 with approval blob ec17f6e9b75130e8f6d2212aae5af70f2ee98ac9 and reviewed_commit 99b0fd6eaebb896762b5a95fb2c6880816d6dde1. Because no public metadata existed, the approval is revoked in this same transaction while preserving the publication snapshot. The rejection routes to MT 1/5.",
-  "resolved_previous_issues": []
+  "notes": "Second rejection for MT-GM-2026-11-24, now revision 3. The six material/minor issues from revision 2 are resolved in this tuple: IEA citations now point to reference 17; FRED OAS levels are correctly labelled in percent; the BCB Focus observation date is 19 November with 23 November publication distinguished and the primary PDF added; the map uses seven headerless three-field rows; the RBA decision date is 3 November; and repeated formulaic signposting was reduced. Revision 3 passes the candidate-specific editorial-depth thresholds and pipeline validation, although the aggregate depth workflow still fails on seven unrelated older drafts. QA withholds approval because the market-rebound paragraph at line 95 omits the Nvidia board-reinstatement event identified in its own AP citation [23]. Corrected revision 4 should add the actor, board action, attributed investigation context and 31.5% share move in both locales, and address the minor notes above. The existing approval record is revoked revision 2 only; no public metadata exists for revision 3. The rejection loop count is now 2 of the maximum 3 new rejections."
 }
