@@ -45,13 +45,12 @@ O índice composto do Japão caiu para 51,5, ante 52,1, o menor nível em seis m
 
 A Índia permaneceu com a leitura mais forte entre os grandes mercados emergentes desse grupo. Seu PMI composto subiu marginalmente de 56,2 para 56,3, e o índice manufatureiro atingiu 56,0, maior nível em nove meses. Os serviços desaceleraram para 55,3, contudo, e o emprego se moveu em direções opostas: as fábricas contrataram no ritmo mais rápido em sete meses, enquanto empresas de serviços reduziram pessoal. Os dados indicam expansão liderada pela indústria, não uma aceleração distribuída uniformemente pela economia. [7]
 
-O PMI industrial oficial chinês de novembro ainda não estava disponível no horário de corte. Os dados oficiais de indústria e investimento de outubro discutidos na edição de 23 de novembro continuam sendo a referência mais recente; não se infere aqui uma nova observação de atividade chinesa. A divulgação global de produção de aço bruto de outubro, esperada para esta data, também não havia sido localizada até as 05h00 de Brasília. Setembro permanece, portanto, a última comparação global completa para a produção de aço bruto.
+O PMI industrial oficial chinês de novembro ainda não estava disponível no horário de corte. Os dados oficiais de indústria e investimento de outubro discutidos na edição de 23 de novembro continuam sendo a referência mais recente; não se infere aqui uma nova observação de atividade chinesa. A divulgação global de produção de aço bruto de outubro ainda não estava disponível no corte de 05h00 de Brasília; setembro permanece a comparação global completa mais recente.
 
 ## 2. Política monetária e restrições fiscais: não há flexibilização sincronizada
 
 As decisões mais recentes mostram por que leituras semelhantes de PMI não implicam condições de financiamento semelhantes.
 
-```table
 | Banco central | Última configuração documentada | Decisão relevante mais recente |
 |---|---:|---|
 | Federal Reserve | Faixa de 3,75%–4,00% | Manteve em 28 de outubro; dois membros preferiam alta de 25 pb |
@@ -60,7 +59,7 @@ As decisões mais recentes mostram por que leituras semelhantes de PMI não impl
 | Reserve Bank of Australia | Meta de 4,85% | Elevou 25 pb em 3 de novembro, votação de 6–3 |
 | Banco Central do Brasil | Meta Selic de 13,75% | Manteve em 4 de novembro |
 | Banco do Japão | Diretriz de 1,25% para a taxa overnight | Última alteração documentada efetiva em 24 de setembro [27] |
-```
+
 
 Esses instrumentos não são idênticos e não devem ser comparados como se fossem uma única taxa global. Ainda assim, mostram a amplitude das referências nominais enfrentadas pelos tomadores de crédito. O Federal Reserve manteve a faixa de 3,75%–4,00% em outubro, mas a votação de 10–2 incluiu dois membros favoráveis a uma alta de 25 pontos-base. A taxa de depósito do BCE é de 2,50%. A reunião do Comitê de Política Monetária do Banco da Inglaterra terminou em 4 de novembro; a decisão de elevar a Bank Rate para 4,00% foi publicada em 5 de novembro. O RBA elevou sua meta para 4,85% em 3 de novembro. O Brasil manteve a Selic em 13,75%. A decisão do Banco do Japão de 18 de setembro estabeleceu a diretriz overnight próxima de 1,25%, efetiva em 24 de setembro. [8–13, 27]
 
@@ -72,7 +71,6 @@ O mesmo boletim oferece uma observação fiscal em sentido contrário. O défici
 
 O Relatório Focus de 19 de novembro, resumido pela B3 em 23 de novembro, elevou a mediana de mercado para o câmbio no fim de 2026 de R$5,40 para R$5,55 por dólar, aumentou a projeção de IPCA de 5,11% para 5,15% e reduziu a estimativa de crescimento do PIB de 1,72% para 1,70%. São medianas de mercado para 2026, não a grade de parâmetros do Ministério para 2027. O Focus registra expectativas do mercado; o Boletim Macrofiscal registra os parâmetros de projeção do próprio Ministério. [22, 26]
 
-```table
 | Brasil: parâmetro macrofiscal de 2027 | Versão de setembro | Versão de novembro | Revisão |
 |---|---:|---:|---:|
 | Crescimento real do PIB | 2,3% | 1,8% | −0,5 p.p. |
@@ -80,15 +78,14 @@ O Relatório Focus de 19 de novembro, resumido pela B3 em 23 de novembro, elevou
 | Hipótese para a Selic | 12,67% | 12,93% | +0,26 p.p. |
 | Câmbio, R$/US$ | 5,23 | 5,34 | +0,11 |
 | Brent, US$/barril | 79,50 | 95,20 | +15,70 |
-```
 
-```table
+
 | Brasil: mediana de mercado do Focus para 2026 | Semana anterior | Relatório de 19 de novembro | Revisão |
 |---|---:|---:|---:|
 | Crescimento do PIB | 1,72% | 1,70% | −0,02 p.p. |
 | Inflação IPCA | 5,11% | 5,15% | +0,04 p.p. |
 | Câmbio, R$/US$ | 5,40 | 5,55 | +0,15 |
-```
+
 
 ## 3. Mercados: recuperação forte das ações, mas o crédito não voltou ao ponto anterior
 

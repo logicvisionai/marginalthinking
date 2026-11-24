@@ -188,18 +188,18 @@
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 3466,
-      "word_count_pt": 4018,
+      "word_count_en": 3698,
+      "word_count_pt": 4278,
       "references_en": 27,
       "references_pt": 27,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "Revision 4 addresses the remaining independent QA issues: explicit Nvidia catalyst attribution, non-additive PMI aggregate qualification, Bank of England meeting/publication dates, primary Bank of Japan effective-date evidence, date-filtered PTAX query and chronological novelty rationale. Recompute word counts, source URLs, chart parity and visual grammar from both staged editions before QA.",
-      "revision": 4
+      "repository_script_validator": "Revision 5 removes all three unsupported table code fences in each locale and removes the unsourced Worldsteel expected-date wording. Recompute exact source URLs, substantive word counts, chart parity and renderer output from both staged editions before independent QA.",
+      "revision": 5
     },
     "reconciliation_run_id": null
   },
-  "revision": 4,
-  "revision_reason": "Revision 4 identifies the Nvidia board-reinstatement catalyst reported by AP; clarifies the non-additive PMI comparison; distinguishes the Bank of England meeting end from the publication date; adds the Bank of Japan's 18 September primary decision for the 24 September effective date; replaces the dynamic PTAX homepage with the date-filtered BCB OData query; and corrects the chronology in the novelty rationale.",
+  "revision": 5,
+  "revision_reason": "Revision 5 converts all three table code fences in both locales to ordinary Markdown tables so the production renderer emits actual research-table figures. It also removes the unsupported expected-date wording for the October Worldsteel release and states only that the release was not available by the 05:00 BRT cutoff, with September remaining the latest complete comparison.",
   "revision_scope": [
     "Create English and PT-BR research drafts with separate idiomatic copy.",
     "Create a dedicated pending-v2 record with the registered daily-global-macro classification.",
@@ -207,7 +207,9 @@
     "Restructure the executive assessment, five analytical sections and conclusion as H2 sections in both locales to satisfy validate-editorial-depth.mjs (minimum six analytical H2 sections).",
     "Identify the Nvidia/Jensen Huang board-reinstatement catalyst in both locales and explain its company-specific contribution to the equity rebound without generalizing it into macroeconomic easing.",
     "Clarify that the euro-area PMI is an aggregate including Germany and France; distinguish the Bank of England meeting end from the decision publication date.",
-    "Add the Bank of Japan's 18 September 2026 primary decision and a date-filtered BCB PTAX OData query; correct the chronology of the three comparative editions."
+    "Add the Bank of Japan's 18 September 2026 primary decision and a date-filtered BCB PTAX OData query; correct the chronology of the three comparative editions.",
+    "Replace the three fenced table blocks in EN and PT-BR with ordinary Markdown tables, preserving headers, rows, units, dates and values so the production renderer emits table figures.",
+    "Remove the unsupported Worldsteel expected-date wording in both locales; retain only the observed availability boundary at the 05:00 BRT cutoff and the latest complete September comparison."
   ],
   "qa_fixes_applied": [
     "EDITORIAL_DEPTH_H2_SECTION_STRUCTURE",
@@ -216,6 +218,8 @@
     "BOJ_POLICY_EFFECTIVE_DATE_PRIMARY_SOURCE",
     "BOE_MEETING_VS_RELEASE_DATE",
     "PTAX_DATE_FILTERED_API_SOURCE",
-    "NOVELTY_RATIONALE_CHRONOLOGY"
+    "NOVELTY_RATIONALE_CHRONOLOGY",
+    "TABLE_RENDERER_MARKDOWN_GRAMMAR",
+    "WORLDSTEEL_EXPECTED_DATE_CLAIM_REMOVED"
   ]
 }

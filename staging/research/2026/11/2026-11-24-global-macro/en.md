@@ -45,13 +45,12 @@ Japan’s composite eased to 51.5 from 52.1, a six-month low. Manufacturing impr
 
 India remained the strongest large emerging-market reading in this group. Its composite PMI edged up to 56.3 from 56.2, and manufacturing reached a nine-month high of 56.0. Services slowed to 55.3, however, and employment moved in opposite directions: factories hired at the fastest pace in seven months while service firms reduced headcount. The data indicate a manufacturing-led expansion, not an evenly distributed acceleration across the economy. [7]
 
-China’s official November manufacturing PMI was not available at the information cutoff. The October industrial and investment data discussed in the 23 November edition remain the latest official baseline; no new Chinese activity observation is inferred here. The October global steel production release expected around this date had also not been located by the 05:00 BRT cutoff. September therefore remains the latest complete global comparison for crude-steel output.
+China’s official November manufacturing PMI was not available at the information cutoff. The October industrial and investment data discussed in the 23 November edition remain the latest official baseline; no new Chinese activity observation is inferred here. The October global crude-steel release was not available at the 05:00 BRT cutoff; September remains the latest complete global comparison for crude-steel output.
 
 ## 2. Monetary policy and fiscal constraints: no synchronized easing
 
 The latest policy decisions show why similar PMI readings do not imply similar financing conditions.
 
-```table
 | Central bank | Latest documented policy setting | Most recent relevant decision |
 |---|---:|---|
 | Federal Reserve | 3.75%–4.00% target range | Held on 28 October; two members preferred a 25 bp increase |
@@ -60,7 +59,7 @@ The latest policy decisions show why similar PMI readings do not imply similar f
 | Reserve Bank of Australia | 4.85% cash-rate target | Raised 25 bp on 3 November, 6–3 vote |
 | Banco Central do Brasil | 13.75% Selic target | Held on 4 November |
 | Bank of Japan | 1.25% overnight-rate guideline | Last documented change effective 24 September [27] |
-```
+
 
 These are not identical instruments and should not be compared as if they were a single global rate. They nevertheless show the range of nominal policy settings faced by borrowers. The Federal Reserve held its target range at 3.75%–4.00% in October, but the 10–2 vote included two members who preferred a 25 basis-point increase. The ECB’s deposit rate is 2.50%. The Bank of England's Monetary Policy Committee meeting ended on 4 November; its decision to raise Bank Rate to 4.00% was published on 5 November. The RBA raised its cash-rate target to 4.85% on 3 November. Brazil held the Selic at 13.75%. The Bank of Japan’s 18 September decision set the overnight guideline at around 1.25%, effective 24 September. [8–13, 27]
 
@@ -72,7 +71,6 @@ The same bulletin provides a countervailing fiscal observation. The central-gove
 
 The 19 November Focus report, summarized by B3 on 23 November, raised the market median for the 2026 year-end exchange rate from R$5.40 to R$5.55 per US dollar, lifted the IPCA projection from 5.11% to 5.15%, and reduced the GDP-growth estimate from 1.72% to 1.70%. These are market medians for 2026, not the Ministry’s 2027 parameter grid. The Focus report records market expectations; the Macrofiscal Bulletin records the Ministry’s own forecast parameters. [22, 26]
 
-```table
 | Brazil: 2027 macrofiscal parameter | September vintage | November vintage | Revision |
 |---|---:|---:|---:|
 | Real GDP growth | 2.3% | 1.8% | −0.5 pp |
@@ -80,15 +78,14 @@ The 19 November Focus report, summarized by B3 on 23 November, raised the market
 | Selic assumption | 12.67% | 12.93% | +0.26 pp |
 | Exchange rate, R$/US$ | 5.23 | 5.34 | +0.11 |
 | Brent, US$/barrel | 79.50 | 95.20 | +15.70 |
-```
 
-```table
+
 | Brazil: 2026 Focus market median | Previous week | 19 November report | Revision |
 |---|---:|---:|---:|
 | GDP growth | 1.72% | 1.70% | −0.02 pp |
 | IPCA inflation | 5.11% | 5.15% | +0.04 pp |
 | Exchange rate, R$/US$ | 5.40 | 5.55 | +0.15 |
-```
+
 
 ## 3. Markets: a sharp equity rebound has not repaired the credit signal
 
