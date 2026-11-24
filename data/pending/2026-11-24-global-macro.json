@@ -1,0 +1,204 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-24",
+  "slug": "2026-11-24-global-macro",
+  "date": "2026-11-24",
+  "published_at": "2026-11-24T05:00:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "fiscal-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "infrastructure-logistics",
+    "institutions-governance",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-24-global-macro/en.md",
+      "title": "Global expansion persists, but growth is fragmenting and credit is getting more expensive",
+      "deck": "November flash PMIs keep major economies in expansion but reveal a wider gap across regions; high-yield spreads, emerging-market outflows and energy logistics show why an equity rebound is not broad financial easing.",
+      "tags": [
+        "Global Macro",
+        "PMI",
+        "credit spreads",
+        "capital flows",
+        "energy",
+        "Brazil",
+        "India"
+      ],
+      "keywords": [
+        "November flash PMI",
+        "global growth divergence",
+        "high-yield credit spread",
+        "emerging-market portfolio flows",
+        "oil supply",
+        "diesel",
+        "Brazil macrofiscal forecast",
+        "India crude procurement"
+      ],
+      "regime": "Global activity remains expansionary in several major economies, but regional dispersion is widening while credit risk premia and emerging-market financing conditions remain restrictive.",
+      "key_risk": "A renewed Gulf shipping disruption combined with wider high-yield spreads and persistent emerging-market outflows could transmit a regional slowdown into broader investment and employment weakness.",
+      "watch": [
+        "OPEC+ 2027 output-policy meeting on 29 November",
+        "Worldsteel October crude-steel release when available",
+        "China November official PMI release",
+        "Daily ICE BofA high-yield spread observations",
+        "Next IIF portfolio-flow tracker",
+        "RBA meeting on 8 December",
+        "Federal Reserve meeting on 8–9 December",
+        "FAO Food Price Index scheduled for 4 December"
+      ],
+      "search_text": "Global Macro 24 November 2026 global PMI Germany France United States United Kingdom Japan India growth divergence credit spreads Treasury curve IIF emerging market flows oil Brent diesel Brazil macrofiscal FAO food prices"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md",
+      "title": "A expansão global persiste, mas o crescimento se fragmenta e o crédito encarece",
+      "deck": "Os PMIs preliminares de novembro mantêm as principais economias em expansão, mas revelam uma distância maior entre regiões; spreads de high yield, saídas de emergentes e logística energética mostram por que a recuperação das bolsas não equivale a alívio financeiro amplo.",
+      "tags": [
+        "Global Macro",
+        "PMI",
+        "spreads de crédito",
+        "fluxos de capital",
+        "energia",
+        "Brasil",
+        "Índia"
+      ],
+      "keywords": [
+        "PMI preliminar de novembro",
+        "divergência do crescimento global",
+        "spread de crédito high yield",
+        "fluxos de carteira dos emergentes",
+        "oferta de petróleo",
+        "diesel",
+        "projeção macrofiscal brasileira",
+        "aquisição indiana de petróleo"
+      ],
+      "regime": "A atividade global permanece expansionista em várias economias importantes, mas a dispersão regional aumenta enquanto os prêmios de risco de crédito e as condições de financiamento dos emergentes seguem restritivos.",
+      "key_risk": "Uma nova interrupção marítima no Golfo, combinada a spreads high yield mais amplos e saídas persistentes dos mercados emergentes, pode transmitir uma desaceleração regional para o investimento e o emprego em escala maior.",
+      "watch": [
+        "Reunião da OPEP+ sobre a política de produção de 2027 em 29 de novembro",
+        "Divulgação global da produção de aço bruto de outubro pela Worldsteel quando disponível",
+        "PMI oficial chinês de novembro",
+        "Observações diárias do spread ICE BofA high yield",
+        "Próximo rastreador de fluxos de carteira do IIF",
+        "Reunião do RBA em 8 de dezembro",
+        "Reunião do Federal Reserve em 8–9 de dezembro",
+        "Índice de Preços de Alimentos da FAO previsto para 4 de dezembro"
+      ],
+      "search_text": "Global Macro 24 novembro 2026 PMI global Alemanha França Estados Unidos Reino Unido Japão Índia divergência crescimento spreads crédito curva Treasury fluxos IIF mercados emergentes petróleo Brent diesel macrofiscal Brasil preços alimentos FAO"
+    }
+  },
+  "signal_rationale": {
+    "delta": "The three preceding editions addressed cross-asset repricing, AI productivity and valuation, and China’s iron-ore/steel chain. This edition adds a distinct cross-region activity signal from the 23–24 November flash PMIs and connects it to credit spreads, October emerging-market flows, the 23 November oil close and Brazil’s newly published macrofiscal parameter revision.",
+    "evidence": "November composite PMIs: US 54.6, euro area 51.7, Germany 55.0, France 46.2, UK 52.3, Japan 51.5 and India 56.3. US high-yield OAS widened from 3.23% on 13 Nov to 3.76% on 20 Nov. IIF estimated US$33.8bn of EM portfolio outflows in October. Brent settled at US$89.37/bbl on 23 Nov while IEA estimated October supply at 105.4 mb/d and inventories +52m barrels. Brazil’s 2027 GDP assumption was revised from 2.3% to 1.8%, and IPCA from 3.8% to 4.5%.",
+    "scale_path": "Regional survey dispersion changes expected revenue, hiring and inventory paths; those differences shape central-bank decisions, sovereign yields and currency conditions; higher credit premia and cross-border outflows then affect investment and procurement, while crude, refined products and freight transmit energy shocks into prices and margins.",
+    "transmission": "PMI divergence -> sector revenue and labour demand -> domestic inflation and monetary policy -> yields, FX and refinancing costs -> portfolio flows and investment. Oil supply and shipping -> crude and refined-product prices -> transport, food and industrial costs -> inflation expectations and policy reaction.",
+    "falsifier": "The thesis weakens if the Germany–France PMI gap narrows materially, US high-yield spreads reverse the November widening, non-resident EM portfolio flows return to positive territory, refined-product premiums decline broadly and subsequent national-accounts data show no meaningful regional output or employment divergence."
+  },
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "Flash PMIs are diffusion surveys, not GDP growth rates or official output data; country readings are not a direct measure of the size of output gaps.",
+    "The US high-yield OAS series ends on 20 November at the cutoff; it is not a 23 November market close and covers a US dollar-denominated below-investment-grade bond index rather than all credit.",
+    "IIF portfolio flows are October monthly estimates, not daily November flows.",
+    "The Brazil Ministry of Finance parameter grid was closed on 6 November; it is a forecast vintage, not a realised outcome or market-consensus survey.",
+    "FAO’s food-price index is an international commodity basket, not a retail-price or household-affordability measure; the latest meat component mixes projected and observed prices and can be revised.",
+    "Reports of attacks and statements by the Houthi movement, Bahrain, Iran and UKMTO are attributed to the relevant actors or reporting institution; the available material does not quantify a new sustained loss of oil output.",
+    "The October global crude-steel release had not been located by the 05:00 BRT cutoff; September remains the latest complete global comparison.",
+    "The US Treasury par curve is nominal and does not separately identify expected inflation, real-rate expectations and term premium."
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-11-24 05:00 America/Sao_Paulo",
+    "comparative_editions": [
+      "MT-GM-2026-11-23",
+      "MT-GM-2026-11-22",
+      "MT-GM-2026-11-21"
+    ],
+    "novelty_decision": "Distinct regional-activity and financing-dispersion thesis; does not repeat the preceding cross-asset selloff, AI productivity/valuation or China iron-ore/steel-chain theses.",
+    "fact_inference_scenario_separated": true,
+    "bilingual_parity": {
+      "same_numeric_series": true,
+      "same_reference_count": true,
+      "charts": 2,
+      "tables": 3,
+      "flows": 1,
+      "maps": 1,
+      "references_en": 25,
+      "references_pt": 25
+    },
+    "visual_evidence": {
+      "charts": 2,
+      "tables": 3,
+      "flows": 1,
+      "maps": 1
+    },
+    "source_audit": {
+      "references": 25,
+      "primary_institutional_sources": 15,
+      "market_reporting_sources": 10,
+      "urls_unique": 25,
+      "domains": 17,
+      "reproducibility_notes": {
+        "pmi_comparison": "Flash composite PMI output indices published 23–24 Nov 2026; 50 is the expansion/contraction threshold. The values are survey diffusion indices, not GDP growth rates.",
+        "credit_spread": "ICE BofA US High Yield Index OAS via FRED: 3.23 on 13 Nov; 3.34 on 16 Nov; 3.43 on 17 Nov; 3.47 on 18 Nov; 3.52 on 19 Nov; 3.76 on 20 Nov. Latest observation available at cutoff.",
+        "treasury_curve": "US Treasury official daily par curve, 23 Nov 2026: 2-year 4.63%; 10-year 4.92%; 30-year 5.29%.",
+        "brazil_forecast": "Brazil Ministry of Finance Macrofiscal Bulletin Nov 2026, parameter grid comparison with September vintage; November grid closed 6 Nov.",
+        "oil_market": "Reuters settlement values for 23 Nov; IEA November report supplies October production and inventory estimates. Spot/futures settlement and monthly supply estimates are different observation types.",
+        "food_prices": "FAO October 2026 FFPI: 133.9, down 1.2% m/m; cereal 116.8, down 4.5%; sugar 121.3, up 6.6%.",
+        "market_flows": "IIF tracker published 5 Nov, estimating October non-resident EM portfolio outflows of US$33.8bn; monthly estimate, not daily flow."
+      }
+    },
+    "manual_preflight": {
+      "schema_v2": true,
+      "controlled_programs": true,
+      "controlled_topics": true,
+      "phenomena_valid": true,
+      "word_count_en": 3911,
+      "word_count_pt": 4500,
+      "references_en": 25,
+      "references_pt": 25,
+      "ready_for_independent_qa": true,
+      "repository_script_validator": "Repository validate-pipeline and validate-editorial-depth remain for the independent strict editorial workflow after commit.",
+      "revision": 1
+    },
+    "reconciliation_run_id": null
+  },
+  "revision": 1,
+  "revision_reason": "New daily Global Macro edition; the 24 November ID was absent from main HEAD.",
+  "revision_scope": [
+    "Create English and PT-BR research drafts with separate idiomatic copy.",
+    "Create a dedicated pending-v2 record with the registered daily-global-macro classification.",
+    "Add reproducible market, activity, energy, credit and flow visuals with identical numeric series and references in both locales."
+  ]
+}
