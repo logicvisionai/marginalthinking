@@ -18,7 +18,7 @@ The central signal is not an imminent global recession. It is a more uneven expa
 
 The November flash composite PMIs show the dispersion directly.
 
-\`\`\`chart
+```chart
 type: bar
 title: November 2026 flash composite PMI output indices
 unit: index points; 50 separates expansion from contraction
@@ -29,7 +29,7 @@ France | 46.2
 United Kingdom | 52.3
 Japan | 51.5
 India | 56.3
-\`\`\`
+```
 
 The indices are diffusion measures from business surveys, not growth rates. A reading of 55 does not mean that GDP grew by 5%. The surveys are useful for identifying direction, breadth and changes in momentum; they cannot substitute for national-accounts releases or establish the size of an output gap.
 
@@ -51,7 +51,7 @@ China’s official November manufacturing PMI was not available at the informati
 
 The latest policy decisions show why similar PMI readings do not imply similar financing conditions.
 
-\`\`\`table
+```table
 | Central bank | Latest documented policy setting | Most recent relevant decision |
 |---|---:|---|
 | Federal Reserve | 3.75%–4.00% target range | Held on 28 October; two members preferred a 25 bp increase |
@@ -60,7 +60,7 @@ The latest policy decisions show why similar PMI readings do not imply similar f
 | Reserve Bank of Australia | 4.85% cash-rate target | Raised 25 bp on 4 November, 6–3 vote |
 | Banco Central do Brasil | 13.75% Selic target | Held on 4 November |
 | Bank of Japan | 1.25% overnight-rate guideline | Last documented change effective 24 September |
-\`\`\`
+```
 
 These are not identical instruments and should not be compared as if they were a single global rate. They nevertheless show the range of nominal policy settings faced by borrowers. The Federal Reserve held its target range at 3.75%–4.00% in October, but the 10–2 vote included two members who preferred a 25 basis-point increase. The ECB’s deposit rate is 2.50%. The Bank of England raised Bank Rate to 4.00% on 5 November, and the RBA raised its cash-rate target to 4.85% on 4 November. Brazil held the Selic at 13.75%. The Bank of Japan’s last documented change set the overnight guideline at around 1.25%, effective 24 September. [8–13]
 
@@ -70,7 +70,9 @@ Brazil’s November Macrofiscal Bulletin adds a new fiscal and forecast signal. 
 
 The same bulletin provides a countervailing fiscal observation. The central-government primary deficit for January–September was R$89.7 billion, compared with R$103.2 billion in the corresponding 2025 period in the bulletin’s comparison. Real revenue growth of 6.5% exceeded real expenditure growth of 5.4%. The deficit remains a deficit, but the year-to-date comparison does not support a simple claim that the primary balance deteriorated in every dimension. The more difficult combination is slower projected growth, higher projected inflation and a high policy rate, which limits the room for demand support without worsening the inflation outlook.
 
-\`\`\`table
+Separately, the 23 November Focus survey reported by B3 raised the market median for the 2026 year-end exchange rate from R$5.40 to R$5.55 per US dollar, lifted the IPCA projection from 5.11% to 5.15%, and reduced the GDP-growth estimate from 1.72% to 1.70%. These are market medians for 2026, not the Ministry’s 2027 parameter grid. The difference in horizon and source matters: the Focus survey is a market-expectations measure, while the Macrofiscal Bulletin is the Ministry’s own forecast framework. [22]
+
+```table
 | Brazil: 2027 macrofiscal parameter | September vintage | November vintage | Revision |
 |---|---:|---:|---:|
 | Real GDP growth | 2.3% | 1.8% | −0.5 pp |
@@ -78,17 +80,25 @@ The same bulletin provides a countervailing fiscal observation. The central-gove
 | Selic assumption | 12.67% | 12.93% | +0.26 pp |
 | Exchange rate, R$/US$ | 5.23 | 5.34 | +0.11 |
 | Brent, US$/barrel | 79.50 | 95.20 | +15.70 |
-\`\`\`
+```
+
+```table
+| Brazil: 2026 Focus market median | Previous week | 23 November | Revision |
+|---|---:|---:|---:|
+| GDP growth | 1.72% | 1.70% | −0.02 pp |
+| IPCA inflation | 5.11% | 5.15% | +0.04 pp |
+| Exchange rate, R$/US$ | 5.40 | 5.55 | +0.15 |
+```
 
 ### 3. Markets: a sharp equity rebound has not repaired the credit signal
 
-US equities rose sharply on 23 November: the S&P 500 gained 4.7%, the Nasdaq 6.5%, the Dow 3.0% and the Russell 2000 3.4%. The move ended a seven-session losing streak and recovered just over half of the preceding week’s losses. Nvidia’s 31.5% rise and the broader rebound in semiconductor and AI-linked shares were major contributors. The event was a corporate-governance and sector-specific catalyst, not a new macroeconomic release. A one-day change in equity prices cannot establish that earnings, financing or productivity expectations have been repaired. [23]
+US equities rose sharply on 23 November: the S&P 500 gained 4.7%, the Nasdaq 6.5%, the Dow 3.0% and the Russell 2000 3.4%. The move ended a seven-session losing streak and recovered just over half of the preceding week’s losses. The rebound was led by technology and AI-linked shares; the Associated Press described the move as a sharp reversal after a week of losses. The event was a corporate-governance and sector-specific catalyst, not a new macroeconomic release. A one-day change in equity prices cannot establish that earnings, financing or productivity expectations have been repaired. [23]
 
 The official US Treasury par curve closed on 23 November at 4.63% for two years, 4.92% for ten years and 5.29% for thirty years. The 2s10s spread was therefore 29 basis points and the 10s30s spread 37 basis points. The curve is upward sloping, but long nominal yields remain high. The ten-year yield is not a pure measure of expected policy rates: it also reflects expected inflation, real rates and term premium. [14]
 
 The ICE BofA US High Yield Index option-adjusted spread reached 3.76 percentage points on 20 November, up from 3.23 on 13 November. The 53-basis-point increase over five trading sessions is a meaningful repricing of below-investment-grade corporate risk. It is not, by itself, evidence of a credit crisis: the series measures a US dollar-denominated high-yield bond index, not all corporate loans, private credit or global borrowers. The latest observation available at the cutoff is 20 November, so it must not be presented as a 23 November close. [15]
 
-\`\`\`chart
+```chart
 type: bar
 title: US high-yield option-adjusted spread, 13–20 November 2026
 unit: percentage points; daily close
@@ -98,7 +108,7 @@ unit: percentage points; daily close
 18 Nov | 3.47
 19 Nov | 3.52
 20 Nov | 3.76
-\`\`\`
+```
 
 The contrast between the equity and credit markets is the central market qualification. Equity prices can rebound quickly when a concentrated source of uncertainty is removed. Credit spreads respond to the expected ability of borrowers to refinance and service debt across a longer horizon. The widening spread is consistent with a market that is more selective about weak balance sheets even while large-cap technology shares recover. It does not establish that every borrower is facing a funding shortage.
 
@@ -108,7 +118,7 @@ The Institute of International Finance estimated US$33.8 billion of non-resident
 
 ### 4. Energy and commodities: cheaper crude, persistent product and logistics risk
 
-Brent futures for January delivery settled at US$89.37 per barrel on 23 November, down US$3.20 or 3.46%. WTI settled at US$80.17, down US$3.24 or 3.88%. Reuters attributed the fall to increased Middle Eastern supply and the reopening of Libya’s Sharara pipeline. The market close was lower even though Reuters also reported shipping incidents and claims of attacks in the Gulf. The Houthi movement’s statement about an attack on a Saudi refinery, the UK Maritime Trade Operations’ reports of attacks on shipping, and the different accounts given by Bahrain and Iran must remain attributed to those actors and reporting institutions. The available evidence does not quantify a new, sustained loss of regional oil output from those claims. [19]
+Brent futures for January delivery settled at US$89.37 per barrel on 23 November, down US$3.20 or 3.46%. WTI settled at US$80.17, down US$3.24 or 3.88%. Reuters attributed the fall to increased Middle Eastern supply and the reopening of Libya’s Sharara pipeline. The market close was lower even though Reuters also reported shipping incidents and claims of attacks in the Gulf. The Houthi movement’s statement about an attack on a Saudi refinery, the UK Maritime Trade Operations’ reports of attacks on shipping, and the different accounts given by Bahrain and Iran must remain attributed to those actors and reporting institutions. The available evidence does not quantify a new, sustained loss of regional oil output from those claims. [18]
 
 The IEA’s November Oil Market Report estimates that global oil supply rose by 2.3 million barrels per day in October to 105.4 million barrels per day. Global observed inventories increased by 52 million barrels during the month. The report also warns that onshore stocks are at their lowest level since at least 2016 and that refined-product markets remain tight. European diesel prices were still 77% above their pre-war level. These observations are compatible: crude supply can recover while product inventories, refining capacity, freight and insurance remain constrained. [18]
 
@@ -118,11 +128,11 @@ The Indian market for Russian Urals crude illustrates how those flows are being 
 
 Food commodities are also diverging. The FAO Food Price Index averaged 133.9 points in October, down 1.2% from September. The cereal index fell 4.5%, while the sugar index rose 6.6% to its highest level since December 2024. FAO linked the sugar increase partly to rainfall-related disruption of sugarcane harvesting and crushing in Brazil’s Centre-South region, as well as concerns about production in India, the European Union and Thailand. The aggregate food index is an international commodity basket, not a measure of retail food prices or household affordability. The meat component also uses a mixture of projected and observed prices in the latest month and can be revised. [25]
 
-The climate-policy signal is separate from the near-term oil balance. Reuters reported that COP31 talks ended without agreement on language for a fossil-fuel phase-out. That outcome indicates a continuing political divide over the transition, but it does not change current production capacity or create a new investment commitment by itself. OPEC+ ministers are due to discuss 2027 output policy on 29 November. [19]
+The Bank of England’s 5 November Monetary Policy Report, using futures and storage information available in late October, had already noted elevated diesel and jet-fuel crack spreads and European gas storage below its 2018–25 average. Those are not 23 November inventory observations, but they reinforce why the crude benchmark alone is an incomplete measure of delivered energy costs. OPEC+ ministers are due to discuss 2027 output policy on 29 November. [10, 18]
 
 ### 5. Transmission: why the same global cycle produces different outcomes
 
-\`\`\`flow
+```flow
 Regional PMI divergence
   -> different revenue, hiring and inventory paths
   -> different domestic inflation and capacity pressures
@@ -141,9 +151,9 @@ Higher high-yield spreads and emerging-market outflows
   -> weaker investment by marginal borrowers
   -> more selective hiring and procurement
   -> wider regional differences in growth
-\`\`\`
+```
 
-\`\`\`map
+```map
 | Region or market | Current signal | Main transmission channel | Qualification |
 |---|---|---|---|
 | United States | Composite PMI 54.6; high-yield spread 3.76 on 20 Nov | Credit cost, technology investment and long yields | Equity rebound is one session; spread data lag by one trading day |
@@ -153,7 +163,7 @@ Higher high-yield spreads and emerging-market outflows
 | India | Composite PMI 56.3; wider Urals discount | Manufacturing demand, energy procurement and external financing | Trade prices are based on trader reports |
 | Brazil | 2027 growth assumption 1.8%; PTAX R$5.9708 | Fiscal expectations, high Selic and commodity receipts | Ministry forecast vintage closed on 6 Nov |
 | Gulf and Libya | Brent US$89.37; supply recovery | Export flows, shipping security and refined-product costs | Reported attacks and claims do not quantify lost output |
-\`\`\`
+```
 
 The base case is continued global expansion with wider differences between countries and sectors. The United States, euro area, United Kingdom, Japan and India remain above the PMI threshold, but the latest readings do not show a common acceleration. Germany and India provide stronger industrial signals; France and the Japanese service sector are weaker. Lower crude prices provide some relief to headline inflation, while refined products, credit and exchange-rate channels remain restrictive.
 
@@ -182,8 +192,8 @@ The relevant risk is a widening gap between economies and borrowers that can fin
 9. European Central Bank, “Key ECB interest rates”, current schedule as of 24 November 2026. https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
 10. Bank of England, “Monetary Policy Report — November 2026”, 5 November 2026. https://www.bankofengland.co.uk/monetary-policy-report/2026/november-2026
 11. Reserve Bank of Australia, “Statement by the Monetary Policy Board: Monetary Policy Decision”, 3 November 2026. https://www.rba.gov.au/media-releases/2026/mr-26-30.html
-12. Banco Central do Brasil, policy-rate overview and Copom decision, 4 November 2026. https://www.bcb.gov.br/
-13. Bank of Japan, “Change in the Guideline for Money Market Operations”, 18 September 2026. https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf
+12. Banco Central do Brasil, minutes of the 282nd Copom meeting, 4 November 2026. https://www.bcb.gov.br/publicacoes/atascopom/04112026
+13. Bank of Japan, “Outlook for Economic Activity and Prices — October 2026”, recording the 1.25% overnight call-rate level following the September increase. https://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf
 14. U.S. Department of the Treasury, “Daily Treasury Par Yield Curve Rates”, 23 November 2026. https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
 15. Federal Reserve Bank of St. Louis, FRED, “ICE BofA US High Yield Index Option-Adjusted Spread”, observations through 20 November 2026. https://fred.stlouisfed.org/data/BAMLH0A0HYM2
 16. Institute of International Finance, “IIF Capital Flows Tracker: November 2026”, 5 November 2026. https://www.iif.com/publications/portfolio-flows-tracker
@@ -191,8 +201,8 @@ The relevant risk is a widening gap between economies and borrowers that can fin
 18. Reuters, “Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart”, 23 November 2026. https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/
 19. Reuters, “Russian Urals oil discounts widen at Indian ports, sources say”, 23 November 2026. https://www.reuters.com/business/energy/russian-urals-oil-discounts-widen-indian-ports-sources-say-2026-11-23/
 20. Brazilian Ministry of Finance, “Boletim Macrofiscal de Novembro de 2026”, 23 November 2026. https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/boletim-macrofiscal/2026/2026-11-23_boletim_macrofiscal_vf4.pdf/@@download/file
-21. Banco Central do Brasil, PTAX exchange rates, 23 November 2026. https://ptax.bcb.gov.br/ptax_internet/consultarTodasAsMoedas.do?method=consultaTodasMoedas
+21. Banco Central do Brasil, official homepage market data, PTAX dollar selling rate on 23 November 2026. https://www.bcb.gov.br/
 22. B3, “Ibovespa B3 recua 0,95%, puxado por cautela e petróleo; dólar cai a R$ 5,92”, 23 November 2026. https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592/
-23. Associated Press, “US stocks surge and recover half of last week’s plunge”, 23 November 2026. https://apnews.com/article/49ba1beba78fa4ed2bd5898029f79c91
+23. Associated Press, “US stocks surge and recover half of last week’s plunge”, 23 November 2026. https://apnews.com/article/stocks-markets-rates-technology-ai-anthropic-49ba1beba78fa4ed2bd5898029f79c91
 24. The Wall Street Journal, “The WSJ Dollar Index Rises 0.27% to 99.02”, 23 November 2026. https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e
 25. Food and Agriculture Organization of the United Nations, “FAO Food Price Index”, October 2026 release, 6 November 2026. https://www.fao.org/worldfoodsituation/foodpricesindex

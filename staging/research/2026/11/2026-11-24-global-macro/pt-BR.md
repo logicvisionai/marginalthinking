@@ -18,7 +18,7 @@ O sinal central não é uma recessão global iminente. É uma expansão mais des
 
 Os PMIs compostos preliminares de novembro mostram diretamente essa dispersão.
 
-\`\`\`chart
+```chart
 type: bar
 title: Índices compostos de atividade PMI — novembro de 2026
 unit: pontos do índice; 50 separa expansão de contração
@@ -29,7 +29,7 @@ França | 46.2
 Reino Unido | 52.3
 Japão | 51.5
 Índia | 56.3
-\`\`\`
+```
 
 Os índices são medidas de difusão derivadas de pesquisas empresariais, não taxas de crescimento. Uma leitura de 55 não significa que o PIB cresceu 5%. As pesquisas ajudam a identificar direção, abrangência e mudanças de ritmo; não substituem as contas nacionais nem determinam o tamanho do hiato do produto.
 
@@ -51,7 +51,7 @@ O PMI industrial oficial chinês de novembro ainda não estava disponível no ho
 
 As decisões mais recentes mostram por que leituras semelhantes de PMI não implicam condições de financiamento semelhantes.
 
-\`\`\`table
+```table
 | Banco central | Última configuração documentada | Decisão relevante mais recente |
 |---|---:|---|
 | Federal Reserve | Faixa de 3,75%–4,00% | Manteve em 28 de outubro; dois membros preferiam alta de 25 pb |
@@ -60,7 +60,7 @@ As decisões mais recentes mostram por que leituras semelhantes de PMI não impl
 | Reserve Bank of Australia | Meta de 4,85% | Elevou 25 pb em 4 de novembro, votação de 6–3 |
 | Banco Central do Brasil | Meta Selic de 13,75% | Manteve em 4 de novembro |
 | Banco do Japão | Diretriz de 1,25% para a taxa overnight | Última alteração documentada efetiva em 24 de setembro |
-\`\`\`
+```
 
 Esses instrumentos não são idênticos e não devem ser comparados como se fossem uma única taxa global. Ainda assim, mostram a amplitude das referências nominais enfrentadas pelos tomadores de crédito. O Federal Reserve manteve a faixa de 3,75%–4,00% em outubro, mas a votação de 10–2 incluiu dois membros favoráveis a uma alta de 25 pontos-base. A taxa de depósito do BCE é de 2,50%. O Banco da Inglaterra elevou a Bank Rate para 4,00% em 5 de novembro, e o RBA elevou sua meta para 4,85% em 4 de novembro. O Brasil manteve a Selic em 13,75%. A última alteração documentada pelo Banco do Japão estabeleceu uma diretriz próxima de 1,25%, efetiva em 24 de setembro. [8–13]
 
@@ -70,7 +70,9 @@ O Boletim Macrofiscal de novembro do Ministério da Fazenda acrescenta um novo s
 
 O mesmo boletim oferece uma observação fiscal em sentido contrário. O déficit primário do governo central entre janeiro e setembro foi de R$89,7 bilhões, ante R$103,2 bilhões no período correspondente de 2025, segundo a comparação do documento. O crescimento real da receita, de 6,5%, superou o das despesas, de 5,4%. O déficit continua sendo um déficit, mas a comparação acumulada no ano não sustenta a afirmação simplificada de que o resultado primário piorou em todas as dimensões. A combinação mais difícil é crescimento projetado menor, inflação projetada maior e taxa básica elevada, o que limita o espaço para sustentar a demanda sem agravar o quadro inflacionário.
 
-\`\`\`table
+Separadamente, o Relatório Focus de 23 de novembro, divulgado pela B3, elevou a mediana de mercado para o câmbio no fim de 2026 de R$5,40 para R$5,55 por dólar, aumentou a projeção de IPCA de 5,11% para 5,15% e reduziu a estimativa de crescimento do PIB de 1,72% para 1,70%. São medianas de mercado para 2026, não a grade de parâmetros do Ministério para 2027. A diferença de horizonte e de fonte importa: o Focus mede expectativas do mercado, enquanto o Boletim Macrofiscal apresenta o quadro de projeções do próprio Ministério. [22]
+
+```table
 | Brasil: parâmetro macrofiscal de 2027 | Versão de setembro | Versão de novembro | Revisão |
 |---|---:|---:|---:|
 | Crescimento real do PIB | 2,3% | 1,8% | −0,5 p.p. |
@@ -78,17 +80,25 @@ O mesmo boletim oferece uma observação fiscal em sentido contrário. O défici
 | Hipótese para a Selic | 12,67% | 12,93% | +0,26 p.p. |
 | Câmbio, R$/US$ | 5,23 | 5,34 | +0,11 |
 | Brent, US$/barril | 79,50 | 95,20 | +15,70 |
-\`\`\`
+```
+
+```table
+| Brasil: mediana de mercado do Focus para 2026 | Semana anterior | 23 de novembro | Revisão |
+|---|---:|---:|---:|
+| Crescimento do PIB | 1,72% | 1,70% | −0,02 p.p. |
+| Inflação IPCA | 5,11% | 5,15% | +0,04 p.p. |
+| Câmbio, R$/US$ | 5,40 | 5,55 | +0,15 |
+```
 
 ### 3. Mercados: recuperação forte das ações, mas o crédito não voltou ao ponto anterior
 
-As ações americanas avançaram fortemente em 23 de novembro: o S&P 500 subiu 4,7%, o Nasdaq 6,5%, o Dow 3,0% e o Russell 2000, 3,4%. O movimento encerrou uma sequência de sete sessões de queda e recuperou pouco mais da metade das perdas da semana anterior. A alta de 31,5% da Nvidia e a recuperação mais ampla de ações de semicondutores e ligadas à IA foram contribuições importantes. O evento foi um catalisador corporativo e setorial, não uma nova divulgação macroeconômica. Uma variação de um dia nos preços das ações não demonstra que as expectativas de lucro, financiamento ou produtividade tenham sido reparadas. [23]
+As ações americanas avançaram fortemente em 23 de novembro: o S&P 500 subiu 4,7%, o Nasdaq 6,5%, o Dow 3,0% e o Russell 2000, 3,4%. O movimento encerrou uma sequência de sete sessões de queda e recuperou pouco mais da metade das perdas da semana anterior. A recuperação foi liderada por ações de tecnologia e ligadas à IA; a Associated Press descreveu o movimento como uma reversão acentuada após uma semana de perdas. O evento foi um catalisador corporativo e setorial, não uma nova divulgação macroeconômica. Uma variação de um dia nos preços das ações não demonstra que as expectativas de lucro, financiamento ou produtividade tenham sido reparadas. [23]
 
 A curva nominal de paridade do Tesouro americano encerrou 23 de novembro em 4,63% para dois anos, 4,92% para dez anos e 5,29% para trinta anos. O spread 2s10s foi, portanto, de 29 pontos-base, e o spread 10s30s, de 37 pontos-base. A curva é ascendente, mas os rendimentos longos permanecem altos. O rendimento de dez anos não é uma medida pura da trajetória esperada da política monetária: também incorpora inflação esperada, juros reais e prêmio de prazo. [14]
 
 O spread ajustado por opções do ICE BofA US High Yield Index alcançou 3,76 pontos percentuais em 20 de novembro, ante 3,23 em 13 de novembro. A alta de 53 pontos-base em cinco sessões é uma reprecificação relevante do risco de crédito corporativo abaixo do grau de investimento. Não constitui, por si só, evidência de crise de crédito: a série mede um índice de títulos de alto rendimento denominados em dólares e emitidos no mercado doméstico americano, não todos os empréstimos corporativos, o crédito privado ou os devedores globais. A última observação disponível no horário de corte é 20 de novembro; ela não deve ser apresentada como fechamento de 23 de novembro. [15]
 
-\`\`\`chart
+```chart
 type: bar
 title: Spread ajustado por opções da dívida high yield americana, 13–20 de novembro de 2026
 unit: pontos percentuais; fechamento diário
@@ -98,7 +108,7 @@ unit: pontos percentuais; fechamento diário
 18 nov | 3.47
 19 nov | 3.52
 20 nov | 3.76
-\`\`\`
+```
 
 O contraste entre ações e crédito é a principal qualificação do mercado. Os preços das ações podem se recuperar rapidamente quando uma fonte concentrada de incerteza é removida. Os spreads de crédito respondem à capacidade esperada dos devedores de refinanciar e servir suas dívidas em horizonte mais longo. O aumento do spread é compatível com um mercado mais seletivo em relação a balanços frágeis, mesmo enquanto ações de tecnologia de grande capitalização se recuperam. Não demonstra que todos os tomadores estejam enfrentando falta de financiamento.
 
@@ -108,7 +118,7 @@ O Institute of International Finance estimou saídas de US$33,8 bilhões em flux
 
 ### 4. Energia e commodities: petróleo bruto mais barato, riscos persistentes nos derivados e na logística
 
-Os contratos futuros de Brent para entrega em janeiro liquidaram a US$89,37 por barril em 23 de novembro, queda de US$3,20 ou 3,46%. O WTI encerrou a US$80,17, queda de US$3,24 ou 3,88%. A Reuters atribuiu o recuo ao aumento da oferta do Oriente Médio e à reabertura do oleoduto Sharara, na Líbia. O fechamento ocorreu em baixa mesmo com relatos de incidentes marítimos e alegações de ataques no Golfo. A declaração do movimento Houthi sobre um ataque a uma refinaria saudita, os relatos de ataques a embarcações feitos pela UK Maritime Trade Operations e as versões distintas apresentadas por Bahrein e Irã devem permanecer atribuídos aos respectivos atores e instituições de informação. As evidências disponíveis não quantificam uma nova perda sustentada de produção regional de petróleo decorrente dessas alegações. [19]
+Os contratos futuros de Brent para entrega em janeiro liquidaram a US$89,37 por barril em 23 de novembro, queda de US$3,20 ou 3,46%. O WTI encerrou a US$80,17, queda de US$3,24 ou 3,88%. A Reuters atribuiu o recuo ao aumento da oferta do Oriente Médio e à reabertura do oleoduto Sharara, na Líbia. O fechamento ocorreu em baixa mesmo com relatos de incidentes marítimos e alegações de ataques no Golfo. A declaração do movimento Houthi sobre um ataque a uma refinaria saudita, os relatos de ataques a embarcações feitos pela UK Maritime Trade Operations e as versões distintas apresentadas por Bahrein e Irã devem permanecer atribuídos aos respectivos atores e instituições de informação. As evidências disponíveis não quantificam uma nova perda sustentada de produção regional de petróleo decorrente dessas alegações. [18]
 
 O Relatório do Mercado de Petróleo de novembro da AIE estima que a oferta global aumentou 2,3 milhões de barris por dia em outubro, para 105,4 milhões de barris por dia. Os estoques globais observados cresceram 52 milhões de barris no mês. O relatório também alerta que os estoques terrestres estão no menor nível desde pelo menos 2016 e que os mercados de derivados continuam apertados. O diesel europeu ainda estava 77% acima do nível anterior à guerra. As observações são compatíveis: a oferta de petróleo bruto pode se recuperar enquanto estoques de derivados, capacidade de refino, frete e seguro permanecem restritivos. [18]
 
@@ -118,11 +128,11 @@ O mercado indiano de petróleo Urals russo ilustra como esses fluxos estão send
 
 As commodities alimentares também apresentam movimentos distintos. O índice de preços de alimentos da FAO ficou em 133,9 pontos em outubro, queda de 1,2% frente a setembro. O índice de cereais recuou 4,5%, enquanto o índice de açúcar subiu 6,6%, alcançando o maior nível desde dezembro de 2024. A FAO relacionou a alta do açúcar, em parte, a interrupções causadas por chuvas na colheita e moagem da cana na região Centro-Sul do Brasil, além de preocupações com a produção na Índia, União Europeia e Tailândia. O índice agregado da FAO é uma cesta internacional de commodities, não uma medida de preços no varejo ou de acessibilidade alimentar das famílias. O componente de carnes também utiliza uma combinação de preços projetados e observados no mês mais recente e pode ser revisado. [25]
 
-O sinal de política climática é distinto do balanço de petróleo de curto prazo. A Reuters informou que as negociações da COP31 terminaram sem acordo sobre uma formulação para a eliminação gradual dos combustíveis fósseis. O resultado indica uma divisão política persistente sobre a transição, mas não altera a capacidade produtiva atual nem cria, por si só, um novo compromisso de investimento. Os ministros da OPEP+ devem discutir a política de produção para 2027 em 29 de novembro. [19]
+O Relatório de Política Monetária de 5 de novembro do Banco da Inglaterra, com dados de futuros e estoques disponíveis no fim de outubro, já registrava spreads de diesel e querosene de aviação elevados e armazenamento europeu de gás abaixo da média de 2018–25. Esses dados não são observações de estoques em 23 de novembro, mas reforçam por que o preço do petróleo bruto é uma medida incompleta do custo energético entregue. Os ministros da OPEP+ devem discutir a política de produção para 2027 em 29 de novembro. [10, 18]
 
 ### 5. Transmissão: por que o mesmo ciclo global produz resultados diferentes
 
-\`\`\`flow
+```flow
 Divergência regional dos PMIs
   -> trajetórias diferentes de receita, emprego e estoques
   -> pressões distintas de inflação doméstica e capacidade
@@ -141,9 +151,9 @@ Spreads high yield mais altos e saídas de emergentes
   -> menor investimento dos tomadores marginais
   -> contratação e compras mais seletivas
   -> ampliação das diferenças regionais de crescimento
-\`\`\`
+```
 
-\`\`\`map
+```map
 | Região ou mercado | Sinal atual | Principal canal de transmissão | Qualificação |
 |---|---|---|---|
 | Estados Unidos | PMI composto 54,6; spread high yield 3,76 em 20 nov. | Custo do crédito, investimento em tecnologia e juros longos | Recuperação das ações ocorreu em uma sessão; spread tem defasagem de um pregão |
@@ -153,7 +163,7 @@ Spreads high yield mais altos e saídas de emergentes
 | Índia | PMI composto 56,3; desconto maior do Urals | Demanda manufatureira, aquisição de energia e financiamento externo | Preços de comércio baseados em relatos de operadores |
 | Brasil | Hipótese de crescimento de 1,8% em 2027; PTAX R$5,9708 | Expectativas fiscais, Selic elevada e receitas de commodities | Grade do Ministério fechada em 6 nov. |
 | Golfo e Líbia | Brent US$89,37; recuperação de oferta | Fluxos de exportação, segurança marítima e custos de derivados | Relatos de ataques e alegações não quantificam perda de produção |
-\`\`\`
+```
 
 O cenário-base é de continuidade da expansão global, com diferenças maiores entre países e setores. Estados Unidos, zona do euro, Reino Unido, Japão e Índia permanecem acima do limiar dos PMIs, mas as leituras mais recentes não mostram aceleração comum. Alemanha e Índia apresentam sinais industriais mais fortes; França e os serviços japoneses estão mais fracos. A queda do petróleo bruto oferece algum alívio à inflação cheia, enquanto derivados, crédito e câmbio continuam restritivos.
 
@@ -182,8 +192,8 @@ O risco relevante é a ampliação da distância entre economias e tomadores cap
 9. Banco Central Europeu, “Key ECB interest rates”, quadro vigente em 24 de novembro de 2026. https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
 10. Banco da Inglaterra, “Monetary Policy Report — November 2026”, 5 de novembro de 2026. https://www.bankofengland.co.uk/monetary-policy-report/2026/november-2026
 11. Reserve Bank of Australia, “Statement by the Monetary Policy Board: Monetary Policy Decision”, 3 de novembro de 2026. https://www.rba.gov.au/media-releases/2026/mr-26-30.html
-12. Banco Central do Brasil, quadro da taxa de política monetária e decisão do Copom de 4 de novembro de 2026. https://www.bcb.gov.br/
-13. Banco do Japão, “Change in the Guideline for Money Market Operations”, 18 de setembro de 2026. https://www.boj.or.jp/en/mopo/mpmsche_minu/minu_2026/g260918.pdf
+12. Banco Central do Brasil, ata da 282ª reunião do Copom, 4 de novembro de 2026. https://www.bcb.gov.br/publicacoes/atascopom/04112026
+13. Banco do Japão, “Outlook for Economic Activity and Prices — October 2026”, que registra a taxa overnight em 1,25% após a elevação de setembro. https://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf
 14. Departamento do Tesouro dos Estados Unidos, “Daily Treasury Par Yield Curve Rates”, 23 de novembro de 2026. https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
 15. Federal Reserve Bank of St. Louis, FRED, “ICE BofA US High Yield Index Option-Adjusted Spread”, observações até 20 de novembro de 2026. https://fred.stlouisfed.org/data/BAMLH0A0HYM2
 16. Institute of International Finance, “IIF Capital Flows Tracker: November 2026”, 5 de novembro de 2026. https://www.iif.com/publications/portfolio-flows-tracker
@@ -191,8 +201,8 @@ O risco relevante é a ampliação da distância entre economias e tomadores cap
 18. Reuters, “Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart”, 23 de novembro de 2026. https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/
 19. Reuters, “Russian Urals oil discounts widen at Indian ports, sources say”, 23 de novembro de 2026. https://www.reuters.com/business/energy/russian-urals-oil-discounts-widen-indian-ports-sources-say-2026-11-23/
 20. Ministério da Fazenda do Brasil, “Boletim Macrofiscal de Novembro de 2026”, 23 de novembro de 2026. https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/boletim-macrofiscal/2026/2026-11-23_boletim_macrofiscal_vf4.pdf/@@download/file
-21. Banco Central do Brasil, cotações PTAX, 23 de novembro de 2026. https://ptax.bcb.gov.br/ptax_internet/consultarTodasAsMoedas.do?method=consultaTodasMoedas
+21. Banco Central do Brasil, dados oficiais de mercado na página institucional, taxa de venda PTAX em 23 de novembro de 2026. https://www.bcb.gov.br/
 22. B3, “Ibovespa B3 recua 0,95%, puxado por cautela e petróleo; dólar cai a R$ 5,92”, 23 de novembro de 2026. https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592/
-23. Associated Press, “US stocks surge and recover half of last week’s plunge”, 23 de novembro de 2026. https://apnews.com/article/49ba1beba78fa4ed2bd5898029f79c91
+23. Associated Press, “US stocks surge and recover half of last week’s plunge”, 23 de novembro de 2026. https://apnews.com/article/stocks-markets-rates-technology-ai-anthropic-49ba1beba78fa4ed2bd5898029f79c91
 24. The Wall Street Journal, “The WSJ Dollar Index Rises 0.27% to 99.02”, 23 de novembro de 2026. https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e
 25. Organização das Nações Unidas para a Alimentação e a Agricultura, “FAO Food Price Index”, divulgação de outubro de 2026, 6 de novembro de 2026. https://www.fao.org/worldfoodsituation/foodpricesindex
