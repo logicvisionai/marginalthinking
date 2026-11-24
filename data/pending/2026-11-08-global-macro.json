@@ -33,15 +33,12 @@
     "trade-investment",
     "industry-production",
     "energy",
-    "commodities-resources",
-    "geopolitics-security"
+    "commodities-resources"
   ],
-  "phenomena": [
-    "strategic-competition"
-  ],
+  "phenomena": [],
   "format": "brief",
   "cadence": "daily",
-  "revision": 2,
+  "revision": 3,
   "assessment_confidence": "medium",
   "sources": {
     "en": {
@@ -121,14 +118,18 @@
       "search_text": "Global Macro 8 novembro 2026 emprego americano produtividade custo unitário trabalho CPI Fed BCE Selic China PMI spreads high yield fluxos emergentes petróleo alimentos"
     }
   },
-  "revision_reason": "Revision 2 resolves the open QA rejection: expands the bilingual analysis beyond the 1,700-word daily floor, adds six-plus analytical H2 sections, adds a second sourced chart and three evidence tables, and replaces internal-only support with independently traceable primary institutional and market sources. The 05:00 BRT cutoff and the original thesis are preserved; no post-cutoff observation is introduced.",
+  "revision_reason": "Revision 3 resolves the open QA findings: adds a separate original Reuters oil-market source for the January Brent settlement, reconciles bilingual source counts and distinct hosts, removes the unsupported strategic-competition/geopolitics-security classification, and removes a non-geographic card from the regional map. The 05:00 BRT cutoff and original analytical thesis are preserved; no post-cutoff observation is introduced.",
   "revision_scope": [
     "Expand the labour analysis with the 6 November BLS payroll release and the 5 November preliminary Q3 productivity and unit-labour-cost release.",
     "Add a second quantitative chart for BLS Q3 productivity and unit labour costs, with identical numeric series in EN and PT-BR.",
     "Add central-bank policy comparison using the 28 October Federal Reserve statement, 29 October ECB decision and 4 November Copom statement.",
     "Add official China October PMI detail, US high-yield OAS as of 5 November, ECB reference FX rates as of 6 November, IIF October EM portfolio-flow estimate and FAO October food-price index.",
     "Expand both editions beyond 1,700 substantive words, with at least six analytical H2 sections, three tables, two charts, one flow and one regional map.",
-    "Replace internal-only market references with 14 external source entries; all observations remain within the 8 November 05:00 BRT information cutoff."
+    "Replace internal-only market references with 14 external source entries; all observations remain within the 8 November 05:00 BRT information cutoff.",
+    "Add the 6 November Reuters oil-market report as a separate source for January Brent futures; retain the existing Reuters equity report only for Nasdaq and S&P performance.",
+    "Reconcile external reference counts, market-reporting source count, distinct hostnames and bilingual manual-preflight values.",
+    "Remove strategic-competition and geopolitics-security because the report does not defend a strategic-competition mechanism.",
+    "Remove the non-geographic commodity-importer/exporter grouping from the regional map."
   ],
   "producer_checks": {
     "information_cutoff": "2026-11-08 05:00 America/Sao_Paulo",
@@ -146,8 +147,8 @@
       "tables": 3,
       "flows": 1,
       "maps": 1,
-      "references_en": 13,
-      "references_pt": 13
+      "references_en": 14,
+      "references_pt": 14
     },
     "visual_evidence": {
       "charts": 2,
@@ -156,13 +157,13 @@
       "maps": 1
     },
     "source_audit": {
-      "references": 13,
+      "references": 14,
       "primary_institutional_sources": 12,
-      "market_reporting_sources": 1,
+      "market_reporting_sources": 2,
       "market_data_series": 1,
-      "unique_external_urls": 13,
-      "domains": 11,
-      "cutoff_audit": "All selected observations and releases were available by 2026-11-08 05:00 BRT. The 6 November BLS employment release, BLS productivity release, Treasury curve, ECB reference rates and Reuters market close predate the cutoff; FRED credit observation is limited to 5 November; no 6 November FRED update or later release is used.",
+      "unique_external_urls": 14,
+      "domains": 10,
+      "cutoff_audit": "All selected observations and releases were available by 2026-11-08 05:00 BRT. The 6 November BLS employment release, BLS productivity release, Treasury curve, ECB reference rates and Reuters market close predate the cutoff; FRED credit observation is limited to 5 November; no 6 November FRED update or later release is used. The separate Reuters oil-market report for the 6 November January Brent settlement was published before the 8 November 05:00 BRT cutoff.",
       "reproducibility_notes": {
         "employment": "BLS Employment Situation for October 2026: payrolls +165,000, unemployment 4.1%, average hourly earnings +0.4% m/m and +3.1% y/y; August/September revisions +84,000 combined.",
         "productivity": "BLS preliminary Q3 2026: nonfarm productivity +3.6% annualised q/q and +2.1% y/y; unit labour costs -0.7% annualised q/q and +2.4% y/y; manufacturing ULC +2.7% annualised q/q and +4.0% y/y.",
@@ -173,7 +174,8 @@
         "fx": "ECB 6 Nov reference rates: EUR/USD 1.1165, EUR/BRL 6.1449, EUR/JPY 176.77 and EUR/CNY 7.4485; reference rates, not executable quotes.",
         "flows": "IIF November tracker published 5 Nov: estimated October non-resident EM portfolio outflows US$33.8bn, after US$19.3bn outflows in September.",
         "food": "FAO October 2026 FFPI 133.9, -1.2% m/m and +5.9% y/y; cereals -4.5% m/m; sugar +6.6% m/m.",
-        "equities": "Reuters 6 Nov market report: Nasdaq +1.1% Friday and -3.4% week; S&P 500 +0.32% Friday and -2.7% week. Market reporting source, not an official index-provider close series."
+        "equities": "Reuters 6 Nov market report: Nasdaq +1.1% Friday and -3.4% week; S&P 500 +0.32% Friday and -2.7% week. Market reporting source, not an official index-provider close series.",
+        "oil_market": "Reuters, 'Crude gains on worries about renewed US attacks on Iran', 6 November 2026: January Brent futures settled at US$98.32/bbl, up US$0.03 (+0.03%). This is a distinct market-reporting source from the Reuters equity-market report and predates the information cutoff."
       }
     },
     "manual_preflight": {
@@ -181,13 +183,13 @@
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 3154,
-      "word_count_pt": 3579,
-      "references_en": 13,
-      "references_pt": 13,
+      "word_count_en": 3157,
+      "word_count_pt": 3599,
+      "references_en": 14,
+      "references_pt": 14,
       "ready_for_independent_qa": true,
       "repository_script_validator": "Run exact-head validate-pipeline.mjs and validate-editorial-depth.mjs after commit; no successful execution is claimed by the producer.",
-      "revision": 2,
+      "revision": 3,
       "chart_count": 2
     },
     "reconciliation_run_id": null
@@ -197,6 +199,10 @@
     "VISUAL_BUDGET_SECOND_CHART_AND_THREE_TABLES",
     "SOURCE_COVERAGE_EIGHT_URLS_FOUR_HOSTS",
     "BILINGUAL_NUMERIC_SERIES_PARITY",
-    "SOURCE_CUTOFF_2026-11-08T05:00-03:00"
+    "SOURCE_CUTOFF_2026-11-08T05:00-03:00",
+    "BRENT_SETTLEMENT_SOURCE_REFERENCE",
+    "SOURCE_AUDIT_COUNTS_RECONCILED",
+    "UNSUPPORTED_STRATEGIC_COMPETITION_REMOVED",
+    "NON_GEOGRAPHIC_MAP_CARD_REMOVED"
   ]
 }

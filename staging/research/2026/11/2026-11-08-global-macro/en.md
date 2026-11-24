@@ -78,7 +78,7 @@ Foreign-exchange references show how the dollar channel can reach different mark
 | US high-yield OAS | 3.48% | 5 Nov; US below-investment-grade debt [5] |
 | EUR/USD reference | 1.1165 | 6 Nov; ECB reference rate [12] |
 | EUR/BRL reference | 6.1449 | 6 Nov; ECB reference rate [12] |
-| Brent futures | US$98.32/barrel | 6 Nov settlement reported by Reuters [13] |
+| January Brent futures | US$98.32/barrel | 6 Nov settlement reported by Reuters [14] |
 | FAO Food Price Index | 133.9 points | October; −1.2% m/m, +5.9% y/y [10] |
 | Non-resident EM portfolio flows | −US$33.8bn | October estimate; largest monthly outflow since March [11] |
 
@@ -118,7 +118,6 @@ United States | Labour, inflation and policy expectations | Payrolls and Q3 prod
 Euro area | Energy, sovereign yields and common monetary policy | ECB held rates; national activity and fiscal positions differ
 China | Manufacturing orders and input costs | Official PMI is below 50; it is not a measure of physical output
 Brazil and Latin America | Selic, currency and portfolio funding | Domestic inflation expectations interact with external flows
-Commodity importers and exporters | Oil, food and freight | Benchmark prices do not equal delivered costs or household prices
 ```
 
 The base case is not a forecast of recession or a rate increase. It is a period in which the next US inflation observation has unusually high information value because the labour market remains resilient while productivity and unit labour costs send a more mixed signal. An upside scenario for risk assets would combine a broad moderation in CPI, continued productivity gains, stable credit spreads, less negative emerging-market flows and lower delivered energy costs. That combination would reduce the chance that the Fed needs to respond to wage growth with a more restrictive path.
@@ -148,5 +147,6 @@ The central conclusion is narrower than a claim about the next Federal Reserve d
 11. Institute of International Finance, *IIF Capital Flows Tracker: November 2026*, 5 November 2026: https://www.iif.com/publications/portfolio-flows-tracker
 12. European Central Bank, *Euro Foreign Exchange Reference Rates*, 6 November 2026: https://www.ecb.europa.eu/stats/eurofxref/shared/pdf/2026/11/20261106.pdf
 13. Reuters, *Nasdaq rebounds but posts fourth straight weekly decline*, 6 November 2026: https://www.reuters.com/business/nasdaq-futures-rise-after-steep-ai-selloff-chip-stocks-stabilize-2026-11-06/
-14. Marginal Thinking, *Global Macro, 7 November 2026*, prior close observations and cited market-source register: /reports/2026/11/2026-11-07-global-macro.html
-15. Marginal Thinking, *Global Macro, 6 November 2026*, official China PMI context and previous market evidence: /reports/2026/11/2026-11-06-global-macro.html
+14. Reuters, *Crude gains on worries about renewed US attacks on Iran*, 6 November 2026: https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/
+15. Marginal Thinking, *Global Macro, 7 November 2026*, prior close observations and cited market-source register: /reports/2026/11/2026-11-07-global-macro.html
+16. Marginal Thinking, *Global Macro, 6 November 2026*, official China PMI context and previous market evidence: /reports/2026/11/2026-11-06-global-macro.html

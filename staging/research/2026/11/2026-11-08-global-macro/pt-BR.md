@@ -78,7 +78,7 @@ As referências cambiais mostram como o canal do dólar alcança mercados difere
 | Spread OAS high yield dos EUA | 3,48% | 5 nov.; dívida americana abaixo do grau de investimento [5] |
 | Referência EUR/USD | 1,1165 | 6 nov.; taxa de referência do BCE [12] |
 | Referência EUR/BRL | 6,1449 | 6 nov.; taxa de referência do BCE [12] |
-| Brent futuro | US$98,32/barril | Liquidação de 6 nov. reportada pela Reuters [13] |
+| Futuros do Brent para janeiro | US$98,32/barril | Liquidação de 6 nov. reportada pela Reuters [14] |
 | Índice de Preços de Alimentos da FAO | 133,9 pontos | Outubro; −1,2% m/m e +5,9% a/a [10] |
 | Fluxos de carteira não residentes para emergentes | −US$33,8 bi | Estimativa de outubro; maior saída mensal desde março [11] |
 
@@ -118,7 +118,6 @@ Estados Unidos | Trabalho, inflação e expectativas monetárias | Emprego e pro
 Zona do euro | Energia, juros soberanos e política monetária comum | BCE manteve as taxas; atividade e posição fiscal variam entre países
 China | Pedidos industriais e custos de insumos | PMI oficial abaixo de 50; não mede produção física
 Brasil e América Latina | Selic, câmbio e financiamento de carteira | Expectativas domésticas de inflação interagem com fluxos externos
-Importadores e exportadores de commodities | Petróleo, alimentos e frete | Referências internacionais não equivalem a custos entregues ou preços ao consumidor
 ```
 
 O cenário-base não é uma previsão de recessão ou de alta de juros. É um período em que a próxima leitura de inflação americana tem valor informacional elevado porque o mercado de trabalho permanece resistente, enquanto produtividade e custo unitário do trabalho oferecem sinais menos uniformes. Um cenário favorável aos ativos de risco combinaria desaceleração disseminada do CPI, continuidade dos ganhos de produtividade, spreads de crédito estáveis, menor saída de recursos de emergentes e redução dos custos energéticos entregues. Essa combinação reduziria a chance de o Fed responder ao crescimento salarial com uma trajetória mais restritiva.
@@ -148,5 +147,6 @@ A conclusão central é mais estreita do que uma afirmação sobre a próxima de
 11. Institute of International Finance, *IIF Capital Flows Tracker: November 2026*, 5 de novembro de 2026: https://www.iif.com/publications/portfolio-flows-tracker
 12. Banco Central Europeu, *Euro Foreign Exchange Reference Rates*, 6 de novembro de 2026: https://www.ecb.europa.eu/stats/eurofxref/shared/pdf/2026/11/20261106.pdf
 13. Reuters, *Nasdaq rebounds but posts fourth straight weekly decline*, 6 de novembro de 2026: https://www.reuters.com/business/nasdaq-futures-rise-after-steep-ai-selloff-chip-stocks-stabilize-2026-11-06/
-14. Marginal Thinking, *Global Macro, 7 de novembro de 2026*, observações do fechamento anterior e registro de fontes de mercado: /reports/2026/11/2026-11-07-global-macro.html
-15. Marginal Thinking, *Global Macro, 6 de novembro de 2026*, contexto do PMI oficial chinês e evidências anteriores de mercado: /reports/2026/11/2026-11-06-global-macro.html
+14. Reuters, *Crude gains on worries about renewed US attacks on Iran*, 6 de novembro de 2026: https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/
+15. Marginal Thinking, *Global Macro, 7 de novembro de 2026*, observações do fechamento anterior e registro de fontes de mercado: /reports/2026/11/2026-11-07-global-macro.html
+16. Marginal Thinking, *Global Macro, 6 de novembro de 2026*, contexto do PMI oficial chinês e evidências anteriores de mercado: /reports/2026/11/2026-11-06-global-macro.html
