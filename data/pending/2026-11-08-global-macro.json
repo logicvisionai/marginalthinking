@@ -38,7 +38,7 @@
   "phenomena": [],
   "format": "brief",
   "cadence": "daily",
-  "revision": 3,
+  "revision": 4,
   "assessment_confidence": "medium",
   "sources": {
     "en": {
@@ -118,7 +118,7 @@
       "search_text": "Global Macro 8 novembro 2026 emprego americano produtividade custo unitário trabalho CPI Fed BCE Selic China PMI spreads high yield fluxos emergentes petróleo alimentos"
     }
   },
-  "revision_reason": "Revision 3 resolves the open QA findings: adds a separate original Reuters oil-market source for the January Brent settlement, reconciles bilingual source counts and distinct hosts, removes the unsupported strategic-competition/geopolitics-security classification, and removes a non-geographic card from the regional map. The 05:00 BRT cutoff and original analytical thesis are preserved; no post-cutoff observation is introduced.",
+  "revision_reason": "Revision 4 corrects the remaining Brent source marker in both locales: the settlement paragraph now cites [14], the Reuters oil-market report, while [13] remains attached to the Nasdaq/S&P equity evidence. It also replaces repeated 'the distinction matters' / 'a distinção importa' signposting with direct causal wording. The 8 November 05:00 BRT cutoff, source counts, taxonomy and analytical thesis are preserved; no post-cutoff observation is introduced.",
   "revision_scope": [
     "Expand the labour analysis with the 6 November BLS payroll release and the 5 November preliminary Q3 productivity and unit-labour-cost release.",
     "Add a second quantitative chart for BLS Q3 productivity and unit labour costs, with identical numeric series in EN and PT-BR.",
@@ -129,7 +129,9 @@
     "Add the 6 November Reuters oil-market report as a separate source for January Brent futures; retain the existing Reuters equity report only for Nasdaq and S&P performance.",
     "Reconcile external reference counts, market-reporting source count, distinct hostnames and bilingual manual-preflight values.",
     "Remove strategic-competition and geopolitics-security because the report does not defend a strategic-competition mechanism.",
-    "Remove the non-geographic commodity-importer/exporter grouping from the regional map."
+    "Remove the non-geographic commodity-importer/exporter grouping from the regional map.",
+    "Correct the Brent settlement paragraph citation from [13] to [14] in EN and PT-BR; preserve [13] for Nasdaq/S&P equity performance. The market/flow table already cites [14].",
+    "Replace repeated 'the distinction matters' / 'a distinção importa' signposting with direct explanations in both locales."
   ],
   "producer_checks": {
     "information_cutoff": "2026-11-08 05:00 America/Sao_Paulo",
@@ -188,8 +190,8 @@
       "references_en": 14,
       "references_pt": 14,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "Run exact-head validate-pipeline.mjs and validate-editorial-depth.mjs after commit; no successful execution is claimed by the producer.",
-      "revision": 3,
+      "repository_script_validator": "Exact-head GitHub Actions validation is triggered by this atomic revision-4 commit; QA must verify the run and exact tuple before approval.",
+      "revision": 4,
       "chart_count": 2
     },
     "reconciliation_run_id": null
@@ -203,6 +205,8 @@
     "BRENT_SETTLEMENT_SOURCE_REFERENCE",
     "SOURCE_AUDIT_COUNTS_RECONCILED",
     "UNSUPPORTED_STRATEGIC_COMPETITION_REMOVED",
-    "NON_GEOGRAPHIC_MAP_CARD_REMOVED"
+    "NON_GEOGRAPHIC_MAP_CARD_REMOVED",
+    "BRENT_PARAGRAPH_CITATION_REFERENCE_14",
+    "FORMULAIC_SIGNPOSTING_REDUCED"
   ]
 }
