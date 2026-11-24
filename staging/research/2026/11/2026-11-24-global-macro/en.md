@@ -4,7 +4,7 @@
 
 *Information cutoff: 05:00, 24 November 2026, America/Sao_Paulo. Market closes refer to 23 November unless stated otherwise.*
 
-### Executive assessment
+## Executive assessment
 
 The latest business surveys do not describe a synchronized global contraction. They describe an expansion whose geography and sectoral composition are becoming less even. India and Germany are expanding rapidly; the United States, the euro area, the United Kingdom and Japan remain above the PMI growth threshold but have lost some momentum; France is contracting. The distance between Germany’s composite reading of 55.0 and France’s 46.2 is 8.8 index points. The difference is economically more informative than the euro-area headline of 51.7, which has remained in expansion for a fifth month. [1–7]
 
@@ -14,7 +14,7 @@ Energy provides a counterweight. Brent fell 3.46% to US$89.37 per barrel on 23 N
 
 The central signal is not an imminent global recession. It is a more uneven expansion in which the price of financing, energy logistics and domestic policy constraints differ sharply across regions. That combination makes aggregate growth headlines less useful for assessing the resilience of individual countries, sectors and borrowers.
 
-### 1. Activity: a positive aggregate conceals a wider regional gap
+## 1. Activity: a positive aggregate conceals a wider regional gap
 
 The November flash composite PMIs show the dispersion directly.
 
@@ -47,7 +47,7 @@ India remained the strongest large emerging-market reading in this group. Its co
 
 China’s official November manufacturing PMI was not available at the information cutoff. The October industrial and investment data discussed in the 23 November edition remain the latest official baseline; no new Chinese activity observation is inferred here. The October global steel production release expected around this date had also not been located by the 05:00 BRT cutoff. September therefore remains the latest complete global comparison for crude-steel output.
 
-### 2. Monetary policy and fiscal constraints: no synchronized easing
+## 2. Monetary policy and fiscal constraints: no synchronized easing
 
 The latest policy decisions show why similar PMI readings do not imply similar financing conditions.
 
@@ -90,7 +90,7 @@ Separately, the 23 November Focus survey reported by B3 raised the market median
 | Exchange rate, R$/US$ | 5.40 | 5.55 | +0.15 |
 ```
 
-### 3. Markets: a sharp equity rebound has not repaired the credit signal
+## 3. Markets: a sharp equity rebound has not repaired the credit signal
 
 US equities rose sharply on 23 November: the S&P 500 gained 4.7%, the Nasdaq 6.5%, the Dow 3.0% and the Russell 2000 3.4%. The move ended a seven-session losing streak and recovered just over half of the preceding week’s losses. The rebound was led by technology and AI-linked shares; the Associated Press described the move as a sharp reversal after a week of losses. The event was a corporate-governance and sector-specific catalyst, not a new macroeconomic release. A one-day change in equity prices cannot establish that earnings, financing or productivity expectations have been repaired. [23]
 
@@ -116,7 +116,7 @@ The WSJ Dollar Index rose 0.27% to 99.02 on 23 November, its largest daily gain 
 
 The Institute of International Finance estimated US$33.8 billion of non-resident portfolio outflows from emerging markets in October, after US$19.3 billion of outflows in September and US$27.4 billion of inflows in October 2025. The October figure was the largest monthly outflow since March. It is a monthly estimate, not a daily measure of 23 November trading. It nevertheless shows that the financing environment for emerging markets was already under pressure before the latest US equity rebound. [16]
 
-### 4. Energy and commodities: cheaper crude, persistent product and logistics risk
+## 4. Energy and commodities: cheaper crude, persistent product and logistics risk
 
 Brent futures for January delivery settled at US$89.37 per barrel on 23 November, down US$3.20 or 3.46%. WTI settled at US$80.17, down US$3.24 or 3.88%. Reuters attributed the fall to increased Middle Eastern supply and the reopening of Libya’s Sharara pipeline. The market close was lower even though Reuters also reported shipping incidents and claims of attacks in the Gulf. The Houthi movement’s statement about an attack on a Saudi refinery, the UK Maritime Trade Operations’ reports of attacks on shipping, and the different accounts given by Bahrain and Iran must remain attributed to those actors and reporting institutions. The available evidence does not quantify a new, sustained loss of regional oil output from those claims. [18]
 
@@ -130,7 +130,7 @@ Food commodities are also diverging. The FAO Food Price Index averaged 133.9 poi
 
 The Bank of England’s 5 November Monetary Policy Report, using futures and storage information available in late October, had already noted elevated diesel and jet-fuel crack spreads and European gas storage below its 2018–25 average. Those are not 23 November inventory observations, but they reinforce why the crude benchmark alone is an incomplete measure of delivered energy costs. OPEC+ ministers are due to discuss 2027 output policy on 29 November. [10, 18]
 
-### 5. Transmission: why the same global cycle produces different outcomes
+## 5. Transmission: why the same global cycle produces different outcomes
 
 ```flow
 Regional PMI divergence
@@ -173,7 +173,7 @@ A downside scenario would combine renewed shipping disruption in the Gulf, persi
 
 The central thesis would be weakened by a sustained narrowing of the PMI gap between Germany and France, a reversal of the high-yield spread increase, renewed positive non-resident flows to emerging markets, and a broad decline in diesel and other refined-product premiums. It would also be weakened if subsequent national-accounts data showed that the flash PMI divergence did not translate into meaningful differences in output, employment or investment.
 
-### Conclusion
+## Conclusion
 
 The latest data support a fragmented expansion, not a synchronised recession. The strongest activity readings are concentrated in India and Germany, while France is contracting and several other major economies are expanding more slowly. Monetary policy is not converging toward a single easing path. Crude prices have fallen as supply recovered, but refined-product and logistics risks remain. Credit spreads and emerging-market flows are less reassuring than the one-day equity rebound.
 

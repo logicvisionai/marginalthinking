@@ -4,7 +4,7 @@
 
 *Horário de corte: 05h00 de 24 de novembro de 2026, America/Sao_Paulo. Fechamentos de mercado referem-se a 23 de novembro, salvo indicação em contrário.*
 
-### Avaliação executiva
+## Avaliação executiva
 
 As pesquisas empresariais mais recentes não descrevem uma contração global sincronizada. Descrevem uma expansão cuja geografia e composição setorial estão se tornando menos uniformes. Índia e Alemanha avançam com força; Estados Unidos, zona do euro, Reino Unido e Japão permanecem acima do limiar de expansão dos PMIs, mas perderam parte do ritmo; a França está em contração. A distância entre o índice composto alemão, de 55,0, e o francês, de 46,2, chega a 8,8 pontos. Essa diferença informa mais do que o indicador agregado da zona do euro, de 51,7, que permanece em expansão pelo quinto mês consecutivo. [1–7]
 
@@ -14,7 +14,7 @@ A energia oferece um contraponto. O Brent caiu 3,46%, para US$ 89,37 por barril,
 
 O sinal central não é uma recessão global iminente. É uma expansão mais desigual, na qual o custo do financiamento, a logística energética e as restrições de política doméstica variam fortemente entre regiões. Essa combinação reduz a utilidade dos indicadores agregados para avaliar a resiliência de países, setores e devedores específicos.
 
-### 1. Atividade: um agregado positivo esconde uma distância regional maior
+## 1. Atividade: um agregado positivo esconde uma distância regional maior
 
 Os PMIs compostos preliminares de novembro mostram diretamente essa dispersão.
 
@@ -47,7 +47,7 @@ A Índia permaneceu com a leitura mais forte entre os grandes mercados emergente
 
 O PMI industrial oficial chinês de novembro ainda não estava disponível no horário de corte. Os dados oficiais de indústria e investimento de outubro discutidos na edição de 23 de novembro continuam sendo a referência mais recente; não se infere aqui uma nova observação de atividade chinesa. A divulgação global de produção de aço bruto de outubro, esperada para esta data, também não havia sido localizada até as 05h00 de Brasília. Setembro permanece, portanto, a última comparação global completa para a produção de aço bruto.
 
-### 2. Política monetária e restrições fiscais: não há flexibilização sincronizada
+## 2. Política monetária e restrições fiscais: não há flexibilização sincronizada
 
 As decisões mais recentes mostram por que leituras semelhantes de PMI não implicam condições de financiamento semelhantes.
 
@@ -90,7 +90,7 @@ Separadamente, o Relatório Focus de 23 de novembro, divulgado pela B3, elevou a
 | Câmbio, R$/US$ | 5,40 | 5,55 | +0,15 |
 ```
 
-### 3. Mercados: recuperação forte das ações, mas o crédito não voltou ao ponto anterior
+## 3. Mercados: recuperação forte das ações, mas o crédito não voltou ao ponto anterior
 
 As ações americanas avançaram fortemente em 23 de novembro: o S&P 500 subiu 4,7%, o Nasdaq 6,5%, o Dow 3,0% e o Russell 2000, 3,4%. O movimento encerrou uma sequência de sete sessões de queda e recuperou pouco mais da metade das perdas da semana anterior. A recuperação foi liderada por ações de tecnologia e ligadas à IA; a Associated Press descreveu o movimento como uma reversão acentuada após uma semana de perdas. O evento foi um catalisador corporativo e setorial, não uma nova divulgação macroeconômica. Uma variação de um dia nos preços das ações não demonstra que as expectativas de lucro, financiamento ou produtividade tenham sido reparadas. [23]
 
@@ -116,7 +116,7 @@ O WSJ Dollar Index subiu 0,27%, para 99,02, em 23 de novembro, seu maior ganho d
 
 O Institute of International Finance estimou saídas de US$33,8 bilhões em fluxos de carteira de não residentes dos mercados emergentes em outubro, depois de saídas de US$19,3 bilhões em setembro e de entradas de US$27,4 bilhões em outubro de 2025. O resultado de outubro foi a maior saída mensal desde março. É uma estimativa mensal, não uma medida diária das negociações de 23 de novembro. Ainda assim, mostra que o ambiente de financiamento dos emergentes já estava sob pressão antes da recuperação mais recente das ações americanas. [16]
 
-### 4. Energia e commodities: petróleo bruto mais barato, riscos persistentes nos derivados e na logística
+## 4. Energia e commodities: petróleo bruto mais barato, riscos persistentes nos derivados e na logística
 
 Os contratos futuros de Brent para entrega em janeiro liquidaram a US$89,37 por barril em 23 de novembro, queda de US$3,20 ou 3,46%. O WTI encerrou a US$80,17, queda de US$3,24 ou 3,88%. A Reuters atribuiu o recuo ao aumento da oferta do Oriente Médio e à reabertura do oleoduto Sharara, na Líbia. O fechamento ocorreu em baixa mesmo com relatos de incidentes marítimos e alegações de ataques no Golfo. A declaração do movimento Houthi sobre um ataque a uma refinaria saudita, os relatos de ataques a embarcações feitos pela UK Maritime Trade Operations e as versões distintas apresentadas por Bahrein e Irã devem permanecer atribuídos aos respectivos atores e instituições de informação. As evidências disponíveis não quantificam uma nova perda sustentada de produção regional de petróleo decorrente dessas alegações. [18]
 
@@ -130,7 +130,7 @@ As commodities alimentares também apresentam movimentos distintos. O índice de
 
 O Relatório de Política Monetária de 5 de novembro do Banco da Inglaterra, com dados de futuros e estoques disponíveis no fim de outubro, já registrava spreads de diesel e querosene de aviação elevados e armazenamento europeu de gás abaixo da média de 2018–25. Esses dados não são observações de estoques em 23 de novembro, mas reforçam por que o preço do petróleo bruto é uma medida incompleta do custo energético entregue. Os ministros da OPEP+ devem discutir a política de produção para 2027 em 29 de novembro. [10, 18]
 
-### 5. Transmissão: por que o mesmo ciclo global produz resultados diferentes
+## 5. Transmissão: por que o mesmo ciclo global produz resultados diferentes
 
 ```flow
 Divergência regional dos PMIs
@@ -173,7 +173,7 @@ Um cenário adverso combinaria nova interrupção marítima no Golfo, persistên
 
 A tese central seria enfraquecida por uma redução sustentada da distância entre os PMIs da Alemanha e da França, reversão do aumento dos spreads high yield, retorno de fluxos positivos de não residentes aos mercados emergentes e queda ampla dos prêmios do diesel e de outros derivados. Também seria enfraquecida se os dados posteriores das contas nacionais mostrassem que a divergência dos PMIs preliminares não se traduziu em diferenças relevantes de produção, emprego ou investimento.
 
-### Conclusão
+## Conclusão
 
 Os dados mais recentes sustentam uma expansão fragmentada, não uma recessão sincronizada. As leituras mais fortes de atividade estão concentradas na Índia e na Alemanha, enquanto a França está em contração e várias outras economias importantes crescem em ritmo menor. A política monetária não converge para uma única trajetória de flexibilização. Os preços do petróleo bruto caíram com a recuperação da oferta, mas os riscos de derivados e logística persistem. Os spreads de crédito e os fluxos de mercados emergentes são menos tranquilizadores do que a recuperação de um dia das bolsas.
 
