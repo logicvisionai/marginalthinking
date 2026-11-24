@@ -4,7 +4,7 @@
   "slug": "2026-11-24-global-macro",
   "revision": 2,
   "program": "political-economy-markets",
-  "qa_status": "approved",
+  "qa_status": "revoked",
   "reviewed_at": "2026-11-24T09:47:47Z",
   "reviewed_commit": "99b0fd6eaebb896762b5a95fb2c6880816d6dde1",
   "pending_blob_sha": "1ed09ca7093fb4735231b957e6ee71a5d1ed4326",
@@ -31,24 +31,24 @@
       "summary": "The pending-v2 object validates structurally and uses only the registered four-program architecture and controlled taxonomy. No arbitrary program, topic or phenomenon was introduced."
     },
     "source_vintage_and_cutoff": {
-      "result": "passed",
-      "summary": "The 24 November 2026 05:00 BRT cutoff is explicit. The latest Japan flash PMI was published before the cutoff; all other cited PMI, central-bank, Treasury, credit, energy, fiscal, market, food and flow observations predate it. No later market close or Worldsteel October release is represented as observed."
+      "result": "failed",
+      "summary": "The Focus report reference date is 19 November, not 23 November; the RBA decision is announced on 3 November and the report does not distinguish decision from effective date."
     },
     "factual_methodology": {
-      "result": "passed",
-      "summary": "PMI readings are correctly treated as diffusion indices, not GDP growth. Treasury par yields, FRED US high-yield OAS, ECB reference rates, IIF monthly portfolio-flow estimates, IEA monthly oil balances, FAO food-price index, Ministry of Finance forecast parameters and B3 market medians are kept as distinct instruments and vintages. Reuters/AP/WSJ claims about conflict and market prices remain attributed."
+      "result": "failed",
+      "summary": "The ICE BofA US High Yield OAS series is in Percent. The report and chart label 3.23 and 3.76 as percentage points; only the 53 bp change equals 0.53 percentage point."
     },
     "evidence_traceability": {
-      "result": "passed",
-      "summary": "The two editions contain 25 unique external URLs across 18 hostnames. Core activity and policy claims are supported by S&P Global, central banks, Treasury, FRED, IIF, IEA, Brazil's Ministry of Finance, B3, FAO and market-reporting sources. The Worldsteel release schedule is described as a future publication, not as observed data; BCB PTAX uses the institution's official data page. The sidecar's domain count is understated by one, and the generic PTAX landing URL is less direct than the historical-series endpoint; these are recorded as non-blocking documentation limitations."
+      "result": "failed",
+      "summary": "The IEA claims at lines 13 and 123 cite Reuters references 18-19 and 18 instead of IEA reference 17. The primary BCB Focus report dated 19 November is absent from both bibliographies."
     },
     "research_depth": {
       "result": "passed",
       "summary": "Exact content counts: approximately 3,418 English and 3,933 Brazilian Portuguese words after fenced visual blocks and URLs are excluded; nine H2 sections in each locale. The strict editorial-health workflow did not list this candidate among its failures."
     },
     "visual_evidence_readiness": {
-      "result": "passed",
-      "summary": "Both locales contain two explicit quantitative charts, three evidence tables, one causal flow and one regional map. Chart labels and units are explicit; the two numeric series match exactly across locales and are traceable to the cited sources."
+      "result": "failed",
+      "summary": "The map block uses a Markdown table header and separator; the geographicSummary parser turns every pipe line into a geo-card, producing two spurious cards. The OAS chart unit is also incorrect."
     },
     "bilingual_equivalence": {
       "result": "passed",
@@ -89,6 +89,14 @@
     "producer_preflight_consistency": {
       "result": "passed_with_limitations",
       "summary": "The producer-side manual_preflight word counts (4,075/4,676) and domain count (17) do not match independently recomputed counts (3,418/3,933 words and 18 hostnames). The underlying content passes the repository depth and source-coverage gates; the internal preflight fields should be corrected in a future revision or metadata-only update."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Revision 2 is not publication-ready because source mapping, Focus vintage, OAS units and map grammar contain material defects."
+    },
+    "concurrent_approval_integrity": {
+      "result": "failed",
+      "summary": "A concurrent approval was created for the same revision while independent QA was in progress. The approval was revoked before any public metadata existed."
     }
   },
   "contrary_evidence": [
@@ -108,7 +116,8 @@
   "notes": [
     "Approved as a research item only. This record does not publish the report or modify reports/, data/reports.json, public indexes or routes.",
     "The exact-head validation workflow passed. The separate editorial-health workflow still reports unrelated stale pending drafts and overdue registry lines.",
-    "No deployment or public release is claimed."
+    "No deployment or public release is claimed.",
+    "Revoked by independent QA at 2026-11-24T10:00:56.228Z; see data/rejected/2026-11-24-global-macro.json. The publication snapshot and source blob SHAs were preserved unchanged."
   ],
   "publication": {
     "schema_version": 2,
@@ -320,5 +329,14 @@
     "qa_fixes_applied": [
       "EDITORIAL_DEPTH_H2_SECTION_STRUCTURE"
     ]
+  },
+  "revocation": {
+    "revoked_at": "2026-11-24T10:00:56.228Z",
+    "revoked_by": "MT 4/5 — QA Editorial",
+    "original_approval_blob_sha": "ec17f6e9b75130e8f6d2212aae5af70f2ee98ac9",
+    "original_approval_commit_sha": "1bf59c407831f419c34baba5b6e95e31eeac66e6",
+    "rejection_record_path": "data/rejected/2026-11-24-global-macro.json",
+    "reason": "Independent fact-check found material citation, vintage, unit and visual-grammar defects.",
+    "publication_snapshot_preserved": true
   }
 }

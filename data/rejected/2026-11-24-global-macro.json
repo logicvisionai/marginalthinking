@@ -1,0 +1,216 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-24",
+  "slug": "2026-11-24-global-macro",
+  "revision": 2,
+  "rejection_count_for_id": 1,
+  "rejection_loop_limit_reached": false,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-24T10:00:56.228Z",
+  "reviewed_commit": "1bf59c407831f419c34baba5b6e95e31eeac66e6",
+  "pending_blob_sha": "1ed09ca7093fb4735231b957e6ee71a5d1ed4326",
+  "source_blob_shas": {
+    "en": "6c514a3b804a13e4f8fb76011dcdebe44c452c5b",
+    "pt-BR": "d00131f319b58568037ff490ebb2add824545cee"
+  },
+  "revoked_approval_blob_sha": "ec17f6e9b75130e8f6d2212aae5af70f2ee98ac9",
+  "revoked_approval_commit_sha": "1bf59c407831f419c34baba5b6e95e31eeac66e6",
+  "previous_rejections": [],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pending v2 and both complete staged editions were re-read at HEAD 1bf59c407831f419c34baba5b6e95e31eeac66e6. Exact tuple: pending 1ed09ca7093fb4735231b957e6ee71a5d1ed4326; EN 6c514a3b804a13e4f8fb76011dcdebe44c452c5b; PT-BR d00131f319b58568037ff490ebb2add824545cee."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Schema v2, ready:true, canonical ID/slug, revision 2, daily-global-macro kind, program, dimensions, topics and war-armed-conflict phenomenon are valid."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "failed",
+      "summary": "Focus reference date is 19 November, with publication on 23 November; the edition labels 23 November as the survey date. RBA decision date is 3 November, while the text says 4 November without identifying effective date."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "The FRED OAS series unit is Percent. Levels 3.23 and 3.76 are not percentage-point changes; the 53 bp difference is correct."
+    },
+    "evidence_traceability": {
+      "result": "failed",
+      "summary": "IEA claims at lines 13 and 123 point to Reuters references 18-19 and 18, not IEA reference 17. The primary BCB Focus PDF dated 19 November is absent."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Independent repository-compatible count: approximately 3,418 substantive EN words and 3,933 PT-BR words, nine H2 sections in each locale, two chart series, tables, one flow and one map. Candidate was not among the seven failures in strict job 45367674952."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "summary": "The map violates the line-oriented grammar and the renderer turns its header and separator into geographic cards. The OAS chart unit is incorrect."
+    },
+    "bilingual_equivalence": {
+      "result": "passed_with_limitation",
+      "summary": "EN and PT-BR preserve the same structure, numeric series and references; the material defects are shared across both locales."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Scenarios and falsifiers are explicit; PMI, credit, oil and conflict claims are appropriately qualified."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The regional PMI-dispersion thesis is distinct from the preceding China ore/steel, AI productivity/valuation and cross-asset repricing editions."
+    },
+    "editorial_style": {
+      "result": "passed_with_limitation",
+      "summary": "No internal labels or inline source interruptions were found; repeated metadiscursive lead-ins should be reduced."
+    },
+    "system_registry_reconciliation": {
+      "result": "not_run",
+      "summary": "reconciliation_run_id is null and the ledger has no report-specific run for this ID. The publisher must reconcile all active required assets before publication; QA did not alter the canonical ledger."
+    },
+    "editorial_depth_script": {
+      "result": "passed",
+      "summary": "Exact-head strict job 45367674952 listed only seven other drafts as editorial-depth failures; this candidate was not among them."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "Exact-head job 45367674952 reported pipeline validation OK: 212 public bundles, 20 unpublished pending, zero approved-unpublished and six legacy pending already public."
+    },
+    "repository_build": {
+      "result": "passed",
+      "summary": "Job 45367675080 passed Validate and build, research visual semantics and generated-site verification. The candidate-specific map header issue is not covered by that automated check."
+    },
+    "publication_snapshot_integrity": {
+      "result": "passed",
+      "summary": "The original approval publication snapshot is preserved unchanged in the revoked approval record."
+    },
+    "concurrent_approval_integrity": {
+      "result": "failed",
+      "summary": "Approval blob ec17f6e9b75130e8f6d2212aae5af70f2ee98ac9 was created concurrently during this independent review and is revoked before public metadata exists."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Do not publish revision 2. Correct the material source, vintage, unit and visual issues and resubmit revision 3 with new SHAs."
+    }
+  },
+  "confidence": "high",
+  "contrary_evidence": [
+    "PMI readings are diffusion indices, not GDP growth rates.",
+    "The US high-yield OAS is not a global credit-stress measure.",
+    "IIF portfolio flows are monthly estimates, not daily November flows.",
+    "Crude supply recovery does not establish that refined-product availability has normalized.",
+    "Focus medians for 2026 are distinct from the Ministry of Finance 2027 parameter grid.",
+    "Conflict claims remain attributed to the relevant actors and reporting institutions."
+  ],
+  "limitations": [
+    "The BCB PTAX reference is a dynamic institutional landing page rather than a date-filtered historical endpoint.",
+    "The BCB Focus report is dated 19 November; the B3 story was published 23 November.",
+    "The RBA date may refer to effectiveness, but the report does not label the date type.",
+    "Registry reconciliation remains a publisher prerequisite.",
+    "The production deployment was not confirmed because Cloudflare credentials were missing."
+  ],
+  "issues": [
+    {
+      "severity": "material",
+      "code": "IEA_CITATION_REFERENCE_MISMATCH",
+      "paths": [
+        "staging/research/2026/11/2026-11-24-global-macro/en.md",
+        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:13,123",
+        "pt-BR.md:13,123"
+      ],
+      "evidence": "The IEA is reference 17. References 18 and 19 are Reuters items. The IEA supply, inventory and diesel claims therefore lack their correct adjacent citation.",
+      "required_correction": "Cite reference 17 for the IEA claims; use 17-18 in the opening energy paragraph and 17 in the inventory paragraph."
+    },
+    {
+      "severity": "material",
+      "code": "HIGH_YIELD_OAS_UNIT_MISLABELLED",
+      "paths": [
+        "staging/research/2026/11/2026-11-24-global-macro/en.md",
+        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:99,104",
+        "pt-BR.md:99,104"
+      ],
+      "evidence": "FRED labels BAMLH0A0HYM2 in Percent. The report labels 3.23 and 3.76 as percentage points; only the 53 bp change equals 0.53 percentage point.",
+      "required_correction": "Label levels as 3.23% and 3.76% or 323 and 376 bp; change chart unit to percent and retain the 53 bp change."
+    },
+    {
+      "severity": "material",
+      "code": "BRAZIL_FOCUS_REFERENCE_VINTAGE_MISSTATED",
+      "paths": [
+        "staging/research/2026/11/2026-11-24-global-macro/en.md",
+        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md",
+        "data/pending/2026-11-24-global-macro.json"
+      ],
+      "locations": [
+        "en.md:73,86-90",
+        "pt-BR.md:73,86-90",
+        "pending.producer_checks.source_audit.reproducibility_notes.brazil_focus"
+      ],
+      "evidence": "The BCB Focus PDF is dated 19 November and contains 5.55, 5.15% and 1.70%. The B3 item is published 23 November; its publication date is not the Focus reference date.",
+      "required_correction": "State reference date 19 November and release/publication date 23 November; add the official BCB PDF to both bibliographies."
+    },
+    {
+      "severity": "material",
+      "code": "MAP_BLOCK_MARKDOWN_TABLE_GRAMMAR",
+      "paths": [
+        "staging/research/2026/11/2026-11-24-global-macro/en.md",
+        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md",
+        "scripts/lib/research-visuals.mjs",
+        "RESEARCH-VISUALS.md"
+      ],
+      "locations": [
+        "en.md: fenced map block",
+        "pt-BR.md: fenced map block",
+        "scripts/lib/research-visuals.mjs:104-118"
+      ],
+      "evidence": "The map contract requires one region | finding | qualification row per region. The renderer converts every pipe line into a card and does not skip Markdown headers or separators, so the header and separator become two bogus geographic cards.",
+      "required_correction": "Use headerless three-field regional rows, one per line, in both languages; verify the rendered HTML."
+    },
+    {
+      "severity": "minor",
+      "code": "RBA_DECISION_EFFECTIVE_DATE_AMBIGUITY",
+      "paths": [
+        "staging/research/2026/11/2026-11-24-global-macro/en.md",
+        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:60,65",
+        "pt-BR.md:60,65"
+      ],
+      "evidence": "The RBA decision and 6-3 vote were announced on 3 November. The report says 4 November without identifying it as an effective date.",
+      "required_correction": "Label the 3 November decision date and, if intended, the 4 November effective date separately."
+    },
+    {
+      "severity": "minor",
+      "code": "REPEATED_FORMULAIC_SIGNPOSTING",
+      "paths": [
+        "staging/research/2026/11/2026-11-24-global-macro/en.md",
+        "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:15,44,67,113,174,180",
+        "pt-BR.md:15,44,67,113,174,180"
+      ],
+      "evidence": "Several sections repeat central-signal, important-contrast and relevant-question lead-ins.",
+      "required_correction": "Rewrite repeated metadiscursive openings as direct substantive observations while retaining the falsifier section."
+    }
+  ],
+  "rework_owner": "MT 1/5 — Diário e Radar",
+  "replay_guard": {
+    "max_new_rejections_per_id": 3,
+    "source_sha_must_change_before_recheck": true,
+    "blocked_after_limit": true,
+    "no_fourth_rejection": true
+  },
+  "publication_prerequisites": [
+    "Do not publish revision 2. Wait for revision 3 with corrected pending, EN and PT-BR blobs and a new QA approval.",
+    "Correct IEA citations, OAS units, Focus reference date and map grammar in both locales.",
+    "Clarify RBA decision date versus effective date and reduce repetitive metadiscursive signposting.",
+    "Before future publication, the publisher must record evidence-based reconciliation decisions for every active registry asset with reconciliation_required.",
+    "Do not claim deployment without Cloudflare credentials and live verification."
+  ],
+  "notes": "First rejection for MT-GM-2026-11-24 revision 2. A concurrent approval was committed at 1bf59c407831f419c34baba5b6e95e31eeac66e6 with approval blob ec17f6e9b75130e8f6d2212aae5af70f2ee98ac9 and reviewed_commit 99b0fd6eaebb896762b5a95fb2c6880816d6dde1. Because no public metadata existed, the approval is revoked in this same transaction while preserving the publication snapshot. The rejection routes to MT 1/5.",
+  "resolved_previous_issues": []
+}
