@@ -146,8 +146,8 @@
       "tables": 3,
       "flows": 1,
       "maps": 1,
-      "references_en": 14,
-      "references_pt": 14
+      "references_en": 13,
+      "references_pt": 13
     },
     "visual_evidence": {
       "charts": 2,
@@ -156,7 +156,7 @@
       "maps": 1
     },
     "source_audit": {
-      "references": 14,
+      "references": 13,
       "primary_institutional_sources": 12,
       "market_reporting_sources": 1,
       "market_data_series": 1,
@@ -182,9 +182,9 @@
       "controlled_topics": true,
       "phenomena_valid": true,
       "word_count_en": 3154,
-      "word_count_pt": 3600,
-      "references_en": 14,
-      "references_pt": 14,
+      "word_count_pt": 3579,
+      "references_en": 13,
+      "references_pt": 13,
       "ready_for_independent_qa": true,
       "repository_script_validator": "Run exact-head validate-pipeline.mjs and validate-editorial-depth.mjs after commit; no successful execution is claimed by the producer.",
       "revision": 2,
