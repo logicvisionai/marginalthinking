@@ -2,16 +2,16 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-08",
   "slug": "2026-11-08-global-macro",
-  "revision": 2,
-  "rejection_count_for_id": 2,
-  "rejection_loop_limit_reached": false,
+  "revision": 3,
+  "rejection_count_for_id": 3,
+  "rejection_loop_limit_reached": true,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-24T08:38:01-03:00",
-  "reviewed_commit": "f37a0ffc1c1da6df230c70b74951ca4d90d54b49",
-  "pending_blob_sha": "58a5c726c419431a6f4b3f989207c48aee368379",
+  "reviewed_at": "2026-11-24T09:38:02-03:00",
+  "reviewed_commit": "94498e3ea6b14c33fe67e201e222fc0cc2c326dd",
+  "pending_blob_sha": "7b2a5ee2b5cba6a5e813d39fe4781e20bb30bfd8",
   "source_blob_shas": {
-    "en": "252e541d81ab1f2613c286ff72172e608c74acd3",
-    "pt-BR": "039ab9d1a103db23dcc18fd3c9f7a8bcfb55e332"
+    "en": "8a0e1bbbba1582207734edb93feb364f76e63e21",
+    "pt-BR": "93b31133c065492553b41e84dbcad56f3a911f58"
   },
   "previous_rejections": [
     {
@@ -29,88 +29,99 @@
         "SOURCE_COVERAGE"
       ],
       "resolved_in_revision": 2
+    },
+    {
+      "revision": 2,
+      "reviewed_commit": "f37a0ffc1c1da6df230c70b74951ca4d90d54b49",
+      "pending_blob_sha": "58a5c726c419431a6f4b3f989207c48aee368379",
+      "source_blob_shas": {
+        "en": "252e541d81ab1f2613c286ff72172e608c74acd3",
+        "pt-BR": "039ab9d1a103db23dcc18fd3c9f7a8bcfb55e332"
+      },
+      "rejection_record_blob_sha": "a54f475d13582af839bf37e7ac95a5fae2b7d5a0",
+      "issue_codes": [
+        "BRENT_SETTLEMENT_SOURCE_MISMATCH",
+        "PENDING_SOURCE_AUDIT_COUNTS_INCONSISTENT",
+        "UNSUPPORTED_STRATEGIC_COMPETITION_CLASSIFICATION"
+      ]
     }
   ],
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Re-read the v2 pending sidecar and both complete staged Markdown files at HEAD f37a0ffc1c1da6df230c70b74951ca4d90d54b49. Exact revision-2 tuple: pending 58a5c726c419431a6f4b3f989207c48aee368379; EN 252e541d81ab1f2613c286ff72172e608c74acd3; PT-BR 039ab9d1a103db23dcc18fd3c9f7a8bcfb55e332. No approval or public metadata exists for this revision."
+      "summary": "Re-read the schema-v2 pending sidecar and both complete staged Markdown files at HEAD 94498e3ea6b14c33fe67e201e222fc0cc2c326dd. Exact revision-3 tuple: pending 7b2a5ee2b5cba6a5e813d39fe4781e20bb30bfd8; EN 8a0e1bbbba1582207734edb93feb364f76e63e21; PT-BR 93b31133c065492553b41e84dbcad56f3a911f58. No approval or public metadata exists for this revision."
     },
     "schema_and_taxonomy": {
-      "result": "passed_with_limitation",
-      "summary": "Pending is schema_version 2, ready true, explicit revision 2, canonical ID/slug, registered primary and related programs, global geography, valid dimensions, controlled topics, brief format and daily cadence. The controlled value strategic-competition is syntactically valid, but its substantive applicability is not established by the staged analysis; see taxonomy_applicability."
-    },
-    "taxonomy_applicability": {
-      "result": "failed",
-      "summary": "The pending assigns phenomena=[strategic-competition] and topic geopolitics-security. The EN/PT reports discuss macroeconomic releases, markets and China's PMI but do not establish a strategic-competition mechanism, state contest, policy restriction, capability contest or security transmission. A country or market reference alone does not substantiate this cross-cutting phenomenon."
+      "result": "passed",
+      "summary": "Pending is schema_version 2, ready true, explicit revision 3, canonical ID/slug, registered primary and related programs, global geography, valid dimensions, controlled topics, phenomena=[] and brief/daily classification. The unsupported strategic-competition/geopolitics-security assignment from revision 2 has been removed."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "The declared cutoff is 8 November 2026, 05:00 BRT. BLS employment and productivity releases, the 28 October FOMC statement, 29 October ECB decision, 4 November Copom statement, 1 November NBS PMI, 5 November IIF tracker, 6 November FAO and market observations, Treasury curve and ECB reference rates all precede the cutoff. The scheduled 10 November CPI is correctly described as not yet observed."
+      "summary": "The 8 November 2026 05:00 BRT cutoff is preserved. BLS employment and productivity releases, the FOMC and ECB decisions, Copom statement, NBS October PMI, IIF November tracker, FAO October index, Treasury curve, ECB reference rates and both Reuters 6 November market reports predate the cutoff. The 10 November CPI is correctly described as scheduled and not yet observed."
     },
     "factual_methodology": {
       "result": "passed_with_limitation",
-      "summary": "Primary-source spot checks support payrolls +165,000, unemployment 4.1%, hourly earnings +0.4% m/m and +3.1% y/y, revisions +84,000, productivity +3.6% annualised, unit labour costs -0.7% annualised and +2.4% y/y, Treasury par yields 4.51/4.86/5.26%, FRED OAS 3.48% on 5 November, central-bank settings, China PMI values, IIF October outflows US$33.8bn and FAO FFPI 133.9. The Brent settlement value US$98.32 is independently corroborated by a separate Reuters oil-market report, but the bibliography citation attached to it is the wrong Reuters article."
+      "summary": "Primary-source checks support payrolls +165,000, unemployment 4.1%, hourly earnings +0.4% m/m and +3.1% y/y, combined August/September revisions +84,000, productivity +3.6% annualised and +2.1% y/y, unit labour costs -0.7% annualised and +2.4% y/y, manufacturing unit labour costs +2.7% annualised and +4.0% y/y, Fed 3.75%-4.00% with 10-2 vote, ECB rates held, China manufacturing PMI 49.3, IIF October non-resident EM portfolio outflows US$33.8bn, FAO FFPI 133.9 and Reuters January Brent settlement US$98.32. Remaining limitations are identified in the report; the material rejection is the source marker attached to the Brent paragraph."
+    },
+    "source_audit_reconciliation": {
+      "result": "passed",
+      "summary": "The revision-3 pending reports 14 external URLs, 14 references per locale, 12 primary institutional sources, two market-reporting sources and 10 hostnames. The Markdown contains 14 external numbered references [1]-[14] plus two internal Marginal Thinking references [15]-[16]. Hostnames reconcile to bls.gov, home.treasury.gov, fred.stlouisfed.org, federalreserve.gov, ecb.europa.eu, bcb.gov.br, stats.gov.cn, fao.org, iif.com and reuters.com."
     },
     "evidence_traceability": {
       "result": "failed",
-      "summary": "The Brent paragraph and market/flow table cite reference [13], whose bibliography entry is Reuters, 'Nasdaq rebounds but posts fourth straight weekly decline'. The opened Reuters article reports Nasdaq/S&P performance and says oil prices were slightly lower, but it does not report the US$98.32 Brent settlement. The separate Reuters oil-market report dated 6 November reports Brent at US$98.32. The numerical claim is supportable, but the source-to-claim link in both locales is incorrect. Pending source-count metadata also conflicts with the actual bibliography."
+      "summary": "Both staged editions still attach the wrong source marker to the Brent settlement paragraph. EN line 97 and PT-BR line 97 state that January Brent futures settled at US$98.32/bbl on 6 November but cite [13]. Reference [13] is Reuters, 'Nasdaq rebounds but posts fourth straight weekly decline'; it supports the Nasdaq and S&P figures, not the US$98.32 Brent settlement. The correct Brent source is the separate Reuters oil-market report in reference [14], 'Crude gains on worries about renewed US attacks on Iran', which explicitly reports January Brent at US$98.32/bbl. The market/flow table at line 81 already cites [14] correctly; only the two prose paragraphs remain wrong."
     },
     "research_depth": {
       "result": "passed",
-      "reviewed_word_counts": {
-        "en": 3154,
-        "pt-BR": 3579
-      },
-      "summary": "Both editions exceed the daily 1,700 substantive-word floor, contain more than six analytical H2 sections, and develop labour/productivity, monetary policy, markets, China, energy/food, regional transmission, scenarios and falsifiers. The candidate was not among the failures in the exact-tuple editorial-depth run."
+      "summary": "The report develops six analytical sections covering labour/productivity, central-bank constraints, markets and credit, China industrial conditions, energy/food and regional transmission/scenarios, followed by an evidence boundary. It distinguishes observed data from estimates and scheduled releases, explains the productivity/unit-labour-cost mechanism, includes conditional upside/downside paths and observable falsifiers. The candidate was not among the failures reported by the exact-HEAD editorial-depth workflow."
     },
     "visual_evidence_readiness": {
-      "result": "passed_with_limitation",
-      "summary": "Both editions use ordinary Markdown tables, two explicit data-linked bar charts, one causal flow and one regional map with equivalent values and labels. This exceeds the brief floor of one table, one chart, one structural visual and three visuals total. The map includes a final 'Commodity importers and exporters' card that is a cross-cutting group rather than a geographic region; move it to a table or replace it with a grounded region if the map is retained."
+      "result": "passed",
+      "summary": "Both editions contain two explicit data-linked bar charts, three ordinary Markdown tables, one causal flow and one four-entry geographic exposure map. The chart values, table observations, units and map labels match across locales. The revision-2 non-geographic commodity grouping has been removed. The seven visuals exceed the brief floor of one table, one chart and one structural visual, with no fabricated observations identified."
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "EN and PT-BR contain equivalent 13 external references, matching chart series, three tables, flow and map, and equivalent dates, units, qualifications, scenarios and falsifiers. The Brent citation mismatch and pending metadata inconsistencies occur in both locales."
+      "summary": "EN and PT-BR preserve the same facts, dates, units, source list, 2 chart series, 3 tables, flow, map, scenarios and qualifications. The same Brent citation error appears in both editions at line 97."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The report gives upside and downside conditional scenarios and observable falsifiers, including CPI breadth, compensation, productivity, credit spreads, emerging-market portfolio flows and China's new orders."
+      "summary": "The report includes conditional upside and downside scenarios and explicit falsifiers tied to CPI breadth, compensation, productivity, credit spreads, emerging-market portfolio flows and China's new orders."
     },
     "novelty_vs_corpus": {
       "result": "passed",
-      "summary": "Revision 2 adds a distinct productivity/unit-labour-cost counter-signal and connects it to differentiated central-bank settings, credit, portfolio flows, China, energy and food prices. It is not merely a date substitution for the preceding industrial-activity, AI-equity repricing and payroll editions."
+      "summary": "The edition adds a distinct labour-productivity and unit-labour-cost counter-signal and connects it to the pending CPI test, differentiated central-bank constraints, credit, portfolio flows, China, energy and food. It is not merely a date substitution for the preceding industrial-activity, technology-equity repricing and payroll editions."
     },
     "editorial_style": {
       "result": "passed_with_limitation",
-      "summary": "The prose is generally natural, evidence-led and bilingual; numbered citations are kept in the argument and full references are at the end. A small amount of repeated 'the distinction matters' / 'a distinção importa' signposting can be reduced in a later language pass, but it is not the rejection basis."
+      "summary": "The prose is generally direct, neutral and bilingual, with full references at the end. A repeated 'the distinction matters' / 'a distinção importa' construction remains in several passages and should be reduced during the citation correction; this is a non-material language note, not the rejection basis."
     },
     "editorial_depth_script": {
       "result": "passed_with_limitation",
-      "summary": "Workflow 45380262669 ran scripts/validate-editorial-depth.mjs on parent HEAD df814db1df7a98210f06fc1d8b7af39c816e3467. The job failed on seven other drafts (SLAVERY, MAUA, MEDICI, ROCKEFELLER, ROTHSCHILD and HIST-ECONOMISTS plus their locale-specific failures); MT-GM-2026-11-08 revision 2 was not among the reported failures. The candidate tuple is unchanged between df814 and current HEAD f37a."
+      "summary": "Exact-HEAD workflow 45388200847 ran scripts/validate-editorial-depth.mjs with MT_VALIDATE_ALL_PENDING=1. The aggregate job failed on seven other drafts (SLAVERY, MAUA, MEDICI, ROCKEFELLER, ROTHSCHILD and HIST-ECONOMISTS, with locale-specific failures); MT-GM-2026-11-08 revision 3 is absent from the failure list. Therefore the aggregate script is not globally green, but no candidate-specific depth/visual failure was reported."
     },
     "pipeline_validation": {
       "result": "passed",
-      "summary": "Workflow 45380262669 ran scripts/validate-pipeline.mjs on df814db1df7a98210f06fc1d8b7af39c816e3467 and reported Pipeline validation OK: 212 public bundles, 20 unpublished pending, zero approved-unpublished and six legacy pending already public. Current HEAD f37a changes only another report's rejection record; this candidate's three blobs are unchanged."
+      "summary": "Exact-HEAD workflow 45388200847 ran scripts/validate-pipeline.mjs and reported Pipeline validation OK: 212 public bundles; 20 unpublished pending; 0 approved unpublished; 6 legacy pending already public. The candidate tuple is present as a ready pending item with no approval/public metadata."
     },
     "repository_build": {
       "result": "passed_with_limitation",
-      "summary": "Workflow 45380262720 completed build, research validation, visual semantics and generated-site verification on the same parent HEAD. Cloudflare deployment and live smoke tests were skipped because CLOUDFLARE credentials were unavailable. This is an operational deployment limitation, not a QA source finding."
+      "summary": "Workflow 45388200827 completed the build, research validation, visual semantics, generated-site verification and artifact upload on the same HEAD. Production deployment and live smoke tests did not run because CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID were absent. This is an operational deployment limitation, not a research finding."
     },
     "system_registry_reconciliation": {
       "result": "not_run",
-      "summary": "pending.producer_checks.reconciliation_run_id is null. SYSTEM-REGISTRY.md requires a report-specific reconciliation run covering every active reconciliation_required asset before public promotion. This is a publisher prerequisite after QA, not the present rejection reason."
+      "summary": "pending producer_checks.reconciliation_run_id is null. SYSTEM-REGISTRY.md requires a report-specific reconciliation run covering every active asset marked reconciliation_required before public promotion. This remains a publisher prerequisite, not the present rejection basis."
     },
     "concurrent_approval_integrity": {
       "result": "passed",
-      "summary": "No approval exists for MT-GM-2026-11-08 revision 2 and no metadata exists at reports/2026/11/2026-11-08-global-macro/metadata.json. The existing rejection covers revision 1 only."
+      "summary": "At the final pre-write re-read, main remained 94498e3ea6b14c33fe67e201e222fc0cc2c326dd; data/approved/2026-11-08-global-macro.json and reports/2026/11/2026-11-08-global-macro/metadata.json both returned 404. No approval or public bundle exists for revision 3."
     },
     "publication_snapshot_integrity": {
       "result": "not_run",
-      "summary": "No approval or publication snapshot was created because evidence traceability and taxonomy applicability failed."
+      "summary": "No approval or publication snapshot was created because evidence-to-claim traceability failed."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "Revision 2 is not publication-ready: the Brent settlement citation does not support the cited figure, pending source-count metadata is inconsistent with the bibliography, and strategic-competition/geopolitics-security classification is not demonstrated by the report."
+      "summary": "Revision 3 is not publication-ready. The pending source audit and controlled taxonomy issues from revision 2 are corrected, and candidate-specific depth and visual gates pass. However, the Brent US$98.32 paragraph in both locales still cites Reuters reference [13] (equity-market report) rather than [14] (oil-market report). Correct the two source markers, preserve [13] for equity performance, and rerun the exact-tuple QA."
     }
   },
   "contrary_evidence": [
@@ -131,23 +142,9 @@
     {
       "code": "BRENT_SETTLEMENT_SOURCE_MISMATCH",
       "severity": "material",
-      "location": "staging/research/2026/11/2026-11-08-global-macro/en.md > 'Energy, food prices and external financing' and 'Market or flow indicator' table; corresponding PT-BR paragraphs and table",
-      "evidence": "The paragraph and table cite [13]. Reference [13] is Reuters, 'Nasdaq rebounds but posts fourth straight weekly decline' (https://www.reuters.com/business/nasdaq-futures-rise-after-steep-ai-selloff-chip-stocks-stabilize-2026-11-06/). The opened article reports Nasdaq/S&P index moves and only says oil prices were slightly lower; it does not report Brent US$98.32. A separate Reuters oil-market report dated 6 November (https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/) reports Brent settlement at US$98.32. The figure is supportable, but the cited source does not substantiate it.",
-      "required_correction": "Add the Reuters oil-market report as a separate numbered reference in both editions and cite it for the Brent settlement; retain the Nasdaq Reuters reference for equity performance. Renumber the subsequent internal report references consistently in EN and PT-BR. Alternatively, use another original market source that explicitly supports the same settlement and date."
-    },
-    {
-      "code": "PENDING_SOURCE_AUDIT_COUNTS_INCONSISTENT",
-      "severity": "material",
-      "location": "data/pending/2026-11-08-global-macro.json > revision_reason, revision_scope, producer_checks.bilingual_parity, producer_checks.source_audit and producer_checks.manual_preflight",
-      "evidence": "revision_reason and revision_scope claim 14 external source entries, while both Markdown bibliographies contain 13 external URLs (references 1-13; references 14-15 are internal Marginal Thinking reports). The pending counts references/unique_external_urls and bilingual references as 13, but source_audit.domains says 11; the 13 external URLs resolve to 10 distinct hostnames. market_reporting_sources is 1 despite the missing separate Brent source.",
-      "required_correction": "After correcting the Brent citation, reconcile every pending count against the final EN/PT bibliographies: if a 14th external URL is added, set references, unique_external_urls and both locale counts to 14; set market_reporting_sources to 2; recompute distinct hostnames (10 if the second Reuters URL is used); and keep revision_reason, revision_scope and manual_preflight consistent. Do not count internal report links as external sources."
-    },
-    {
-      "code": "UNSUPPORTED_STRATEGIC_COMPETITION_CLASSIFICATION",
-      "severity": "material",
-      "location": "data/pending/2026-11-08-global-macro.json > phenomena/topics; both staged editions",
-      "evidence": "The pending assigns phenomena=['strategic-competition'] and topic 'geopolitics-security'. The article analyses macroeconomic releases, market pricing and China's October PMI, but does not identify a state competition mechanism, policy restriction, capability contest, actor strategy or security transmission. The NBS survey is not itself evidence of strategic competition.",
-      "required_correction": "Remove strategic-competition and geopolitics-security if they are not materially analyzed, or add specific, attributable evidence and a defended economic/security transmission mechanism. Do not infer the controlled phenomenon from the presence of China or international markets."
+      "location": "staging/research/2026/11/2026-11-08-global-macro/en.md line 97 and staging/research/2026/11/2026-11-08-global-macro/pt-BR.md line 97; 'Energy, food prices and external financing' / 'Energia, alimentos e financiamento externo'",
+      "evidence": "Both line-97 paragraphs state that January Brent futures settled at US$98.32/bbl on 6 November but cite [13]. Reference [13] is Reuters, 'Nasdaq rebounds but posts fourth straight weekly decline' (https://www.reuters.com/business/nasdaq-futures-rise-after-steep-ai-selloff-chip-stocks-stabilize-2026-11-06/), whose report covers equity-index performance and only notes oil prices were slightly lower; it does not report the US$98.32 Brent settlement. The separate reference [14], Reuters, 'Crude gains on worries about renewed US attacks on Iran' (https://www.reuters.com/business/energy/oil-set-sharp-weekly-drop-middle-east-supply-concerns-provide-floor-2026-11-06/), explicitly reports January Brent futures settled at US$98.32/bbl. The table at line 81 correctly cites [14]; the two prose paragraphs remain misattributed.",
+      "required_correction": "In both EN and PT-BR, change only the Brent paragraph's terminal citation marker from [13] to [14]. Keep [13] attached to the Nasdaq/S&P equity-performance paragraph and keep the table's [14] marker. Then reread both full editions, rerun source-to-claim checks and verify exact pending/EN/PT-BR blob SHAs. Also reduce repeated 'the distinction matters' / 'a distinção importa' signposting where the sentence can state the mechanism directly."
     }
   ],
   "rework_owner": "MT 1/5 — Diário e Radar",
@@ -157,6 +154,6 @@
   "replay_guard": {
     "max_new_rejections_per_id": 3,
     "source_sha_must_change_before_recheck": true,
-    "rejection_loop_limit_reached": false
+    "rejection_loop_limit_reached": true
   }
 }
