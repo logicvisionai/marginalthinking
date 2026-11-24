@@ -80,7 +80,7 @@
         "Federal Reserve meeting on 8–9 December",
         "FAO Food Price Index scheduled for 4 December"
       ],
-      "search_text": "Global Macro 24 November 2026 global PMI Germany France United States United Kingdom Japan India growth divergence credit spreads Treasury curve IIF emerging market flows oil Brent diesel Brazil macrofiscal FAO food prices Brazil Focus report dated 19 November 2026 published 23 November 2026 GDP IPCA exchange rate market median"
+      "search_text": "Global Macro 24 November 2026 global PMI Germany France United States United Kingdom Japan India growth divergence credit spreads Treasury curve IIF emerging market flows oil Brent diesel Brazil macrofiscal FAO food prices Brazil Focus report dated 19 November 2026 published 23 November 2026 GDP IPCA exchange rate market median Nvidia Jensen Huang board reinstatement 31.5 percent"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md",
@@ -117,12 +117,12 @@
         "Reunião do Federal Reserve em 8–9 de dezembro",
         "Índice de Preços de Alimentos da FAO previsto para 4 de dezembro"
       ],
-      "search_text": "Global Macro 24 novembro 2026 PMI global Alemanha França Estados Unidos Reino Unido Japão Índia divergência crescimento spreads crédito curva Treasury fluxos IIF mercados emergentes petróleo Brent diesel macrofiscal Brasil preços alimentos FAO Focus report dated 19 November 2026 published 23 November PIB IPCA câmbio mediana de mercado"
+      "search_text": "Global Macro 24 novembro 2026 PMI global Alemanha França Estados Unidos Reino Unido Japão Índia divergência crescimento spreads crédito curva Treasury fluxos IIF mercados emergentes petróleo Brent diesel macrofiscal Brasil preços alimentos FAO Focus report dated 19 November 2026 published 23 November PIB IPCA câmbio mediana de mercado Nvidia Jensen Huang reintegração conselho 31,5 por cento"
     }
   },
   "signal_rationale": {
-    "delta": "The three preceding editions addressed cross-asset repricing, AI productivity and valuation, and China’s iron-ore/steel chain. This edition adds a distinct cross-region activity signal from the 23–24 November flash PMIs and connects it to credit spreads, October emerging-market flows, the 23 November oil close and Brazil’s newly published macrofiscal parameter revision.",
-    "evidence": "November composite PMIs: US 54.6, euro area 51.7, Germany 55.0, France 46.2, UK 52.3, Japan 51.5 and India 56.3. US high-yield OAS widened from 3.23% on 13 Nov to 3.76% on 20 Nov. IIF estimated US$33.8bn of EM portfolio outflows in October. Brent settled at US$89.37/bbl on 23 Nov while IEA estimated October supply at 105.4 mb/d and inventories +52m barrels. Brazil’s 2027 GDP assumption was revised from 2.3% to 1.8%, and IPCA from 3.8% to 4.5%. The 23 Nov Brazil Focus survey raised the 2026 exchange-rate median from R$5.40 to R$5.55, raised IPCA from 5.11% to 5.15% and cut GDP growth from 1.72% to 1.70%.",
+    "delta": "The 23 November edition focused on China's iron-ore/steel chain and exporter inventories; the 22 November edition examined AI productivity and valuation; the 21 November edition covered cross-asset repricing. This edition adds a distinct cross-region activity signal from the 23–24 November flash PMIs and connects it to credit spreads, October emerging-market flows, the 23 November oil close and Brazil's newly published macrofiscal parameter revision.",
+    "evidence": "November composite PMIs: US 54.6, euro area 51.7, Germany 55.0, France 46.2, UK 52.3, Japan 51.5 and India 56.3. US high-yield OAS widened from 3.23% on 13 Nov to 3.76% on 20 Nov. IIF estimated US$33.8bn of EM portfolio outflows in October. Brent settled at US$89.37/bbl on 23 Nov while IEA estimated October supply at 105.4 mb/d and inventories +52m barrels. Brazil’s 2027 GDP assumption was revised from 2.3% to 1.8%, and IPCA from 3.8% to 4.5%. The 23 Nov Brazil Focus survey raised the 2026 exchange-rate median from R$5.40 to R$5.55, raised IPCA from 5.11% to 5.15% and cut GDP growth from 1.72% to 1.70%. AP reported that Nvidia's board reinstated CEO Jensen Huang amid an investigation into possible foreign-spy and national-security concerns; Nvidia shares rose 31.5% on 23 November, a company-specific catalyst behind the technology concentration in the equity rebound.",
     "scale_path": "Regional survey dispersion changes expected revenue, hiring and inventory paths; those differences shape central-bank decisions, sovereign yields and currency conditions; higher credit premia and cross-border outflows then affect investment and procurement, while crude, refined products and freight transmit energy shocks into prices and margins.",
     "transmission": "PMI divergence -> sector revenue and labour demand -> domestic inflation and monetary policy -> yields, FX and refinancing costs -> portfolio flows and investment. Oil supply and shipping -> crude and refined-product prices -> transport, food and industrial costs -> inflation expectations and policy reaction.",
     "falsifier": "The thesis weakens if the Germany–France PMI gap narrows materially, US high-yield spreads reverse the November widening, non-resident EM portfolio flows return to positive territory, refined-product premiums decline broadly and subsequent national-accounts data show no meaningful regional output or employment divergence."
@@ -155,8 +155,8 @@
       "tables": 3,
       "flows": 1,
       "maps": 1,
-      "references_en": 26,
-      "references_pt": 26
+      "references_en": 27,
+      "references_pt": 27
     },
     "visual_evidence": {
       "charts": 2,
@@ -165,11 +165,11 @@
       "maps": 1
     },
     "source_audit": {
-      "references": 26,
-      "primary_institutional_sources": 16,
+      "references": 27,
+      "primary_institutional_sources": 17,
       "market_reporting_sources": 10,
-      "urls_unique": 26,
-      "domains": 18,
+      "urls_unique": 27,
+      "domains": 19,
       "reproducibility_notes": {
         "pmi_comparison": "Flash composite PMI output indices published 23–24 Nov 2026; 50 is the expansion/contraction threshold. The values are survey diffusion indices, not GDP growth rates.",
         "credit_spread": "ICE BofA US High Yield Index OAS via FRED, unit Percent: 3.23% on 13 Nov; 3.34% on 16 Nov; 3.43% on 17 Nov; 3.47% on 18 Nov; 3.52% on 19 Nov; 3.76% on 20 Nov. Latest observation available at the 05:00 BRT cutoff.",
@@ -179,7 +179,8 @@
         "food_prices": "FAO October 2026 FFPI: 133.9, down 1.2% m/m; cereal 116.8, down 4.5%; sugar 121.3, up 6.6%.",
         "market_flows": "IIF tracker published 5 Nov, estimating October non-resident EM portfolio outflows of US$33.8bn; monthly estimate, not daily flow.",
         "brazil_focus": "Banco Central do Brasil Focus report with reference date 19 Nov 2026, summarized by B3 on 23 Nov: 2026 GDP 1.70% (from 1.72%), IPCA 5.15% (from 5.11%), and year-end USD/BRL 5.55 (from 5.40). These are market medians, not Central Bank forecasts, and are distinct from the Ministry of Finance's 2027 parameter grid. Primary PDF: https://www.bcb.gov.br/content/focus/focus/R20261119.pdf.",
-        "japan_policy": "Bank of Japan October 2026 Outlook Report records the uncollateralized overnight call rate around 1.25% following the September policy increase."
+        "japan_policy": "Bank of Japan policy decision published 18 Sep 2026 sets the uncollateralized overnight call-rate guideline around 1.25% and states that the change applies from the next business day, 24 Sep; the October 2026 Outlook Report confirms the level.",
+        "brazil_ptax": "Banco Central do Brasil PTAX OData historical query for 23 Nov 2026: selling rate 5.97080 at 13:06:23 BRT; date-filtered endpoint retained for reproducibility."
       }
     },
     "manual_preflight": {
@@ -187,25 +188,34 @@
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 3400,
-      "word_count_pt": 3934,
-      "references_en": 26,
-      "references_pt": 26,
+      "word_count_en": 3466,
+      "word_count_pt": 4018,
+      "references_en": 27,
+      "references_pt": 27,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "Revision 3 corrects the exact citation, vintage, unit and map-grammar issues identified in the first independent QA review. Word counts, source URLs, chart parity and visual floors are recomputed from both staged editions before resubmission.",
-      "revision": 3
+      "repository_script_validator": "Revision 4 addresses the remaining independent QA issues: explicit Nvidia catalyst attribution, non-additive PMI aggregate qualification, Bank of England meeting/publication dates, primary Bank of Japan effective-date evidence, date-filtered PTAX query and chronological novelty rationale. Recompute word counts, source URLs, chart parity and visual grammar from both staged editions before QA.",
+      "revision": 4
     },
     "reconciliation_run_id": null
   },
-  "revision": 3,
-  "revision_reason": "Revision 3 corrects the BCB Focus reference date and adds the primary PDF, labels FRED high-yield OAS levels in percent, maps IEA claims to the IEA bibliography entry, corrects the RBA decision date, and rewrites the map using the repository's three-field line grammar in both locales.",
+  "revision": 4,
+  "revision_reason": "Revision 4 identifies the Nvidia board-reinstatement catalyst reported by AP; clarifies the non-additive PMI comparison; distinguishes the Bank of England meeting end from the publication date; adds the Bank of Japan's 18 September primary decision for the 24 September effective date; replaces the dynamic PTAX homepage with the date-filtered BCB OData query; and corrects the chronology in the novelty rationale.",
   "revision_scope": [
     "Create English and PT-BR research drafts with separate idiomatic copy.",
     "Create a dedicated pending-v2 record with the registered daily-global-macro classification.",
     "Add reproducible market, activity, energy, credit and flow visuals with identical numeric series and references in both locales.",
-    "Restructure the executive assessment, five analytical sections and conclusion as H2 sections in both locales to satisfy validate-editorial-depth.mjs (minimum six analytical H2 sections)."
+    "Restructure the executive assessment, five analytical sections and conclusion as H2 sections in both locales to satisfy validate-editorial-depth.mjs (minimum six analytical H2 sections).",
+    "Identify the Nvidia/Jensen Huang board-reinstatement catalyst in both locales and explain its company-specific contribution to the equity rebound without generalizing it into macroeconomic easing.",
+    "Clarify that the euro-area PMI is an aggregate including Germany and France; distinguish the Bank of England meeting end from the decision publication date.",
+    "Add the Bank of Japan's 18 September 2026 primary decision and a date-filtered BCB PTAX OData query; correct the chronology of the three comparative editions."
   ],
   "qa_fixes_applied": [
-    "EDITORIAL_DEPTH_H2_SECTION_STRUCTURE"
+    "EDITORIAL_DEPTH_H2_SECTION_STRUCTURE",
+    "NVIDIA_CATALYST_ATTRIBUTION",
+    "PMI_AGGREGATE_COMPONENT_QUALIFICATION",
+    "BOJ_POLICY_EFFECTIVE_DATE_PRIMARY_SOURCE",
+    "BOE_MEETING_VS_RELEASE_DATE",
+    "PTAX_DATE_FILTERED_API_SOURCE",
+    "NOVELTY_RATIONALE_CHRONOLOGY"
   ]
 }

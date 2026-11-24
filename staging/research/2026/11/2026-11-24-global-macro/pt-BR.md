@@ -20,7 +20,7 @@ Os PMIs compostos preliminares de novembro mostram diretamente essa dispersão.
 
 ```chart
 type: bar
-title: Índices compostos de atividade PMI — novembro de 2026
+title: Índices compostos de atividade PMI — novembro de 2026; zona do euro agregada e economias componentes (comparação não aditiva)
 unit: pontos do índice; 50 separa expansão de contração
 Estados Unidos | 54.6
 Zona do euro | 51.7
@@ -56,13 +56,13 @@ As decisões mais recentes mostram por que leituras semelhantes de PMI não impl
 |---|---:|---|
 | Federal Reserve | Faixa de 3,75%–4,00% | Manteve em 28 de outubro; dois membros preferiam alta de 25 pb |
 | BCE | Taxa de depósito de 2,50% | Taxa vigente desde 16 de setembro |
-| Banco da Inglaterra | Bank Rate de 4,00% | Elevou 25 pb em 5 de novembro, votação de 8–1 |
+| Banco da Inglaterra | Bank Rate de 4,00% | Reunião do MPC terminou em 4 de novembro; decisão publicada em 5 de novembro, votação de 8–1 |
 | Reserve Bank of Australia | Meta de 4,85% | Elevou 25 pb em 3 de novembro, votação de 6–3 |
 | Banco Central do Brasil | Meta Selic de 13,75% | Manteve em 4 de novembro |
-| Banco do Japão | Diretriz de 1,25% para a taxa overnight | Última alteração documentada efetiva em 24 de setembro |
+| Banco do Japão | Diretriz de 1,25% para a taxa overnight | Última alteração documentada efetiva em 24 de setembro [27] |
 ```
 
-Esses instrumentos não são idênticos e não devem ser comparados como se fossem uma única taxa global. Ainda assim, mostram a amplitude das referências nominais enfrentadas pelos tomadores de crédito. O Federal Reserve manteve a faixa de 3,75%–4,00% em outubro, mas a votação de 10–2 incluiu dois membros favoráveis a uma alta de 25 pontos-base. A taxa de depósito do BCE é de 2,50%. O Banco da Inglaterra elevou a Bank Rate para 4,00% em 5 de novembro, e o RBA elevou sua meta para 4,85% em 3 de novembro. O Brasil manteve a Selic em 13,75%. A última alteração documentada pelo Banco do Japão estabeleceu uma diretriz próxima de 1,25%, efetiva em 24 de setembro. [8–13]
+Esses instrumentos não são idênticos e não devem ser comparados como se fossem uma única taxa global. Ainda assim, mostram a amplitude das referências nominais enfrentadas pelos tomadores de crédito. O Federal Reserve manteve a faixa de 3,75%–4,00% em outubro, mas a votação de 10–2 incluiu dois membros favoráveis a uma alta de 25 pontos-base. A taxa de depósito do BCE é de 2,50%. A reunião do Comitê de Política Monetária do Banco da Inglaterra terminou em 4 de novembro; a decisão de elevar a Bank Rate para 4,00% foi publicada em 5 de novembro. O RBA elevou sua meta para 4,85% em 3 de novembro. O Brasil manteve a Selic em 13,75%. A decisão do Banco do Japão de 18 de setembro estabeleceu a diretriz overnight próxima de 1,25%, efetiva em 24 de setembro. [8–13, 27]
 
 A divergência não se resume a bancos centrais escolhendo velocidades distintas de flexibilização. Na Austrália e no Reino Unido, as autoridades citaram pressões inflacionárias domésticas amplas e o risco de que custos energéticos maiores se transmitam a outros preços. Nos Estados Unidos, o comunicado do FOMC de outubro descreveu atividade resiliente e inflação elevada; os votos dissidentes foram favoráveis a apertar, não a afrouxar. No Brasil, a taxa nominal permanece alta mesmo com a desaceleração da economia. Cada autoridade pondera capacidade doméstica, energia importada, salários e câmbio; um PMI acima de 50 não resolve essa escolha.
 
@@ -92,7 +92,7 @@ O Relatório Focus de 19 de novembro, resumido pela B3 em 23 de novembro, elevou
 
 ## 3. Mercados: recuperação forte das ações, mas o crédito não voltou ao ponto anterior
 
-As ações americanas avançaram fortemente em 23 de novembro: o S&P 500 subiu 4,7%, o Nasdaq 6,5%, o Dow 3,0% e o Russell 2000, 3,4%. O movimento encerrou uma sequência de sete sessões de queda e recuperou pouco mais da metade das perdas da semana anterior. A recuperação foi liderada por ações de tecnologia e ligadas à IA; a Associated Press descreveu o movimento como uma reversão acentuada após uma semana de perdas. O evento foi um catalisador corporativo e setorial, não uma nova divulgação macroeconômica. Uma variação de um dia nos preços das ações não demonstra que as expectativas de lucro, financiamento ou produtividade tenham sido reparadas. [23]
+As ações americanas avançaram fortemente em 23 de novembro: o S&P 500 subiu 4,7%, o Nasdaq 6,5%, o Dow 3,0% e o Russell 2000, 3,4%. O movimento encerrou uma sequência de sete sessões de queda e recuperou pouco mais da metade das perdas da semana anterior. A recuperação foi liderada por ações de tecnologia e ligadas à IA; a Associated Press descreveu o movimento como uma reversão acentuada após uma semana de perdas. A AP informou que o conselho da Nvidia reintegrou o CEO Jensen Huang em meio a uma investigação sobre possíveis questões de espionagem estrangeira e segurança nacional; as ações da empresa subiram 31,5%. O evento específico ajuda a explicar a concentração da recuperação em papéis ligados à IA, mas não demonstra melhora ampla das condições macroeconômicas ou de financiamento. Uma variação de um dia nos preços das ações não demonstra que as expectativas de lucro, financiamento ou produtividade tenham sido reparadas. [23]
 
 A curva nominal de paridade do Tesouro americano encerrou 23 de novembro em 4,63% para dois anos, 4,92% para dez anos e 5,29% para trinta anos. O spread 2s10s foi, portanto, de 29 pontos-base, e o spread 10s30s, de 37 pontos-base. A curva é ascendente, mas os rendimentos longos permanecem altos. O rendimento de dez anos não é uma medida pura da trajetória esperada da política monetária: também incorpora inflação esperada, juros reais e prêmio de prazo. [14]
 
@@ -199,9 +199,10 @@ O risco relevante é a ampliação da distância entre economias e tomadores cap
 18. Reuters, “Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart”, 23 de novembro de 2026. https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/
 19. Reuters, “Russian Urals oil discounts widen at Indian ports, sources say”, 23 de novembro de 2026. https://www.reuters.com/business/energy/russian-urals-oil-discounts-widen-indian-ports-sources-say-2026-11-23/
 20. Ministério da Fazenda do Brasil, “Boletim Macrofiscal de Novembro de 2026”, 23 de novembro de 2026. https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/boletim-macrofiscal/2026/2026-11-23_boletim_macrofiscal_vf4.pdf/@@download/file
-21. Banco Central do Brasil, dados oficiais de mercado na página institucional, taxa de venda PTAX em 23 de novembro de 2026. https://www.bcb.gov.br/
+21. Banco Central do Brasil, consulta diária de cotação PTAX para 23 de novembro de 2026, taxa de venda de R$5,97080 às 13h06min23s. https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia%28dataCotacao%3D%40dataCotacao%29?%24format=json&%40dataCotacao=%2711-23-2026%27
 22. B3, “Ibovespa B3 recua 0,95%, puxado por cautela e petróleo; dólar cai a R$ 5,92”, 23 de novembro de 2026. https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592/
 23. Associated Press, “US stocks surge and recover half of last week’s plunge”, 23 de novembro de 2026. https://apnews.com/article/stocks-markets-rates-technology-ai-anthropic-49ba1beba78fa4ed2bd5898029f79c91
 24. The Wall Street Journal, “The WSJ Dollar Index Rises 0.27% to 99.02”, 23 de novembro de 2026. https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e
 25. Organização das Nações Unidas para a Alimentação e a Agricultura, “FAO Food Price Index”, divulgação de outubro de 2026, 6 de novembro de 2026. https://www.fao.org/worldfoodsituation/foodpricesindex
 26. Banco Central do Brasil, “Focus — Relatório de Mercado”, data de referência de 19 de novembro de 2026. https://www.bcb.gov.br/content/focus/focus/R20261119.pdf
+27. Banco do Japão, “Changes in the Guidelines for Money Market Operations”, 18 de setembro de 2026. https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf

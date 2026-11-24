@@ -20,7 +20,7 @@ The November flash composite PMIs show the dispersion directly.
 
 ```chart
 type: bar
-title: November 2026 flash composite PMI output indices
+title: November 2026 flash composite PMI output indices — euro-area aggregate and constituent economies (non-additive comparison)
 unit: index points; 50 separates expansion from contraction
 United States | 54.6
 Euro area | 51.7
@@ -56,13 +56,13 @@ The latest policy decisions show why similar PMI readings do not imply similar f
 |---|---:|---|
 | Federal Reserve | 3.75%–4.00% target range | Held on 28 October; two members preferred a 25 bp increase |
 | ECB | 2.50% deposit facility | Current rate effective 16 September |
-| Bank of England | 4.00% Bank Rate | Raised 25 bp on 5 November, 8–1 vote |
+| Bank of England | 4.00% Bank Rate | MPC meeting ended 4 November; decision published 5 November, 8–1 vote |
 | Reserve Bank of Australia | 4.85% cash-rate target | Raised 25 bp on 3 November, 6–3 vote |
 | Banco Central do Brasil | 13.75% Selic target | Held on 4 November |
-| Bank of Japan | 1.25% overnight-rate guideline | Last documented change effective 24 September |
+| Bank of Japan | 1.25% overnight-rate guideline | Last documented change effective 24 September [27] |
 ```
 
-These are not identical instruments and should not be compared as if they were a single global rate. They nevertheless show the range of nominal policy settings faced by borrowers. The Federal Reserve held its target range at 3.75%–4.00% in October, but the 10–2 vote included two members who preferred a 25 basis-point increase. The ECB’s deposit rate is 2.50%. The Bank of England raised Bank Rate to 4.00% on 5 November, and the RBA raised its cash-rate target to 4.85% on 3 November. Brazil held the Selic at 13.75%. The Bank of Japan’s last documented change set the overnight guideline at around 1.25%, effective 24 September. [8–13]
+These are not identical instruments and should not be compared as if they were a single global rate. They nevertheless show the range of nominal policy settings faced by borrowers. The Federal Reserve held its target range at 3.75%–4.00% in October, but the 10–2 vote included two members who preferred a 25 basis-point increase. The ECB’s deposit rate is 2.50%. The Bank of England's Monetary Policy Committee meeting ended on 4 November; its decision to raise Bank Rate to 4.00% was published on 5 November. The RBA raised its cash-rate target to 4.85% on 3 November. Brazil held the Selic at 13.75%. The Bank of Japan’s 18 September decision set the overnight guideline at around 1.25%, effective 24 September. [8–13, 27]
 
 The divergence is not simply a matter of central banks choosing different speeds of easing. In Australia and the United Kingdom, policymakers cited broad domestic inflation pressure and the risk that higher energy costs would pass through to other prices. In the United States, the October FOMC statement described resilient activity and elevated inflation; the dissenting votes were in favour of tightening, not easing. In Brazil, the nominal policy rate remains high even as the domestic economy slows. Each central bank is balancing domestic capacity, imported energy, wages and exchange rates; a PMI above 50 does not resolve that trade-off.
 
@@ -92,7 +92,7 @@ The 19 November Focus report, summarized by B3 on 23 November, raised the market
 
 ## 3. Markets: a sharp equity rebound has not repaired the credit signal
 
-US equities rose sharply on 23 November: the S&P 500 gained 4.7%, the Nasdaq 6.5%, the Dow 3.0% and the Russell 2000 3.4%. The move ended a seven-session losing streak and recovered just over half of the preceding week’s losses. The rebound was led by technology and AI-linked shares; the Associated Press described the move as a sharp reversal after a week of losses. The event was a corporate-governance and sector-specific catalyst, not a new macroeconomic release. A one-day change in equity prices cannot establish that earnings, financing or productivity expectations have been repaired. [23]
+US equities rose sharply on 23 November: the S&P 500 gained 4.7%, the Nasdaq 6.5%, the Dow 3.0% and the Russell 2000 3.4%. The move ended a seven-session losing streak and recovered just over half of the preceding week’s losses. The rebound was led by technology and AI-linked shares; the Associated Press described the move as a sharp reversal after a week of losses. AP reported that Nvidia’s board reinstated CEO Jensen Huang amid an investigation into possible foreign-spy and national-security concerns; Nvidia shares rose 31.5%. The company-specific event helps explain the concentration of the rebound in AI-linked shares, but it is not evidence of a broad improvement in macroeconomic or financing conditions. A one-day change in equity prices cannot establish that earnings, financing or productivity expectations have been repaired. [23]
 
 The official US Treasury par curve closed on 23 November at 4.63% for two years, 4.92% for ten years and 5.29% for thirty years. The 2s10s spread was therefore 29 basis points and the 10s30s spread 37 basis points. The curve is upward sloping, but long nominal yields remain high. The ten-year yield is not a pure measure of expected policy rates: it also reflects expected inflation, real rates and term premium. [14]
 
@@ -199,9 +199,10 @@ The relevant risk is a widening gap between economies and borrowers that can fin
 18. Reuters, “Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart”, 23 November 2026. https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/
 19. Reuters, “Russian Urals oil discounts widen at Indian ports, sources say”, 23 November 2026. https://www.reuters.com/business/energy/russian-urals-oil-discounts-widen-indian-ports-sources-say-2026-11-23/
 20. Brazilian Ministry of Finance, “Boletim Macrofiscal de Novembro de 2026”, 23 November 2026. https://www.gov.br/fazenda/pt-br/central-de-conteudo/publicacoes/conjuntura-economica/boletim-macrofiscal/2026/2026-11-23_boletim_macrofiscal_vf4.pdf/@@download/file
-21. Banco Central do Brasil, official homepage market data, PTAX dollar selling rate on 23 November 2026. https://www.bcb.gov.br/
+21. Banco Central do Brasil, PTAX daily quotation query for 23 November 2026, selling rate R$5.97080 at 13:06:23 BRT. https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia%28dataCotacao%3D%40dataCotacao%29?%24format=json&%40dataCotacao=%2711-23-2026%27
 22. B3, “Ibovespa B3 recua 0,95%, puxado por cautela e petróleo; dólar cai a R$ 5,92”, 23 November 2026. https://borainvestir.b3.com.br/noticias/mercado/ibovespa-b3-recua-095-puxado-por-cautela-e-petroleo-dolar-cai-a-r-592/
 23. Associated Press, “US stocks surge and recover half of last week’s plunge”, 23 November 2026. https://apnews.com/article/stocks-markets-rates-technology-ai-anthropic-49ba1beba78fa4ed2bd5898029f79c91
 24. The Wall Street Journal, “The WSJ Dollar Index Rises 0.27% to 99.02”, 23 November 2026. https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e
 25. Food and Agriculture Organization of the United Nations, “FAO Food Price Index”, October 2026 release, 6 November 2026. https://www.fao.org/worldfoodsituation/foodpricesindex
 26. Banco Central do Brasil, “Focus — Relatório de Mercado”, reference date 19 November 2026. https://www.bcb.gov.br/content/focus/focus/R20261119.pdf
+27. Bank of Japan, “Changes in the Guidelines for Money Market Operations”, 18 September 2026. https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf
