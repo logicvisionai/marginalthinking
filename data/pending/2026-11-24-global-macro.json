@@ -80,7 +80,7 @@
         "Federal Reserve meeting on 8–9 December",
         "FAO Food Price Index scheduled for 4 December"
       ],
-      "search_text": "Global Macro 24 November 2026 global PMI Germany France United States United Kingdom Japan India growth divergence credit spreads Treasury curve IIF emerging market flows oil Brent diesel Brazil macrofiscal FAO food prices Brazil Focus 23 November 2026 2026 GDP IPCA exchange rate market median"
+      "search_text": "Global Macro 24 November 2026 global PMI Germany France United States United Kingdom Japan India growth divergence credit spreads Treasury curve IIF emerging market flows oil Brent diesel Brazil macrofiscal FAO food prices Brazil Focus report dated 19 November 2026 published 23 November 2026 GDP IPCA exchange rate market median"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md",
@@ -117,7 +117,7 @@
         "Reunião do Federal Reserve em 8–9 de dezembro",
         "Índice de Preços de Alimentos da FAO previsto para 4 de dezembro"
       ],
-      "search_text": "Global Macro 24 novembro 2026 PMI global Alemanha França Estados Unidos Reino Unido Japão Índia divergência crescimento spreads crédito curva Treasury fluxos IIF mercados emergentes petróleo Brent diesel macrofiscal Brasil preços alimentos FAO Focus 23 novembro 2026 PIB IPCA câmbio mediana de mercado"
+      "search_text": "Global Macro 24 novembro 2026 PMI global Alemanha França Estados Unidos Reino Unido Japão Índia divergência crescimento spreads crédito curva Treasury fluxos IIF mercados emergentes petróleo Brent diesel macrofiscal Brasil preços alimentos FAO Focus report dated 19 November 2026 published 23 November PIB IPCA câmbio mediana de mercado"
     }
   },
   "signal_rationale": {
@@ -155,8 +155,8 @@
       "tables": 3,
       "flows": 1,
       "maps": 1,
-      "references_en": 25,
-      "references_pt": 25
+      "references_en": 26,
+      "references_pt": 26
     },
     "visual_evidence": {
       "charts": 2,
@@ -165,20 +165,20 @@
       "maps": 1
     },
     "source_audit": {
-      "references": 25,
-      "primary_institutional_sources": 15,
+      "references": 26,
+      "primary_institutional_sources": 16,
       "market_reporting_sources": 10,
-      "urls_unique": 25,
-      "domains": 17,
+      "urls_unique": 26,
+      "domains": 18,
       "reproducibility_notes": {
         "pmi_comparison": "Flash composite PMI output indices published 23–24 Nov 2026; 50 is the expansion/contraction threshold. The values are survey diffusion indices, not GDP growth rates.",
-        "credit_spread": "ICE BofA US High Yield Index OAS via FRED: 3.23 on 13 Nov; 3.34 on 16 Nov; 3.43 on 17 Nov; 3.47 on 18 Nov; 3.52 on 19 Nov; 3.76 on 20 Nov. Latest observation available at cutoff.",
+        "credit_spread": "ICE BofA US High Yield Index OAS via FRED, unit Percent: 3.23% on 13 Nov; 3.34% on 16 Nov; 3.43% on 17 Nov; 3.47% on 18 Nov; 3.52% on 19 Nov; 3.76% on 20 Nov. Latest observation available at the 05:00 BRT cutoff.",
         "treasury_curve": "US Treasury official daily par curve, 23 Nov 2026: 2-year 4.63%; 10-year 4.92%; 30-year 5.29%.",
         "brazil_forecast": "Brazil Ministry of Finance Macrofiscal Bulletin Nov 2026, parameter grid comparison with September vintage; November grid closed 6 Nov.",
         "oil_market": "Reuters settlement values for 23 Nov; IEA November report supplies October production and inventory estimates. Spot/futures settlement and monthly supply estimates are different observation types.",
         "food_prices": "FAO October 2026 FFPI: 133.9, down 1.2% m/m; cereal 116.8, down 4.5%; sugar 121.3, up 6.6%.",
         "market_flows": "IIF tracker published 5 Nov, estimating October non-resident EM portfolio outflows of US$33.8bn; monthly estimate, not daily flow.",
-        "brazil_focus": "B3 report on 23 Nov 2026 summarises the Focus market medians: 2026 GDP 1.70% (from 1.72%), IPCA 5.15% (from 5.11%), and year-end USD/BRL 5.55 (from 5.40). These are market medians, distinct from the Ministry of Finance's 2027 parameter grid.",
+        "brazil_focus": "Banco Central do Brasil Focus report with reference date 19 Nov 2026, summarized by B3 on 23 Nov: 2026 GDP 1.70% (from 1.72%), IPCA 5.15% (from 5.11%), and year-end USD/BRL 5.55 (from 5.40). These are market medians, not Central Bank forecasts, and are distinct from the Ministry of Finance's 2027 parameter grid. Primary PDF: https://www.bcb.gov.br/content/focus/focus/R20261119.pdf.",
         "japan_policy": "Bank of Japan October 2026 Outlook Report records the uncollateralized overnight call rate around 1.25% following the September policy increase."
       }
     },
@@ -187,18 +187,18 @@
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 4075,
-      "word_count_pt": 4676,
-      "references_en": 25,
-      "references_pt": 25,
+      "word_count_en": 3400,
+      "word_count_pt": 3934,
+      "references_en": 26,
+      "references_pt": 26,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "The prior strict editorial-health run identified only insufficient analytical H2 sections for this candidate after visual grammar was corrected. This revision promotes the existing seven analytical sections to H2 in both locales; the exact revision must be rechecked by the independent workflow.",
-      "revision": 2
+      "repository_script_validator": "Revision 3 corrects the exact citation, vintage, unit and map-grammar issues identified in the first independent QA review. Word counts, source URLs, chart parity and visual floors are recomputed from both staged editions before resubmission.",
+      "revision": 3
     },
     "reconciliation_run_id": null
   },
-  "revision": 2,
-  "revision_reason": "Promote the existing analytical section headings to the repository's required H2 level so the daily edition passes the strict analytical-section depth gate; no facts, observations, sources, charts or conclusions changed.",
+  "revision": 3,
+  "revision_reason": "Revision 3 corrects the BCB Focus reference date and adds the primary PDF, labels FRED high-yield OAS levels in percent, maps IEA claims to the IEA bibliography entry, corrects the RBA decision date, and rewrites the map using the repository's three-field line grammar in both locales.",
   "revision_scope": [
     "Create English and PT-BR research drafts with separate idiomatic copy.",
     "Create a dedicated pending-v2 record with the registered daily-global-macro classification.",

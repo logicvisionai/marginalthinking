@@ -8,11 +8,11 @@
 
 The latest business surveys do not describe a synchronized global contraction. They describe an expansion whose geography and sectoral composition are becoming less even. India and Germany are expanding rapidly; the United States, the euro area, the United Kingdom and Japan remain above the PMI growth threshold but have lost some momentum; France is contracting. The distance between Germany’s composite reading of 55.0 and France’s 46.2 is 8.8 index points. The difference is economically more informative than the euro-area headline of 51.7, which has remained in expansion for a fifth month. [1–7]
 
-Financial markets are sending a less reassuring message than the equity rebound on 23 November suggests. The S&P 500 rose 4.7% and the Nasdaq 6.5%, but the latest available US high-yield option-adjusted spread widened from 3.23 percentage points on 13 November to 3.76 on 20 November. The spread series has not yet published a 23 November observation. The Treasury curve ended Monday at 4.63% for two years, 4.92% for ten years and 5.29% for thirty years. The dollar also remained firm, while the Institute of International Finance recorded US$33.8 billion of non-resident portfolio outflows from emerging markets in October. These are different instruments and observation windows; together they indicate that the equity rally has not yet demonstrated a broad easing in the cost of capital. [14–17, 23–24]
+Financial markets are sending a less reassuring message than the equity rebound on 23 November suggests. The S&P 500 rose 4.7% and the Nasdaq 6.5%, but the latest available US high-yield option-adjusted spread widened from 3.23% on 13 November to 3.76% on 20 November. The spread series has not yet published a 23 November observation. The Treasury curve ended Monday at 4.63% for two years, 4.92% for ten years and 5.29% for thirty years. The dollar also remained firm, while the Institute of International Finance recorded US$33.8 billion of non-resident portfolio outflows from emerging markets in October. These are different instruments and observation windows; together they indicate that the equity rally has not yet demonstrated a broad easing in the cost of capital. [14–17, 23–24]
 
-Energy provides a counterweight. Brent fell 3.46% to US$89.37 per barrel on 23 November as Middle Eastern flows increased and Libya’s Sharara pipeline restarted. The International Energy Agency estimates that global oil supply rose by 2.3 million barrels per day in October to 105.4 million barrels per day. Yet the same agency describes low onshore inventory buffers and refined-product constraints, while European diesel prices remained 77% above their pre-war level. Lower crude prices therefore do not establish that the energy shock has ended. [18–19]
+Energy provides a counterweight. Brent fell 3.46% to US$89.37 per barrel on 23 November as Middle Eastern flows increased and Libya’s Sharara pipeline restarted. The International Energy Agency estimates that global oil supply rose by 2.3 million barrels per day in October to 105.4 million barrels per day. Yet the same agency describes low onshore inventory buffers and refined-product constraints, while European diesel prices remained 77% above their pre-war level. Lower crude prices therefore do not establish that the energy shock has ended. [17–18]
 
-The central signal is not an imminent global recession. It is a more uneven expansion in which the price of financing, energy logistics and domestic policy constraints differ sharply across regions. That combination makes aggregate growth headlines less useful for assessing the resilience of individual countries, sectors and borrowers.
+The evidence points to a more uneven expansion rather than an imminent global recession. Financing costs, energy logistics and domestic policy constraints vary sharply across regions, so aggregate growth headlines reveal less about the resilience of individual countries, sectors and borrowers.
 
 ## 1. Activity: a positive aggregate conceals a wider regional gap
 
@@ -41,7 +41,7 @@ The euro-area headline consequently masks a material internal divergence. German
 
 The United Kingdom’s composite PMI eased to 52.3 from 52.9. Services fell to 52.0, while manufacturing output rose to 54.2 even though the manufacturing headline slipped to 52.7. Survey respondents cited data-centre construction, defence spending and food and drink as supports for manufacturing. Services export orders weakened, and hiring fell as firms sought to contain costs. S&P Global’s estimate of 0.6% fourth-quarter GDP growth is a survey interpretation; the more useful signal is that domestic industrial demand is stronger than some export-facing services. [5]
 
-Japan’s composite eased to 51.5 from 52.1, a six-month low. Manufacturing improved to 53.7, helped by semiconductor and electronics demand and faster export orders. Services slowed to 50.5, close to stagnation. The contrast is important: the export-facing industrial segment is expanding, while consumer-facing activity is losing momentum amid labour shortages, higher costs and concern about household spending. [6]
+Japan’s composite eased to 51.5 from 52.1, a six-month low. Manufacturing improved to 53.7, helped by semiconductor and electronics demand and faster export orders. Services slowed to 50.5, close to stagnation. Manufacturing is expanding while consumer-facing services are close to stagnation, amid labour shortages, higher costs and concern about household spending. [6]
 
 India remained the strongest large emerging-market reading in this group. Its composite PMI edged up to 56.3 from 56.2, and manufacturing reached a nine-month high of 56.0. Services slowed to 55.3, however, and employment moved in opposite directions: factories hired at the fastest pace in seven months while service firms reduced headcount. The data indicate a manufacturing-led expansion, not an evenly distributed acceleration across the economy. [7]
 
@@ -57,20 +57,20 @@ The latest policy decisions show why similar PMI readings do not imply similar f
 | Federal Reserve | 3.75%–4.00% target range | Held on 28 October; two members preferred a 25 bp increase |
 | ECB | 2.50% deposit facility | Current rate effective 16 September |
 | Bank of England | 4.00% Bank Rate | Raised 25 bp on 5 November, 8–1 vote |
-| Reserve Bank of Australia | 4.85% cash-rate target | Raised 25 bp on 4 November, 6–3 vote |
+| Reserve Bank of Australia | 4.85% cash-rate target | Raised 25 bp on 3 November, 6–3 vote |
 | Banco Central do Brasil | 13.75% Selic target | Held on 4 November |
 | Bank of Japan | 1.25% overnight-rate guideline | Last documented change effective 24 September |
 ```
 
-These are not identical instruments and should not be compared as if they were a single global rate. They nevertheless show the range of nominal policy settings faced by borrowers. The Federal Reserve held its target range at 3.75%–4.00% in October, but the 10–2 vote included two members who preferred a 25 basis-point increase. The ECB’s deposit rate is 2.50%. The Bank of England raised Bank Rate to 4.00% on 5 November, and the RBA raised its cash-rate target to 4.85% on 4 November. Brazil held the Selic at 13.75%. The Bank of Japan’s last documented change set the overnight guideline at around 1.25%, effective 24 September. [8–13]
+These are not identical instruments and should not be compared as if they were a single global rate. They nevertheless show the range of nominal policy settings faced by borrowers. The Federal Reserve held its target range at 3.75%–4.00% in October, but the 10–2 vote included two members who preferred a 25 basis-point increase. The ECB’s deposit rate is 2.50%. The Bank of England raised Bank Rate to 4.00% on 5 November, and the RBA raised its cash-rate target to 4.85% on 3 November. Brazil held the Selic at 13.75%. The Bank of Japan’s last documented change set the overnight guideline at around 1.25%, effective 24 September. [8–13]
 
-The divergence is not simply a matter of central banks choosing different speeds of easing. In Australia and the United Kingdom, policymakers cited broad domestic inflation pressure and the risk that higher energy costs would pass through to other prices. In the United States, the October FOMC statement described resilient activity and elevated inflation; the dissenting votes were in favour of tightening, not easing. In Brazil, the nominal policy rate remains high even as the domestic economy slows. The relevant question is how each central bank weighs domestic capacity, imported energy, wages and the exchange rate—not whether the latest PMI is above 50.
+The divergence is not simply a matter of central banks choosing different speeds of easing. In Australia and the United Kingdom, policymakers cited broad domestic inflation pressure and the risk that higher energy costs would pass through to other prices. In the United States, the October FOMC statement described resilient activity and elevated inflation; the dissenting votes were in favour of tightening, not easing. In Brazil, the nominal policy rate remains high even as the domestic economy slows. Each central bank is balancing domestic capacity, imported energy, wages and exchange rates; a PMI above 50 does not resolve that trade-off.
 
 Brazil’s November Macrofiscal Bulletin adds a new fiscal and forecast signal. The Ministry of Finance’s parameter grid revised 2027 GDP growth to 1.8% from 2.3%, IPCA inflation to 4.5% from 3.8%, the Selic assumption to 12.93% from 12.67%, the exchange-rate assumption to R$5.34 per US dollar from R$5.23, and Brent to US$95.20 per barrel from US$79.50. These are the Ministry’s macroeconomic parameters, comparing the September and November forecast vintages; they are not realised outcomes or a market-consensus survey. The November grid was closed on 6 November, so it should not be read as incorporating every subsequent market move. [20]
 
 The same bulletin provides a countervailing fiscal observation. The central-government primary deficit for January–September was R$89.7 billion, compared with R$103.2 billion in the corresponding 2025 period in the bulletin’s comparison. Real revenue growth of 6.5% exceeded real expenditure growth of 5.4%. The deficit remains a deficit, but the year-to-date comparison does not support a simple claim that the primary balance deteriorated in every dimension. The more difficult combination is slower projected growth, higher projected inflation and a high policy rate, which limits the room for demand support without worsening the inflation outlook.
 
-Separately, the 23 November Focus survey reported by B3 raised the market median for the 2026 year-end exchange rate from R$5.40 to R$5.55 per US dollar, lifted the IPCA projection from 5.11% to 5.15%, and reduced the GDP-growth estimate from 1.72% to 1.70%. These are market medians for 2026, not the Ministry’s 2027 parameter grid. The difference in horizon and source matters: the Focus survey is a market-expectations measure, while the Macrofiscal Bulletin is the Ministry’s own forecast framework. [22]
+The 19 November Focus report, summarized by B3 on 23 November, raised the market median for the 2026 year-end exchange rate from R$5.40 to R$5.55 per US dollar, lifted the IPCA projection from 5.11% to 5.15%, and reduced the GDP-growth estimate from 1.72% to 1.70%. These are market medians for 2026, not the Ministry’s 2027 parameter grid. The Focus report records market expectations; the Macrofiscal Bulletin records the Ministry’s own forecast parameters. [22, 26]
 
 ```table
 | Brazil: 2027 macrofiscal parameter | September vintage | November vintage | Revision |
@@ -83,7 +83,7 @@ Separately, the 23 November Focus survey reported by B3 raised the market median
 ```
 
 ```table
-| Brazil: 2026 Focus market median | Previous week | 23 November | Revision |
+| Brazil: 2026 Focus market median | Previous week | 19 November report | Revision |
 |---|---:|---:|---:|
 | GDP growth | 1.72% | 1.70% | −0.02 pp |
 | IPCA inflation | 5.11% | 5.15% | +0.04 pp |
@@ -96,12 +96,12 @@ US equities rose sharply on 23 November: the S&P 500 gained 4.7%, the Nasdaq 6.5
 
 The official US Treasury par curve closed on 23 November at 4.63% for two years, 4.92% for ten years and 5.29% for thirty years. The 2s10s spread was therefore 29 basis points and the 10s30s spread 37 basis points. The curve is upward sloping, but long nominal yields remain high. The ten-year yield is not a pure measure of expected policy rates: it also reflects expected inflation, real rates and term premium. [14]
 
-The ICE BofA US High Yield Index option-adjusted spread reached 3.76 percentage points on 20 November, up from 3.23 on 13 November. The 53-basis-point increase over five trading sessions is a meaningful repricing of below-investment-grade corporate risk. It is not, by itself, evidence of a credit crisis: the series measures a US dollar-denominated high-yield bond index, not all corporate loans, private credit or global borrowers. The latest observation available at the cutoff is 20 November, so it must not be presented as a 23 November close. [15]
+The ICE BofA US High Yield Index option-adjusted spread reached 3.76% on 20 November, up from 3.23% on 13 November. The 53-basis-point increase over five trading sessions is a meaningful repricing of below-investment-grade corporate risk. It is not, by itself, evidence of a credit crisis: the series measures a US dollar-denominated high-yield bond index, not all corporate loans, private credit or global borrowers. The latest observation available at the cutoff is 20 November, so it must not be presented as a 23 November close. [15]
 
 ```chart
 type: bar
 title: US high-yield option-adjusted spread, 13–20 November 2026
-unit: percentage points; daily close
+unit: percent; daily close
 13 Nov | 3.23
 16 Nov | 3.34
 17 Nov | 3.43
@@ -110,7 +110,7 @@ unit: percentage points; daily close
 20 Nov | 3.76
 ```
 
-The contrast between the equity and credit markets is the central market qualification. Equity prices can rebound quickly when a concentrated source of uncertainty is removed. Credit spreads respond to the expected ability of borrowers to refinance and service debt across a longer horizon. The widening spread is consistent with a market that is more selective about weak balance sheets even while large-cap technology shares recover. It does not establish that every borrower is facing a funding shortage.
+The equity rebound and the wider high-yield spread describe different parts of financing conditions. Equity prices can recover quickly when a concentrated source of uncertainty is removed, while credit spreads reflect borrowers’ expected ability to refinance and service debt over a longer horizon. The widening spread is consistent with greater selectivity toward weak balance sheets even as large-cap technology shares recover; it does not establish that every borrower faces a funding shortage.
 
 The WSJ Dollar Index rose 0.27% to 99.02 on 23 November, its largest daily gain since 11 November and its tenth advance in thirteen sessions. This is the WSJ index, not the ICE DXY measure. In Brazil, the Central Bank’s PTAX dollar selling rate was R$5.9708 on 23 November. The Ibovespa fell 0.95% to 164,796.05 points, diverging from the US equity rebound as domestic caution and the fall in oil weighed on local shares. These observations show that the global relief rally did not translate into uniform risk appetite across markets. [21–24]
 
@@ -120,7 +120,7 @@ The Institute of International Finance estimated US$33.8 billion of non-resident
 
 Brent futures for January delivery settled at US$89.37 per barrel on 23 November, down US$3.20 or 3.46%. WTI settled at US$80.17, down US$3.24 or 3.88%. Reuters attributed the fall to increased Middle Eastern supply and the reopening of Libya’s Sharara pipeline. The market close was lower even though Reuters also reported shipping incidents and claims of attacks in the Gulf. The Houthi movement’s statement about an attack on a Saudi refinery, the UK Maritime Trade Operations’ reports of attacks on shipping, and the different accounts given by Bahrain and Iran must remain attributed to those actors and reporting institutions. The available evidence does not quantify a new, sustained loss of regional oil output from those claims. [18]
 
-The IEA’s November Oil Market Report estimates that global oil supply rose by 2.3 million barrels per day in October to 105.4 million barrels per day. Global observed inventories increased by 52 million barrels during the month. The report also warns that onshore stocks are at their lowest level since at least 2016 and that refined-product markets remain tight. European diesel prices were still 77% above their pre-war level. These observations are compatible: crude supply can recover while product inventories, refining capacity, freight and insurance remain constrained. [18]
+The IEA’s November Oil Market Report estimates that global oil supply rose by 2.3 million barrels per day in October to 105.4 million barrels per day. Global observed inventories increased by 52 million barrels during the month. The report also warns that onshore stocks are at their lowest level since at least 2016 and that refined-product markets remain tight. European diesel prices were still 77% above their pre-war level. These observations are compatible: crude supply can recover while product inventories, refining capacity, freight and insurance remain constrained. [17]
 
 A lower Brent benchmark therefore does not translate one-for-one into lower delivered costs for airlines, trucking, agriculture, mining or households. Diesel, jet fuel and marine fuel have their own refining margins and logistics. A renewed interruption around the Strait of Hormuz could raise delivered costs even if the headline crude benchmark initially appears well supplied. Conversely, continued recovery in Middle Eastern exports and the Libyan pipeline restart would reduce the risk premium if the additional barrels reach buyers reliably.
 
@@ -154,15 +154,13 @@ Higher high-yield spreads and emerging-market outflows
 ```
 
 ```map
-| Region or market | Current signal | Main transmission channel | Qualification |
-|---|---|---|---|
-| United States | Composite PMI 54.6; high-yield spread 3.76 on 20 Nov | Credit cost, technology investment and long yields | Equity rebound is one session; spread data lag by one trading day |
-| Euro area | Headline PMI 51.7; Germany 55.0; France 46.2 | Common monetary policy across divergent national cycles | Survey readings are not national GDP results |
-| United Kingdom | Composite PMI 52.3; Bank Rate 4.00% | Energy pass-through, services exports and industrial demand | Q4 GDP estimate is survey-based |
-| Japan | Composite PMI 51.5; manufacturing 53.7 | Electronics exports, labour scarcity and household demand | Services are close to stagnation |
-| India | Composite PMI 56.3; wider Urals discount | Manufacturing demand, energy procurement and external financing | Trade prices are based on trader reports |
-| Brazil | 2027 growth assumption 1.8%; PTAX R$5.9708 | Fiscal expectations, high Selic and commodity receipts | Ministry forecast vintage closed on 6 Nov |
-| Gulf and Libya | Brent US$89.37; supply recovery | Export flows, shipping security and refined-product costs | Reported attacks and claims do not quantify lost output |
+United States | Composite PMI 54.6; high-yield spread 3.76% on 20 Nov | Credit costs, technology investment and long yields; the equity rebound lasted one session and spread observations lag the market close
+Euro area | Headline PMI 51.7; Germany 55.0; France 46.2 | Common monetary policy across divergent national cycles; survey readings are not national GDP results
+United Kingdom | Composite PMI 52.3; Bank Rate 4.00% | Energy pass-through, services exports and industrial demand; the Q4 GDP estimate is survey-based
+Japan | Composite PMI 51.5; manufacturing 53.7 | Electronics exports, labour scarcity and household demand; services are close to stagnation
+India | Composite PMI 56.3; wider Urals discount | Manufacturing demand, energy procurement and external financing; trade prices are based on trader reports
+Brazil | 2027 growth assumption 1.8%; PTAX R$5.9708 | Fiscal expectations, high Selic and commodity receipts; Ministry forecast vintage closed on 6 Nov
+Gulf and Libya | Brent US$89.37; supply recovery | Export flows, shipping security and refined-product costs; reported attacks and claims do not quantify lost output
 ```
 
 The base case is continued global expansion with wider differences between countries and sectors. The United States, euro area, United Kingdom, Japan and India remain above the PMI threshold, but the latest readings do not show a common acceleration. Germany and India provide stronger industrial signals; France and the Japanese service sector are weaker. Lower crude prices provide some relief to headline inflation, while refined products, credit and exchange-rate channels remain restrictive.
@@ -206,3 +204,4 @@ The relevant risk is a widening gap between economies and borrowers that can fin
 23. Associated Press, “US stocks surge and recover half of last week’s plunge”, 23 November 2026. https://apnews.com/article/stocks-markets-rates-technology-ai-anthropic-49ba1beba78fa4ed2bd5898029f79c91
 24. The Wall Street Journal, “The WSJ Dollar Index Rises 0.27% to 99.02”, 23 November 2026. https://www.wsj.com/finance/currencies/yen-may-strengthen-vs-dollar-on-diminished-risk-appetite-6434fe7e
 25. Food and Agriculture Organization of the United Nations, “FAO Food Price Index”, October 2026 release, 6 November 2026. https://www.fao.org/worldfoodsituation/foodpricesindex
+26. Banco Central do Brasil, “Focus — Relatório de Mercado”, reference date 19 November 2026. https://www.bcb.gov.br/content/focus/focus/R20261119.pdf
