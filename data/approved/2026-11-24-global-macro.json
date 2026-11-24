@@ -1,0 +1,324 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-24",
+  "slug": "2026-11-24-global-macro",
+  "revision": 2,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-24T09:47:47Z",
+  "reviewed_commit": "99b0fd6eaebb896762b5a95fb2c6880816d6dde1",
+  "pending_blob_sha": "1ed09ca7093fb4735231b957e6ee71a5d1ed4326",
+  "source_blob_shas": {
+    "en": "6c514a3b804a13e4f8fb76011dcdebe44c452c5b",
+    "pt-BR": "d00131f319b58568037ff490ebb2add824545cee"
+  },
+  "taxonomy_check": {
+    "result": "passed",
+    "summary": "Schema v2, ready=true, canonical ID/slug, revision 2, daily-global-macro kind, priority 10, political-economy-markets primary program, global-system-power related program, global geography, controlled dimensions/topics/phenomena, brief format and daily cadence are valid. war-armed-conflict is registered and is used only for attributed, conditional conflict transmission."
+  },
+  "translation_check": {
+    "result": "passed",
+    "summary": "EN and PT-BR preserve the same observations, dates, units, 25 source references, two quantitative chart series, three tables, one causal flow and one regional map. The two chart series match exactly: PMIs [54.6, 51.7, 55.0, 46.2, 52.3, 51.5, 56.3] and US high-yield OAS [3.23, 3.34, 3.43, 3.47, 3.52, 3.76]."
+  },
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Pending v2 and both complete staged editions were re-read from main at 99b0fd6eaebb896762b5a95fb2c6880816d6dde1. Exact Git blob tuple: pending 1ed09ca7093fb4735231b957e6ee71a5d1ed4326; EN 6c514a3b804a13e4f8fb76011dcdebe44c452c5b; PT-BR d00131f319b58568037ff490ebb2add824545cee. No approved or public metadata existed before this QA record."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "The pending-v2 object validates structurally and uses only the registered four-program architecture and controlled taxonomy. No arbitrary program, topic or phenomenon was introduced."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 24 November 2026 05:00 BRT cutoff is explicit. The latest Japan flash PMI was published before the cutoff; all other cited PMI, central-bank, Treasury, credit, energy, fiscal, market, food and flow observations predate it. No later market close or Worldsteel October release is represented as observed."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "PMI readings are correctly treated as diffusion indices, not GDP growth. Treasury par yields, FRED US high-yield OAS, ECB reference rates, IIF monthly portfolio-flow estimates, IEA monthly oil balances, FAO food-price index, Ministry of Finance forecast parameters and B3 market medians are kept as distinct instruments and vintages. Reuters/AP/WSJ claims about conflict and market prices remain attributed."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "The two editions contain 25 unique external URLs across 18 hostnames. Core activity and policy claims are supported by S&P Global, central banks, Treasury, FRED, IIF, IEA, Brazil's Ministry of Finance, B3, FAO and market-reporting sources. The Worldsteel release schedule is described as a future publication, not as observed data; BCB PTAX uses the institution's official data page. The sidecar's domain count is understated by one, and the generic PTAX landing URL is less direct than the historical-series endpoint; these are recorded as non-blocking documentation limitations."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Exact content counts: approximately 3,418 English and 3,933 Brazilian Portuguese words after fenced visual blocks and URLs are excluded; nine H2 sections in each locale. The strict editorial-health workflow did not list this candidate among its failures."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both locales contain two explicit quantitative charts, three evidence tables, one causal flow and one regional map. Chart labels and units are explicit; the two numeric series match exactly across locales and are traceable to the cited sources."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Both locales carry the same 25 references, observation dates, numeric series, units, regional comparisons, source qualifications, scenarios and falsifiers. PT-BR is idiomatic and not a literal line-by-line translation."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The pending signal rationale explicitly compares MT-GM-2026-11-23, MT-GM-2026-11-22 and MT-GM-2026-11-21. The new lens is the cross-region flash-PMI dispersion and its interaction with credit spreads, October emerging-market flows, energy-product constraints and Brazil's forecast-vintage changes; it is distinct from the preceding China ore/steel, AI productivity/valuation and cross-asset repricing theses."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report separates observations, interpretation and scenarios; it provides base and adverse paths, observable falsifiers, and explicit limits on what PMI, credit, oil and conflict reporting can establish."
+    },
+    "editorial_style": {
+      "result": "passed",
+      "summary": "No internal product-roadmap or pipeline narration, unsupported war attribution, AI clichés or instructions for weapons/agents were found. Conflict claims are attributed and conditional."
+    },
+    "editorial_depth_script": {
+      "result": "passed",
+      "summary": "Exact-head editorial-health workflow run 45367674952 completed its combined pending-research step with failures only for other older drafts; MT-GM-2026-11-24 was not among the listed failures. Candidate counts independently exceed the strict daily brief thresholds."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "Exact-head GitHub Actions run 45367675080 passed the Validate and build and research visual-semantics steps."
+    },
+    "repository_build": {
+      "result": "passed",
+      "summary": "The exact-head build/validation job completed successfully. Deployment is not claimed; the deploy job was not used as evidence of publication."
+    },
+    "system_registry_reconciliation": {
+      "result": "not_run",
+      "summary": "The item remains unpublished. Before publication, the publisher must record explicit decisions for all active reconciliation-required registry assets and attach a report-specific reconciliation_run_id."
+    },
+    "publication_snapshot_integrity": {
+      "result": "passed",
+      "summary": "The approval snapshot below embeds the exact revision-2 pending object and the exact pending and Markdown blob SHAs re-read at main HEAD."
+    },
+    "producer_preflight_consistency": {
+      "result": "passed_with_limitations",
+      "summary": "The producer-side manual_preflight word counts (4,075/4,676) and domain count (17) do not match independently recomputed counts (3,418/3,933 words and 18 hostnames). The underlying content passes the repository depth and source-coverage gates; the internal preflight fields should be corrected in a future revision or metadata-only update."
+    }
+  },
+  "contrary_evidence": [
+    "The Germany–France flash-PMI gap is large, but diffusion surveys are not national-accounts output.",
+    "The US high-yield spread widening is US below-investment-grade credit, not a global credit-stress index.",
+    "IIF portfolio flows are a monthly estimate and do not establish country-by-country outflows.",
+    "Crude supply recovery does not imply refined-product or diesel availability has normalized.",
+    "A market rebound in US equities does not establish a recovery in realized AI productivity or data-centre utilization."
+  ],
+  "limitations": [
+    "No complete, comparable daily FX-flow panel for smaller markets was verified.",
+    "The BCB PTAX reference points to the official institutional market-data page rather than a date-filtered historical endpoint.",
+    "The Worldsteel October release was scheduled for 24 November but was not available by the 05:00 BRT cutoff; the official schedule notice is not separately listed in the article bibliography.",
+    "Producer-side manual_preflight counts are inaccurate even though the content passes the strict repository checks.",
+    "The report has not been published; cumulative registry reconciliation remains a publication prerequisite."
+  ],
+  "notes": [
+    "Approved as a research item only. This record does not publish the report or modify reports/, data/reports.json, public indexes or routes.",
+    "The exact-head validation workflow passed. The separate editorial-health workflow still reports unrelated stale pending drafts and overdue registry lines.",
+    "No deployment or public release is claimed."
+  ],
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-24",
+    "slug": "2026-11-24-global-macro",
+    "date": "2026-11-24",
+    "published_at": "2026-11-24T05:00:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "fiscal-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-24-global-macro/en.md",
+        "title": "Global expansion persists, but growth is fragmenting and credit is getting more expensive",
+        "deck": "November flash PMIs keep major economies in expansion but reveal a wider gap across regions; high-yield spreads, emerging-market outflows and energy logistics show why an equity rebound is not broad financial easing.",
+        "tags": [
+          "Global Macro",
+          "PMI",
+          "credit spreads",
+          "capital flows",
+          "energy",
+          "Brazil",
+          "India"
+        ],
+        "keywords": [
+          "November flash PMI",
+          "global growth divergence",
+          "high-yield credit spread",
+          "emerging-market portfolio flows",
+          "oil supply",
+          "diesel",
+          "Brazil macrofiscal forecast",
+          "India crude procurement"
+        ],
+        "regime": "Global activity remains expansionary in several major economies, but regional dispersion is widening while credit risk premia and emerging-market financing conditions remain restrictive.",
+        "key_risk": "A renewed Gulf shipping disruption combined with wider high-yield spreads and persistent emerging-market outflows could transmit a regional slowdown into broader investment and employment weakness.",
+        "watch": [
+          "OPEC+ 2027 output-policy meeting on 29 November",
+          "Worldsteel October crude-steel release when available",
+          "China November official PMI release",
+          "Daily ICE BofA high-yield spread observations",
+          "Next IIF portfolio-flow tracker",
+          "RBA meeting on 8 December",
+          "Federal Reserve meeting on 8–9 December",
+          "FAO Food Price Index scheduled for 4 December"
+        ],
+        "search_text": "Global Macro 24 November 2026 global PMI Germany France United States United Kingdom Japan India growth divergence credit spreads Treasury curve IIF emerging market flows oil Brent diesel Brazil macrofiscal FAO food prices Brazil Focus 23 November 2026 2026 GDP IPCA exchange rate market median"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md",
+        "title": "A expansão global persiste, mas o crescimento se fragmenta e o crédito encarece",
+        "deck": "Os PMIs preliminares de novembro mantêm as principais economias em expansão, mas revelam uma distância maior entre regiões; spreads de high yield, saídas de emergentes e logística energética mostram por que a recuperação das bolsas não equivale a alívio financeiro amplo.",
+        "tags": [
+          "Global Macro",
+          "PMI",
+          "spreads de crédito",
+          "fluxos de capital",
+          "energia",
+          "Brasil",
+          "Índia"
+        ],
+        "keywords": [
+          "PMI preliminar de novembro",
+          "divergência do crescimento global",
+          "spread de crédito high yield",
+          "fluxos de carteira dos emergentes",
+          "oferta de petróleo",
+          "diesel",
+          "projeção macrofiscal brasileira",
+          "aquisição indiana de petróleo"
+        ],
+        "regime": "A atividade global permanece expansionista em várias economias importantes, mas a dispersão regional aumenta enquanto os prêmios de risco de crédito e as condições de financiamento dos emergentes seguem restritivos.",
+        "key_risk": "Uma nova interrupção marítima no Golfo, combinada a spreads high yield mais amplos e saídas persistentes dos mercados emergentes, pode transmitir uma desaceleração regional para o investimento e o emprego em escala maior.",
+        "watch": [
+          "Reunião da OPEP+ sobre a política de produção de 2027 em 29 de novembro",
+          "Divulgação global da produção de aço bruto de outubro pela Worldsteel quando disponível",
+          "PMI oficial chinês de novembro",
+          "Observações diárias do spread ICE BofA high yield",
+          "Próximo rastreador de fluxos de carteira do IIF",
+          "Reunião do RBA em 8 de dezembro",
+          "Reunião do Federal Reserve em 8–9 de dezembro",
+          "Índice de Preços de Alimentos da FAO previsto para 4 de dezembro"
+        ],
+        "search_text": "Global Macro 24 novembro 2026 PMI global Alemanha França Estados Unidos Reino Unido Japão Índia divergência crescimento spreads crédito curva Treasury fluxos IIF mercados emergentes petróleo Brent diesel macrofiscal Brasil preços alimentos FAO Focus 23 novembro 2026 PIB IPCA câmbio mediana de mercado"
+      }
+    },
+    "signal_rationale": {
+      "delta": "The three preceding editions addressed cross-asset repricing, AI productivity and valuation, and China’s iron-ore/steel chain. This edition adds a distinct cross-region activity signal from the 23–24 November flash PMIs and connects it to credit spreads, October emerging-market flows, the 23 November oil close and Brazil’s newly published macrofiscal parameter revision.",
+      "evidence": "November composite PMIs: US 54.6, euro area 51.7, Germany 55.0, France 46.2, UK 52.3, Japan 51.5 and India 56.3. US high-yield OAS widened from 3.23% on 13 Nov to 3.76% on 20 Nov. IIF estimated US$33.8bn of EM portfolio outflows in October. Brent settled at US$89.37/bbl on 23 Nov while IEA estimated October supply at 105.4 mb/d and inventories +52m barrels. Brazil’s 2027 GDP assumption was revised from 2.3% to 1.8%, and IPCA from 3.8% to 4.5%. The 23 Nov Brazil Focus survey raised the 2026 exchange-rate median from R$5.40 to R$5.55, raised IPCA from 5.11% to 5.15% and cut GDP growth from 1.72% to 1.70%.",
+      "scale_path": "Regional survey dispersion changes expected revenue, hiring and inventory paths; those differences shape central-bank decisions, sovereign yields and currency conditions; higher credit premia and cross-border outflows then affect investment and procurement, while crude, refined products and freight transmit energy shocks into prices and margins.",
+      "transmission": "PMI divergence -> sector revenue and labour demand -> domestic inflation and monetary policy -> yields, FX and refinancing costs -> portfolio flows and investment. Oil supply and shipping -> crude and refined-product prices -> transport, food and industrial costs -> inflation expectations and policy reaction.",
+      "falsifier": "The thesis weakens if the Germany–France PMI gap narrows materially, US high-yield spreads reverse the November widening, non-resident EM portfolio flows return to positive territory, refined-product premiums decline broadly and subsequent national-accounts data show no meaningful regional output or employment divergence."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "Flash PMIs are diffusion surveys, not GDP growth rates or official output data; country readings are not a direct measure of the size of output gaps.",
+      "The US high-yield OAS series ends on 20 November at the cutoff; it is not a 23 November market close and covers a US dollar-denominated below-investment-grade bond index rather than all credit.",
+      "IIF portfolio flows are October monthly estimates, not daily November flows.",
+      "The Brazil Ministry of Finance parameter grid was closed on 6 November; it is a forecast vintage, not a realised outcome or market-consensus survey.",
+      "FAO’s food-price index is an international commodity basket, not a retail-price or household-affordability measure; the latest meat component mixes projected and observed prices and can be revised.",
+      "Reports of attacks and statements by the Houthi movement, Bahrain, Iran and UKMTO are attributed to the relevant actors or reporting institution; the available material does not quantify a new sustained loss of oil output.",
+      "The October global crude-steel release had not been located by the 05:00 BRT cutoff; September remains the latest complete global comparison.",
+      "The US Treasury par curve is nominal and does not separately identify expected inflation, real-rate expectations and term premium.",
+      "The 23 November Brazil Focus medians are market expectations for 2026 reported by B3; they are distinct from the Ministry of Finance's 2027 parameter grid."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-24 05:00 America/Sao_Paulo",
+      "comparative_editions": [
+        "MT-GM-2026-11-23",
+        "MT-GM-2026-11-22",
+        "MT-GM-2026-11-21"
+      ],
+      "novelty_decision": "Distinct regional-activity and financing-dispersion thesis; does not repeat the preceding cross-asset selloff, AI productivity/valuation or China iron-ore/steel-chain theses.",
+      "fact_inference_scenario_separated": true,
+      "bilingual_parity": {
+        "same_numeric_series": true,
+        "same_reference_count": true,
+        "charts": 2,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1,
+        "references_en": 25,
+        "references_pt": 25
+      },
+      "visual_evidence": {
+        "charts": 2,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1
+      },
+      "source_audit": {
+        "references": 25,
+        "primary_institutional_sources": 15,
+        "market_reporting_sources": 10,
+        "urls_unique": 25,
+        "domains": 17,
+        "reproducibility_notes": {
+          "pmi_comparison": "Flash composite PMI output indices published 23–24 Nov 2026; 50 is the expansion/contraction threshold. The values are survey diffusion indices, not GDP growth rates.",
+          "credit_spread": "ICE BofA US High Yield Index OAS via FRED: 3.23 on 13 Nov; 3.34 on 16 Nov; 3.43 on 17 Nov; 3.47 on 18 Nov; 3.52 on 19 Nov; 3.76 on 20 Nov. Latest observation available at cutoff.",
+          "treasury_curve": "US Treasury official daily par curve, 23 Nov 2026: 2-year 4.63%; 10-year 4.92%; 30-year 5.29%.",
+          "brazil_forecast": "Brazil Ministry of Finance Macrofiscal Bulletin Nov 2026, parameter grid comparison with September vintage; November grid closed 6 Nov.",
+          "oil_market": "Reuters settlement values for 23 Nov; IEA November report supplies October production and inventory estimates. Spot/futures settlement and monthly supply estimates are different observation types.",
+          "food_prices": "FAO October 2026 FFPI: 133.9, down 1.2% m/m; cereal 116.8, down 4.5%; sugar 121.3, up 6.6%.",
+          "market_flows": "IIF tracker published 5 Nov, estimating October non-resident EM portfolio outflows of US$33.8bn; monthly estimate, not daily flow.",
+          "brazil_focus": "B3 report on 23 Nov 2026 summarises the Focus market medians: 2026 GDP 1.70% (from 1.72%), IPCA 5.15% (from 5.11%), and year-end USD/BRL 5.55 (from 5.40). These are market medians, distinct from the Ministry of Finance's 2027 parameter grid.",
+          "japan_policy": "Bank of Japan October 2026 Outlook Report records the uncollateralized overnight call rate around 1.25% following the September policy increase."
+        }
+      },
+      "manual_preflight": {
+        "schema_v2": true,
+        "controlled_programs": true,
+        "controlled_topics": true,
+        "phenomena_valid": true,
+        "word_count_en": 4075,
+        "word_count_pt": 4676,
+        "references_en": 25,
+        "references_pt": 25,
+        "ready_for_independent_qa": true,
+        "repository_script_validator": "The prior strict editorial-health run identified only insufficient analytical H2 sections for this candidate after visual grammar was corrected. This revision promotes the existing seven analytical sections to H2 in both locales; the exact revision must be rechecked by the independent workflow.",
+        "revision": 2
+      },
+      "reconciliation_run_id": null
+    },
+    "revision": 2,
+    "revision_reason": "Promote the existing analytical section headings to the repository's required H2 level so the daily edition passes the strict analytical-section depth gate; no facts, observations, sources, charts or conclusions changed.",
+    "revision_scope": [
+      "Create English and PT-BR research drafts with separate idiomatic copy.",
+      "Create a dedicated pending-v2 record with the registered daily-global-macro classification.",
+      "Add reproducible market, activity, energy, credit and flow visuals with identical numeric series and references in both locales.",
+      "Restructure the executive assessment, five analytical sections and conclusion as H2 sections in both locales to satisfy validate-editorial-depth.mjs (minimum six analytical H2 sections)."
+    ],
+    "qa_fixes_applied": [
+      "EDITORIAL_DEPTH_H2_SECTION_STRUCTURE"
+    ]
+  }
+}
