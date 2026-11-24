@@ -65,7 +65,7 @@ These are not identical instruments and should not be compared as if they were a
 
 The divergence is not simply a matter of central banks choosing different speeds of easing. In Australia and the United Kingdom, policymakers cited broad domestic inflation pressure and the risk that higher energy costs would pass through to other prices. In the United States, the October FOMC statement described resilient activity and elevated inflation; the dissenting votes were in favour of tightening, not easing. In Brazil, the nominal policy rate remains high even as the domestic economy slows. Each central bank is balancing domestic capacity, imported energy, wages and exchange rates; a PMI above 50 does not resolve that trade-off.
 
-Brazil’s November Macrofiscal Bulletin adds a new fiscal and forecast signal. The Ministry of Finance’s parameter grid revised 2027 GDP growth to 1.8% from 2.3%, IPCA inflation to 4.5% from 3.8%, the Selic assumption to 12.93% from 12.67%, the exchange-rate assumption to R$5.34 per US dollar from R$5.23, and Brent to US$95.20 per barrel from US$79.50. These are the Ministry’s macroeconomic parameters, comparing the September and November forecast vintages; they are not realised outcomes or a market-consensus survey. The November grid was closed on 6 November, so it should not be read as incorporating every subsequent market move. [20]
+Brazil’s November Macrofiscal Bulletin adds a new fiscal and forecast signal. The Ministry of Finance’s parameter grid revised 2027 GDP growth to 1.8% from 2.3%, IPCA inflation to 4.5% from 3.8%, the accumulated Selic rate to 12.93% from 12.67%, the average exchange rate to R$5.34 per US dollar from R$5.23, and the average Brent price to US$95.20 per barrel from US$79.50. These are the Ministry’s macroeconomic parameters, comparing the September and November forecast vintages; they are not realised outcomes or a market-consensus survey. The exchange-rate and Brent figures are annual averages, not year-end or spot prices. The Selic figure is an accumulated rate: the grid derives it from the real rate implicit in the Focus median and converts it to nominal terms using the SPE’s inflation projection. It is therefore distinct from the Focus median for the terminal Selic rate at end-2027, which rose from 12.00% to 12.75%. The November grid was closed on 6 November, so it should not be read as incorporating every subsequent market move. [20]
 
 The same bulletin provides a countervailing fiscal observation. The central-government primary deficit for January–September was R$89.7 billion, compared with R$103.2 billion in the corresponding 2025 period in the bulletin’s comparison. Real revenue growth of 6.5% exceeded real expenditure growth of 5.4%. The deficit remains a deficit, but the year-to-date comparison does not support a simple claim that the primary balance deteriorated in every dimension. The more difficult combination is slower projected growth, higher projected inflation and a high policy rate, which limits the room for demand support without worsening the inflation outlook.
 
@@ -75,9 +75,9 @@ The 19 November Focus report, summarized by B3 on 23 November, raised the market
 |---|---:|---:|---:|
 | Real GDP growth | 2.3% | 1.8% | −0.5 pp |
 | IPCA inflation | 3.8% | 4.5% | +0.7 pp |
-| Selic assumption | 12.67% | 12.93% | +0.26 pp |
-| Exchange rate, R$/US$ | 5.23 | 5.34 | +0.11 |
-| Brent, US$/barrel | 79.50 | 95.20 | +15.70 |
+| Accumulated Selic rate | 12.67% | 12.93% | +0.26 pp |
+| Average exchange rate, R$/US$ | 5.23 | 5.34 | +0.11 |
+| Average Brent price, US$/barrel | 79.50 | 95.20 | +15.70 |
 
 
 | Brazil: 2026 Focus market median | Previous week | 19 November report | Revision |

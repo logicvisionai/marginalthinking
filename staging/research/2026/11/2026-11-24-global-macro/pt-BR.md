@@ -65,7 +65,7 @@ Esses instrumentos não são idênticos e não devem ser comparados como se foss
 
 A divergência não se resume a bancos centrais escolhendo velocidades distintas de flexibilização. Na Austrália e no Reino Unido, as autoridades citaram pressões inflacionárias domésticas amplas e o risco de que custos energéticos maiores se transmitam a outros preços. Nos Estados Unidos, o comunicado do FOMC de outubro descreveu atividade resiliente e inflação elevada; os votos dissidentes foram favoráveis a apertar, não a afrouxar. No Brasil, a taxa nominal permanece alta mesmo com a desaceleração da economia. Cada autoridade pondera capacidade doméstica, energia importada, salários e câmbio; um PMI acima de 50 não resolve essa escolha.
 
-O Boletim Macrofiscal de novembro do Ministério da Fazenda acrescenta um novo sinal fiscal e de projeções. A grade de parâmetros do Ministério revisou o crescimento do PIB de 2027 de 2,3% para 1,8%, o IPCA de 3,8% para 4,5%, a hipótese para a Selic de 12,67% para 12,93%, o câmbio de R$5,23 para R$5,34 por dólar e o Brent de US$79,50 para US$95,20 por barril. São parâmetros macroeconômicos do Ministério, comparando as versões de setembro e novembro; não são resultados realizados nem uma pesquisa de consenso de mercado. A grade de novembro foi fechada em 6 de novembro, portanto não deve ser interpretada como se incorporasse todos os movimentos de mercado posteriores. [20]
+O Boletim Macrofiscal de novembro do Ministério da Fazenda acrescenta um novo sinal fiscal e de projeções. A grade de parâmetros do Ministério revisou o crescimento do PIB de 2027 de 2,3% para 1,8%, o IPCA de 3,8% para 4,5%, a Selic acumulada de 12,67% para 12,93%, o câmbio médio de R$5,23 para R$5,34 por dólar e o preço médio do Brent de US$79,50 para US$95,20 por barril. São parâmetros macroeconômicos do Ministério, comparando as versões de setembro e novembro; não são resultados realizados nem uma pesquisa de consenso de mercado. Os valores de câmbio e Brent são médias anuais, não cotações de fim de período ou preços à vista. A Selic acumulada da grade é derivada da taxa real implícita na mediana do Focus e convertida em taxa nominal com a projeção de inflação da SPE. Por isso, ela não é a taxa Selic terminal do Focus: a mediana do mercado para a taxa ao fim de 2027 subiu de 12,00% para 12,75%. A grade de novembro foi fechada em 6 de novembro e não incorpora todos os movimentos de mercado posteriores. [20]
 
 O mesmo boletim oferece uma observação fiscal em sentido contrário. O déficit primário do governo central entre janeiro e setembro foi de R$89,7 bilhões, ante R$103,2 bilhões no período correspondente de 2025, segundo a comparação do documento. O crescimento real da receita, de 6,5%, superou o das despesas, de 5,4%. O déficit continua sendo um déficit, mas a comparação acumulada no ano não sustenta a afirmação simplificada de que o resultado primário piorou em todas as dimensões. A combinação mais difícil é crescimento projetado menor, inflação projetada maior e taxa básica elevada, o que limita o espaço para sustentar a demanda sem agravar o quadro inflacionário.
 
@@ -75,9 +75,9 @@ O Relatório Focus de 19 de novembro, resumido pela B3 em 23 de novembro, elevou
 |---|---:|---:|---:|
 | Crescimento real do PIB | 2,3% | 1,8% | −0,5 p.p. |
 | Inflação IPCA | 3,8% | 4,5% | +0,7 p.p. |
-| Hipótese para a Selic | 12,67% | 12,93% | +0,26 p.p. |
-| Câmbio, R$/US$ | 5,23 | 5,34 | +0,11 |
-| Brent, US$/barril | 79,50 | 95,20 | +15,70 |
+| Selic acumulada (grade) | 12,67% | 12,93% | +0,26 p.p. |
+| Câmbio médio, R$/US$ | 5,23 | 5,34 | +0,11 |
+| Preço médio do Brent, US$/barril | 79,50 | 95,20 | +15,70 |
 
 
 | Brasil: mediana de mercado do Focus para 2026 | Semana anterior | Relatório de 19 de novembro | Revisão |

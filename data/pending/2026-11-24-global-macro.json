@@ -174,7 +174,7 @@
         "pmi_comparison": "Flash composite PMI output indices published 23–24 Nov 2026; 50 is the expansion/contraction threshold. The values are survey diffusion indices, not GDP growth rates.",
         "credit_spread": "ICE BofA US High Yield Index OAS via FRED, unit Percent: 3.23% on 13 Nov; 3.34% on 16 Nov; 3.43% on 17 Nov; 3.47% on 18 Nov; 3.52% on 19 Nov; 3.76% on 20 Nov. Latest observation available at the 05:00 BRT cutoff.",
         "treasury_curve": "US Treasury official daily par curve, 23 Nov 2026: 2-year 4.63%; 10-year 4.92%; 30-year 5.29%.",
-        "brazil_forecast": "Brazil Ministry of Finance Macrofiscal Bulletin Nov 2026, parameter grid comparison with September vintage; November grid closed 6 Nov.",
+        "brazil_forecast": "Brazil Ministry of Finance November 2026 Macrofiscal Bulletin, summary p.3 and detailed grid discussion p.19; grid closed 6 Nov. For 2027, GDP 1.8% (September 2.3%), IPCA 4.5% (3.8%), accumulated Selic 12.93% (12.67%), average exchange rate R$5.34/US$ (R$5.23), and average Brent US$95.20/bbl (US$79.50). The grid's Selic is derived from the real rate implicit in the Focus median (nominal Selic adjusted for market inflation expectations) and converted to nominal terms with the SPE inflation projection; it is distinct from the Focus terminal Selic median of 12.75% at end-2027. FX and Brent are annual averages, not terminal or spot prices.",
         "oil_market": "Reuters settlement values for 23 Nov; IEA November report supplies October production and inventory estimates. Spot/futures settlement and monthly supply estimates are different observation types.",
         "food_prices": "FAO October 2026 FFPI: 133.9, down 1.2% m/m; cereal 116.8, down 4.5%; sugar 121.3, up 6.6%.",
         "market_flows": "IIF tracker published 5 Nov, estimating October non-resident EM portfolio outflows of US$33.8bn; monthly estimate, not daily flow.",
@@ -188,18 +188,18 @@
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 3698,
-      "word_count_pt": 4278,
+      "word_count_en": 3772,
+      "word_count_pt": 4351,
       "references_en": 27,
       "references_pt": 27,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "Revision 5 removes all three unsupported table code fences in each locale and removes the unsourced Worldsteel expected-date wording. Recompute exact source URLs, substantive word counts, chart parity and renderer output from both staged editions before independent QA.",
-      "revision": 5
+      "repository_script_validator": "Revision 6 distinguishes the 2027 accumulated Selic grid parameter from the Focus terminal-rate median, explains the grid's real-to-nominal construction using SPE inflation, and labels FX and Brent as annual averages. Recompute exact source URLs, substantive word counts, chart parity and renderer output before independent QA.",
+      "revision": 6
     },
     "reconciliation_run_id": null
   },
-  "revision": 5,
-  "revision_reason": "Revision 5 converts all three table code fences in both locales to ordinary Markdown tables so the production renderer emits actual research-table figures. It also removes the unsupported expected-date wording for the October Worldsteel release and states only that the release was not available by the 05:00 BRT cutoff, with September remaining the latest complete comparison.",
+  "revision": 6,
+  "revision_reason": "Revision 6 clarifies the Ministry of Finance's 2027 macrofiscal grid: the Selic value is accumulated and derived from the real rate implicit in the Focus median converted with SPE inflation; the exchange-rate and Brent values are annual averages. Both locales and the reproducibility note now distinguish these measures from terminal or spot values.",
   "revision_scope": [
     "Create English and PT-BR research drafts with separate idiomatic copy.",
     "Create a dedicated pending-v2 record with the registered daily-global-macro classification.",
@@ -209,7 +209,8 @@
     "Clarify that the euro-area PMI is an aggregate including Germany and France; distinguish the Bank of England meeting end from the decision publication date.",
     "Add the Bank of Japan's 18 September 2026 primary decision and a date-filtered BCB PTAX OData query; correct the chronology of the three comparative editions.",
     "Replace the three fenced table blocks in EN and PT-BR with ordinary Markdown tables, preserving headers, rows, units, dates and values so the production renderer emits table figures.",
-    "Remove the unsupported Worldsteel expected-date wording in both locales; retain only the observed availability boundary at the 05:00 BRT cutoff and the latest complete September comparison."
+    "Remove the unsupported Worldsteel expected-date wording in both locales; retain only the observed availability boundary at the 05:00 BRT cutoff and the latest complete September comparison.",
+    "Clarify accumulated Selic methodology and annual-average definitions for the 2027 exchange rate and Brent in both locales and in the source reproducibility notes."
   ],
   "qa_fixes_applied": [
     "EDITORIAL_DEPTH_H2_SECTION_STRUCTURE",
@@ -220,6 +221,9 @@
     "PTAX_DATE_FILTERED_API_SOURCE",
     "NOVELTY_RATIONALE_CHRONOLOGY",
     "TABLE_RENDERER_MARKDOWN_GRAMMAR",
-    "WORLDSTEEL_EXPECTED_DATE_CLAIM_REMOVED"
+    "WORLDSTEEL_EXPECTED_DATE_CLAIM_REMOVED",
+    "BRAZIL_MACROFISCAL_ACCUMULATED_SELIC_DEFINITION",
+    "BRAZIL_MACROFISCAL_ANNUAL_AVERAGE_FX_BRENT_DEFINITION",
+    "BRAZIL_SELIC_GRID_METHOD_EXPLAINED"
   ]
 }
