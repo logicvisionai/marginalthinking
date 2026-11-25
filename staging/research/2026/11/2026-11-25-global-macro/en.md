@@ -27,7 +27,14 @@ The investigation covers more than one industry. USTR's accompanying fact sheet 
 | Thailand · South Korea · Vietnam · Taiwan |
 | Bangladesh · Mexico · Japan · India |
 
-The legal process matters because an investigation does not impose a tariff by itself. USTR must assess the policies under review and can propose a response after the procedural steps and consultations. Reuters reported that officials were preparing to publish findings and that new duties on a wide range of goods were expected. Until the findings and any formal action are published, product coverage, effective dates, rates, exemptions and the treatment of existing trade agreements remain unresolved. [1,2,3]
+The legal process matters because an investigation does not impose a tariff by itself. USTR must assess the policies under review and can propose a response after the procedural steps and consultations. Reuters reported that officials were preparing to publish findings and that new duties on a wide range of goods were expected. Reuters reporting on the negotiations also pointed to differentiated ceilings in existing trade arrangements. Officials were expected to respect a 15% ceiling for goods from the European Union, Japan and South Korea, and a 19% ceiling for Malaysia. For China, the 20% cap on second-term duties was linked to an extension of the trade truce then due to expire on 10 January 2027; without an extension, the reported excess-capacity rate could rise. Mexico and Norway were not expected to face immediate additional levies. [2,11] These are reported parameters and expectations, not final rates adopted in a published USTR determination.
+
+| Partner or arrangement | Reported tariff parameter | Status at the information cut-off |
+|---|---|---|
+| European Union, Japan, South Korea | 15% ceiling | Existing trade-deal ceiling expected to be respected |
+| Malaysia | 19% ceiling | Existing trade-deal ceiling expected to be respected |
+| China | 20% cap on second-term duties, conditional on extending the truce | Truce then due to expire on 10 January 2027 |
+| Mexico, Norway | No immediate additional levies expected | Source-reported expectation, not a general exemption |
 
 The prospect is nevertheless sufficient to change commercial decisions. Importers may bring forward orders, ask suppliers to absorb part of a potential duty or hold larger inventories. Manufacturers considering a new plant or a supplier change may delay a decision until they know whether the measure applies to the finished product, an intermediate input or the country where the good receives its final substantial transformation. These choices can affect shipping schedules and working-capital needs before a tariff appears in customs data.
 
@@ -172,3 +179,4 @@ The economic cost will depend on the duties actually imposed, the products cover
 8. The Conference Board, “US Consumer Confidence Surged in November”, 24 November 2026. https://www.conference-board.org/topics/consumer-confidence/
 9. U.S. Bureau of Economic Analysis, “Release Schedule”, November 2026. https://www.bea.gov/news/schedule/
 10. U.S. Bureau of Economic Analysis, “GDP (Advance Estimate), 3rd Quarter 2026”, 29 October 2026. https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026
+11. The Edge Malaysia (Reuters), “Trump administration set to unveil new tariffs after probe on excess factory capacity”, 25 November 2026. https://theedgemalaysia.com/node/827159

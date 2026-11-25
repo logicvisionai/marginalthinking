@@ -114,7 +114,7 @@
   },
   "signal_rationale": {
     "delta": "The 23 November public edition examined the physical mismatch between Chinese iron-ore imports, steel output, inventories and exporter receipts. The 25 November issue shifts to the transmission of US trade restrictions through import costs, supply-chain decisions, inflation and financing, anchored by fresh Australian CPI and Japanese services-producer data.",
-    "evidence": "Reuters reported on 25 November that MSCI global equities fell 0.4% and Asia-Pacific ex-Japan shares fell 3.2% amid imminent findings from a Section 301 investigation into 16 economies. The ABS reported October Australian CPI inflation of 4.9% and trimmed mean of 3.8%. The Bank of Japan reported October services producer-price inflation of 4.2%, or 3.2% excluding international transportation. The Conference Board reported US consumer confidence at 103.3. BEA scheduled October PCE and the Q3 GDP second estimate for 25 November at 8:30 a.m. EST; they were not available by the 07:45 BRT cutoff.",
+    "evidence": "Reuters reported on 25 November that MSCI global equities fell 0.4% and Asia-Pacific ex-Japan shares fell 3.2% amid imminent findings from a Section 301 investigation into 16 economies. The ABS reported October Australian CPI inflation of 4.9% and trimmed mean of 3.8%. The Bank of Japan reported October services producer-price inflation of 4.2%, or 3.2% excluding international transportation. The Conference Board reported US consumer confidence at 103.3. BEA scheduled October PCE and the Q3 GDP second estimate for 25 November at 8:30 a.m. EST; they were not available by the 07:45 BRT cutoff. Reuters also reported the expected negotiated ceilings: 15% for EU/Japan/South Korea, 19% for Malaysia, a conditional 20% second-term cap for China, and no immediate new levies expected for Mexico and Norway; these were not formally adopted tariff rates at the cut-off.",
     "scale_path": "US trade-policy findings affect product coverage and landed costs; companies adjust suppliers, inventories and investment; changes in import prices, export demand and margins feed into consumer and producer prices; central-bank responses alter yields, exchange rates and cross-border funding conditions.",
     "transmission": "Section 301 findings -> potential tariffs and retaliation -> import prices, sourcing costs and trade diversion -> margins, household prices and investment -> inflation expectations and policy rates -> currencies, yields and financing.",
     "falsifier": "The thesis weakens if the USTR findings produce no material new duties or only narrow measures with broad exemptions, trade volumes and investment plans show no sustained response, US PCE and subsequent services-price data disinflate broadly, and Australian trimmed-mean and Japanese services-price measures return toward prior trajectories."
@@ -128,7 +128,8 @@
     "US consumer confidence is a survey of perceptions and intentions, not realized household consumption.",
     "The US Q3 GDP advance estimate and the October PCE series are different releases; the second estimate and PCE were scheduled for after the cut-off.",
     "Market figures in the Reuters 25 November report mix Tuesday US closes and early Wednesday regional snapshots; observation windows are labelled separately.",
-    "No new tariff rate, product coverage, exemption, implementation date or retaliation has been assumed."
+    "No new tariff rate, product coverage, exemption, implementation date or retaliation has been assumed.",
+    "Partner-level caps and country exceptions are attributed to Reuters sources and remain reported expectations; they are not a published USTR tariff schedule."
   ],
   "producer_checks": {
     "information_cutoff": "2026-11-25 07:45 America/Sao_Paulo",
@@ -143,7 +144,7 @@
       "same_numeric_series": true,
       "same_reference_count": true,
       "charts": 2,
-      "tables": 3,
+      "tables": 4,
       "flows": 1,
       "maps": 1,
       "references_en": 10,
@@ -151,23 +152,24 @@
     },
     "visual_evidence": {
       "charts": 2,
-      "tables": 3,
+      "tables": 4,
       "flows": 1,
       "maps": 1
     },
     "source_audit": {
-      "references": 10,
+      "references": 11,
       "primary_institutional_sources": 8,
-      "market_reporting_sources": 2,
-      "urls_unique": 10,
-      "domains": 7,
+      "market_reporting_sources": 3,
+      "urls_unique": 11,
+      "domains": 8,
       "reproducibility_notes": {
         "section_301": "USTR's 11 March 2026 initiation notice lists the 16 investigated economies. The accompanying fact sheet describes sectors as illustrative. Reuters' 25 November 2026 market report says USTR was set imminently to release findings and new import duties were expected; this is attributed reporting, not a formal published tariff schedule.",
         "australia_cpi": "ABS October 2026 release: all-groups CPI +4.9% y/y (September +4.3%); trimmed mean +3.8% (September +3.6%); October CPI +0.5% original and +0.7% seasonally adjusted. Housing +6.4% y/y and transport +10.6% y/y.",
         "japan_sppi": "BOJ preliminary October 2026 Services Producer Price Index: all items +4.2% y/y and +1.1% m/m; excluding international transportation +3.2% y/y and +1.0% m/m. September values were 3.8% and 3.0% y/y, respectively.",
         "us_confidence": "Conference Board November 2026 Consumer Confidence Index 103.3, up 11.4 points from 91.9; Present Situation 132.8; Expectations 83.6; survey fieldwork 1–17 November.",
         "us_releases": "BEA schedule lists Q3 GDP second estimate/corporate profits and October Personal Income and Outlays for 25 November 2026 at 8:30 a.m. EST (10:30 BRT). Neither was released at the 07:45 BRT information cut-off.",
-        "us_gdp": "BEA advance estimate published 29 October: real GDP +3.4% annualized in Q3 2026; real final sales to private domestic purchasers +4.9% annualized. The 25 November second estimate was still pending."
+        "us_gdp": "BEA advance estimate published 29 October: real GDP +3.4% annualized in Q3 2026; real final sales to private domestic purchasers +4.9% annualized. The 25 November second estimate was still pending.",
+        "tariff_caps": "Reuters sources reported expected ceilings of 15% for EU/Japan/South Korea, 19% for Malaysia, and a conditional 20% cap for second-term China tariffs while the trade truce due 10 January 2027 is extended; Mexico and Norway were not expected to face immediate new levies. These are reported expectations, not a published USTR tariff determination."
       }
     },
     "manual_preflight": {
@@ -175,23 +177,24 @@
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 3281,
-      "word_count_pt": 3704,
-      "references_en": 10,
-      "references_pt": 10,
+      "word_count_en": 3465,
+      "word_count_pt": 3905,
+      "references_en": 11,
+      "references_pt": 11,
       "ready_for_independent_qa": true,
       "repository_script_validator": "Producer preflight completed against the 1,700-word daily brief threshold, minimum two charts, one flow, one map, three tables, eight source URLs, four source hosts and six analytical H2 sections. Repository CI and independent editorial QA remain separate.",
-      "revision": 1
+      "revision": 2
     }
   },
-  "revision": 1,
-  "revision_reason": "Initial bilingual daily Global Macro production for 25 November 2026.",
+  "revision": 2,
+  "revision_reason": "Adds the country-specific tariff ceilings and immediate-levy expectations reported during the Section 301 negotiations, while distinguishing them from an officially adopted tariff schedule.",
   "revision_scope": [
     "Produce independent English and Brazilian Portuguese editions with an information cut-off before the scheduled US PCE and GDP releases.",
     "Analyse the Section 301 investigation and distinguish Reuters-reported prospective duties from a formally published tariff schedule.",
     "Add the latest Australian CPI and Japanese services-producer price data, distinguishing baskets and international transport effects.",
     "Connect the tariff and inflation signals to consumer demand, investment, central-bank reaction, capital markets and regional exposure.",
-    "Add matching charts, evidence tables, a causal flow and a regional exposure map in both locales."
+    "Add matching charts, evidence tables, a causal flow and a regional exposure map in both locales.",
+    "Add Reuters-reported partner-specific ceilings of 15% for the EU, Japan and South Korea, 19% for Malaysia and a conditional 20% second-term cap for China; identify Mexico and Norway as not expected to face immediate additional levies, with all qualifications retained."
   ],
   "qa_fixes_applied": [],
   "reconciliation_run_id": null

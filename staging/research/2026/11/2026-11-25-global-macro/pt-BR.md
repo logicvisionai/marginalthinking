@@ -27,7 +27,14 @@ A investigação abrange mais de uma indústria. A ficha explicativa da USTR men
 | Tailândia · Coreia do Sul · Vietnã · Taiwan |
 | Bangladesh · México · Japão · Índia |
 
-O procedimento jurídico importa porque a abertura de uma investigação não impõe tarifas por si só. A USTR precisa avaliar as políticas examinadas e pode propor uma resposta depois das etapas processuais e consultas. A Reuters informou que autoridades preparavam a divulgação das conclusões e que novas tarifas sobre uma ampla gama de produtos eram esperadas. Até que as conclusões e eventuais medidas formais sejam publicadas, continuam indefinidos o escopo por produto, as datas de vigência, as alíquotas, as isenções e o tratamento dos acordos comerciais existentes. [1,2,3]
+O procedimento jurídico importa porque a abertura de uma investigação não impõe tarifas por si só. A USTR precisa avaliar as políticas examinadas e pode propor uma resposta depois das etapas processuais e consultas. A Reuters informou que autoridades preparavam a divulgação das conclusões e que novas tarifas sobre uma ampla gama de produtos eram esperadas. As informações sobre as negociações também apontavam para limites diferentes nos acordos comerciais existentes. Autoridades esperavam respeitar um teto de 15% para produtos da União Europeia, do Japão e da Coreia do Sul, e de 19% para a Malásia. No caso da China, o limite de 20% para as tarifas da segunda administração dependia da extensão da trégua comercial que então expiraria em 10 de janeiro de 2027; sem prorrogação, a alíquota ligada ao excesso de capacidade poderia subir. México e Noruega não deveriam receber tarifas adicionais imediatas. [2,11] São parâmetros e expectativas reportados por fontes, não alíquotas finais formalmente adotadas em uma determinação publicada pela USTR.
+
+| Parceiro ou acordo | Parâmetro tarifário reportado | Situação no corte informacional |
+|---|---|---|
+| União Europeia, Japão e Coreia do Sul | Teto de 15% | Limite previsto em acordos existentes que deveria ser respeitado |
+| Malásia | Teto de 19% | Limite previsto em acordo existente que deveria ser respeitado |
+| China | Teto de 20% para tarifas da segunda administração, condicionado à extensão da trégua | A trégua então expiraria em 10 de janeiro de 2027 |
+| México e Noruega | Nenhuma tarifa adicional imediata esperada | Expectativa reportada por fontes, não uma isenção geral |
 
 A possibilidade, ainda assim, já é suficiente para alterar decisões comerciais. Importadores podem antecipar pedidos, negociar com fornecedores uma absorção parcial de custos potenciais ou manter estoques maiores. Fabricantes que avaliam a construção de uma fábrica ou a troca de fornecedores podem adiar a decisão até saber se a medida se aplicará ao produto acabado, a um insumo intermediário ou ao país em que o bem recebe sua transformação substancial final. Essas escolhas afetam embarques e necessidades de capital de giro antes que uma tarifa apareça nos dados aduaneiros.
 
@@ -172,3 +179,4 @@ O custo econômico dependerá das tarifas efetivamente impostas, dos produtos ab
 8. The Conference Board, “US Consumer Confidence Surged in November”, 24 de novembro de 2026. https://www.conference-board.org/topics/consumer-confidence/
 9. U.S. Bureau of Economic Analysis, “Release Schedule”, novembro de 2026. https://www.bea.gov/news/schedule/
 10. U.S. Bureau of Economic Analysis, “GDP (Advance Estimate), 3rd Quarter 2026”, 29 de outubro de 2026. https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026
+11. The Edge Malaysia (Reuters), “Trump administration set to unveil new tariffs after probe on excess factory capacity”, 25 de novembro de 2026. https://theedgemalaysia.com/node/827159
