@@ -1,0 +1,140 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-25",
+  "slug": "2026-11-25-global-macro",
+  "revision": 2,
+  "rejection_count_for_id": 1,
+  "rejection_loop_limit_reached": false,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-25T08:37:33-03:00",
+  "reviewed_commit": "d5a5815969df6dbdcff767a302615e021bcbb050",
+  "pending_blob_sha": "af115dc64ce3df19d01a02a4562a835049bda244",
+  "source_blob_shas": {
+    "en": "fee9fb65ef1ed24b20e6a0d42a6111dc6adb16a1",
+    "pt-BR": "29c337a386d3cbb422537561bdb35184331e52be"
+  },
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Re-read the schema-v2 ready pending sidecar and both complete staged Markdown editions from main at the reviewed HEAD. Exact pending/EN/PT-BR Git blob SHAs are recorded. No approval, rejection or public metadata existed for this ID/revision before this QA transaction."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending is schema_version 2, ready true, canonical ID/slug, revision 2, daily-global-macro, priority 10, registered program and topics, global geography, and controlled phenomenon strategic-competition. No taxonomy expansion."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 07:45 BRT cutoff is explicit and the 08:20 BRT publication timestamp follows it. ABS October CPI, BOJ October SPPI, Conference Board November confidence and Reuters market snapshots were published before the cutoff. BEA October PCE and Q3 GDP second estimate were scheduled for 10:30 BRT and correctly treated as not yet released. USTR findings remained reported as imminent, not a published tariff schedule."
+    },
+    "factual_methodology": {
+      "result": "passed_with_limitation",
+      "summary": "Primary ABS, RBA, BOJ, Conference Board, BEA and USTR sources support the checked inflation, policy, confidence, GDP-vintage, investigation-list and release-schedule claims. Reuters supports the market snapshot and attributed tariff expectations. Tariff ceilings and country exceptions are anonymous-source reporting, not formal adopted rates; the report generally preserves that qualification."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "Material figures are linked to suitable institutional sources or attributed Reuters reporting. The Reuters/The Edge links [2] and [11] are a syndicated duplicate of the same Reuters tariff story and must not be treated as independent corroboration; the primary institutional source network remains adequate for the measured data."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 3465,
+        "pt-BR": 3905
+      },
+      "summary": "Both editions exceed the strict daily brief threshold, contain nine H2 sections, multiple transmission mechanisms, regional scope, contrary interpretations, scenarios and observable falsifiers. The exact-HEAD strict editorial workflow did not list this candidate among its draft failures."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "summary": "Both locales use a single line chart for two distinct measures. The production renderer's lineChart creates one polyline over all rows (scripts/lib/research-visuals.mjs lines 50-70). Australia therefore connects headline CPI 4.3→4.9 to trimmed mean 3.6→3.8 as one continuous series; Japan similarly connects all-services 3.8→4.2 to ex-international-transport 3.0→3.2. This visually asserts a continuous trend across different indicators and is materially misleading despite numeric EN/PT parity."
+    },
+    "bilingual_equivalence": {
+      "result": "passed_with_limitation",
+      "summary": "The two editions have the same observations, chart values, units, citations and qualifications. The misleading line-chart construction is duplicated in both languages and must be corrected in both."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report states base, upside and downside paths and gives observable conditions that would weaken the tariff-transmission thesis."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The pending delta distinguishes the 25 November trade-policy/inflation/financing transmission thesis from the 23 November Chinese iron-ore, steel-output and inventory edition."
+    },
+    "editorial_style": {
+      "result": "passed",
+      "summary": "The report is generally natural and analytical, attributes reported tariff expectations, distinguishes investigation from adopted duties, avoids unsupported causal claims linking tariffs to Australian inflation, and places references at the end."
+    },
+    "producer_preflight_consistency": {
+      "result": "failed",
+      "summary": "producer_checks.bilingual_parity.references_en and references_pt are 10 (pending lines 150-151), while each staged References section contains 11 numbered references and source_audit/manual_preflight record 11. Correct the contradictory audit field."
+    },
+    "system_registry_reconciliation": {
+      "result": "failed",
+      "summary": "pending.reconciliation_run_id is null (pending line 200), and data/reconciliation-ledger.json contains no run naming MT-GM-2026-11-25. The latest report-specific run is for MT-GM-2026-11-24 and does not satisfy the report-specific registry requirement. All seven active reconciliation-required assets must be assessed before approval/public promotion."
+    },
+    "editorial_depth_script": {
+      "result": "passed_with_limitation",
+      "summary": "Exact-HEAD Editorial drafts and freshness run 45604316662 executed scripts/validate-editorial-depth.mjs in strict pending mode. The overall job failed on six older drafts, but MT-GM-2026-11-25 was not among the reported failures; its candidate-specific mechanical thresholds pass."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "Exact-HEAD Validate Marginal Thinking run 45604316966 completed the build job successfully. The Validate and build step, including scripts/validate-pipeline.mjs, passed; pipeline log reported 212 public bundles, 21 unpublished pending and zero approved-unpublished. The validator did not detect the chart's mixed-series semantics."
+    },
+    "repository_build": {
+      "result": "passed_with_limitation",
+      "summary": "Exact-HEAD run 45604316966 passed production build, public visual semantics, generated-site checks and artifact upload. Deployment failed at Cloudflare credential verification; no production deployment or live smoke test is confirmed."
+    },
+    "concurrent_approval_integrity": {
+      "result": "passed",
+      "summary": "At the pre-write check main was the reviewed HEAD; the approval, rejection and public metadata paths for this ID/revision were absent. The commit uses an expected-HEAD lease and changes only the rejection record."
+    },
+    "publication_snapshot_integrity": {
+      "result": "not_run",
+      "summary": "No approval or immutable publication snapshot was created because visual evidence and system-registry readiness failed."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Revision 2 is not publication-ready: both line charts connect unlike indicators as one series, and the report-specific system-registry reconciliation is absent. Correct both staged editions and pending audit, complete the seven-asset reconciliation, then submit a new exact three-SHA tuple."
+    }
+  },
+  "issues": [
+    {
+      "code": "LINE_CHART_CONFLATES_DISTINCT_INDICATORS",
+      "severity": "material",
+      "location": "staging/research/2026/11/2026-11-25-global-macro/en.md:63-69,83-89; staging/research/2026/11/2026-11-25-global-macro/pt-BR.md:63-69,83-89; scripts/lib/research-visuals.mjs:50-70",
+      "evidence": "Each chart contains four label/value rows for two separate measures. The renderer's lineChart function maps every row into one SVG polyline. The Australia chart connects September/October headline CPI to September/October trimmed mean; the Japan chart connects all-services SPPI to the series excluding international transportation. The connecting segments imply a single sequential series across different indicators and can mislead the reader about the trend.",
+      "required_correction": "In both locales, change these mixed-indicator charts to independent bars (type: bar), or author separate line-chart blocks for each measure with a consistent time axis. Preserve the exact values, units and source references. Re-render both staged editions and verify the chart shows two distinct measures rather than one connected line."
+    },
+    {
+      "code": "SYSTEM_REGISTRY_RECONCILIATION_MISSING",
+      "severity": "material",
+      "location": "data/pending/2026-11-25-global-macro.json:200; data/reconciliation-ledger.json",
+      "evidence": "The pending sidecar has reconciliation_run_id:null. The ledger has no run whose report_ids_reviewed includes MT-GM-2026-11-25; the latest report-specific run is for MT-GM-2026-11-24. SYSTEM-REGISTRY.md requires each public report to be named in a report-specific reconciliation run with decisions for every active asset marked reconciliation_required.",
+      "required_correction": "Complete a report-specific reconciliation covering all seven active reconciliation-required assets, append the decisions to data/reconciliation-ledger.json using the allowed decision states, and bind the resulting run ID to the pending sidecar or approval record. Recompute the pending blob SHA and resubmit."
+    },
+    {
+      "code": "PENDING_BILINGUAL_REFERENCE_COUNT_MISMATCH",
+      "severity": "minor",
+      "location": "data/pending/2026-11-25-global-macro.json:143-151; both staged References sections",
+      "evidence": "producer_checks.bilingual_parity reports references_en=10 and references_pt=10, while the two Markdown editions contain numbered references [1] through [11]. source_audit and manual_preflight correctly record 11.",
+      "required_correction": "Set the bilingual parity reference counts to 11/11 and rerun the pending source-audit consistency check."
+    },
+    {
+      "code": "SYNDICATED_REUTERS_LINK_COUNTED_AS_SEPARATE_REPORTING_SOURCE",
+      "severity": "minor",
+      "location": "data/pending/2026-11-25-global-macro.json:159-166; en.md/PT-BR.md references [2] and [11]",
+      "evidence": "Reference [11] is The Edge Malaysia, explicitly by David Lawder and Andrea Shalal / Reuters, and reproduces the same tariff-ceiling story as Reuters reference [2]. These are two URLs but not independent reporting origins; citing [2,11] does not provide independent corroboration.",
+      "required_correction": "Keep the attribution to Reuters and mark [11] as a syndicated reprint or remove the duplicate citation. Adjust the source-audit count so URLs and independent reporting origins are distinguished."
+    }
+  ],
+  "publisher_prerequisites": [
+    "A report-specific reconciliation run naming MT-GM-2026-11-25 and decisions for all active reconciliation-required assets must exist before approval/public promotion."
+  ],
+  "rework_owner": "MT 1/5 — Diário e Radar",
+  "replay_guard": {
+    "max_new_rejections_per_id": 3,
+    "source_sha_must_change_before_recheck": true,
+    "rejection_loop_limit_reached": false,
+    "blocked_after_limit": true,
+    "post_limit_behavior": "This ID has one rejection. A new review requires a new exact pending/EN/PT-BR blob tuple; identical SHAs must not be replayed."
+  },
+  "notes": "Revision 2 is rejected for a material visual-semantic defect in both locales and missing report-specific system-registry reconciliation. Main factual claims and strict mechanical depth thresholds were checked and pass with explicit source-attribution limitations. No approval, publication snapshot or public bundle was created."
+}
