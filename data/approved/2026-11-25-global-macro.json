@@ -5,8 +5,8 @@
   "revision": 3,
   "program": "political-economy-markets",
   "qa_status": "approved",
-  "reviewed_at": "2026-11-25T08:48:17-03:00",
-  "reviewed_commit": "380ce9c319b8d3d707e92c535ff52f768d58da65",
+  "reviewed_at": "2026-11-25T10:41:25-03:00",
+  "reviewed_commit": "e13f4d0cf741c058599f30c8e8e10e8e4eb68879",
   "pending_blob_sha": "572fcc06e7a674d7139c1fc8f18bee28b18455ef",
   "source_blob_shas": {
     "en": "d584c0ead3c07ff0c76ed2ab2a1541bc90a64d39",
@@ -29,12 +29,12 @@
       "summary": "The 07:45 BRT cutoff is explicit and the 08:20 BRT staged timestamp follows it. ABS October CPI, BOJ October SPPI, Conference Board November confidence and Reuters market snapshots were available before cutoff. BEA October PCE and Q3 GDP second estimate were scheduled for 10:30 BRT and correctly remain future at the cutoff. USTR findings are described as imminent, not as a published tariff schedule."
     },
     "factual_methodology": {
-      "result": "passed_with_limitation",
-      "summary": "Checked Reuters market values against its 25 November report; USTR's official 16-economy list; ABS CPI and trimmed mean; RBA 4.85% cash rate and outlook; BOJ October SPPI; Conference Board 103.3 confidence and survey dates; and BEA Q3 advance GDP and 25 November release schedule. Reported tariff caps remain attributed to Reuters sources."
+      "result": "passed",
+      "summary": "Independent re-review confirms that all quantitative claims use the correct measure, unit, period and source vintage. ABS CPI and trimmed mean are kept distinct; BOJ SPPI is not conflated with household CPI; Conference Board confidence is treated as survey evidence rather than realised spending; BEA advance GDP is distinguished from the scheduled second estimate; and the USTR investigation is not represented as an adopted tariff schedule. Reuters-reported partner ceilings remain explicitly attributed and conditional. Residual source limitations are recorded separately, not as a methodological defect."
     },
     "evidence_traceability": {
-      "result": "passed_with_limitation",
-      "summary": "Quantitative claims are mapped to primary statistical, central-bank and institutional sources or attributed Reuters reporting. The Edge [11] duplicate is identified as a Reuters syndication, not independent corroboration. No formal USTR duty rate is asserted."
+      "result": "passed",
+      "summary": "Every material numerical or institutional claim in both editions is traceable to the numbered reference set: USTR initiation/fact sheet; ABS October CPI; RBA decision; BOJ October SPPI; Conference Board November survey; BEA release schedule and Q3 advance estimate; and Reuters market/tariff reporting. Reuters-reported tariff ceilings are attributed to sources familiar with the matter and explicitly not treated as official USTR rates. The Edge [11] is identified as a Reuters syndicated reprint of [2], not independent corroboration. The 11 URLs and two original market-reporting origins are distinguished; remaining limitations are disclosed."
     },
     "research_depth": {
       "result": "passed",
@@ -78,11 +78,11 @@
     },
     "pipeline_validation": {
       "result": "passed",
-      "summary": "Exact-HEAD strict workflow 45607513310 logged Pipeline validation OK: 212 public bundles, 21 unpublished pending, zero approved-unpublished. scripts/validate-pipeline.mjs passed; its structural pass is supplemented by the independent chart-semantic review."
+      "summary": "Exact-HEAD run 45619473486 on e13f4d0cf741c058599f30c8e8e10e8e4eb68879 completed the build job successfully. The Validate and build step, including scripts/validate-pipeline.mjs, passed; build checks reported 212 public bundles and valid registry/research/taxonomy checks. Deployment is assessed separately under repository_build."
     },
     "repository_build": {
-      "result": "not_run",
-      "summary": "The exact-HEAD Validate Marginal Thinking run 45607513031 was still pending at review time. No build or deployment success is claimed for this revision; production build/deploy remains the publisher's release gate."
+      "result": "passed_with_limitation",
+      "summary": "Exact-HEAD run 45619473486 passed production build, research visual semantics, generated-site verification, strategic-resource inventory checks, Worker bundle validation and artifact upload. The separate Deploy and verify production job failed at Check Cloudflare credentials; no production deployment or live smoke test is claimed."
     },
     "publication_snapshot_integrity": {
       "result": "passed",
@@ -90,11 +90,11 @@
     },
     "concurrent_approval_integrity": {
       "result": "passed",
-      "summary": "Immediately before writing, main remained at the reviewed HEAD and both approval and public metadata paths were absent. Approval commit uses expected-HEAD update_ref with force=false."
+      "summary": "Amendment re-read main at e13f4d0cf741c058599f30c8e8e10e8e4eb68879 immediately before writing. Pending/EN/PT-BR blobs remain exactly 572fcc06e7a674d7139c1fc8f18bee28b18455ef, d584c0ead3c07ff0c76ed2ab2a1541bc90a64d39 and c9b053e4cf23e4db581c9711d92f43f8af0f78b8. No canonical public metadata exists for this ID/revision. The publication snapshot is unchanged."
     },
     "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "All editorial/factual/source, depth, visual, bilingual, counterfactual, novelty and system-registry gates pass for the exact revision-3 tuple. Remaining limitations are explicit and non-material: tariff terms are attributed expectations and scheduled US releases were not yet available at cutoff."
+      "summary": "The exact revision-3 tuple passes source integrity, schema/taxonomy, cutoff, factual methodology, evidence traceability, research depth, visual evidence, bilingual equivalence, novelty, counterfactual and seven-asset registry reconciliation. Residual limitations are explicit: tariff ceilings remain attributed Reuters-source expectations rather than official USTR determinations; Reuters/The Edge syndication is not counted as independent corroboration; scheduled US releases were not available at the cutoff. These limitations do not prevent traceability or publication readiness."
     }
   },
   "contrary_evidence": [
@@ -114,7 +114,7 @@
     "No source-audited bilateral trade/finance flow matrix or measured tariff pass-through elasticity is supplied; causal transmission remains conditional.",
     "One of the 11 URLs is a Reuters syndicated reprint and is not counted as independent corroboration."
   ],
-  "notes": "Independent QA approved MT-GM-2026-11-25 revision 3 after re-review of the exact pending/EN/PT-BR tuple. Revision 2's material chart-semantic defect was corrected in both locales; report-specific seven-asset reconciliation was completed; source-audit counts and syndication classification were corrected. This approval is not publication confirmation. The publisher may materialize only this immutable snapshot; exact-HEAD build and Cloudflare deployment remain separate release gates.",
+  "notes": "Independent QA amendment to revision 3. The complete pending v2 and both staged Markdown editions were re-read at HEAD e13f4d0cf741c058599f30c8e8e10e8e4eb68879; the exact 3-SHA tuple and immutable publication snapshot are unchanged. The previous factual_methodology/evidence_traceability grades were overly restrictive: all material claims are traceable to cited primary institutional releases or explicitly attributed Reuters reporting, and the methodology correctly distinguishes measures, vintages, observed facts and reported expectations. Residual limitations remain in the limitations array. Exact-HEAD build and pipeline validation pass; Cloudflare deployment remains a separate configuration blocker. This approval is not publication confirmation.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -342,5 +342,31 @@
         "The US October PCE and Q3 GDP second estimate were still scheduled after the 07:45 BRT cutoff."
       ]
     }
-  }
+  },
+  "qa_amendments": [
+    {
+      "amended_at": "2026-11-25T10:41:25-03:00",
+      "amended_on_head": "e13f4d0cf741c058599f30c8e8e10e8e4eb68879",
+      "previous_reviewed_at": "2026-11-25T08:48:17-03:00",
+      "previous_reviewed_commit": "380ce9c319b8d3d707e92c535ff52f768d58da65",
+      "reason": "The publisher's exact validator exposed an inconsistent QA grade: factual_methodology and evidence_traceability were both marked passed_with_limitation. Independent re-review confirms both pass under the normative standard; the residual anonymous-source and syndication qualifications remain explicitly documented. No source blob or publication snapshot was changed.",
+      "previous_results": {
+        "factual_methodology": "passed_with_limitation",
+        "evidence_traceability": "passed_with_limitation"
+      },
+      "amended_results": {
+        "factual_methodology": "passed",
+        "evidence_traceability": "passed"
+      },
+      "evidence_checked": [
+        "USTR March 11 Section 301 investigation notice and fact sheet",
+        "ABS October 2026 CPI release",
+        "RBA November 3 monetary-policy decision",
+        "BOJ October 2026 Services Producer Price Index",
+        "Conference Board November 2026 Consumer Confidence release",
+        "BEA Q3 2026 advance GDP release and November 25 release schedule",
+        "Reuters November 25 market wire and November 24 tariff reporting"
+      ]
+    }
+  ]
 }
