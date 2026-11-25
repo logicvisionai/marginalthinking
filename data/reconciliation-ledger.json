@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-25T08:37:33-03:00",
+  "last_reconciled_at": "2026-11-25T20:45:00-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10321,6 +10321,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Nvidia and Anthropic share-price moves are market repricing, not a new demonstrated technical capability, independent replication, deployment milestone or manufacturing-scale change."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation",
+      "reconciled_at": "2026-11-25T20:45:00-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-24"
+      ],
+      "audit_note": "Publication-time reconciliation for MT-GM-2026-11-24 revision 8. The article covers regional flash PMIs, October 2026 crude-steel production, Germany's November Ifo survey, the Chicago Fed's broad US financial-conditions index, IIF emerging-market portfolio-flow estimates and energy/shipping risk. All seven active reconciliation-required assets were assessed; no canonical dataset change is warranted.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Worldsteel provides regional/national steel-output totals, while PMIs, the NFCI and IIF portfolio-flow estimates describe separate indicators. The report does not supply a source-audited bilateral trade/finance/energy matrix with comparable country weights and periods; do not infer dependency edges from regional totals or market co-movement."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The report assesses aggregate industrial output, sentiment, broad financial conditions and markets. It identifies no site-level project with verified sponsor, ownership, committed capital, permits, schedule, utilities, capacity, contracted demand and cash flows."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "The reported Nvidia executive return and associated share-price movement do not establish a beneficial-ownership transfer, voting-rights change, board-composition change or new strategic-control relation under the actor registry's criteria. No actor record is changed."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Crude-steel output, oil prices and reported vessel incidents do not establish a change in resource ownership, concession, licence, reserve rights, operator control or physical production rights."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The report compares current monetary/financial conditions and macroeconomic indicators but does not evaluate a completed policy intervention with verified implementation, ex-post outcomes and a defensible counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The report attributes vessel-attack reports around the Strait of Hormuz to Reuters but does not establish independent incident verification, actor attribution, vessel identity or a measured change in territorial control/order of battle. Retain attribution; do not add a canonical conflict event."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Nvidia share-price movement and executive news are market/governance observations, not a demonstrated new technical capability, independent replication, reliability/yield threshold, deployment milestone or manufacturing-scale change."
         }
       ]
     }

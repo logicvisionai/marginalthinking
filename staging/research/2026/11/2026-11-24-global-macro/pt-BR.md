@@ -8,7 +8,7 @@
 
 As pesquisas empresariais e os dados de produção industrial mais recentes não descrevem uma contração global sincronizada. Eles mostram uma expansão cuja geografia e composição setorial estão se tornando menos uniformes. Índia e Alemanha mantêm leituras fortes nas pesquisas, enquanto a França está em contração. A divulgação da produção de aço bruto de outubro acrescenta uma comparação mais concreta, ainda que restrita a um setor: a produção das 70 economias reportantes caiu 1,1% em doze meses, mas avançou na América do Norte e na África e recuou na União Europeia, na América do Sul e no Oriente Médio. [1–7, 28–29]
 
-Os mercados financeiros ainda não confirmaram uma redução ampla das condições de financiamento. A recuperação das bolsas americanas em 23 de novembro foi seguida por uma reversão na sessão mais recente reportada em 24 de novembro: o Nasdaq caiu 1,4% e o S&P 500 recuou 0,50%, enquanto o Dow avançou 0,85%. As ações da Nvidia perderam mais de 6% depois da forte alta do dia anterior, e o dólar recuou em relação à máxima de vinte meses. O spread ajustado por opções da dívida high yield americana continua com última observação de 3,76% em 20 de novembro, ante 3,23% em 13 de novembro; essa série não representa o fechamento de 24 de novembro. Separadamente, o IIF estimou saídas de US$ 33,8 bilhões em fluxos de carteira de não residentes dos mercados emergentes em outubro. [14–17, 23–24, 30]
+As condições financeiras não estão se apertando de maneira uniforme. O National Financial Conditions Index (NFCI), do Federal Reserve de Chicago, ficou em −0,478 na semana encerrada em 13 de novembro, a observação mais recente disponível no corte de 20h45 de 24 de novembro. Valores negativos indicam condições financeiras americanas mais frouxas que a média histórica; o índice é um compósito amplo, não um spread de crédito corporativo. Essa leitura contrasta com a estimativa do Institute of International Finance de saídas de US$ 33,8 bilhões em fluxos de carteira de não residentes dos mercados emergentes em outubro. Os dois indicadores abrangem geografias e canais financeiros diferentes. [15–16, 23–24, 30]
 
 A energia continua volátil, não resolvida. O Brent caiu 3,46%, para US$ 89,37 por barril, em 23 de novembro, com o aumento dos fluxos do Oriente Médio e a retomada do oleoduto Sharara, na Líbia. Na sessão mais recente reportada em 24 de novembro, voltou a subir 2,27%, para US$ 91,40, após notícias de ataques a embarcações nas proximidades do Estreito de Hormuz. A Reuters não quantificou uma perda sustentada de produção de petróleo decorrente desses relatos. A AIE estima que a oferta global de petróleo cresceu 2,3 milhões de barris por dia em outubro, para 105,4 milhões, mas alerta que os estoques terrestres e os mercados de derivados continuam restritivos. [17–18, 30]
 
@@ -112,21 +112,17 @@ A reversão prosseguiu na sessão americana mais recente descrita pela Reuters e
 
 A curva nominal de paridade do Tesouro americano encerrou 23 de novembro em 4,63% para dois anos, 4,92% para dez anos e 5,29% para trinta anos. O spread 2s10s foi, portanto, de 29 pontos-base, e o spread 10s30s, de 37 pontos-base. A curva é ascendente, mas os rendimentos longos permanecem altos. O rendimento de dez anos não é uma medida pura da trajetória esperada da política monetária: também incorpora inflação esperada, juros reais e prêmio de prazo. [14]
 
-O spread ajustado por opções do ICE BofA US High Yield Index alcançou 3,76% em 20 de novembro, ante 3,23% em 13 de novembro. A alta de 53 pontos-base em cinco sessões é uma reprecificação relevante do risco de crédito corporativo abaixo do grau de investimento. Não constitui, por si só, evidência de crise de crédito: a série mede um índice de títulos de alto rendimento denominados em dólares e emitidos no mercado doméstico americano, não todos os empréstimos corporativos, o crédito privado ou os devedores globais. A última observação disponível no horário de corte é 20 de novembro; ela não deve ser apresentada como fechamento de 23 de novembro. [15]
+O NFCI do Federal Reserve de Chicago ficou em −0,478 na semana encerrada em 13 de novembro, segundo a divulgação publicada em 18 de novembro. O índice agrega 105 indicadores dos mercados monetário, de dívida e de ações dos Estados Unidos, além dos sistemas bancário tradicional e paralelo. Ele é padronizado em torno de uma média histórica igual a zero; leituras negativas estiveram historicamente associadas a condições financeiras mais frouxas que a média. Trata-se de um indicador amplo dos Estados Unidos, não de uma medida de cada tomador de crédito nem das condições de financiamento dos mercados emergentes. O calendário do Federal Reserve de Chicago previa a próxima divulgação semanal para 25 de novembro, depois do corte desta edição. [15]
 
 ```chart
 type: bar
-title: Spread ajustado por opções da dívida high yield americana, 13–20 de novembro de 2026
-unit: percent; fechamento diário
-13 nov | 3.23
-16 nov | 3.34
-17 nov | 3.43
-18 nov | 3.47
-19 nov | 3.52
-20 nov | 3.76
+title: Condições financeiras americanas agregadas, última observação disponível no corte de 24 de novembro
+unit: pontos do índice NFCI
+Semana encerrada em 13 nov 2026 | -0.478
+Média histórica | 0.000
 ```
 
-A recuperação das ações e a alta do spread high yield descrevem segmentos diferentes das condições de financiamento. Os preços das ações podem se recuperar rapidamente quando uma fonte concentrada de incerteza é removida, enquanto os spreads de crédito refletem a capacidade esperada dos devedores de refinanciar e servir suas dívidas em horizonte mais longo. A alta do spread é compatível com maior seletividade em relação a balanços frágeis, mesmo enquanto ações de tecnologia de grande capitalização se recuperam; não demonstra que todos os tomadores enfrentem falta de financiamento.
+A recuperação das ações e o NFCI descrevem dimensões diferentes das condições financeiras. Os preços das ações podem se recuperar rapidamente quando uma fonte concentrada de incerteza é removida, enquanto o NFCI resume um conjunto mais amplo de sinais dos mercados monetário, de dívida e de ações. Sua leitura negativa indica que as condições americanas permaneceram mais frouxas que a média histórica na última semana divulgada. Isso não elimina custos elevados de financiamento de longo prazo, dificuldades de tomadores específicos ou acesso mais restrito a financiamento nos mercados emergentes.
 
 O WSJ Dollar Index subiu 0,27%, para 99,02, em 23 de novembro, seu maior ganho diário desde 11 de novembro e a décima alta em treze sessões. Trata-se do índice do WSJ, não do ICE DXY. No Brasil, a taxa de venda do dólar PTAX do Banco Central foi de R$5,9708 em 23 de novembro. O Ibovespa caiu 0,95%, para 164.796,05 pontos, divergindo da recuperação das ações americanas em meio à cautela doméstica e à queda do petróleo, que pressionou papéis locais. As observações mostram que o alívio global não se traduziu em apetite uniforme por risco entre mercados. [21–24]
 
@@ -164,7 +160,7 @@ Recuperação da oferta de petróleo bruto
   -> diesel, refino, transporte marítimo e seguro continuam caros
   -> pressão sobre custos entregues persiste nos setores expostos
 
-Spreads high yield mais altos e saídas de emergentes
+Condições financeiras americanas amplas e saídas de emergentes
   -> aumento dos custos de refinanciamento e de financiamento em moeda estrangeira
   -> menor investimento dos tomadores marginais
   -> contratação e compras mais seletivas
@@ -172,7 +168,7 @@ Spreads high yield mais altos e saídas de emergentes
 ```
 
 ```map
-Estados Unidos | PMI 54,6; Nasdaq −1,4%; S&P 500 −0,50% na sessão mais recente da Reuters | Volatilidade das ações, custo de refinanciamento high yield e próxima divulgação do PCE; a série FRED do spread ainda termina em 20 nov.
+Estados Unidos | PMI 54,6; Nasdaq −1,4%; S&P 500 −0,50% na sessão mais recente da Reuters | Volatilidade das ações e próxima divulgação do PCE; o último NFCI foi −0,478 na semana encerrada em 13 nov., indicando condições mais frouxas que a média
 Zona do euro | PMI 51,7; Alemanha 55,0; França 46,2; produção de aço da UE −4,0% a/a em outubro | Uma área monetária reúne ciclos nacionais distintos; produção siderúrgica é setorial, não demanda industrial total
 Alemanha | Ifo 90,6; produção de aço em outubro −9,6% a/a | Sentimento em serviços e comércio melhorou enquanto a confiança industrial enfraqueceu; produção siderúrgica jan.–out. ainda subiu 2,5%
 Índia | PMI 56,3; produção de aço em outubro +3,6% a/a | A manufatura se expande, mas produção setorial e demanda das famílias não são medidas equivalentes
@@ -182,11 +178,11 @@ Golfo e Líbia | Brent a US$ 91,40 em 24 nov. | Fluxos de exportação, seguran�
 
 O cenário-base é de continuidade da expansão global, com diferenças maiores entre países e setores. Estados Unidos, zona do euro, Reino Unido, Japão e Índia permanecem acima do limiar dos PMIs, mas as leituras mais recentes não mostram aceleração comum. Alemanha e Índia apresentam sinais industriais mais fortes; França e os serviços japoneses estão mais fracos. A queda do petróleo bruto oferece algum alívio à inflação cheia, enquanto derivados, crédito e câmbio continuam restritivos.
 
-Um cenário favorável exigiria continuidade da recuperação das exportações de petróleo e dos fluxos do oleoduto líbio, redução dos prêmios dos derivados, estabilização dos spreads high yield e menor divergência entre os PMIs de novembro. Nessas condições, custos energéticos menores poderiam sustentar a renda real das famílias e reduzir a necessidade de aperto monetário adicional. Isso permanece condicionado aos estoques observados e aos preços entregues, não apenas ao indicador Brent.
+Um cenário favorável exigiria continuidade da recuperação das exportações de petróleo e dos fluxos do oleoduto líbio, redução dos prêmios dos derivados, manutenção de condições financeiras americanas mais frouxas que a média e menor divergência entre os PMIs de novembro. Nessas condições, custos energéticos menores poderiam sustentar a renda real das famílias enquanto as condições financeiras permanecessem amplamente acomodatícias. Isso continua condicionado aos estoques observados e aos preços entregues, não apenas ao indicador Brent.
 
-Um cenário adverso combinaria nova interrupção marítima no Golfo, persistência de custos de diesel e frete, novo alargamento dos spreads high yield e continuidade das saídas de carteira dos mercados emergentes. Se essas condições financeiras coincidissem com deterioração adicional dos indicadores de novos pedidos nos Estados Unidos, dos serviços japoneses ou da França, a expansão poderia enfraquecer além dos atuais focos regionais. Um petróleo mais barato não necessariamente protegeria os importadores caso frete, seguro ou disponibilidade de derivados piorassem.
+Um cenário adverso combinaria nova interrupção marítima no Golfo, persistência de custos de diesel e frete, uma alta do NFCI em direção a zero ou a valores positivos e continuidade das saídas de carteira dos mercados emergentes. Se um aperto amplo das condições americanas coincidisse com deterioração adicional dos indicadores de novos pedidos nos Estados Unidos, dos serviços japoneses ou da França, a expansão poderia enfraquecer além dos atuais focos regionais. Um petróleo mais barato não necessariamente protegeria os importadores caso frete, seguro ou disponibilidade de derivados piorassem.
 
-A tese central seria enfraquecida por uma redução sustentada da distância entre os PMIs da Alemanha e da França, reversão do aumento dos spreads high yield, retorno de fluxos positivos de não residentes aos mercados emergentes e queda ampla dos prêmios do diesel e de outros derivados. Também seria enfraquecida se os dados posteriores das contas nacionais mostrassem que a divergência dos PMIs preliminares não se traduziu em diferenças relevantes de produção, emprego ou investimento.
+A tese central seria enfraquecida por uma redução sustentada da distância entre os PMIs da Alemanha e da França, permanência do NFCI abaixo de zero, retorno de fluxos positivos de não residentes aos mercados emergentes e queda ampla dos prêmios do diesel e de outros derivados. Também seria enfraquecida se os dados posteriores das contas nacionais mostrassem que a divergência dos PMIs preliminares não se traduziu em diferenças relevantes de produção, emprego ou investimento.
 
 ## Conclusão
 
@@ -212,7 +208,7 @@ O risco relevante é a ampliação da distância entre economias e tomadores cap
 12. Banco Central do Brasil, ata da 282ª reunião do Copom, 4 de novembro de 2026. https://www.bcb.gov.br/publicacoes/atascopom/04112026
 13. Banco do Japão, “Outlook for Economic Activity and Prices — October 2026”, que registra a taxa overnight em 1,25% após a elevação de setembro. https://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf
 14. Departamento do Tesouro dos Estados Unidos, “Daily Treasury Par Yield Curve Rates”, 23 de novembro de 2026. https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
-15. Federal Reserve Bank of St. Louis, FRED, “ICE BofA US High Yield Index Option-Adjusted Spread”, observações até 20 de novembro de 2026. https://fred.stlouisfed.org/data/BAMLH0A0HYM2
+15. Federal Reserve Bank of Chicago, “National Financial Conditions Index (NFCI)”; Federal Reserve Bank of St. Louis, ALFRED, divulgação de 18 de novembro de 2026 (semana encerrada em 13 de novembro: −0,478). https://www.chicagofed.org/research/data/nfci/current-data https://alfred.stlouisfed.org/release?rd=2026-11-18&rid=221 https://www.chicagofed.org/research/data/data-release-calendar
 16. Institute of International Finance, “IIF Capital Flows Tracker: November 2026”, 5 de novembro de 2026. https://www.iif.com/publications/portfolio-flows-tracker
 17. Agência Internacional de Energia, “Oil Market Report — November 2026”, 13 de novembro de 2026. https://www.iea.org/reports/oil-market-report-november-2026
 18. Reuters, “Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart”, 23 de novembro de 2026. https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/

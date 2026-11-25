@@ -8,7 +8,7 @@
 
 The latest business surveys and industrial-output data do not describe a synchronized global contraction. They show an expansion whose geography and sectoral composition are becoming less even. India and Germany retain strong survey readings, while France is contracting. The October crude-steel release adds a harder, sector-specific comparison: output across 70 reporting economies fell 1.1% year on year, but North America and Africa expanded while the European Union, South America and the Middle East contracted. [1–7, 28–29]
 
-Financial markets have not confirmed a broad easing in financing conditions. The 23 November rebound in US shares was followed by a reversal in the latest session reported on 24 November: the Nasdaq fell 1.4% and the S&P 500 lost 0.50%, while the Dow gained 0.85%. Nvidia fell more than 6% after its previous-day surge, and the dollar eased from a 20-month high. The latest available US high-yield option-adjusted spread remains 3.76% on 20 November, up from 3.23% on 13 November; that series is not a 24 November close. The IIF separately estimated US$33.8 billion of non-resident portfolio outflows from emerging markets in October. [14–17, 23–24, 30]
+Financial conditions are not tightening uniformly. The Chicago Fed’s National Financial Conditions Index (NFCI) stood at −0.478 for the week ending 13 November, the latest observation available by this edition’s 20:45 BRT cutoff. Negative values indicate looser-than-average US financial conditions; the index is a broad composite, not a corporate credit spread. That reading contrasts with the Institute of International Finance’s estimate of US$33.8 billion in non-resident portfolio outflows from emerging markets in October. The two indicators cover different geographies and financial channels. [15–16, 23–24, 30]
 
 Energy remains volatile rather than resolved. Brent fell 3.46% to US$89.37 per barrel on 23 November as Middle Eastern flows increased and Libya’s Sharara pipeline restarted, then rose 2.27% to US$91.40 in the latest session reported on 24 November amid reports of attacks on vessels around the Strait of Hormuz. Reuters did not quantify a sustained loss of oil output from those reports. The IEA estimates that global oil supply rose by 2.3 million barrels per day in October to 105.4 million barrels per day, while warning that refined-product markets and onshore inventory buffers remain tight. [17–18, 30]
 
@@ -112,21 +112,17 @@ The reversal continued in the latest US session described by Reuters on 24 Novem
 
 The official US Treasury par curve closed on 23 November at 4.63% for two years, 4.92% for ten years and 5.29% for thirty years. The 2s10s spread was therefore 29 basis points and the 10s30s spread 37 basis points. The curve is upward sloping, but long nominal yields remain high. The ten-year yield is not a pure measure of expected policy rates: it also reflects expected inflation, real rates and term premium. [14]
 
-The ICE BofA US High Yield Index option-adjusted spread reached 3.76% on 20 November, up from 3.23% on 13 November. The 53-basis-point increase over five trading sessions is a meaningful repricing of below-investment-grade corporate risk. It is not, by itself, evidence of a credit crisis: the series measures a US dollar-denominated high-yield bond index, not all corporate loans, private credit or global borrowers. The latest observation available at the cutoff is 20 November, so it must not be presented as a 23 November close. [15]
+The Chicago Fed’s NFCI was −0.478 for the week ending 13 November, according to the release published on 18 November. The index aggregates 105 indicators spanning US money, debt and equity markets and traditional and shadow banking. It is standardized around a long-run mean of zero; negative readings have historically indicated looser-than-average financial conditions. This is a broad US measure, not a gauge of every borrower or of funding conditions in emerging markets. The Chicago Fed’s calendar scheduled the next weekly release for 25 November, after this edition’s cutoff. [15]
 
 ```chart
 type: bar
-title: US high-yield option-adjusted spread, 13–20 November 2026
-unit: percent; daily close
-13 Nov | 3.23
-16 Nov | 3.34
-17 Nov | 3.43
-18 Nov | 3.47
-19 Nov | 3.52
-20 Nov | 3.76
+title: US broad financial conditions, latest available at 24 November cutoff
+unit: NFCI index points
+Week ending 13 Nov 2026 | -0.478
+Long-run average | 0.000
 ```
 
-The equity rebound and the wider high-yield spread describe different parts of financing conditions. Equity prices can recover quickly when a concentrated source of uncertainty is removed, while credit spreads reflect borrowers’ expected ability to refinance and service debt over a longer horizon. The widening spread is consistent with greater selectivity toward weak balance sheets even as large-cap technology shares recover; it does not establish that every borrower faces a funding shortage.
+The equity rebound and the NFCI describe different dimensions of financial conditions. Equity prices can recover quickly when a concentrated source of uncertainty is removed, while the NFCI summarizes a wider set of money-, debt- and equity-market signals. Its negative reading indicates that US conditions remained looser than their historical average in the latest published week. It does not rule out elevated long-term borrowing costs, stress for individual borrowers or tighter financing access in emerging markets.
 
 The WSJ Dollar Index rose 0.27% to 99.02 on 23 November, its largest daily gain since 11 November and its tenth advance in thirteen sessions. This is the WSJ index, not the ICE DXY measure. In Brazil, the Central Bank’s PTAX dollar selling rate was R$5.9708 on 23 November. The Ibovespa fell 0.95% to 164,796.05 points, diverging from the US equity rebound as domestic caution and the fall in oil weighed on local shares. These observations show that the global relief rally did not translate into uniform risk appetite across markets. [21–24]
 
@@ -164,7 +160,7 @@ Crude supply recovery
   -> but diesel, refining, shipping and insurance remain costly
   -> delivered-cost pressure persists in exposed sectors
 
-Higher high-yield spreads and emerging-market outflows
+Broad US financial conditions and emerging-market outflows
   -> higher refinancing and foreign-currency funding costs
   -> weaker investment by marginal borrowers
   -> more selective hiring and procurement
@@ -172,7 +168,7 @@ Higher high-yield spreads and emerging-market outflows
 ```
 
 ```map
-United States | PMI 54.6; Nasdaq −1.4%; S&P 500 −0.50% in Reuters’ latest session | Equity volatility, high-yield refinancing costs and the next PCE release; the FRED spread observation still ends on 20 Nov
+United States | PMI 54.6; Nasdaq −1.4%; S&P 500 −0.50% in Reuters’ latest session | Equity volatility and the next PCE release; the latest NFCI reading was −0.478 for the week ending 13 Nov, indicating looser-than-average US conditions
 Euro area | PMI 51.7; Germany 55.0; France 46.2; EU steel output −4.0% y/y in Oct | One monetary area contains divergent national cycles; steel output is sectoral, not total industrial demand
 Germany | Ifo 90.6; October steel output −9.6% y/y | Services and trade sentiment improved while manufacturing confidence weakened; Jan–Oct steel output remained +2.5%
 India | PMI 56.3; October steel output +3.6% y/y | Manufacturing is expanding, but sector output and household demand are not interchangeable
@@ -182,11 +178,11 @@ Gulf and Libya | Brent US$91.40 on 24 Nov | Export flows, shipping security and 
 
 The base case is continued global expansion with wider differences between countries and sectors. The United States, euro area, United Kingdom, Japan and India remain above the PMI threshold, but the latest readings do not show a common acceleration. Germany and India provide stronger industrial signals; France and the Japanese service sector are weaker. Lower crude prices provide some relief to headline inflation, while refined products, credit and exchange-rate channels remain restrictive.
 
-An upside scenario would require the recovery in oil exports and Libya’s pipeline flows to persist, refined-product premiums to narrow, high-yield spreads to stabilise and the November PMI divergence to become less pronounced. Under those conditions, lower energy costs could support real household income and reduce the need for additional monetary tightening. This remains conditional on observed inventories and delivered prices, not on the Brent benchmark alone.
+An upside scenario would require the recovery in oil exports and Libya’s pipeline flows to persist, refined-product premiums to narrow, US financial conditions to remain looser than average and the November PMI divergence to become less pronounced. Under those conditions, lower energy costs could support real household income while financing conditions remain broadly accommodative. This remains conditional on observed inventories and delivered prices, not on the Brent benchmark alone.
 
-A downside scenario would combine renewed shipping disruption in the Gulf, persistent diesel and freight costs, further widening in high-yield spreads and continued portfolio outflows from emerging markets. If those financial conditions coincided with further deterioration in French, Japanese service-sector or US new-order indicators, the expansion could weaken beyond the current regional pockets. A lower oil price would not necessarily protect importers if freight, insurance or product availability deteriorated.
+A downside scenario would combine renewed shipping disruption in the Gulf, persistent diesel and freight costs, a move in the NFCI toward or above zero, and continued portfolio outflows from emerging markets. If a broad tightening in US conditions coincided with further deterioration in French, Japanese service-sector or US new-order indicators, the expansion could weaken beyond the current regional pockets. A lower oil price would not necessarily protect importers if freight, insurance or product availability deteriorated.
 
-The central thesis would be weakened by a sustained narrowing of the PMI gap between Germany and France, a reversal of the high-yield spread increase, renewed positive non-resident flows to emerging markets, and a broad decline in diesel and other refined-product premiums. It would also be weakened if subsequent national-accounts data showed that the flash PMI divergence did not translate into meaningful differences in output, employment or investment.
+The central thesis would be weakened by a sustained narrowing of the PMI gap between Germany and France, the NFCI remaining below zero, renewed positive non-resident flows to emerging markets, and a broad decline in diesel and other refined-product premiums. It would also be weakened if subsequent national-accounts data showed that the flash PMI divergence did not translate into meaningful differences in output, employment or investment.
 
 ## Conclusion
 
@@ -212,7 +208,7 @@ The relevant risk is a widening gap between economies and borrowers that can fin
 12. Banco Central do Brasil, minutes of the 282nd Copom meeting, 4 November 2026. https://www.bcb.gov.br/publicacoes/atascopom/04112026
 13. Bank of Japan, “Outlook for Economic Activity and Prices — October 2026”, recording the 1.25% overnight call-rate level following the September increase. https://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf
 14. U.S. Department of the Treasury, “Daily Treasury Par Yield Curve Rates”, 23 November 2026. https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?field_tdr_date_value=2026&type=daily_treasury_yield_curve
-15. Federal Reserve Bank of St. Louis, FRED, “ICE BofA US High Yield Index Option-Adjusted Spread”, observations through 20 November 2026. https://fred.stlouisfed.org/data/BAMLH0A0HYM2
+15. Federal Reserve Bank of Chicago, “National Financial Conditions Index (NFCI)”; Federal Reserve Bank of St. Louis, ALFRED, release dated 18 November 2026 (week ending 13 November: −0.478). https://www.chicagofed.org/research/data/nfci/current-data https://alfred.stlouisfed.org/release?rd=2026-11-18&rid=221 https://www.chicagofed.org/research/data/data-release-calendar
 16. Institute of International Finance, “IIF Capital Flows Tracker: November 2026”, 5 November 2026. https://www.iif.com/publications/portfolio-flows-tracker
 17. International Energy Agency, “Oil Market Report — November 2026”, 13 November 2026. https://www.iea.org/reports/oil-market-report-november-2026
 18. Reuters, “Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart”, 23 November 2026. https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/
