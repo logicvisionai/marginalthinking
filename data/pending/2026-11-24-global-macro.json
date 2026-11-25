@@ -170,7 +170,7 @@
       "primary_institutional_sources": 19,
       "market_reporting_sources": 11,
       "urls_unique": 30,
-      "domains": 1,
+      "domains": 21,
       "reproducibility_notes": {
         "pmi_comparison": "Flash composite PMI output indices published 23–24 Nov 2026; 50 is the expansion/contraction threshold. The values are survey diffusion indices, not GDP growth rates.",
         "credit_spread": "ICE BofA US High Yield Index OAS via FRED, unit Percent: 3.23% on 13 Nov; 3.34% on 16 Nov; 3.43% on 17 Nov; 3.47% on 18 Nov; 3.52% on 19 Nov; 3.76% on 20 Nov. Latest observation available at the 05:00 BRT cutoff.",
