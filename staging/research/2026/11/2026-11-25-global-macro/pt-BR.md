@@ -61,7 +61,7 @@ O Australian Bureau of Statistics informou que o CPI cheio subiu 4,9% nos doze m
 A alta não ficou restrita a um único item volátil. Os preços de habitação subiram 6,4% em doze meses, enquanto o grupo de transportes avançou 10,6%. O resultado da média aparada é especialmente relevante porque também acelerou. A medida não elimina todas as limitações de uma série mensal de CPI, mas dificulta explicar a alta do índice cheio apenas por movimentos temporários de combustível ou alimentos.
 
 ```chart
-type: line
+type: bar
 title: Austrália — inflação anual, setembro e outubro de 2026
 unit: percent year on year
 Set 2026 CPI cheio | 4.3
@@ -81,7 +81,7 @@ O índice de preços ao produtor de serviços do Banco do Japão subiu 4,2% em o
 A diferença entre as duas medidas é importante para a análise. Transporte aéreo internacional de passageiros, frete marítimo, serviços de petroleiros, frete aéreo internacional e correio internacional estão incluídos no índice cheio e são retirados da série de referência ajustada. A aceleração maior do índice cheio, portanto, contém uma parcela relevante ligada ao transporte externo. O avanço de 3,2% sem esses serviços indica que a pressão não se limita ao frete internacional, mas é materialmente menor do que a taxa cheia.
 
 ```chart
-type: line
+type: bar
 title: Japão — preços ao produtor de serviços, setembro e outubro de 2026
 unit: percent year on year
 Set 2026 serviços totais | 3.8

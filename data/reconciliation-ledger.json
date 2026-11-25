@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-24T20:45:00-03:00",
+  "last_reconciled_at": "2026-11-25T08:37:33-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10231,6 +10231,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Nvidia and Anthropic share-price movements and executive news are market/governance observations, not a demonstrated new technical capability, independent replication, reliability/yield threshold, deployment milestone or manufacturing-scale change."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-mt-gm-2026-11-25-revision-3-publication-reconciliation",
+      "reconciled_at": "2026-11-25T08:37:33-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-25"
+      ],
+      "audit_note": "Publication-time reconciliation for MT-GM-2026-11-25 revision 3 against all seven active reconciliation-required assets. The report covers reported prospective Section 301 duties, inflation and market transmission. No new canonical weighted dependency, site-level opportunity, strategic ownership transfer, resource-rights change, completed policy outcome, independently verified conflict-system transition or demonstrated technology capability/deployment milestone is established; no canonical dataset changed.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report describes tariff exposure and market/price transmission but supplies no source-audited bilateral trade, credit, energy or capital-flow edge with comparable country weights and periods. Do not infer dependency weights from tariff announcements or market co-movement."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "No site-level project with verified sponsor, committed capital, permits, schedule, utilities, operating capacity, contracted demand and cash flows is identified."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "The report discusses USTR, central banks and listed companies but establishes no new beneficial-ownership transfer, voting-rights change, board-control change or strategic-control relation."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No concession, reserve right, mineral title, operator-control change or transfer of strategic-resource ownership is evidenced."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The Section 301 findings and duties remain prospective at the stated cutoff. No completed policy implementation with ex-post outcomes and a defensible counterfactual is evaluated."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The market report relays volatility linked to attacks near the Strait of Hormuz, but this edition does not independently verify an incident, vessel identity, actor attribution or territorial-control change. Preserve attribution; do not add a canonical conflict event."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Nvidia and Anthropic share-price moves are market repricing, not a new demonstrated technical capability, independent replication, deployment milestone or manufacturing-scale change."
         }
       ]
     }

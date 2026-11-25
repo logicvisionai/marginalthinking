@@ -61,7 +61,7 @@ The Australian Bureau of Statistics reported that headline CPI rose 4.9% in the 
 The rise was not limited to a single volatile item. Housing prices were 6.4% higher than a year earlier, while transport was 10.6% higher. The trimmed-mean result is particularly relevant because it also accelerated. It does not eliminate every measurement issue in a monthly CPI series, but it makes it harder to explain the headline increase solely through temporary fuel or food movements.
 
 ```chart
-type: line
+type: bar
 title: Australia — annual inflation, September and October 2026
 unit: percent year on year
 Sep 2026 headline CPI | 4.3
@@ -81,7 +81,7 @@ The Bank of Japan's October Services Producer Price Index rose 4.2% from a year 
 The difference between the two measures is analytically important. International air and ocean freight, tanker services, international air freight and international mail are included in the headline index but removed from the adjusted reference series. The faster headline increase therefore contains a meaningful external-transport component. The 3.2% increase excluding those services indicates that the pressure is not confined to international freight, but it is materially lower than the headline rate.
 
 ```chart
-type: line
+type: bar
 title: Japan — services producer prices, September and October 2026
 unit: percent year on year
 Sep 2026 all services | 3.8
