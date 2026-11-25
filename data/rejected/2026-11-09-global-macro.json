@@ -1,0 +1,72 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-09",
+  "slug": "2026-11-09-global-macro",
+  "revision": 1,
+  "rejection_count_for_id": 1,
+  "rejection_loop_limit_reached": false,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-25T03:39:38-03:00",
+  "reviewed_commit": "94af0aec1bc6776051182bc30ace72386390fdfb",
+  "pending_blob_sha": "6665091e4ae3a7c38081607f23dccab6ec6a723e",
+  "source_blob_shas": {
+    "en": "b30a86427f4387f654b4573e5d906d22870c4ecd",
+    "pt-BR": "3caf4504f5ee1efd17065a938cc6d00ca0c43051"
+  },
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Re-read schema-v2 ready pending and both staged Markdown editions at main HEAD. Exact Git blob tuple recorded; no approval, rejection or public metadata exists for this ID/revision."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "failed",
+      "summary": "The report is a 9 November daily edition with cutoff 9 November 2026 00:54 BRT. Its central decision boundary says October US CPI is still scheduled for 10 November and explicitly treats the release as future."
+    },
+    "factual_methodology": {
+      "result": "failed",
+      "summary": "The dated forecast boundary is now obsolete for publication. BLS published October CPI on 10 November: CPI-U +0.4% m/m seasonally adjusted; all items less food and energy +0.3% m/m. BLS did not publish the usual 12-month change because October 2025 data were unavailable. The staged editions contain no realized result or the missing-data qualification."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "A daily global-macro edition staged 16 days after its stated cutoff would present a superseded event/market snapshot as the current daily edition. The report must be re-researched and issued as a new dated edition; changing only the date is insufficient."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed_with_limitations",
+      "summary": "Both editions contain explicit quantitative charts, evidence tables, a causal flow and a regional map with matched series. This manual structural check does not substitute for the repository visual-output validator, which was not executable in this run."
+    },
+    "editorial_depth_script": {
+      "result": "not_run",
+      "summary": "The exact repository script could not be executed in this runtime; structural word/section/visual inspection only."
+    },
+    "pipeline_validation": {
+      "result": "not_run",
+      "summary": "The repository pipeline validator could not be executed in this runtime."
+    }
+  },
+  "issues": [
+    {
+      "severity": "material",
+      "code": "DAILY_MACRO_CUTOFF_SUPERSEDED_BY_RELEASE",
+      "paths": [
+        "staging/research/2026/11/2026-11-09-global-macro/en.md",
+        "staging/research/2026/11/2026-11-09-global-macro/pt-BR.md",
+        "data/pending/2026-11-09-global-macro.json"
+      ],
+      "locations": [
+        "en.md opening cutoff statement and section 3; CPI schedule/source notes",
+        "pt-BR.md opening cutoff statement and section 3; CPI schedule/source notes",
+        "pending.sources.en/pt-BR.deck, regime, key_risk and watch"
+      ],
+      "evidence": "Both staged editions state that October US CPI is due on 10 November and unavailable at the 9 November cutoff. The US Bureau of Labor Statistics released October CPI on 10 November 2026: CPI-U rose 0.4% month over month seasonally adjusted and the index excluding food and energy rose 0.3%. The release did not provide the usual 12-month rate because October 2025 data were unavailable. As of this QA review on 25 November, the report's central upcoming-release framing is superseded.",
+      "source_urls": [
+        "https://www.bls.gov/news.release/cpi.htm",
+        "https://www.bls.gov/cpi/news.htm"
+      ],
+      "required_correction": "Do not simply change the publication date. Reissue as a new current daily-global-macro edition with a new cutoff, recheck every market observation and scheduled event, incorporate the realized October CPI with the BLS missing-comparison caveat, revise both languages and pending metadata, and regenerate the source/visual audit."
+    }
+  ],
+  "producer_routing": {
+    "task": "1/5",
+    "reason": "MT-GM daily report"
+  }
+}
