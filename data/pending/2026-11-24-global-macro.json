@@ -4,7 +4,7 @@
   "id": "MT-GM-2026-11-24",
   "slug": "2026-11-24-global-macro",
   "date": "2026-11-24",
-  "published_at": "2026-11-24T05:00:00-03:00",
+  "published_at": "2026-11-24T20:45:00-03:00",
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
@@ -47,129 +47,130 @@
   "sources": {
     "en": {
       "markdown": "staging/research/2026/11/2026-11-24-global-macro/en.md",
-      "title": "Global expansion persists, but growth is fragmenting and credit is getting more expensive",
-      "deck": "November flash PMIs keep major economies in expansion but reveal a wider gap across regions; high-yield spreads, emerging-market outflows and energy logistics show why an equity rebound is not broad financial easing.",
+      "title": "Global growth is holding up, but industrial output is diverging",
+      "deck": "October crude-steel output fell 1.1% across 70 reporting economies, but regional production and business sentiment diverged; Germany’s improving climate, weaker manufacturing confidence and the US equity reversal show why aggregate growth headlines are incomplete.",
       "tags": [
         "Global Macro",
+        "industrial production",
+        "steel",
         "PMI",
         "credit spreads",
         "capital flows",
-        "energy",
-        "Brazil",
-        "India"
+        "energy"
       ],
       "keywords": [
+        "global industrial production",
+        "October crude steel output",
+        "regional growth divergence",
         "November flash PMI",
-        "global growth divergence",
-        "high-yield credit spread",
+        "Germany Ifo business climate",
+        "high-yield credit spreads",
         "emerging-market portfolio flows",
-        "oil supply",
-        "diesel",
-        "Brazil macrofiscal forecast",
-        "India crude procurement"
+        "oil supply and Hormuz risk"
       ],
-      "regime": "Global activity remains expansionary in several major economies, but regional dispersion is widening while credit risk premia and emerging-market financing conditions remain restrictive.",
-      "key_risk": "A renewed Gulf shipping disruption combined with wider high-yield spreads and persistent emerging-market outflows could transmit a regional slowdown into broader investment and employment weakness.",
+      "regime": "Global activity remains expansionary in several major economies, but industrial output, business sentiment and financing conditions differ sharply by region and sector.",
+      "key_risk": "A wider regional industrial slowdown combined with higher credit premia and renewed energy-logistics disruption could weaken investment and employment before aggregate global GDP turns negative.",
       "watch": [
-        "OPEC+ 2027 output-policy meeting on 29 November",
-        "Worldsteel October crude-steel release when available",
+        "US Personal Consumption Expenditures inflation release on 25 November",
         "China November official PMI release",
         "Daily ICE BofA high-yield spread observations",
         "Next IIF portfolio-flow tracker",
+        "OPEC+ 2027 output-policy meeting on 29 November",
         "RBA meeting on 8 December",
         "Federal Reserve meeting on 8–9 December",
         "FAO Food Price Index scheduled for 4 December"
       ],
-      "search_text": "Global Macro 24 November 2026 global PMI Germany France United States United Kingdom Japan India growth divergence credit spreads Treasury curve IIF emerging market flows oil Brent diesel Brazil macrofiscal FAO food prices Brazil Focus report dated 19 November 2026 published 23 November 2026 GDP IPCA exchange rate market median Nvidia Jensen Huang board reinstatement 31.5 percent"
+      "search_text": "Global Macro 24 November 2026 global industrial production World Steel Association October 2026 crude steel output regional divergence Germany ifo Business Climate November 90.6 flash PMI United States euro area Germany France India Japan UK high yield spreads IIF emerging market flows Brent Hormuz 91.40 US equity reversal Nvidia 24 November Brazil macrofiscal"
     },
     "pt-BR": {
       "markdown": "staging/research/2026/11/2026-11-24-global-macro/pt-BR.md",
-      "title": "A expansão global persiste, mas o crescimento se fragmenta e o crédito encarece",
-      "deck": "Os PMIs preliminares de novembro mantêm as principais economias em expansão, mas revelam uma distância maior entre regiões; spreads de high yield, saídas de emergentes e logística energética mostram por que a recuperação das bolsas não equivale a alívio financeiro amplo.",
+      "title": "O crescimento global resiste, mas a produção industrial se distancia entre regiões",
+      "deck": "A produção global de aço bruto caiu 1,1% em outubro entre 70 economias reportantes, mas os resultados regionais e o sentimento empresarial divergiram; a melhora do Ifo alemão, a piora da confiança industrial e a reversão das bolsas americanas mostram os limites dos indicadores agregados.",
       "tags": [
         "Global Macro",
+        "produção industrial",
+        "aço",
         "PMI",
         "spreads de crédito",
         "fluxos de capital",
-        "energia",
-        "Brasil",
-        "Índia"
+        "energia"
       ],
       "keywords": [
+        "produção industrial global",
+        "produção de aço bruto em outubro",
+        "divergência regional do crescimento",
         "PMI preliminar de novembro",
-        "divergência do crescimento global",
-        "spread de crédito high yield",
+        "clima empresarial Ifo Alemanha",
+        "spreads de crédito high yield",
         "fluxos de carteira dos emergentes",
-        "oferta de petróleo",
-        "diesel",
-        "projeção macrofiscal brasileira",
-        "aquisição indiana de petróleo"
+        "oferta de petróleo e risco em Hormuz"
       ],
-      "regime": "A atividade global permanece expansionista em várias economias importantes, mas a dispersão regional aumenta enquanto os prêmios de risco de crédito e as condições de financiamento dos emergentes seguem restritivos.",
-      "key_risk": "Uma nova interrupção marítima no Golfo, combinada a spreads high yield mais amplos e saídas persistentes dos mercados emergentes, pode transmitir uma desaceleração regional para o investimento e o emprego em escala maior.",
+      "regime": "A atividade global permanece expansionista em várias economias importantes, mas a produção industrial, o sentimento empresarial e as condições de financiamento variam fortemente entre regiões e setores.",
+      "key_risk": "Uma desaceleração industrial regional mais ampla, combinada a prêmios de crédito maiores e nova interrupção na logística de energia, pode enfraquecer investimento e emprego antes de o PIB global agregado ficar negativo.",
       "watch": [
-        "Reunião da OPEP+ sobre a política de produção de 2027 em 29 de novembro",
-        "Divulgação global da produção de aço bruto de outubro pela Worldsteel quando disponível",
+        "Divulgação do índice de preços PCE dos Estados Unidos em 25 de novembro",
         "PMI oficial chinês de novembro",
         "Observações diárias do spread ICE BofA high yield",
         "Próximo rastreador de fluxos de carteira do IIF",
+        "Reunião da OPEP+ sobre a política de produção de 2027 em 29 de novembro",
         "Reunião do RBA em 8 de dezembro",
         "Reunião do Federal Reserve em 8–9 de dezembro",
         "Índice de Preços de Alimentos da FAO previsto para 4 de dezembro"
       ],
-      "search_text": "Global Macro 24 novembro 2026 PMI global Alemanha França Estados Unidos Reino Unido Japão Índia divergência crescimento spreads crédito curva Treasury fluxos IIF mercados emergentes petróleo Brent diesel macrofiscal Brasil preços alimentos FAO Focus report dated 19 November 2026 published 23 November PIB IPCA câmbio mediana de mercado Nvidia Jensen Huang reintegração conselho 31,5 por cento"
+      "search_text": "Global Macro 24 novembro 2026 produção industrial global World Steel Association aço bruto outubro de 2026 divergência regional Ifo Alemanha novembro 90,6 PMI preliminar de novembro Estados Unidos zona do euro Alemanha França Índia Japão Reino Unido spreads high yield fluxos IIF mercados emergentes Brent Hormuz 91,40 reversão das bolsas americanas Nvidia 24 novembro macrofiscal Brasil"
     }
   },
   "signal_rationale": {
-    "delta": "The 23 November edition focused on China's iron-ore/steel chain and exporter inventories; the 22 November edition examined AI productivity and valuation; the 21 November edition covered cross-asset repricing. This edition adds a distinct cross-region activity signal from the 23–24 November flash PMIs and connects it to credit spreads, October emerging-market flows, the 23 November oil close and Brazil's newly published macrofiscal parameter revision.",
-    "evidence": "November composite PMIs: US 54.6, euro area 51.7, Germany 55.0, France 46.2, UK 52.3, Japan 51.5 and India 56.3. US high-yield OAS widened from 3.23% on 13 Nov to 3.76% on 20 Nov. IIF estimated US$33.8bn of EM portfolio outflows in October. Brent settled at US$89.37/bbl on 23 Nov while IEA estimated October supply at 105.4 mb/d and inventories +52m barrels. Brazil’s 2027 GDP assumption was revised from 2.3% to 1.8%, and IPCA from 3.8% to 4.5%. The 23 Nov Brazil Focus survey raised the 2026 exchange-rate median from R$5.40 to R$5.55, raised IPCA from 5.11% to 5.15% and cut GDP growth from 1.72% to 1.70%. AP reported that Nvidia's board reinstated CEO Jensen Huang amid an investigation into possible foreign-spy and national-security concerns; Nvidia shares rose 31.5% on 23 November, a company-specific catalyst behind the technology concentration in the equity rebound.",
-    "scale_path": "Regional survey dispersion changes expected revenue, hiring and inventory paths; those differences shape central-bank decisions, sovereign yields and currency conditions; higher credit premia and cross-border outflows then affect investment and procurement, while crude, refined products and freight transmit energy shocks into prices and margins.",
-    "transmission": "PMI divergence -> sector revenue and labour demand -> domestic inflation and monetary policy -> yields, FX and refinancing costs -> portfolio flows and investment. Oil supply and shipping -> crude and refined-product prices -> transport, food and industrial costs -> inflation expectations and policy reaction.",
-    "falsifier": "The thesis weakens if the Germany–France PMI gap narrows materially, US high-yield spreads reverse the November widening, non-resident EM portfolio flows return to positive territory, refined-product premiums decline broadly and subsequent national-accounts data show no meaningful regional output or employment divergence."
+    "delta": "The 23 November edition examined China's iron-ore/steel chain and exporter inventories. This edition retains a distinct cross-region activity and financing thesis but adds the newly released October global crude-steel data and Germany's November Ifo survey, then updates the market and oil session reported on 24 November. The new evidence shows regional industrial divergence rather than a synchronized collapse.",
+    "evidence": "Worldsteel reported 142.4 Mt crude-steel output in October across 70 economies, down 1.1% y/y; Jan-Oct output was down 0.8%. North America rose 5.6%, Africa 7.9%, the EU fell 4.0%, the Middle East 27.7%, South America 4.1%, and Asia/Oceania was flat. Germany's Ifo climate index rose to 90.6, but manufacturing confidence fell. Reuters reported Nasdaq -1.4%, S&P 500 -0.50%, Dow +0.85%, Brent +2.27% to US$91.40 and a 0.44% dollar decline in its 24 November session report. Existing PMI, high-yield spread, IIF portfolio-flow and Brazil macrofiscal observations retain their original vintages.",
+    "scale_path": "Regional steel production and survey dispersion affect expectations for industrial orders, employment, inventories and trade; these differences shape central-bank decisions, sovereign yields and currency conditions; credit premia and cross-border flows then affect investment, while oil, refined products and shipping transmit geopolitical risk into delivered costs.",
+    "transmission": "Regional activity and steel output -> sector revenue, employment and inventories -> domestic inflation and monetary policy -> yields, FX and refinancing costs -> portfolio flows and investment. Oil supply and shipping reports -> crude and refined-product prices -> transport and industrial costs -> inflation expectations and policy response.",
+    "falsifier": "The thesis weakens if subsequent national accounts and industrial-production releases show broad, synchronized acceleration, regional steel-output gaps narrow, the Germany-France survey divergence closes, high-yield spreads reverse their November widening, non-resident EM portfolio flows return to positive territory and refined-product premiums decline."
   },
   "assessment_confidence": "medium",
   "key_constraints": [
-    "Flash PMIs are diffusion surveys, not GDP growth rates or official output data; country readings are not a direct measure of the size of output gaps.",
-    "The US high-yield OAS series ends on 20 November at the cutoff; it is not a 23 November market close and covers a US dollar-denominated below-investment-grade bond index rather than all credit.",
+    "Flash PMIs and the Ifo business-climate index are surveys, not GDP growth rates or measured industrial output.",
+    "Worldsteel's 70 reporting economies represented about 98% of global crude-steel output in 2025; US and Russian monthly output are estimates. Steel production is not a direct measure of final demand, inventories or trade.",
+    "The October steel figures are one month of sector output; year-to-date changes and country-level product mixes differ.",
+    "The US high-yield OAS series ends on 20 November and is not a 24 November market close; it covers US dollar below-investment-grade bonds, not all credit.",
     "IIF portfolio flows are October monthly estimates, not daily November flows.",
     "The Brazil Ministry of Finance parameter grid was closed on 6 November; it is a forecast vintage, not a realised outcome or market-consensus survey.",
-    "FAO’s food-price index is an international commodity basket, not a retail-price or household-affordability measure; the latest meat component mixes projected and observed prices and can be revised.",
-    "Reports of attacks and statements by the Houthi movement, Bahrain, Iran and UKMTO are attributed to the relevant actors or reporting institution; the available material does not quantify a new sustained loss of oil output.",
-    "The October global crude-steel release had not been located by the 05:00 BRT cutoff; September remains the latest complete global comparison.",
-    "The US Treasury par curve is nominal and does not separately identify expected inflation, real-rate expectations and term premium.",
-    "The 23 November Brazil Focus medians are market expectations for 2026 reported by B3; they are distinct from the Ministry of Finance's 2027 parameter grid."
+    "FAO's food-price index is an international commodity basket, not a retail-price or household-affordability measure; the latest meat component mixes projected and observed prices and can be revised.",
+    "Reports of vessel attacks around the Strait of Hormuz are attributed to Reuters reporting; the available material does not quantify a sustained loss of oil output or exports.",
+    "The US Treasury curve and the 24 November Reuters yield observation refer to different dates and should not be merged into a single curve.",
+    "The 23 November Brazil Focus medians are market expectations for 2026, not Central Bank forecasts, and are distinct from the Ministry of Finance's 2027 parameter grid."
   ],
   "producer_checks": {
-    "information_cutoff": "2026-11-24 05:00 America/Sao_Paulo",
+    "information_cutoff": "2026-11-24 20:45 America/Sao_Paulo",
     "comparative_editions": [
       "MT-GM-2026-11-23",
       "MT-GM-2026-11-22",
       "MT-GM-2026-11-21"
     ],
-    "novelty_decision": "Distinct regional-activity and financing-dispersion thesis; does not repeat the preceding cross-asset selloff, AI productivity/valuation or China iron-ore/steel-chain theses.",
+    "novelty_decision": "Revision 7 adds newly released October global steel output and the 24 November German Ifo survey to the cross-region activity and financing-dispersion thesis. It does not repeat the 23 November China iron-ore/steel-inventory article.",
     "fact_inference_scenario_separated": true,
     "bilingual_parity": {
       "same_numeric_series": true,
       "same_reference_count": true,
       "charts": 2,
-      "tables": 3,
+      "tables": 4,
       "flows": 1,
       "maps": 1,
-      "references_en": 27,
-      "references_pt": 27
+      "references_en": 30,
+      "references_pt": 30
     },
     "visual_evidence": {
       "charts": 2,
-      "tables": 3,
+      "tables": 4,
       "flows": 1,
       "maps": 1
     },
     "source_audit": {
-      "references": 27,
-      "primary_institutional_sources": 17,
-      "market_reporting_sources": 10,
-      "urls_unique": 27,
-      "domains": 19,
+      "references": 30,
+      "primary_institutional_sources": 19,
+      "market_reporting_sources": 11,
+      "urls_unique": 30,
+      "domains": 1,
       "reproducibility_notes": {
         "pmi_comparison": "Flash composite PMI output indices published 23–24 Nov 2026; 50 is the expansion/contraction threshold. The values are survey diffusion indices, not GDP growth rates.",
         "credit_spread": "ICE BofA US High Yield Index OAS via FRED, unit Percent: 3.23% on 13 Nov; 3.34% on 16 Nov; 3.43% on 17 Nov; 3.47% on 18 Nov; 3.52% on 19 Nov; 3.76% on 20 Nov. Latest observation available at the 05:00 BRT cutoff.",
@@ -180,7 +181,10 @@
         "market_flows": "IIF tracker published 5 Nov, estimating October non-resident EM portfolio outflows of US$33.8bn; monthly estimate, not daily flow.",
         "brazil_focus": "Banco Central do Brasil Focus report with reference date 19 Nov 2026, summarized by B3 on 23 Nov: 2026 GDP 1.70% (from 1.72%), IPCA 5.15% (from 5.11%), and year-end USD/BRL 5.55 (from 5.40). These are market medians, not Central Bank forecasts, and are distinct from the Ministry of Finance's 2027 parameter grid. Primary PDF: https://www.bcb.gov.br/content/focus/focus/R20261119.pdf.",
         "japan_policy": "Bank of Japan policy decision published 18 Sep 2026 sets the uncollateralized overnight call-rate guideline around 1.25% and states that the change applies from the next business day, 24 Sep; the October 2026 Outlook Report confirms the level.",
-        "brazil_ptax": "Banco Central do Brasil PTAX OData historical query for 23 Nov 2026: selling rate 5.97080 at 13:06:23 BRT; date-filtered endpoint retained for reproducibility."
+        "brazil_ptax": "Banco Central do Brasil PTAX OData historical query for 23 Nov 2026: selling rate 5.97080 at 13:06:23 BRT; date-filtered endpoint retained for reproducibility.",
+        "worldsteel_production": "World Steel Association, October 2026 release published 24 Nov 2026. Production for 70 reporting countries was 142.4 Mt (-1.1% y/y); Jan-Oct was 1,509.3 Mt (-0.8%). October regional changes: Africa +7.9%, Asia/Oceania 0.0%, EU -4.0%, Europe other +5.1%, Middle East -27.7%, North America +5.6%, Russia/CIS/Ukraine -6.8%, South America -4.1%. The 70 countries represented approximately 98% of 2025 world production. US and Russian country figures are estimates.",
+        "ifo_november": "ifo Institute press release 24 Nov 2026: Business Climate 90.6 (Oct 90.1); current conditions 89.4 (88.8); expectations 91.9 (91.5). Aggregate sentiment improved, but manufacturing weakened after six increases and expectations returned to negative territory; services and trade improved and construction slipped.",
+        "reuters_markets_24nov": "Reuters report dated 24 Nov 2026: Nasdaq -1.4%, S&P 500 -0.50%, Dow +0.85%; Nvidia shares >6% lower after prior session's +31.5%; dollar -0.44%; US 10-year yield 4.928% vs 4.92% late Monday; Brent January futures settled US$91.40/bbl, +US$2.03 or 2.27%, amid reported vessel attacks around Hormuz. Attribute incident reports and do not infer sustained physical output losses."
       }
     },
     "manual_preflight": {
@@ -188,29 +192,26 @@
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 3772,
-      "word_count_pt": 4351,
-      "references_en": 27,
-      "references_pt": 27,
+      "word_count_en": 4347,
+      "word_count_pt": 5052,
+      "references_en": 30,
+      "references_pt": 30,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "Revision 6 distinguishes the 2027 accumulated Selic grid parameter from the Focus terminal-rate median, explains the grid's real-to-nominal construction using SPE inflation, and labels FX and Brent as annual averages. Recompute exact source URLs, substantive word counts, chart parity and renderer output before independent QA.",
-      "revision": 6
+      "repository_script_validator": "Revision 7 contains the official 24 November Worldsteel and ifo releases, current Reuters market reporting, matching regional-output tables, explicit charts, a causal flow and a regional map. Exact-head CI and independent editorial QA remain separate requirements.",
+      "revision": 7
     },
     "reconciliation_run_id": null
   },
-  "revision": 6,
-  "revision_reason": "Revision 6 clarifies the Ministry of Finance's 2027 macrofiscal grid: the Selic value is accumulated and derived from the real rate implicit in the Focus median converted with SPE inflation; the exchange-rate and Brent values are annual averages. Both locales and the reproducibility note now distinguish these measures from terminal or spot values.",
+  "revision": 7,
+  "revision_reason": "Revision 7 updates the information cutoff to 20:45 BRT on 24 November, incorporates Worldsteel's October crude-steel release, the 24 November German Ifo survey and Reuters' latest reported market and Brent session, adds a regional output table, and removes stale claims that the October global steel release was still unavailable.",
   "revision_scope": [
-    "Create English and PT-BR research drafts with separate idiomatic copy.",
-    "Create a dedicated pending-v2 record with the registered daily-global-macro classification.",
-    "Add reproducible market, activity, energy, credit and flow visuals with identical numeric series and references in both locales.",
-    "Restructure the executive assessment, five analytical sections and conclusion as H2 sections in both locales to satisfy validate-editorial-depth.mjs (minimum six analytical H2 sections).",
-    "Identify the Nvidia/Jensen Huang board-reinstatement catalyst in both locales and explain its company-specific contribution to the equity rebound without generalizing it into macroeconomic easing.",
-    "Clarify that the euro-area PMI is an aggregate including Germany and France; distinguish the Bank of England meeting end from the decision publication date.",
-    "Add the Bank of Japan's 18 September 2026 primary decision and a date-filtered BCB PTAX OData query; correct the chronology of the three comparative editions.",
-    "Replace the three fenced table blocks in EN and PT-BR with ordinary Markdown tables, preserving headers, rows, units, dates and values so the production renderer emits table figures.",
-    "Remove the unsupported Worldsteel expected-date wording in both locales; retain only the observed availability boundary at the 05:00 BRT cutoff and the latest complete September comparison.",
-    "Clarify accumulated Selic methodology and annual-average definitions for the 2027 exchange rate and Brent in both locales and in the source reproducibility notes."
+    "Update the article title, executive assessment and information cutoff for the 24 November evening edition.",
+    "Incorporate Worldsteel October 2026 crude-steel output and regional/country divergence using the official 24 November release.",
+    "Add Germany's 24 November Ifo business-climate results and distinguish survey sentiment from sector output.",
+    "Update the latest reported US equity, dollar, Treasury and Brent market session with Reuters' 24 November report; preserve the original date and vintage of the high-yield OAS series.",
+    "Add the regional October steel-output table in both locales and maintain semantic parity.",
+    "Update the regional transmission map, base case, conclusion and bilingual reference lists.",
+    "Reconcile all seven active cumulative registry assets and link the report-specific reconciliation run."
   ],
   "qa_fixes_applied": [
     "EDITORIAL_DEPTH_H2_SECTION_STRUCTURE",
@@ -224,6 +225,12 @@
     "WORLDSTEEL_EXPECTED_DATE_CLAIM_REMOVED",
     "BRAZIL_MACROFISCAL_ACCUMULATED_SELIC_DEFINITION",
     "BRAZIL_MACROFISCAL_ANNUAL_AVERAGE_FX_BRENT_DEFINITION",
-    "BRAZIL_SELIC_GRID_METHOD_EXPLAINED"
-  ]
+    "BRAZIL_SELIC_GRID_METHOD_EXPLAINED",
+    "WORLDSTEEL_OCTOBER_RELEASE_INCORPORATED",
+    "IFO_NOVEMBER_RELEASE_INCORPORATED",
+    "NOVEMBER_24_REPORTED_MARKET_SESSION_ADDED",
+    "STALE_WORLDSTEEL_EXPECTED_RELEASE_CLAIM_REMOVED",
+    "REGIONAL_STEEL_OUTPUT_TABLE_ADDED_IN_BOTH_LOCALES"
+  ],
+  "reconciliation_run_id": "2026-11-24-mt-gm-2026-11-24-revision-7-publication-reconciliation"
 }

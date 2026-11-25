@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-23T16:52:00-03:00",
+  "last_reconciled_at": "2026-11-24T20:45:00-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10186,6 +10186,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "OSRD and defence R&D are discussed as historical innovation mechanisms. No new discrete present-day technical capability, reproducible performance threshold, deployment milestone or technology-supply-chain signal is established."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-24-mt-gm-2026-11-24-revision-7-publication-reconciliation",
+      "reconciled_at": "2026-11-24T20:45:00-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-24"
+      ],
+      "audit_note": "Publication-time reconciliation for MT-GM-2026-11-24 revision 7. The report reviews cross-region flash PMIs, October 2026 crude-steel production, Germany's November Ifo survey, financing conditions, emerging-market portfolio flows and energy/shipping risk. All seven active reconciliation-required cumulative assets were assessed. No evidence in this report justifies a new canonical weighted bilateral dependency edge, qualified site-level investment opportunity, strategic ownership transfer, resource-rights change, completed policy-case outcome, independently verified conflict-system transition or new demonstrated technology capability.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Worldsteel provides regional and national steel-output totals, while PMIs, credit spreads and portfolio-flow estimates describe separate indicators. The report does not provide a source-audited bilateral trade/finance/energy matrix with consistent country weights and periods; do not infer dependency edges from regional totals or market co-movement."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "The report assesses aggregate industrial output, sentiment and markets. It identifies no site-level project with verified sponsor, ownership, committed capital, permits, schedule, utilities, capacity, contracted demand and cash flows."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "The reported Nvidia executive return and associated share-price movement do not establish a beneficial-ownership transfer, voting-rights change, board-composition change or new strategic-control relation under the actor registry's criteria. No actor record is changed."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Crude-steel output, oil prices and reported vessel incidents do not establish a change in resource ownership, concession, licence, reserve rights, operator control or physical production rights."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The report compares current monetary settings and macroeconomic conditions but does not evaluate a completed policy intervention with verified implementation, ex-post outcomes and a defensible counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The report attributes vessel-attack reports around the Strait of Hormuz to Reuters but does not establish independent incident verification, actor attribution, vessel identity or a measured change in territorial control/order of battle. Retain attribution in research; do not add a canonical conflict event."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Nvidia and Anthropic share-price movements and executive news are market/governance observations, not a demonstrated new technical capability, independent replication, reliability/yield threshold, deployment milestone or manufacturing-scale change."
         }
       ]
     }

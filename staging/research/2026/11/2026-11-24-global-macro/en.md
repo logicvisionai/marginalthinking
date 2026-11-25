@@ -1,18 +1,18 @@
 # Global Macro — 24 November 2026
 
-## Global expansion persists, but growth is fragmenting and credit is getting more expensive
+## Global growth is holding up, but industrial output is diverging
 
-*Information cutoff: 05:00, 24 November 2026, America/Sao_Paulo. Market closes refer to 23 November unless stated otherwise.*
+*Information cutoff: 20:45, 24 November 2026, America/Sao_Paulo. Market observations use the session stated by each source.*
 
 ## Executive assessment
 
-The latest business surveys do not describe a synchronized global contraction. They describe an expansion whose geography and sectoral composition are becoming less even. India and Germany are expanding rapidly; the United States, the euro area, the United Kingdom and Japan remain above the PMI growth threshold but have lost some momentum; France is contracting. The distance between Germany’s composite reading of 55.0 and France’s 46.2 is 8.8 index points. The difference is economically more informative than the euro-area headline of 51.7, which has remained in expansion for a fifth month. [1–7]
+The latest business surveys and industrial-output data do not describe a synchronized global contraction. They show an expansion whose geography and sectoral composition are becoming less even. India and Germany retain strong survey readings, while France is contracting. The October crude-steel release adds a harder, sector-specific comparison: output across 70 reporting economies fell 1.1% year on year, but North America and Africa expanded while the European Union, South America and the Middle East contracted. [1–7, 28–29]
 
-Financial markets are sending a less reassuring message than the equity rebound on 23 November suggests. The S&P 500 rose 4.7% and the Nasdaq 6.5%, but the latest available US high-yield option-adjusted spread widened from 3.23% on 13 November to 3.76% on 20 November. The spread series has not yet published a 23 November observation. The Treasury curve ended Monday at 4.63% for two years, 4.92% for ten years and 5.29% for thirty years. The dollar also remained firm, while the Institute of International Finance recorded US$33.8 billion of non-resident portfolio outflows from emerging markets in October. These are different instruments and observation windows; together they indicate that the equity rally has not yet demonstrated a broad easing in the cost of capital. [14–17, 23–24]
+Financial markets have not confirmed a broad easing in financing conditions. The 23 November rebound in US shares was followed by a reversal in the latest session reported on 24 November: the Nasdaq fell 1.4% and the S&P 500 lost 0.50%, while the Dow gained 0.85%. Nvidia fell more than 6% after its previous-day surge, and the dollar eased from a 20-month high. The latest available US high-yield option-adjusted spread remains 3.76% on 20 November, up from 3.23% on 13 November; that series is not a 24 November close. The IIF separately estimated US$33.8 billion of non-resident portfolio outflows from emerging markets in October. [14–17, 23–24, 30]
 
-Energy provides a counterweight. Brent fell 3.46% to US$89.37 per barrel on 23 November as Middle Eastern flows increased and Libya’s Sharara pipeline restarted. The International Energy Agency estimates that global oil supply rose by 2.3 million barrels per day in October to 105.4 million barrels per day. Yet the same agency describes low onshore inventory buffers and refined-product constraints, while European diesel prices remained 77% above their pre-war level. Lower crude prices therefore do not establish that the energy shock has ended. [17–18]
+Energy remains volatile rather than resolved. Brent fell 3.46% to US$89.37 per barrel on 23 November as Middle Eastern flows increased and Libya’s Sharara pipeline restarted, then rose 2.27% to US$91.40 in the latest session reported on 24 November amid reports of attacks on vessels around the Strait of Hormuz. Reuters did not quantify a sustained loss of oil output from those reports. The IEA estimates that global oil supply rose by 2.3 million barrels per day in October to 105.4 million barrels per day, while warning that refined-product markets and onshore inventory buffers remain tight. [17–18, 30]
 
-The evidence points to a more uneven expansion rather than an imminent global recession. Financing costs, energy logistics and domestic policy constraints vary sharply across regions, so aggregate growth headlines reveal less about the resilience of individual countries, sectors and borrowers.
+The evidence points to a fragmented expansion rather than an imminent global recession. Surveys, steel output and business sentiment show that the recovery differs by region and sector; financial conditions and delivered energy costs add further differences. The next test is whether this dispersion appears in national-accounts output, employment and investment, not whether one headline index remains above its expansion threshold.
 
 ## 1. Activity: a positive aggregate conceals a wider regional gap
 
@@ -45,7 +45,24 @@ Japan’s composite eased to 51.5 from 52.1, a six-month low. Manufacturing impr
 
 India remained the strongest large emerging-market reading in this group. Its composite PMI edged up to 56.3 from 56.2, and manufacturing reached a nine-month high of 56.0. Services slowed to 55.3, however, and employment moved in opposite directions: factories hired at the fastest pace in seven months while service firms reduced headcount. The data indicate a manufacturing-led expansion, not an evenly distributed acceleration across the economy. [7]
 
-China’s official November manufacturing PMI was not available at the information cutoff. The October industrial and investment data discussed in the 23 November edition remain the latest official baseline; no new Chinese activity observation is inferred here. The October global crude-steel release was not available at the 05:00 BRT cutoff; September remains the latest complete global comparison for crude-steel output.
+China’s official November manufacturing PMI was not available at the information cutoff. The October industrial and investment data discussed in the 23 November edition remain the latest official baseline; no new Chinese activity observation is inferred here.
+
+The World Steel Association reported 142.4 million tonnes of crude-steel production in October across 70 reporting economies, down 1.1% year on year. Those economies represented approximately 98% of world crude-steel production in 2025. Output from January to October reached 1,509.3 million tonnes, 0.8% below the same period in 2025. The monthly decline was not uniform: North America grew 5.6% and Africa 7.9%, while the EU fell 4.0%, South America 4.1% and the Middle East 27.7%. Asia and Oceania were flat. The year-to-date figures are less severe in some regions, which is why the monthly and cumulative series should not be conflated. [28]
+
+| Region | October output (Mt) | October y/y | January–October y/y |
+|---|---:|---:|---:|
+| Africa | 2.1 | +7.9% | +7.8% |
+| Asia and Oceania | 102.7 | 0.0% | −0.8% |
+| European Union (27) | 10.5 | −4.0% | −1.2% |
+| Europe, other | 3.8 | +5.1% | +4.5% |
+| Middle East | 3.9 | −27.7% | −11.5% |
+| North America | 9.7 | +5.6% | +4.8% |
+| Russia, other CIS and Ukraine | 6.0 | −6.8% | −5.4% |
+| South America | 3.6 | −4.1% | −0.6% |
+
+The country data show a similar split. October output rose 3.6% in India, 8.4% in the United States (an estimate) and 28.5% in Viet Nam. It fell 9.6% in Germany, 5.4% in Brazil and 1.6% in China. Germany’s January–October output was still 2.5% above a year earlier, while Brazil’s was 2.3% lower and China’s 2.8% lower. Steel production is not a direct measure of final demand: operating schedules, product mix, exports and inventories also matter. [28]
+
+Germany’s Ifo Business Climate Index rose to 90.6 in November from 90.1 in October. Current conditions increased to 89.4 and expectations to 91.9. The aggregate improvement was not broad-based: manufacturing confidence declined after six consecutive increases and its expectations returned to negative territory, while services and trade improved and construction edged lower. The result qualifies the strong German flash PMI. A positive composite survey can coexist with weakness in a particular industrial branch, just as a monthly decline in steel output does not establish a country-wide contraction. [29]
 
 ## 2. Monetary policy and fiscal constraints: no synchronized easing
 
@@ -87,9 +104,11 @@ The 19 November Focus report, summarized by B3 on 23 November, raised the market
 | Exchange rate, R$/US$ | 5.40 | 5.55 | +0.15 |
 
 
-## 3. Markets: a sharp equity rebound has not repaired the credit signal
+## 3. Markets: equities reverse part of the rebound while credit remains expensive
 
 US equities rose sharply on 23 November: the S&P 500 gained 4.7%, the Nasdaq 6.5%, the Dow 3.0% and the Russell 2000 3.4%. The move ended a seven-session losing streak and recovered just over half of the preceding week’s losses. The rebound was led by technology and AI-linked shares; the Associated Press described the move as a sharp reversal after a week of losses. AP reported that Nvidia’s board reinstated CEO Jensen Huang amid an investigation into possible foreign-spy and national-security concerns; Nvidia shares rose 31.5%. The company-specific event helps explain the concentration of the rebound in AI-linked shares, but it is not evidence of a broad improvement in macroeconomic or financing conditions. A one-day change in equity prices cannot establish that earnings, financing or productivity expectations have been repaired. [23]
+
+The reversal continued in the latest US session described by Reuters on 24 November. The Nasdaq fell 1.4% and the S&P 500 lost 0.50%, while the Dow gained 0.85%. Nvidia shares dropped more than 6% after the previous session’s 31.5% surge, and Anthropic fell more than 6% to below its US$83 IPO price. The report described profit-taking and a rotation toward defensive and traditional sectors as investors awaited US PCE inflation data. The dollar fell 0.44% from a 20-month high; the ten-year Treasury yield was 4.928%, little changed from 4.92% late on Monday. These figures describe the reported session and should not be treated as evidence of a persistent market trend. [30]
 
 The official US Treasury par curve closed on 23 November at 4.63% for two years, 4.92% for ten years and 5.29% for thirty years. The 2s10s spread was therefore 29 basis points and the 10s30s spread 37 basis points. The curve is upward sloping, but long nominal yields remain high. The ten-year yield is not a pure measure of expected policy rates: it also reflects expected inflation, real rates and term premium. [14]
 
@@ -116,6 +135,8 @@ The Institute of International Finance estimated US$33.8 billion of non-resident
 ## 4. Energy and commodities: cheaper crude, persistent product and logistics risk
 
 Brent futures for January delivery settled at US$89.37 per barrel on 23 November, down US$3.20 or 3.46%. WTI settled at US$80.17, down US$3.24 or 3.88%. Reuters attributed the fall to increased Middle Eastern supply and the reopening of Libya’s Sharara pipeline. The market close was lower even though Reuters also reported shipping incidents and claims of attacks in the Gulf. The Houthi movement’s statement about an attack on a Saudi refinery, the UK Maritime Trade Operations’ reports of attacks on shipping, and the different accounts given by Bahrain and Iran must remain attributed to those actors and reporting institutions. The available evidence does not quantify a new, sustained loss of regional oil output from those claims. [18]
+
+The next reported session reversed part of the decline: January Brent futures settled at US$91.40 per barrel on 24 November, up US$2.03 or 2.27%. Reuters linked the move to new reports of attacks on vessels in and around the Strait of Hormuz. The report does not establish a measured loss of crude production or a sustained interruption to exports. The price change therefore records a higher short-term risk premium, not proof that physical supply has already fallen. [30]
 
 The IEA’s November Oil Market Report estimates that global oil supply rose by 2.3 million barrels per day in October to 105.4 million barrels per day. Global observed inventories increased by 52 million barrels during the month. The report also warns that onshore stocks are at their lowest level since at least 2016 and that refined-product markets remain tight. European diesel prices were still 77% above their pre-war level. These observations are compatible: crude supply can recover while product inventories, refining capacity, freight and insurance remain constrained. [17]
 
@@ -151,13 +172,12 @@ Higher high-yield spreads and emerging-market outflows
 ```
 
 ```map
-United States | Composite PMI 54.6; high-yield spread 3.76% on 20 Nov | Credit costs, technology investment and long yields; the equity rebound lasted one session and spread observations lag the market close
-Euro area | Headline PMI 51.7; Germany 55.0; France 46.2 | Common monetary policy across divergent national cycles; survey readings are not national GDP results
-United Kingdom | Composite PMI 52.3; Bank Rate 4.00% | Energy pass-through, services exports and industrial demand; the Q4 GDP estimate is survey-based
-Japan | Composite PMI 51.5; manufacturing 53.7 | Electronics exports, labour scarcity and household demand; services are close to stagnation
-India | Composite PMI 56.3; wider Urals discount | Manufacturing demand, energy procurement and external financing; trade prices are based on trader reports
-Brazil | 2027 growth assumption 1.8%; PTAX R$5.9708 | Fiscal expectations, high Selic and commodity receipts; Ministry forecast vintage closed on 6 Nov
-Gulf and Libya | Brent US$89.37; supply recovery | Export flows, shipping security and refined-product costs; reported attacks and claims do not quantify lost output
+United States | PMI 54.6; Nasdaq −1.4%; S&P 500 −0.50% in Reuters’ latest session | Equity volatility, high-yield refinancing costs and the next PCE release; the FRED spread observation still ends on 20 Nov
+Euro area | PMI 51.7; Germany 55.0; France 46.2; EU steel output −4.0% y/y in Oct | One monetary area contains divergent national cycles; steel output is sectoral, not total industrial demand
+Germany | Ifo 90.6; October steel output −9.6% y/y | Services and trade sentiment improved while manufacturing confidence weakened; Jan–Oct steel output remained +2.5%
+India | PMI 56.3; October steel output +3.6% y/y | Manufacturing is expanding, but sector output and household demand are not interchangeable
+Brazil | October steel output −5.4%; 2027 GDP assumption 1.8% | Industrial production, fiscal expectations and commodity receipts; the Ministry forecast vintage closed on 6 Nov
+Gulf and Libya | Brent US$91.40 on 24 Nov | Export flows, shipping security and refined-product costs; reported attacks do not quantify lost output
 ```
 
 The base case is continued global expansion with wider differences between countries and sectors. The United States, euro area, United Kingdom, Japan and India remain above the PMI threshold, but the latest readings do not show a common acceleration. Germany and India provide stronger industrial signals; France and the Japanese service sector are weaker. Lower crude prices provide some relief to headline inflation, while refined products, credit and exchange-rate channels remain restrictive.
@@ -170,9 +190,11 @@ The central thesis would be weakened by a sustained narrowing of the PMI gap bet
 
 ## Conclusion
 
-The latest data support a fragmented expansion, not a synchronised recession. The strongest activity readings are concentrated in India and Germany, while France is contracting and several other major economies are expanding more slowly. Monetary policy is not converging toward a single easing path. Crude prices have fallen as supply recovered, but refined-product and logistics risks remain. Credit spreads and emerging-market flows are less reassuring than the one-day equity rebound.
+The latest data support a fragmented expansion, not a synchronised recession. The October steel release shows a modest global decline alongside clear regional gains and losses; Germany’s business climate improved without a broad manufacturing recovery. The reversal in US equities and the rebound in Brent add to the dispersion in market signals. Monetary policy is not converging toward a single easing path, and credit conditions for emerging-market borrowers remain less settled than headline equity indices suggest.
 
-The relevant risk is a widening gap between economies and borrowers that can finance investment at current rates and those that cannot. That gap can increase before aggregate global GDP turns negative. It is the combination of regional activity, credit pricing, currency conditions and delivered energy costs—not any single equity index or oil benchmark—that should determine whether the current expansion is durable.
+The relevant risk is a widening gap between economies and borrowers that can finance investment at current rates and those that cannot. That gap can increase before aggregate global GDP turns negative. It is the combination of regional activity, industrial production, credit pricing, currency conditions and delivered energy costs—not any single equity index or oil benchmark—that should determine whether the current expansion is durable.
+
+
 
 ## References
 
@@ -203,3 +225,6 @@ The relevant risk is a widening gap between economies and borrowers that can fin
 25. Food and Agriculture Organization of the United Nations, “FAO Food Price Index”, October 2026 release, 6 November 2026. https://www.fao.org/worldfoodsituation/foodpricesindex
 26. Banco Central do Brasil, “Focus — Relatório de Mercado”, reference date 19 November 2026. https://www.bcb.gov.br/content/focus/focus/R20261119.pdf
 27. Bank of Japan, “Changes in the Guidelines for Money Market Operations”, 18 September 2026. https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf
+28. World Steel Association, “October 2026 crude steel production”, 24 November 2026. https://worldsteel.org/media/press-releases/2026/october-2026-crude-steel-production/
+29. ifo Institute, “ifo Business Climate Rises (November 2026)”, 24 November 2026. https://www.ifo.de/en/press-release/2026-11-24/ifo-business-climate-rises-november-2026
+30. Reuters, “US stocks slide as Nvidia rally fizzles out, dollar falls”, 24 November 2026. https://www.reuters.com/world/china/global-markets-global-markets-2026-11-24/

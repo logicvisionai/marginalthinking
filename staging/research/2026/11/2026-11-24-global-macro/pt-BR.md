@@ -1,18 +1,18 @@
 # Global Macro — 24 de novembro de 2026
 
-## A expansão global persiste, mas o crescimento se fragmenta e o crédito encarece
+## O crescimento global resiste, mas a produção industrial se distancia entre regiões
 
-*Horário de corte: 05h00 de 24 de novembro de 2026, America/Sao_Paulo. Fechamentos de mercado referem-se a 23 de novembro, salvo indicação em contrário.*
+*Horário de corte: 20h45 de 24 de novembro de 2026, America/Sao_Paulo. As observações de mercado seguem a sessão informada em cada fonte.*
 
 ## Avaliação executiva
 
-As pesquisas empresariais mais recentes não descrevem uma contração global sincronizada. Descrevem uma expansão cuja geografia e composição setorial estão se tornando menos uniformes. Índia e Alemanha avançam com força; Estados Unidos, zona do euro, Reino Unido e Japão permanecem acima do limiar de expansão dos PMIs, mas perderam parte do ritmo; a França está em contração. A distância entre o índice composto alemão, de 55,0, e o francês, de 46,2, chega a 8,8 pontos. Essa diferença informa mais do que o indicador agregado da zona do euro, de 51,7, que permanece em expansão pelo quinto mês consecutivo. [1–7]
+As pesquisas empresariais e os dados de produção industrial mais recentes não descrevem uma contração global sincronizada. Eles mostram uma expansão cuja geografia e composição setorial estão se tornando menos uniformes. Índia e Alemanha mantêm leituras fortes nas pesquisas, enquanto a França está em contração. A divulgação da produção de aço bruto de outubro acrescenta uma comparação mais concreta, ainda que restrita a um setor: a produção das 70 economias reportantes caiu 1,1% em doze meses, mas avançou na América do Norte e na África e recuou na União Europeia, na América do Sul e no Oriente Médio. [1–7, 28–29]
 
-Os mercados financeiros transmitem um sinal menos confortável do que sugere a recuperação das bolsas em 23 de novembro. O S&P 500 avançou 4,7% e o Nasdaq, 6,5%, mas o spread ajustado por opções da dívida corporativa americana de alto rendimento passou de 3,23% em 13 de novembro para 3,76% em 20 de novembro. A série ainda não publicou uma observação referente a 23 de novembro. A curva do Tesouro americano encerrou a segunda-feira em 4,63% para dois anos, 4,92% para dez anos e 5,29% para trinta anos. O dólar também permaneceu firme, enquanto o Institute of International Finance registrou saídas de US$ 33,8 bilhões em fluxos de carteira de não residentes dos mercados emergentes em outubro. São instrumentos e janelas de observação diferentes; em conjunto, indicam que a alta das ações ainda não demonstrou uma redução ampla do custo de capital. [14–17, 23–24]
+Os mercados financeiros ainda não confirmaram uma redução ampla das condições de financiamento. A recuperação das bolsas americanas em 23 de novembro foi seguida por uma reversão na sessão mais recente reportada em 24 de novembro: o Nasdaq caiu 1,4% e o S&P 500 recuou 0,50%, enquanto o Dow avançou 0,85%. As ações da Nvidia perderam mais de 6% depois da forte alta do dia anterior, e o dólar recuou em relação à máxima de vinte meses. O spread ajustado por opções da dívida high yield americana continua com última observação de 3,76% em 20 de novembro, ante 3,23% em 13 de novembro; essa série não representa o fechamento de 24 de novembro. Separadamente, o IIF estimou saídas de US$ 33,8 bilhões em fluxos de carteira de não residentes dos mercados emergentes em outubro. [14–17, 23–24, 30]
 
-A energia oferece um contraponto. O Brent caiu 3,46%, para US$ 89,37 por barril, em 23 de novembro, com a elevação dos fluxos do Oriente Médio e a retomada do oleoduto Sharara, na Líbia. A Agência Internacional de Energia estima que a oferta global de petróleo cresceu 2,3 milhões de barris por dia em outubro, alcançando 105,4 milhões de barris por dia. Ainda assim, a mesma agência descreve estoques terrestres reduzidos e restrições nos derivados, enquanto o diesel europeu permanecia 77% acima do nível anterior à guerra. A queda do petróleo bruto, portanto, não demonstra que o choque energético terminou. [17–18]
+A energia continua volátil, não resolvida. O Brent caiu 3,46%, para US$ 89,37 por barril, em 23 de novembro, com o aumento dos fluxos do Oriente Médio e a retomada do oleoduto Sharara, na Líbia. Na sessão mais recente reportada em 24 de novembro, voltou a subir 2,27%, para US$ 91,40, após notícias de ataques a embarcações nas proximidades do Estreito de Hormuz. A Reuters não quantificou uma perda sustentada de produção de petróleo decorrente desses relatos. A AIE estima que a oferta global de petróleo cresceu 2,3 milhões de barris por dia em outubro, para 105,4 milhões, mas alerta que os estoques terrestres e os mercados de derivados continuam restritivos. [17–18, 30]
 
-As evidências apontam para uma expansão mais desigual, não para uma recessão global iminente. O custo do financiamento, a logística energética e as restrições de política doméstica variam fortemente entre regiões; por isso, os indicadores agregados dizem menos sobre a resiliência de países, setores e devedores específicos.
+As evidências apontam para uma expansão fragmentada, não para uma recessão global iminente. Pesquisas, produção de aço e sentimento empresarial mostram que a recuperação varia entre regiões e setores; as condições financeiras e o custo entregue da energia ampliam essas diferenças. O próximo teste será verificar se essa dispersão aparece na produção das contas nacionais, no emprego e no investimento, e não apenas observar se um indicador agregado permanece acima do limiar de expansão.
 
 ## 1. Atividade: um agregado positivo esconde uma distância regional maior
 
@@ -45,7 +45,24 @@ O índice composto do Japão caiu para 51,5, ante 52,1, o menor nível em seis m
 
 A Índia permaneceu com a leitura mais forte entre os grandes mercados emergentes desse grupo. Seu PMI composto subiu marginalmente de 56,2 para 56,3, e o índice manufatureiro atingiu 56,0, maior nível em nove meses. Os serviços desaceleraram para 55,3, contudo, e o emprego se moveu em direções opostas: as fábricas contrataram no ritmo mais rápido em sete meses, enquanto empresas de serviços reduziram pessoal. Os dados indicam expansão liderada pela indústria, não uma aceleração distribuída uniformemente pela economia. [7]
 
-O PMI industrial oficial chinês de novembro ainda não estava disponível no horário de corte. Os dados oficiais de indústria e investimento de outubro discutidos na edição de 23 de novembro continuam sendo a referência mais recente; não se infere aqui uma nova observação de atividade chinesa. A divulgação global de produção de aço bruto de outubro ainda não estava disponível no corte de 05h00 de Brasília; setembro permanece a comparação global completa mais recente.
+O PMI industrial oficial chinês de novembro ainda não estava disponível no horário de corte. Os dados oficiais de indústria e investimento de outubro discutidos na edição de 23 de novembro continuam sendo a referência mais recente; não se infere aqui uma nova observação de atividade chinesa.
+
+A World Steel Association informou produção de 142,4 milhões de toneladas de aço bruto em outubro entre 70 economias reportantes, queda anual de 1,1%. Essas economias representaram aproximadamente 98% da produção mundial de aço bruto em 2025. A produção acumulada de janeiro a outubro chegou a 1.509,3 milhões de toneladas, 0,8% abaixo do mesmo intervalo de 2025. A queda mensal não foi uniforme: a América do Norte cresceu 5,6% e a África, 7,9%, enquanto a União Europeia recuou 4,0%, a América do Sul, 4,1%, e o Oriente Médio, 27,7%. A produção da Ásia e Oceania permaneceu estável. Os dados acumulados no ano são menos negativos em algumas regiões, por isso as séries mensal e acumulada não devem ser confundidas. [28]
+
+| Região | Produção em outubro (Mt) | Variação anual em outubro | Variação anual jan.–out. |
+|---|---:|---:|---:|
+| África | 2,1 | +7,9% | +7,8% |
+| Ásia e Oceania | 102,7 | 0,0% | −0,8% |
+| União Europeia (27) | 10,5 | −4,0% | −1,2% |
+| Demais países europeus | 3,8 | +5,1% | +4,5% |
+| Oriente Médio | 3,9 | −27,7% | −11,5% |
+| América do Norte | 9,7 | +5,6% | +4,8% |
+| Rússia, demais países da CEI e Ucrânia | 6,0 | −6,8% | −5,4% |
+| América do Sul | 3,6 | −4,1% | −0,6% |
+
+Os dados por país mostram uma divisão semelhante. A produção em outubro cresceu 3,6% na Índia, 8,4% nos Estados Unidos (estimativa) e 28,5% no Vietnã. Recuou 9,6% na Alemanha, 5,4% no Brasil e 1,6% na China. A produção alemã entre janeiro e outubro ainda ficou 2,5% acima de um ano antes, enquanto a brasileira caiu 2,3% e a chinesa, 2,8%. A produção siderúrgica não mede diretamente a demanda final: calendários operacionais, composição de produtos, exportações e estoques também interferem no resultado. [28]
+
+O Índice de Clima de Negócios do Ifo para a Alemanha subiu de 90,1 em outubro para 90,6 em novembro. A avaliação das condições atuais avançou para 89,4 e as expectativas chegaram a 91,9. A melhora do agregado não foi ampla: a confiança na indústria recuou depois de seis altas consecutivas e as expectativas do setor voltaram ao campo negativo; serviços e comércio melhoraram, enquanto a construção teve leve queda. O resultado qualifica a leitura forte do PMI preliminar alemão. Uma pesquisa composta positiva pode coexistir com fraqueza em um segmento industrial, assim como uma queda mensal da produção de aço não demonstra contração de toda a economia. [29]
 
 ## 2. Política monetária e restrições fiscais: não há flexibilização sincronizada
 
@@ -87,9 +104,11 @@ O Relatório Focus de 19 de novembro, resumido pela B3 em 23 de novembro, elevou
 | Câmbio, R$/US$ | 5,40 | 5,55 | +0,15 |
 
 
-## 3. Mercados: recuperação forte das ações, mas o crédito não voltou ao ponto anterior
+## 3. Mercados: as bolsas devolvem parte da alta, enquanto o crédito permanece caro
 
 As ações americanas avançaram fortemente em 23 de novembro: o S&P 500 subiu 4,7%, o Nasdaq 6,5%, o Dow 3,0% e o Russell 2000, 3,4%. O movimento encerrou uma sequência de sete sessões de queda e recuperou pouco mais da metade das perdas da semana anterior. A recuperação foi liderada por ações de tecnologia e ligadas à IA; a Associated Press descreveu o movimento como uma reversão acentuada após uma semana de perdas. A AP informou que o conselho da Nvidia reintegrou o CEO Jensen Huang em meio a uma investigação sobre possíveis questões de espionagem estrangeira e segurança nacional; as ações da empresa subiram 31,5%. O evento específico ajuda a explicar a concentração da recuperação em papéis ligados à IA, mas não demonstra melhora ampla das condições macroeconômicas ou de financiamento. Uma variação de um dia nos preços das ações não demonstra que as expectativas de lucro, financiamento ou produtividade tenham sido reparadas. [23]
+
+A reversão prosseguiu na sessão americana mais recente descrita pela Reuters em 24 de novembro. O Nasdaq caiu 1,4% e o S&P 500 recuou 0,50%, enquanto o Dow avançou 0,85%. As ações da Nvidia perderam mais de 6% depois da alta de 31,5% na sessão anterior, e a Anthropic caiu mais de 6%, ficando abaixo do preço de US$ 83 de sua oferta pública inicial. A reportagem descreveu realização de lucros e rotação para setores defensivos e tradicionais enquanto os investidores aguardavam os dados de inflação PCE dos Estados Unidos. O dólar recuou 0,44% em relação à máxima de vinte meses; o rendimento do título do Tesouro americano de dez anos ficou em 4,928%, pouco alterado em relação aos 4,92% do fim da segunda-feira. Esses números descrevem a sessão reportada e não devem ser tratados como evidência de uma tendência persistente dos mercados. [30]
 
 A curva nominal de paridade do Tesouro americano encerrou 23 de novembro em 4,63% para dois anos, 4,92% para dez anos e 5,29% para trinta anos. O spread 2s10s foi, portanto, de 29 pontos-base, e o spread 10s30s, de 37 pontos-base. A curva é ascendente, mas os rendimentos longos permanecem altos. O rendimento de dez anos não é uma medida pura da trajetória esperada da política monetária: também incorpora inflação esperada, juros reais e prêmio de prazo. [14]
 
@@ -116,6 +135,8 @@ O Institute of International Finance estimou saídas de US$33,8 bilhões em flux
 ## 4. Energia e commodities: petróleo bruto mais barato, riscos persistentes nos derivados e na logística
 
 Os contratos futuros de Brent para entrega em janeiro liquidaram a US$89,37 por barril em 23 de novembro, queda de US$3,20 ou 3,46%. O WTI encerrou a US$80,17, queda de US$3,24 ou 3,88%. A Reuters atribuiu o recuo ao aumento da oferta do Oriente Médio e à reabertura do oleoduto Sharara, na Líbia. O fechamento ocorreu em baixa mesmo com relatos de incidentes marítimos e alegações de ataques no Golfo. A declaração do movimento Houthi sobre um ataque a uma refinaria saudita, os relatos de ataques a embarcações feitos pela UK Maritime Trade Operations e as versões distintas apresentadas por Bahrein e Irã devem permanecer atribuídos aos respectivos atores e instituições de informação. As evidências disponíveis não quantificam uma nova perda sustentada de produção regional de petróleo decorrente dessas alegações. [18]
+
+A sessão seguinte devolveu parte da queda: os contratos futuros de Brent para janeiro liquidaram a US$ 91,40 por barril em 24 de novembro, alta de US$ 2,03 ou 2,27%. A Reuters relacionou o movimento a novos relatos de ataques a embarcações nas proximidades do Estreito de Hormuz. A reportagem não demonstra uma perda mensurada de produção de petróleo bruto nem uma interrupção sustentada das exportações. A variação de preço registra, portanto, um prêmio de risco de curto prazo maior, não a comprovação de que a oferta física já tenha diminuído. [30]
 
 O Relatório do Mercado de Petróleo de novembro da AIE estima que a oferta global aumentou 2,3 milhões de barris por dia em outubro, para 105,4 milhões de barris por dia. Os estoques globais observados cresceram 52 milhões de barris no mês. O relatório também alerta que os estoques terrestres estão no menor nível desde pelo menos 2016 e que os mercados de derivados continuam apertados. O diesel europeu ainda estava 77% acima do nível anterior à guerra. As observações são compatíveis: a oferta de petróleo bruto pode se recuperar enquanto estoques de derivados, capacidade de refino, frete e seguro permanecem restritivos. [17]
 
@@ -151,13 +172,12 @@ Spreads high yield mais altos e saídas de emergentes
 ```
 
 ```map
-Estados Unidos | PMI composto 54,6; spread high yield 3,76% em 20 nov. | Custo do crédito, investimento em tecnologia e juros longos; a recuperação das ações durou uma sessão e o spread tem defasagem em relação ao fechamento do mercado
-Zona do euro | PMI agregado 51,7; Alemanha 55,0; França 46,2 | Política monetária comum diante de ciclos nacionais divergentes; leituras de pesquisa não são resultados de PIB
-Reino Unido | PMI composto 52,3; Bank Rate 4,00% | Repasse da energia, exportação de serviços e demanda industrial; a estimativa do PIB do 4º tri deriva de pesquisa
-Japão | PMI composto 51,5; indústria 53,7 | Exportações de eletrônicos, escassez de trabalho e consumo doméstico; serviços próximos da estagnação
-Índia | PMI composto 56,3; desconto maior do Urals | Demanda manufatureira, aquisição de energia e financiamento externo; preços comerciais baseados em relatos de operadores
-Brasil | Hipótese de crescimento de 1,8% em 2027; PTAX R$5,9708 | Expectativas fiscais, Selic elevada e receitas de commodities; grade do Ministério fechada em 6 nov.
-Golfo e Líbia | Brent US$89,37; recuperação de oferta | Fluxos de exportação, segurança marítima e custos de derivados; relatos de ataques e alegações não quantificam perda de produção
+Estados Unidos | PMI 54,6; Nasdaq −1,4%; S&P 500 −0,50% na sessão mais recente da Reuters | Volatilidade das ações, custo de refinanciamento high yield e próxima divulgação do PCE; a série FRED do spread ainda termina em 20 nov.
+Zona do euro | PMI 51,7; Alemanha 55,0; França 46,2; produção de aço da UE −4,0% a/a em outubro | Uma área monetária reúne ciclos nacionais distintos; produção siderúrgica é setorial, não demanda industrial total
+Alemanha | Ifo 90,6; produção de aço em outubro −9,6% a/a | Sentimento em serviços e comércio melhorou enquanto a confiança industrial enfraqueceu; produção siderúrgica jan.–out. ainda subiu 2,5%
+Índia | PMI 56,3; produção de aço em outubro +3,6% a/a | A manufatura se expande, mas produção setorial e demanda das famílias não são medidas equivalentes
+Brasil | Produção de aço em outubro −5,4%; hipótese de crescimento do PIB de 1,8% em 2027 | Produção industrial, expectativas fiscais e receitas de commodities; grade do Ministério fechada em 6 nov.
+Golfo e Líbia | Brent a US$ 91,40 em 24 nov. | Fluxos de exportação, segurança marítima e custos dos derivados; relatos de ataques não quantificam perda de produção
 ```
 
 O cenário-base é de continuidade da expansão global, com diferenças maiores entre países e setores. Estados Unidos, zona do euro, Reino Unido, Japão e Índia permanecem acima do limiar dos PMIs, mas as leituras mais recentes não mostram aceleração comum. Alemanha e Índia apresentam sinais industriais mais fortes; França e os serviços japoneses estão mais fracos. A queda do petróleo bruto oferece algum alívio à inflação cheia, enquanto derivados, crédito e câmbio continuam restritivos.
@@ -170,9 +190,11 @@ A tese central seria enfraquecida por uma redução sustentada da distância ent
 
 ## Conclusão
 
-Os dados mais recentes sustentam uma expansão fragmentada, não uma recessão sincronizada. As leituras mais fortes de atividade estão concentradas na Índia e na Alemanha, enquanto a França está em contração e várias outras economias importantes crescem em ritmo menor. A política monetária não converge para uma única trajetória de flexibilização. Os preços do petróleo bruto caíram com a recuperação da oferta, mas os riscos de derivados e logística persistem. Os spreads de crédito e os fluxos de mercados emergentes são menos tranquilizadores do que a recuperação de um dia das bolsas.
+Os dados mais recentes sustentam uma expansão fragmentada, não uma recessão sincronizada. A divulgação de outubro da produção siderúrgica mostra uma queda global moderada junto a ganhos e perdas regionais claros; o clima empresarial alemão melhorou sem uma recuperação ampla da indústria. A reversão das bolsas americanas e a nova alta do Brent ampliam a divergência dos sinais de mercado. A política monetária não converge para uma única trajetória de flexibilização, e as condições de crédito para tomadores dos mercados emergentes continuam menos tranquilas do que sugerem os índices acionários.
 
-O risco relevante é a ampliação da distância entre economias e tomadores capazes de financiar investimentos às taxas atuais e aqueles que não conseguem fazê-lo. Essa distância pode aumentar antes de o PIB global agregado ficar negativo. É a combinação entre atividade regional, preço do crédito, condições cambiais e custos energéticos entregues — e não um único índice acionário ou indicador de petróleo — que deve orientar a avaliação da durabilidade da expansão atual.
+O risco relevante é a ampliação da distância entre economias e tomadores capazes de financiar investimentos às taxas atuais e aqueles que não conseguem fazê-lo. Essa distância pode aumentar antes de o PIB global agregado ficar negativo. É a combinação entre atividade regional, produção industrial, preço do crédito, condições cambiais e custos energéticos entregues — e não um único índice acionário ou indicador de petróleo — que deve orientar a avaliação da durabilidade da expansão atual.
+
+
 
 ## Referências
 
@@ -203,3 +225,6 @@ O risco relevante é a ampliação da distância entre economias e tomadores cap
 25. Organização das Nações Unidas para a Alimentação e a Agricultura, “FAO Food Price Index”, divulgação de outubro de 2026, 6 de novembro de 2026. https://www.fao.org/worldfoodsituation/foodpricesindex
 26. Banco Central do Brasil, “Focus — Relatório de Mercado”, data de referência de 19 de novembro de 2026. https://www.bcb.gov.br/content/focus/focus/R20261119.pdf
 27. Banco do Japão, “Changes in the Guidelines for Money Market Operations”, 18 de setembro de 2026. https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918a.pdf
+28. World Steel Association, “October 2026 crude steel production”, 24 de novembro de 2026. https://worldsteel.org/media/press-releases/2026/october-2026-crude-steel-production/
+29. ifo Institute, “ifo Business Climate Rises (November 2026)”, 24 de novembro de 2026. https://www.ifo.de/en/press-release/2026-11-24/ifo-business-climate-rises-november-2026
+30. Reuters, “US stocks slide as Nvidia rally fizzles out, dollar falls”, 24 de novembro de 2026. https://www.reuters.com/world/china/global-markets-global-markets-2026-11-24/
