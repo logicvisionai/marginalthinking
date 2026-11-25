@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {derivePipelineQueue} from '../scripts/lib/system-status-pipeline.mjs';
+import {computeSystemFreshness} from '../scripts/lib/system-freshness.mjs';
 
 const report = (id, slug, revision = 0) => ({_bundle: true, id, slug, revision});
 const pending = (id, slug, revision = 0, schema_version = 2) => ({id, slug, revision, schema_version});
@@ -63,4 +64,64 @@ test('does not count a legacy pending sidecar for an already public ID as unpubl
     approved: [], rejected: []
   });
   assert.deepEqual(result.pending_unpublished, []);
+});
+
+test('ignores reconciliation runs whose reviewed IDs are not canonical public reports', () => {
+  const result = computeSystemFreshness({
+    root: process.cwd(),
+    registry: {assets: [{
+      id: 'global-dependency-network',
+      type: 'cumulative-tool',
+      status: 'active',
+      update_mode: 'publication-reconciliation',
+      reconciliation_required: true,
+      freshness_sla_hours: 36
+    }]},
+    ledger: {runs: [
+      {
+        id: 'canonical-review',
+        reconciled_at: '2026-11-23T16:52:00-03:00',
+        report_ids_reviewed: ['MT-PUBLIC'],
+        decisions: [{asset_id: 'global-dependency-network', decision: 'verified_no_change', note: 'Reviewed against canonical public research.'}]
+      },
+      {
+        id: 'staged-only-review',
+        reconciled_at: '2026-11-25T08:37:33-03:00',
+        report_ids_reviewed: ['MT-STAGED'],
+        decisions: [{asset_id: 'global-dependency-network', decision: 'deferred_evidence_gap', note: 'Candidate remains staged and is not public.'}]
+      }
+    ]},
+    reports: [{id: 'MT-PUBLIC', _bundle: true}],
+    now: new Date('2026-11-25T12:00:00Z')
+  })[0];
+
+  assert.equal(result.last_reconciled, '2026-11-23T16:52:00-03:00');
+  assert.equal(result.decision, 'verified_no_change');
+  assert.equal(result.state, 'review_due');
+});
+
+test('does not treat a legacy index-only entry as a canonical reconciliation report', () => {
+  const result = computeSystemFreshness({
+    root: process.cwd(),
+    registry: {assets: [{
+      id: 'global-dependency-network',
+      type: 'cumulative-tool',
+      status: 'active',
+      update_mode: 'publication-reconciliation',
+      reconciliation_required: true,
+      freshness_sla_hours: 36
+    }]},
+    ledger: {runs: [{
+      id: 'legacy-index-review',
+      reconciled_at: '2026-11-25T08:37:33-03:00',
+      report_ids_reviewed: ['MT-LEGACY'],
+      decisions: [{asset_id: 'global-dependency-network', decision: 'verified_no_change', note: 'Legacy index record only.'}]
+    }]},
+    reports: [{id: 'MT-LEGACY', _legacy: true}],
+    now: new Date('2026-11-25T12:00:00Z')
+  })[0];
+
+  assert.equal(result.last_reconciled, null);
+  assert.equal(result.decision, null);
+  assert.equal(result.state, 'missing_activity');
 });

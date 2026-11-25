@@ -15,10 +15,13 @@ const latestReport = (reports, pred) =>
   reports.filter(pred).slice().sort((a,b) =>
     String(b.published_at || b.date || '').localeCompare(String(a.published_at || a.date || '')) ||
     String(b.id || '').localeCompare(String(a.id || '')))[0] || null;
-const latestAssetRun = (runs, id) => {
-  // Never substitute the global reconciliation timestamp for an asset-specific review.
+const latestAssetRun = (runs, id, canonicalReportIds) => {
+  // A staged/rejected research run remains in the append-only ledger but cannot
+  // refresh public tool status until at least one reviewed report is canonical.
+  // This keeps public freshness aligned with reports/**/metadata.json.
   let best = null;
   for (const run of Array.isArray(runs) ? runs : []) {
+    if (!(run.report_ids_reviewed || []).some(reportId => canonicalReportIds.has(reportId))) continue;
     const decision = (run.decisions || []).find(d => d.asset_id === id);
     if (!decision) continue;
     if (!best || String(run.reconciled_at || '') >= String(best.run.reconciled_at || '')) {
@@ -29,6 +32,7 @@ const latestAssetRun = (runs, id) => {
 };
 
 export function computeSystemFreshness({root, registry, ledger, reports, now = new Date()}) {
+  const canonicalReportIds = new Set((reports || []).filter(r => r?._bundle === true && r.id).map(r => r.id));
   return (registry.assets || []).map(a => {
     let sourceReport = null, lastActivity = null, modified = null, lastReconciled = null, decision = null;
     if (a.type === 'editorial-line') {
@@ -49,7 +53,7 @@ export function computeSystemFreshness({root, registry, ledger, reports, now = n
       modified = d.updated_at || null;
     }
     if (a.reconciliation_required) {
-      const review = latestAssetRun(ledger.runs, a.id);
+      const review = latestAssetRun(ledger.runs, a.id, canonicalReportIds);
       lastReconciled = review?.run.reconciled_at || null;
       lastActivity = lastReconciled;
       decision = review?.decision || null;
