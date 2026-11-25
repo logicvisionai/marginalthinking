@@ -2,7 +2,7 @@
 
 **Scope:** transmission from border prices to production costs, domestic inflation, terms of trade and real incomes across trading partners and monetary areas.  
 **Canonical slug:** `cross-border-price-transmission`  
-**Last reviewed:** 2026-10-16  
+**Last reviewed:** 2026-11-25  
 **Evidence note:** internal research orientation only; all current figures and institutional claims require external re-verification.
 
 ## Structural assessment
@@ -20,6 +20,13 @@ Bilateral terms-of-trade indexes measure export purchasing power relative to imp
 
 ## What changed since last review
 
+### 2026-11-25
+
+- **New canonical evidence:** `MT-GM-2026-11-25` applies the border-price framework to prospective U.S. Section 301 measures. The durable distinction is between reported policy expectations and an adopted tariff schedule, and between legal exposure and realised price pass-through; the report does not establish that new duties had taken effect.
+- **Pre-implementation transmission:** uncertainty about product coverage, exemptions, timing and retaliation can delay capital expenditure or prompt supplier diversification before a duty is collected. Once a measure takes effect, incidence may be absorbed by importers, suppliers or downstream buyers; bargaining power, substitution options, inventories, contracts and demand determine the distribution.
+- **Inflation calibration:** a one-off duty can raise a price level without creating persistent inflation. Persistence requires additional channels such as repeated measures, wage or services-price responses, expectations or exchange-rate effects. The report's Australian CPI and Japanese SPPI observations are different baskets and transaction stages, not directly comparable inflation rates or proof of a synchronized regional cycle.
+- **Watch:** formal USTR findings, product coverage and exemptions, effective dates, retaliation, import unit values, supplier changes, inventories, investment plans and subsequent PCE/services-price releases. Reverify all current observations externally before reuse.
+
 ### 2026-10-16
 
 - **New canonical evidence:** `MT-GM-2026-10-16` juxtaposes BLS border-price indexes, partner-specific terms-of-trade readings and Eurostat's final HICP component and country breakdown. The durable lesson is measurement discipline and heterogeneous transmission, not that one month's price changes prove sustained inflation or a uniform national benefit.
@@ -28,12 +35,14 @@ Bilateral terms-of-trade indexes measure export purchasing power relative to imp
 
 ## Open questions
 
+- When does tariff-policy uncertainty change supplier selection and investment timing before duties are implemented, and how quickly does any cost change reach final prices?
 - Which imported cost increases survive inventories and margin adjustment to appear in final prices, and with what lag?
 - Where do bilateral price gains coincide with volume losses or unequal household purchasing-power effects?
 - How much national inflation dispersion reflects energy exposure, administered prices, taxes or domestic service inflation?
 
 ## Related Marginal Thinking research
 
+- `MT-GM-2026-11-25` — prospective Section 301 measures, tariff-incidence channels, Australian CPI and Japanese services-producer prices.
 - `MT-GM-2026-10-16` — border-price, bilateral terms-of-trade and European HICP evidence.
 - `MT-GM-2026-10-15` — upstream PPI, CPI and real-income transmission.
 - `MT-GM-2026-10-14` — energy affordability, refinancing and fiscal cushioning.
