@@ -62,6 +62,35 @@ Na Ásia, a Reuters reportou uma recuperação em 26 de novembro: o Nikkei japon
 
 Os dados industriais reforçam a necessidade de evitar um rótulo único para o ciclo global. A worldsteel informou produção de aço bruto de 142,4 milhões de toneladas em outubro, entre 70 economias reportantes, queda de 1,1% em relação ao ano anterior. A América do Norte cresceu 5,6%, a África 7,9%, a União Europeia caiu 4,0%, a América do Sul caiu 4,1% e o Oriente Médio recuou 27,7%. São observações de produção regional, não medidas diretas de demanda final ou utilização de capacidade. [9]
 
+## 6. As commodities alimentares divergem sob o índice global
+
+O Índice de Preços de Alimentos da FAO para outubro teve média de 133,9 pontos, queda de 1,2% ante setembro, mas alta de 5,9% em relação a outubro de 2025 e 16,4% abaixo do pico de março de 2022. O índice acompanha cotações de commodities comercializadas internacionalmente, não o CPI nacional de alimentos no varejo nem a acessibilidade das famílias. [13]
+
+| FAO, outubro de 2026 | Índice | m/m | a/a |
+|---|---:|---:|---:|
+| Índice de Preços de Alimentos | 133,9 | -1,2% | +5,9% |
+| Cereais | 116,8 | -4,5% | +12,6% |
+| Óleos vegetais | 199,2 | +0,3% | — |
+| Açúcar | 121,3 | +6,6% | +28,8% |
+| Carnes | — | -1,2% | — |
+| Lácteos | — | -1,1% | — |
+
+```chart
+type: bar
+title: Índices de commodities alimentares da FAO, variação mensal de outubro de 2026
+unit: percentual mês a mês
+Índice de Preços de Alimentos | -1.2
+Cereais | -4.5
+Óleos vegetais | 0.3
+Açúcar | 6.6
+Carnes | -1.2
+Lácteos | -1.1
+```
+
+A divergência altera o mecanismo de transmissão. Trigo e milho recuaram com demanda de importação moderada e perspectiva de produção melhor, enquanto o açúcar subiu pelo quarto mês consecutivo: a chuva atrasou a colheita e moagem da cana no Centro-Sul do Brasil, e as perspectivas de produção pioraram na Índia, União Europeia e Tailândia. O arroz subiu 1,6% com atrasos de colheita e pressão climática em alguns exportadores. A FAO projetou produção mundial de cereais em 2026 de 2.999 milhões de toneladas, o segundo maior nível registrado, mas o comércio de cereais em 2026/27 foi projetado para cair 3,3%, a 507,7 milhões de toneladas; a relação estoques/uso foi estimada em 32,4%. São projeções, não balanços realizados. A FAO também estimou que 41 países ou territórios ainda precisavam de assistência alimentar externa, 31 na África; a contagem de países não é uma estimativa populacional. [13]
+
+Uma cotação global menor de cereais pode aliviar alguns custos de importação sem melhorar o acesso a alimentos em todos os lugares. Câmbio doméstico, transporte, conflito, salários e margens de varejo intervêm entre a cotação de exportação e a cesta das famílias; o índice agregado pode cair enquanto famílias vulneráveis enfrentam piora de acessibilidade.
+
 ```map\nAmérica do Norte | Produção de aço em outubro cresceu 5,6% a/a | Produção não é demanda final\nÁsia e Oceania | Produção de outubro ficou estável a/a | Agregado regional esconde diferenças entre países e setores\nUnião Europeia | Produção de aço em outubro caiu 4,0% a/a | Exposição a energia e comércio permanece relevante\nAmérica do Sul | Produção de aço em outubro caiu 4,1% a/a | Brasil também recuou; está fora desta ação do USTR\nOriente Médio | Produção de aço em outubro caiu 27,7% a/a | Contração grande; não há atribuição a uma única causa\n```
 
 O Brasil não está entre as 14 economias cobertas pelas determinações do USTR anunciadas em 25 de novembro. Portanto, o canal tarifário direto imediato dessa ação específica não está estabelecido para o Brasil. Efeitos indiretos continuam possíveis por desvio de comércio, preços de commodities, câmbio e demanda dos parceiros afetados. O Banco Central do Brasil manteve a Selic em 13,75% em novembro; essa taxa restritiva é uma condição monetária doméstica, não uma resposta a uma tarifa ainda não implementada. [10]
@@ -109,3 +138,5 @@ As próximas observações úteis não são outra manchete sobre a tarifa máxim
 11. Reuters, 26 nov. 2026, petróleo sobe diante de alegações atribuídas de oferta e navegação: https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/
 
 12. EIA, 10 nov. 2026, Short-Term Energy Outlook: https://www.eia.gov/outlooks/steo/
+
+13. FAO, “FAO Food Price Index edges down in October amid subdued demand”, 6 nov. 2026: https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand

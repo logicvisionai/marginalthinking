@@ -62,6 +62,35 @@ In Asia, Reuters reported a relief rally on 26 November: Japan's Nikkei gained 1
 
 Industrial data reinforce the need to avoid a single global-cycle label. worldsteel reported October crude-steel production of 142.4 million tonnes across 70 reporting economies, down 1.1% year on year. North America rose 5.6%, Africa 7.9%, the EU fell 4.0%, South America fell 4.1%, and the Middle East fell 27.7%. These are regional output observations, not a direct measure of final demand or capacity utilization. [9]
 
+## 6. Food commodities diverge beneath the global index
+
+FAO's October Food Price Index averaged 133.9 points, down 1.2% from September but 5.9% above October 2025 and 16.4% below the March 2022 peak. The index tracks internationally traded commodity quotations, not national retail-food CPI or household affordability. [13]
+
+| FAO October 2026 | Index | m/m | y/y |
+|---|---:|---:|---:|
+| Food Price Index | 133.9 | -1.2% | +5.9% |
+| Cereals | 116.8 | -4.5% | +12.6% |
+| Vegetable oils | 199.2 | +0.3% | — |
+| Sugar | 121.3 | +6.6% | +28.8% |
+| Meat | — | -1.2% | — |
+| Dairy | — | -1.1% | — |
+
+```chart
+type: bar
+title: FAO food commodity indices, October 2026 monthly change
+unit: percent month on month
+Food Price Index | -1.2
+Cereals | -4.5
+Vegetable oils | 0.3
+Sugar | 6.6
+Meat | -1.2
+Dairy | -1.1
+```
+
+The divergence matters for the transmission mechanism. Wheat and maize eased with subdued import demand and an improving production outlook, while sugar rose for a fourth consecutive month as rain disrupted Brazil's Centre-South cane harvest and crushing and production prospects weakened in India, the EU and Thailand. Rice rose 1.6% with harvest delays and weather pressure in some exporters. FAO forecast 2026 cereal production at 2,999 million tonnes, the second-highest on record, but 2026/27 cereal trade was projected to fall 3.3% to 507.7 million tonnes; stocks-to-use was forecast at 32.4%. These are forecasts, not realized balances. FAO also estimated 41 countries or territories still required external food assistance, 31 in Africa; the country count is not a population estimate. [13]
+
+A lower global cereal quotation can ease some import costs without improving food access everywhere. Domestic currency depreciation, transport, conflict, wages and retail margins intervene between export quotations and household baskets; the aggregate index can fall while vulnerable households face worsening affordability.
+
 ```map\nNorth America | October steel output increased 5.6% y/y | Production is not final demand\nAsia and Oceania | October output was broadly flat y/y | Regional aggregate masks country and sector differences\nEuropean Union | October steel output fell 4.0% y/y | Energy and trade exposure remain relevant\nSouth America | October steel output fell 4.1% y/y | Brazil also declined; it is outside this USTR action\nMiddle East | October steel output fell 27.7% y/y | Large contraction; single-cause attribution is not established\n```
 
 Brazil is not among the 14 economies covered by the USTR determinations announced on 25 November. The immediate direct tariff channel from this particular action is therefore not established for Brazil. Indirect effects remain possible through trade diversion, commodity prices, exchange rates and demand from affected partners. Banco Central do Brasil maintained the Selic at 13.75% in November; this restrictive rate is a domestic monetary condition, not a response to a tariff that has not yet been implemented. [10]
@@ -109,3 +138,5 @@ The next useful observations are the final product annexes, public-comment recor
 11. Reuters, 26 Nov 2026, oil rises on attributed supply and shipping concerns: https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/
 
 12. EIA, 10 Nov 2026, Short-Term Energy Outlook: https://www.eia.gov/outlooks/steo/
+
+13. FAO, “FAO Food Price Index edges down in October amid subdued demand”, 6 Nov 2026: https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand
