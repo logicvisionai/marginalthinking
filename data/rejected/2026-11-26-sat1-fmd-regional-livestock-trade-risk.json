@@ -1,0 +1,135 @@
+{
+  "schema_version": 2,
+  "id": "MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk",
+  "slug": "2026-11-26-sat1-fmd-regional-livestock-trade-risk",
+  "revision": 2,
+  "rejection_count_for_id": 1,
+  "rejection_loop_limit_reached": false,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-26T05:33:42-03:00",
+  "reviewed_commit": "c20cf9f4f2da3ca98f4a0bef18138be43838fb5d",
+  "pending_blob_sha": "036464db077842eec8144dfeaa69fae3f8c6858b",
+  "source_blob_shas": {
+    "en": "7a9e3e5f5eba21dad4e2968a94ba56c29e286ec2",
+    "pt-BR": "6f4c7b41b494d7da9ead04a33b2e3300782469c5"
+  },
+  "previous_rejections": [],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Read the complete ready schema-v2 pending sidecar and both staged Markdown editions. Exact pending/EN/PT-BR blob tuple is recorded. At pre-write inventory, approval, rejection and public metadata paths for this ID/slug were absent."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Revision 2 uses canonical ID/slug, schema_version 2, registered biosecurity-livestock-governance kind, controlled program, topics, geography and institutional-change phenomenon. No taxonomy expansion."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 05:25 BRT cutoff follows the 13 November FAO Mongolia update, 17 November Botswana and 10 November Algeria notifications, 24 November WOAH regional page update and 30 September FAO regional strategy release. Older WOAH/FAO risk summaries are explicitly dated and not presented as November incidence estimates."
+    },
+    "factual_methodology": {
+      "result": "passed_with_limitation",
+      "summary": "FAO confirms SAT1 outbreaks in Mongolia's Bayan-Ulgii and Khovd provinces, government request and joint FAO-WOAH field assessment. WOAH Africa confirms Botswana SAT1 on 17 November, Algeria SAT1 on 10 November, Mauritius serotype O on 19 November and Nigerian African swine fever as separate events. WOAH/FAO confirm the regional 2026–2030 strategy and its 14-country scope. The report appropriately distinguishes first notifications from total outbreaks/prevalence, FMD serotypes from other diseases, and animal-health risk from human pandemic claims. No material factual error found in the checked source claims."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "Seven primary institutional references are listed and cited; checked claims map to FAO and WOAH sources. Current notification pages are dynamic, so the report correctly uses the page's dated event list and does not infer a continuous transmission chain or global loss estimate."
+    },
+    "research_depth": {
+      "result": "failed",
+      "summary": "Strict editorial-depth mechanical thresholds are not met in either locale: seven unique referenced URLs are below the required eight for non-weekly research; one explicit chart is below the required two; the collapsed table is counted as only one pipe line, below the script's three-table-line threshold. Word counts and section count exceed the substantive minimum, but that does not cure the failed evidence/visual thresholds."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "summary": "Strict pending pipeline run 45782443528, on parent 5dc5b756c530386b1941c7ea0dbfa4c8d3084a08, reported for this unchanged candidate tuple: table absent in EN/PT-BR and only 3 visuals versus minimum 4 for research-report. Comparing parent to reviewed HEAD c20cf9f4f2da3ca98f4a0bef18138be43838fb5d shows the intervening commits changed only editorial radar and the QA rejection sidecar; candidate pending and staged blobs are unchanged. The table's separators are literal backslash-n characters, not Markdown line breaks."
+    },
+    "bilingual_equivalence": {
+      "result": "passed_with_limitation",
+      "summary": "The editions carry equivalent claims, dates, citations and visual intent. Both contain the same malformed table; parity does not satisfy the visual floor."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report separates observed notifications, inference and conditional scenarios, and gives operational indicators and falsifiers. It avoids global outbreak, price or animal-loss estimates unsupported by herd and trade data."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "Repository and pending inventory show no existing SAT1/FMD report. The current official November notifications and Mongolia field assessment are distinct from the 23 November AMR implementation-gap report."
+    },
+    "editorial_style": {
+      "result": "passed_with_limitation",
+      "summary": "The report uses neutral institutional prose, attributes official notifications, separates serotypes and diseases, and avoids human-pandemic or unsupported price claims. No copy edit is approved while the source tuple fails visual/depth gates."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "Pending reconciliation_run_id names the report-specific revision-2 run. The ledger contains that run with decisions for all seven active reconciliation-required assets and no unsupported canonical change."
+    },
+    "editorial_depth_script": {
+      "result": "not_run",
+      "summary": "The strict editorial workflow failed in validate-pipeline before invoking validate-editorial-depth. Static application of scripts/validate-editorial-depth.mjs confirms candidate-specific failure: 7 source URLs < 8, 1 chart < 2, and malformed table line count < 3. Run the script after correction."
+    },
+    "pipeline_validation": {
+      "result": "failed",
+      "summary": "Strict pending workflow 45782443528 failed the visual contract for this candidate: table missing in both locales and 3 visuals found versus 4 required for research-report. Candidate blob tuple is unchanged at reviewed HEAD."
+    },
+    "repository_build": {
+      "result": "passed_with_limitation",
+      "summary": "Current HEAD run 45782518218 passed public build, visual semantics, generated site and Worker. Deploy failed at Cloudflare credential check; no production deployment or live verification is confirmed. The public build does not approve staged pending content."
+    },
+    "concurrent_approval_integrity": {
+      "result": "passed",
+      "summary": "At pre-write review, main was c20cf9f4f2da3ca98f4a0bef18138be43838fb5d. Candidate pending and both Markdown blobs were re-read and unchanged; no approval, prior rejection or public metadata existed for this ID/slug. Only a rejection sidecar is added."
+    },
+    "publication_snapshot_integrity": {
+      "result": "not_run",
+      "summary": "No approval or immutable publication snapshot was created because strict visual and editorial-depth readiness failed."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Revision 2 is not publication-ready. Replace literal escaped newline sequences with actual line breaks in the table in both locales; ensure a parseable table, at least two explicit charts and the full visual floor; add a relevant eighth source URL or otherwise satisfy the exact source-count gate; update producer visual audit from rendered parser output; then submit a new exact SHA tuple."
+    }
+  },
+  "issues": [
+    {
+      "code": "LITERAL_BACKSLASH_N_BREAKS_MARKDOWN_TABLE",
+      "severity": "material",
+      "paths": [
+        "staging/research/2026/11/2026-11-26-sat1-fmd-regional-livestock-trade-risk/en.md",
+        "staging/research/2026/11/2026-11-26-sat1-fmd-regional-livestock-trade-risk/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:19 — first-occurrence notification table",
+        "pt-BR.md:19 — tabela de primeiras notificações"
+      ],
+      "evidence": "Each table is collapsed into one physical Markdown line containing four literal two-character \\\\n sequences. The deterministic Markdown renderer requires an actual line break before the separator row and between data rows; it does not recognize the intended table. The strict pending pipeline reports visual standard table missing in both locales.",
+      "required_correction": "Replace each literal \\\\n with an actual newline in both editions, preserve the same three observations and scope qualifiers, then render and verify the table and underlying data."
+    },
+    {
+      "code": "EDITORIAL_DEPTH_VISUAL_AND_SOURCE_THRESHOLDS_UNMET",
+      "severity": "material",
+      "paths": [
+        "data/pending/2026-11-26-sat1-fmd-regional-livestock-trade-risk.json",
+        "staging/research/2026/11/2026-11-26-sat1-fmd-regional-livestock-trade-risk/en.md",
+        "staging/research/2026/11/2026-11-26-sat1-fmd-regional-livestock-trade-risk/pt-BR.md"
+      ],
+      "locations": [
+        "pending producer_checks.visual_evidence and manual_preflight",
+        "both editions: References section; chart and table blocks"
+      ],
+      "evidence": "For non-weekly research, scripts/validate-editorial-depth.mjs requires at least 8 unique source URLs, 2 explicit chart fences and 3 pipe-table lines. Current editions have 7 unique URLs, 1 chart, and only 1 pipe-table line because the table is malformed. The strict pipeline separately reports 3 visuals versus 4 required for research-report and no valid table. Producer preflight says one table, but the rendered parser finds none.",
+      "required_correction": "Correct the table syntax; add a second explicit chart only if it is analytically useful and derived from cited data; add a relevant independent/primary source URL that supports a material claim; rerun exact-HEAD validate-pipeline and validate-editorial-depth and update the preflight counts from actual parser output."
+    }
+  ],
+  "rework_owner": "MT 1/5 — Diário e Radar",
+  "replay_guard": {
+    "max_new_rejections_per_id": 3,
+    "source_sha_must_change_before_recheck": true,
+    "rejection_loop_limit_reached": false,
+    "blocked_after_limit": true,
+    "post_limit_behavior": "This ID has one rejection. A new review requires a new exact pending/EN/PT-BR blob tuple; identical SHAs must not be replayed."
+  },
+  "publisher_prerequisites": [
+    "Correct and re-stage both locales; strict visual and editorial-depth checks must pass for the new exact blob tuple.",
+    "The existing report-specific revision-2 reconciliation remains valid only if no evidence or registry-relevant facts change; otherwise produce a new report-specific run."
+  ],
+  "notes": "Revision 2 is rejected for a material visual-grammar defect and unmet strict depth thresholds. The checked FAO/WOAH facts are supported and the report-specific registry reconciliation exists. No approval, publication snapshot or public bundle was created."
+}
