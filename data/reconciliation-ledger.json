@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-26T05:34:00-03:00",
+  "last_reconciled_at": "2026-11-26T05:37:00-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10691,6 +10691,51 @@
         "MT-GM-2026-11-26"
       ],
       "audit_note": "Producer-stage reconciliation for MT-GM-2026-11-26 revision 5. Revision 5 corrects only literal escaped newline syntax in the EN/PT-BR visual blocks and the corresponding visual audit; evidence, cutoff, thesis, numeric observations and canonical implications are unchanged from revision 4. All seven active reconciliation-required assets were reassessed using the same cited evidence; no canonical data change is supported.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report identifies tariff exposure and market/price transmission but does not provide a source-audited bilateral trade, credit, energy or capital-flow matrix with comparable country weights and periods. Do not infer dependency edges from the USTR list or market co-movement. The FAO food-price index is a traded-commodity basket and does not provide a comparable bilateral food-dependency matrix."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The USTR proposals and industrial data suggest conditional trade-reconfiguration hypotheses, but no site-level project with verified sponsor, committed capital, permits, schedule, utilities, capacity, contracted demand and cash flows is established in this report. Candidate hypotheses remain in the separate daily staging scan; canonical Atlas unchanged. The FAO release is a commodity/food-security update, not a site-level project or validated capital opportunity."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "The report discusses USTR, central banks and listed issuers but establishes no new beneficial-ownership transfer, voting-rights change, board-control change or strategic-control relation under the actor registry."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No concession, reserve right, mineral title, operator-control change or transfer of strategic-resource ownership is evidenced."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The Section 301 actions remain proposed and subject to consultation; no completed policy implementation with ex-post outcomes and a defensible counterfactual is evaluated."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The report attributes oil/shipping incident claims to Reuters and does not independently verify incident details, vessel identity, actor attribution or territorial-control change. No canonical conflict event is added."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Nvidia ratings and equity repricing are governance/market observations, not a demonstrated new technical capability, independent replication, deployment milestone or manufacturing-scale change."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-mt-gm-2026-11-26-revision-5-publisher-publication-check",
+      "reconciled_at": "2026-11-26T05:37:00-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-26"
+      ],
+      "audit_note": "Publisher publication check for MT-GM-2026-11-26 revision 5. Exact approved pending/EN/PT-BR blobs verified before public materialization. All seven active reconciliation-required assets were rechecked against the approved evidence; no canonical dataset update is supported. Publication preserves the approved snapshot and adds no new signal.",
       "decisions": [
         {
           "asset_id": "global-dependency-network",

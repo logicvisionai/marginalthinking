@@ -28337,5 +28337,299 @@
         "search_text": "Global Macro 25 novembro 2026 tarifas Seção 301 16 economias excesso estrutural capacidade industrial USTR incerteza política comercial inflação CPI Austrália outubro 4,9 média aparada 3,8 preços ao produtor serviços Japão 4,2 3,2 confiança consumidor EUA 103,3 PCE PIB ações IA dólar Treasury Brent"
       }
     }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-26",
+    "slug": "2026-11-26-global-macro",
+    "date": "2026-11-26",
+    "published_at": "2026-11-26T04:50:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "fiscal-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-26-global-macro/en.md",
+        "title": "Tariff proposals become concrete, but markets price the process—not the duty",
+        "deck": "USTR's formal determinations and proposed tariffs move trade policy from speculation into consultation, while strong US quarterly growth, sticky PCE inflation, falling Treasury yields and a relief rally reveal a split market response. The latest FAO food index adds a divergent food-commodity signal: cereals eased while sugar rose sharply and food-assistance needs remained widespread.",
+        "tags": [
+          "Global Macro",
+          "trade policy",
+          "tariffs",
+          "inflation",
+          "monetary policy",
+          "capital markets",
+          "energy",
+          "global production",
+          "food commodities",
+          "food security"
+        ],
+        "keywords": [
+          "USTR Section 301 determinations November 2026",
+          "proposed tariffs 14 economies",
+          "US Q3 GDP 4.3 percent",
+          "October PCE inflation 3.8 core 3.3",
+          "Treasury 10-year yield November 25",
+          "emerging market portfolio outflows October",
+          "Brent oil November 26",
+          "FAO Food Price Index October 2026 133.9",
+          "FAO sugar prices October 2026 28.8 percent",
+          "cereal production 2999 million tonnes 2026",
+          "41 countries external food assistance"
+        ],
+        "regime": "Global activity remains uneven; US quarterly demand is strong but monthly real consumption is flat, inflation remains elevated, and trade-policy uncertainty is interacting with technology and energy risk.",
+        "key_risk": "Broad final tariff coverage or retaliation could increase landed costs and delay investment while sticky inflation limits monetary-policy flexibility; persistent energy disruption would add a separate price shock.",
+        "watch": [
+          "USTR Federal Register annexes, comments due 5 January 2027 and hearings from 25 January",
+          "Effective dates, product exclusions and netting against existing duties",
+          "US import prices, core goods PCE and corporate margin disclosures",
+          "November emerging-market capital-flow estimates",
+          "OPEC+ 29 November 2026 output-policy meeting",
+          "Oil shipping and export data from the Gulf"
+        ],
+        "search_text": "Global Macro 26 November 2026 USTR 14 Section 301 economies proposed tariff duties public comments January 2027 US GDP Q3 4.3 October PCE 3.8 core 3.3 real PCE flat Treasury yield 4.84 falling tariff market rebound Asia equities Brent 94.7 IIF outflows emerging markets steel production euro inflation Brazil Selic FAO October 2026 food price index 133.9 down 1.2 month-on-month sugar up 6.6 cereals down 4.5 cereal production 2999 million tonnes trade down 3.3 41 countries external food assistance"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-26-global-macro/pt-BR.md",
+        "title": "Tarifas propostas ganham forma, mas o mercado precifica o processo — não o imposto",
+        "deck": "As determinações formais e as tarifas propostas pelo USTR levam a política comercial da especulação à consulta, enquanto crescimento trimestral americano forte, inflação PCE persistente, rendimentos menores dos Treasuries e recuperação das bolsas revelam uma resposta de mercado dividida. O último índice da FAO acrescenta um sinal divergente de commodities alimentares: cereais recuaram enquanto o açúcar subiu fortemente e a necessidade de assistência alimentar permaneceu ampla.",
+        "tags": [
+          "Global Macro",
+          "política comercial",
+          "tarifas",
+          "inflação",
+          "política monetária",
+          "mercados de capitais",
+          "energia",
+          "produção global",
+          "commodities alimentares",
+          "segurança alimentar"
+        ],
+        "keywords": [
+          "determinações Seção 301 USTR novembro 2026",
+          "tarifas propostas 14 economias",
+          "PIB americano 3º tri 4,3 por cento",
+          "inflação PCE outubro 3,8 núcleo 3,3",
+          "Treasury dez anos 25 novembro",
+          "saídas de carteira emergentes outubro",
+          "petróleo Brent 26 novembro",
+          "Índice de Preços de Alimentos FAO outubro 2026 133,9",
+          "preços açúcar FAO outubro 2026 28,8 por cento",
+          "produção de cereais 2999 milhões de toneladas 2026",
+          "41 países assistência alimentar externa"
+        ],
+        "regime": "A atividade global permanece desigual; a demanda trimestral americana é forte, mas o consumo real mensal está estável, a inflação continua elevada e a incerteza comercial interage com riscos de tecnologia e energia.",
+        "key_risk": "Cobertura tarifária final ampla ou retaliação pode elevar custos de importação e atrasar investimentos enquanto a inflação persistente limita a flexibilidade monetária; uma interrupção energética prolongada acrescentaria outro choque de preços.",
+        "watch": [
+          "Anexos do Federal Register do USTR, comentários até 5 de janeiro de 2027 e audiências a partir de 25 de janeiro",
+          "Datas de vigência, exclusões por produto e abatimento de tarifas existentes",
+          "Preços de importação dos EUA, PCE de bens essenciais e margens corporativas",
+          "Estimativas de fluxos de capital emergente de novembro",
+          "Reunião da OPEP+ de 29 de novembro de 2026 sobre política de produção",
+          "Dados de navegação e exportação de petróleo do Golfo"
+        ],
+        "search_text": "Global Macro 26 novembro 2026 USTR 14 economias Seção 301 tarifas propostas consulta pública janeiro 2027 PIB EUA terceiro trimestre 4,3 PCE outubro 3,8 núcleo 3,3 PCE real estável Treasury 4,84 queda recuperação bolsas Ásia Brent 94,7 saídas IIF mercados emergentes produção aço inflação euro Selic Brasil índice FAO outubro 2026 133,9 queda 1,2 mensal açúcar alta 6,6 cereais queda 4,5 produção 2999 milhões toneladas comércio recua 3,3 41 países assistência alimentar"
+      }
+    },
+    "signal_rationale": {
+      "delta": "Compared with the 25 November edition, which covered tariff expectations before formal findings and the inflation-rate transmission, this edition updates the legal state to published determinations and proposed product-level actions, then tests the market response against the BEA's newly released Q3 GDP second estimate and October PCE. The 24 November issue's regional growth/steel dispersion and the 23 November China ore/steel inventory thesis are not repeated. The revision completes the food-commodity screen with FAO's 6 November October index: aggregate food prices fell 1.2% month on month while sugar rose 6.6% and 28.8% year on year; the latest cereal balance and 41-country external-assistance count add a distinct food-system qualification.",
+      "evidence": "USTR's 25 November notice lists determinations for 14 economies, proposed additional duties with exceptions/netting and a public-comment process through 5 January 2027. BEA released Q3 real GDP at 4.3% annualized and October PCE inflation at 3.8% headline/3.3% core. Reuters reports the 25 November equity/yield close and 26 November Asian rebound; Treasury/FRED reports the 10-year yield; Eurostat, IIF and worldsteel provide dated cross-region inflation, flows and output data. FAO's 6 November release reports FFPI 133.9 (-1.2% m/m, +5.9% y/y), cereal index 116.8 (-4.5% m/m), sugar 121.3 (+6.6% m/m, +28.8% y/y), 2026 cereal production forecast 2,999 Mt, 2026/27 trade -3.3% and 41 countries/territories requiring external food assistance.",
+      "scale_path": "Formal trade-policy findings affect product coverage and expected landed costs; firms adjust sourcing, inventories and investment; import prices and margins transmit to inflation and trade volumes; monetary expectations, yields, FX and cross-border funding respond.",
+      "transmission": "USTR determination → consultation/final coverage/effective date → tariff incidence and sourcing → import prices, margins, trade and capex → inflation expectations, central-bank reaction, yields, currencies and capital flows. Food commodities are heterogeneous: cereal quotations eased, sugar rose on Brazil weather-related harvest/crushing disruption and production concerns elsewhere; global export quotations pass through national currencies, transport, conflict and retail margins before affecting household affordability.",
+      "falsifier": "The thesis weakens if final coverage is narrow or delayed, net landed costs barely change, trade and capex remain stable, core goods inflation disinflates and energy shipping/export data show no sustained supply loss."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "Tariffs remain proposed; product annexes, exclusions, effective dates and final negotiated changes must be monitored.",
+      "Market observations are from different reporting windows; US cash markets are closed on 26 November for Thanksgiving.",
+      "PCE, GDP, HICP and steel-output series have different scopes and cannot be treated as one comparable measure.",
+      "The IIF capital-flow estimate is October monthly data, not November daily flow.",
+      "Oil and shipping incident claims are attributed to Reuters and not independently verified in this report."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-26 05:05 America/Sao_Paulo",
+      "comparative_editions": [
+        "MT-GM-2026-11-25",
+        "MT-GM-2026-11-24",
+        "MT-GM-2026-11-23"
+      ],
+      "novelty_decision": "The new delta is formal USTR determinations/proposed measures plus released BEA GDP/PCE data; this is not merely a calendar update to 25 November. The 24 November regional PMI/steel and 23 November China ore-inventory theses are not repeated.",
+      "fact_inference_scenario_separated": true,
+      "bilingual_parity": {
+        "same_numeric_series": true,
+        "same_reference_count": true,
+        "charts": 2,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1,
+        "references_en": 13,
+        "references_pt": 13
+      },
+      "visual_evidence": {
+        "charts": 2,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1
+      },
+      "source_audit": {
+        "references": 13,
+        "primary_institutional_sources": 10,
+        "market_reporting_sources": 3,
+        "urls_unique": 13,
+        "domains": 10,
+        "unused_references": 0,
+        "all_references_cited": true,
+        "reproducibility_notes": {
+          "food": "FAO 6 Nov 2026 October FFPI: 133.9 points, -1.2% m/m, +5.9% y/y, -16.4% from March 2022 peak. Cereal index 116.8 (-4.5% m/m, +12.6% y/y); vegetable oils 199.2 (+0.3% m/m); sugar 121.3 (+6.6% m/m, +28.8% y/y); meat -1.2% m/m; dairy -1.1% m/m. FAO forecast 2026 cereal production 2,999 Mt (second-highest), 2026/27 cereal trade 507.7 Mt (-3.3%) and stocks-to-use 32.4%; 41 countries/territories require external food assistance (31 in Africa). FFPI is an international traded-commodity index, not retail CPI or household affordability; production/trade numbers are forecasts.",
+          "market_window": "Reuters early-Asia report published 26 Nov 01:35 UTC: Nikkei +1.6%, Korea +1.9%, Taiwan +1.4%, APAC ex-Japan +1.8%; Japan -8%, Korea -16%, Taiwan -15% month-to-date; European futures EURO STOXX 50 +2.3%, DAX +2.1%, FTSE +1.4%. Reuters US session 25 Nov: Dow +0.33%, S&P -0.25%, Nasdaq -0.62%, MSCI global -0.60%, 10-year Treasury 4.84% and -6.2bp. US cash market closed 26 Nov for Thanksgiving.",
+          "oil": "Reuters 26 Nov article reports prices at 07:58 GMT (04:58 BRT): Brent $94.52/bbl, -0.1% on day; WTI $83.83/bbl, +0.2%, no WTI settlement due Thanksgiving. Prior session settlements Brent +3.5%, WTI +2%. Reuters attributes risk premium to Houthi claim of attack on Ras Tanura and Iranian reports of mines striking tankers; also notes Middle East exports had been rising and prices had fallen roughly 25% over prior three weeks. Incidents remain attributed, not independently verified."
+        },
+        "citation_audit": "Reference numbers 1 through 13 are individually cited in both bodies. S&P reference 4 now links directly to the 25 November rating action. Reuters reference 11 is timestamped 07:58 GMT (04:58 BRT) for Brent/WTI; the early-Asia snapshot is 01:35 UTC."
+      }
+    },
+    "manual_preflight": {
+      "schema_v2": true,
+      "controlled_programs": true,
+      "controlled_topics": true,
+      "phenomena_valid": true,
+      "word_count_en": 2898,
+      "word_count_pt": 3298,
+      "references_en": 13,
+      "references_pt": 13,
+      "ready_for_independent_qa": true,
+      "repository_script_validator": "Markdown visual syntax corrected in revision 5; strict repository validators remain independent and must be confirmed by CI/QA."
+    },
+    "revision": 5,
+    "revision_reason": "Corrects literal escaped newline sequences in the EN/PT-BR Markdown visual blocks so tables, charts, flow and map are parsed by the deterministic renderer; no source observations or analytical thesis changed.",
+    "revision_scope": "Same MT-GM ID/slug. Markdown syntax and producer visual audit corrected in both locales; all values, citations, dates, analysis and source scope preserved.",
+    "qa_fixes_applied": [
+      "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT",
+      "MARKDOWN_ESCAPED_NEWLINE_VISUAL_BLOCKS_CORRECTED"
+    ],
+    "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-5-publication-reconciliation",
+    "revised_at": "2026-11-26T05:34:00-03:00",
+    "url": "/reports/2026/11/2026-11-26-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-26T05:35:00-03:00",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "a02480faf018c3ef2929ff12d849c96949dbe67b",
+    "qa_rework": {
+      "prior_record": "data/rejected/2026-11-26-global-macro.json",
+      "prior_revision": 4,
+      "resolved_material_issues": [
+        "LITERAL_BACKSLASH_N_BREAKS_MARKDOWN_VISUALS",
+        "VISUAL_EVIDENCE_BUDGET_AND_PREFLIGHT_MISMATCH"
+      ],
+      "producer_revision": 5,
+      "changes": "Only escaped Markdown visual syntax and producer visual audit were corrected; data, sources and thesis unchanged."
+    },
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Tariff proposals become concrete, but markets price the process—not the duty",
+        "deck": "USTR's 25 November determinations formalize proposed duties across 14 economies, but exemptions and consultation leave incidence uncertain. Resilient quarterly US growth, sticky PCE, flat real monthly consumption and divergent food prices complicate the policy response.",
+        "tags": [
+          "Global Macro",
+          "trade policy",
+          "Section 301",
+          "tariffs",
+          "inflation",
+          "capital markets",
+          "food prices"
+        ],
+        "keywords": [
+          "USTR Section 301 proposed tariffs 2026",
+          "14 economy determinations",
+          "US Q3 2026 GDP",
+          "October 2026 PCE inflation",
+          "FAO October food price index",
+          "sugar prices 2026",
+          "emerging market portfolio flows",
+          "October steel production"
+        ],
+        "regime": "The US output picture is strong at quarterly frequency but the monthly consumption pulse is softer; persistent inflation and proposed trade restrictions make the near-term policy mix uncertain.",
+        "key_risk": "If proposed duties become broad applied measures, supply-chain repricing, retaliation and shipping risk could add cost pressure while persistent inflation limits monetary offsets.",
+        "watch": [
+          "USTR public comments, hearings, final product coverage and effective dates",
+          "November US inflation and consumption data",
+          "China and major-economy November PMIs",
+          "November emerging-market portfolio flows",
+          "FAO cereal and sugar revisions and subsequent retail pass-through",
+          "Further evidence on reported Red Sea and Gulf shipping incidents"
+        ],
+        "search_text": "Global Macro 26 November 2026 USTR Section 301 14 economies proposed tariffs market process GDP 4.3 PCE 3.8 3.3 real consumption flat FAO food price index sugar 28.8 percent IIF emerging market flows 33.8 billion steel output 142.4 million tonnes Selic 13.75 Brent 94.52 WTI 83.83"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "Tarifas propostas ganham forma, mas o mercado precifica o processo — não o imposto",
+        "deck": "As determinações de 25 de novembro do USTR formalizam tarifas propostas para 14 economias, mas exceções e consulta pública deixam a incidência em aberto. O PIB trimestral americano forte, o PCE persistente, o consumo real mensal estável e a divergência nos preços dos alimentos complicam a resposta de política econômica.",
+        "tags": [
+          "Global Macro",
+          "política comercial",
+          "Seção 301",
+          "tarifas",
+          "inflação",
+          "mercados de capitais",
+          "preços dos alimentos"
+        ],
+        "keywords": [
+          "tarifas propostas Seção 301 USTR 2026",
+          "determinações para 14 economias",
+          "PIB americano terceiro trimestre 2026",
+          "inflação PCE outubro 2026",
+          "índice de preços de alimentos FAO outubro",
+          "preço do açúcar 2026",
+          "fluxos de carteira mercados emergentes",
+          "produção de aço outubro"
+        ],
+        "regime": "A produção americana é forte na frequência trimestral, mas o pulso mensal do consumo é mais fraco; inflação persistente e restrições comerciais propostas tornam incerta a combinação de políticas no curto prazo.",
+        "key_risk": "Se as tarifas propostas se tornarem medidas amplas efetivamente aplicadas, a reprecificação de cadeias, a retaliação e os riscos de transporte podem elevar custos enquanto a inflação limita a compensação monetária.",
+        "watch": [
+          "Comentários públicos, audiências, cobertura final de produtos e vigência do USTR",
+          "Dados americanos de inflação e consumo de novembro",
+          "PMIs de novembro da China e das principais economias",
+          "Fluxos de carteira de novembro para mercados emergentes",
+          "Revisões da FAO para cereais e açúcar e repasse posterior ao varejo",
+          "Novas evidências sobre incidentes reportados no Mar Vermelho e Golfo"
+        ],
+        "search_text": "Global Macro 26 novembro 2026 USTR Seção 301 14 economias tarifas propostas processo mercado PIB 4,3 PCE 3,8 3,3 consumo real mensal estável índice FAO alimentos açúcar 28,8 por cento fluxos emergentes IIF 33,8 bilhões produção aço 142,4 milhões toneladas Selic 13,75 Brent 94,52 WTI 83,83"
+      }
+    }
   }
 ]
