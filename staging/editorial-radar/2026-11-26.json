@@ -2,26 +2,26 @@
   "schema_version": 1,
   "date": "2026-11-26",
   "idempotency_key": "editorial-radar-2026-11-26",
-  "reviewed_at": "2026-11-26T04:58:00-03:00",
+  "reviewed_at": "2026-11-26T05:20:00-03:00",
   "registry_sha": "63fffd5ad8ce99e0dcb25541687414239e80d86b",
   "active_editorial_lines": 37,
   "reviewed_editorial_lines": 37,
   "global_macro": {
     "id": "MT-GM-2026-11-26",
-    "status": "pending_revision_2",
-    "commit": "65e5cf41fc75a6e826dbd7493bdaf7a37618846a",
+    "status": "pending_revision_4",
+    "commit": "e32ac17d622e8f4c98c626ef1b0aed928761989a",
     "slug": "2026-11-26-global-macro"
   },
   "existing_correction": {
     "id": "MT-BIO-2026-11-23-amr-implementation-gap",
     "revision": 1,
-    "status": "pending_qa",
+    "status": "pending_qa_revision_1",
     "commit": "187f4312cd016f2679f9f98088e9d1f6bd9d128b"
   },
   "selected_thematic_article": {
     "id": "MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk",
-    "status": "pending_revision_1",
-    "commit": "ba191f5ae4927136d33263c3e24ea21b092b92bf",
+    "status": "pending_qa_revision_2",
+    "commit": "5dc5b756c530386b1941c7ea0dbfa4c8d3084a08",
     "reason": "Official November SAT1 notifications and FAO-WOAH field assessment create a distinct livestock production/trade delta; existing AMR and Bundibugyo items are not duplicated."
   },
   "deferred_material_delta": {
@@ -406,8 +406,9 @@
       "program": "political-economy-markets",
       "update_mode": "event-driven",
       "decision": "reviewed_no_incremental_article",
-      "note": "FAO October food index, cereal balance and 41-country external-assistance count are included in MT-GM-2026-11-26 revision 2. No separate food-system article was added because one thematic item was selected and the macro report carries the dated food-price delta.",
+      "note": "UNHCR's 17 Nov mid-year data report 41.7m refugees and 69.4m internally displaced people at end June 2026; this is retrospective aggregate displacement, not an imminent-war forecast. FAO food-assistance country count is included in today's Global Macro. No new standalone social-change article selected.",
       "source_ids": [
+        "unhcr_displacement",
         "food_price"
       ],
       "source_files": [
@@ -713,5 +714,18 @@
         "ENERGY-MATERIALS-INDUSTRIAL-SYSTEMS.md"
       ]
     }
-  ]
+  ],
+  "daily_rejection_recovery": {
+    "reviewed": [
+      "MT-GM-2026-11-21",
+      "MT-GM-2026-11-23",
+      "MT-GM-2026-11-25",
+      "MT-GM-2026-11-24"
+    ],
+    "action": "No additional daily-family rewrite this run: 21/23/25 already have pending revisions newer than the rejected revisions and await independent QA; 24 is at its QA rejection-loop limit and remains blocked. The AMR thematic rejection was corrected once to revision 1 after today's Global Macro; no rejection record was edited or auto-approved."
+  },
+  "qa_handoff": {
+    "immediate_handoff_requested": false,
+    "reason": "No GitHub workflow-dispatch/handoff action is exposed in the available repository connector; independent hourly QA should recover the pending exact-HEAD revisions."
+  }
 }
