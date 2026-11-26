@@ -153,24 +153,28 @@
       "urls_unique": 7,
       "domains": 4,
       "unused_references": 0,
-      "all_references_cited": true
+      "all_references_cited": true,
+      "citation_audit": "References 1 through 7 are individually cited in both EN and PT-BR bodies; grouped citations [1–4], [1,4], [2,3] and [1,6] were expanded to individual bracketed numbers."
     },
     "manual_preflight": {
       "schema_v2": true,
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 2083,
-      "word_count_pt": 2328,
+      "word_count_en": 2089,
+      "word_count_pt": 2334,
       "references_en": 7,
       "references_pt": 7,
       "ready_for_independent_qa": true,
       "repository_script_validator": "Not run by producer; independent QA must execute exact-HEAD validators."
     }
   },
-  "revision": 1,
-  "revision_reason": "New thematic report based on official November SAT1 notifications, the FAO-WOAH Mongolia field assessment and WOAH's 24 November regional update.",
-  "revision_scope": "New report only; registered kind/program and frozen taxonomy preserved; no public bundle or canonical Atlas changes.",
-  "qa_fixes_applied": [],
-  "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-1-publication-reconciliation"
+  "revision": 2,
+  "revision_reason": "Expands grouped numeric citations to individually auditable reference numbers [1]–[7] in both locales; no observations, dates, counts, source scope or thesis changed.",
+  "revision_scope": "Citation-format audit correction to the same SAT1/FMD report ID and slug; EN/PT-BR text otherwise preserved.",
+  "qa_fixes_applied": [
+    "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT"
+  ],
+  "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-2-publication-reconciliation",
+  "revised_at": "2026-11-26T05:20:00-03:00"
 }
