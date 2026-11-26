@@ -1,0 +1,176 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk",
+  "slug": "2026-11-26-sat1-fmd-regional-livestock-trade-risk",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T05:25:00-03:00",
+  "kind": "biosecurity-livestock-governance",
+  "priority": 35,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "global-system-power",
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "multi-country",
+    "regions": [
+      "middle-east",
+      "asia-pacific",
+      "africa"
+    ],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "industry-production",
+    "trade-investment",
+    "institutions-governance",
+    "geopolitics-security",
+    "social-change"
+  ],
+  "phenomena": [
+    "institutional-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-26-sat1-fmd-regional-livestock-trade-risk/en.md",
+      "title": "SAT1 crosses regional boundaries; livestock risk now depends on surveillance and vaccine matching",
+      "deck": "Official SAT1 notifications across the Middle East, Asia and Africa, plus a November FAO-WOAH field mission in Mongolia, show a transboundary livestock risk whose economic impact depends on laboratory capacity, vaccine compatibility, animal-movement controls and regional reporting.",
+      "tags": [
+        "foot-and-mouth disease",
+        "SAT1",
+        "livestock",
+        "animal health",
+        "food security",
+        "trade",
+        "veterinary governance"
+      ],
+      "keywords": [
+        "FMD SAT1 2026",
+        "WOAH WAHIS notifications",
+        "Mongolia Bayan-Ulgii Khovd",
+        "Middle East FMD strategy 2026 2030",
+        "animal movement controls",
+        "vaccine matching",
+        "livestock trade restrictions"
+      ],
+      "regime": "SAT1 has been reported beyond its historical range; national surveillance and response capacity are uneven and the 14-country Middle East strategy is now an institutional framework.",
+      "key_risk": "SAT1 reaches additional susceptible herds before serotype-matched prevention, laboratory confirmation and movement controls are deployed, causing localized production losses and wider temporary trade restrictions.",
+      "watch": [
+        "FAO-WOAH follow-up from the November Mongolia field assessment",
+        "New WAHIS notifications with administrative area and serotype/topotype",
+        "Country-level vaccine-match and vaccination-coverage evidence",
+        "Duration and product scope of livestock movement/trade restrictions",
+        "Implementation and financing of the Middle East FMD strategy 2026–2030"
+      ],
+      "search_text": "SAT1 foot-and-mouth disease November 2026 WOAH WAHIS Mongolia Botswana Algeria Middle East 2026 2030 regional strategy livestock trade vaccine matching"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-26-sat1-fmd-regional-livestock-trade-risk/pt-BR.md",
+      "title": "SAT1 ultrapassa fronteiras regionais; o risco pecuário depende de vigilância e compatibilidade vacinal",
+      "deck": "Notificações oficiais de SAT1 no Oriente Médio, Ásia e África, junto à missão de campo FAO-WOAH na Mongólia em novembro, mostram um risco pecuário transfronteiriço cujo impacto econômico depende de laboratórios, compatibilidade vacinal, controles de movimentação e reporte regional.",
+      "tags": [
+        "febre aftosa",
+        "SAT1",
+        "pecuária",
+        "saúde animal",
+        "segurança alimentar",
+        "comércio",
+        "governança veterinária"
+      ],
+      "keywords": [
+        "FMD SAT1 2026",
+        "notificações WAHIS WOAH",
+        "Mongólia Bayan-Ulgii Khovd",
+        "estratégia FMD Oriente Médio 2026 2030",
+        "controle de movimentação animal",
+        "compatibilidade vacinal",
+        "restrições ao comércio pecuário"
+      ],
+      "regime": "SAT1 foi notificado além de sua área histórica; a capacidade nacional de vigilância e resposta é desigual e a estratégia de 14 países do Oriente Médio constitui agora um marco institucional.",
+      "key_risk": "SAT1 atingir novos rebanhos suscetíveis antes da implementação de prevenção compatível com o sorotipo, confirmação laboratorial e controles de movimentação, causando perdas locais e restrições temporárias mais amplas ao comércio.",
+      "watch": [
+        "Acompanhamento FAO-WOAH da avaliação de campo na Mongólia em novembro",
+        "Novas notificações WAHIS com área administrativa e sorotipo/topotipo",
+        "Evidência nacional de compatibilidade vacinal e cobertura de vacinação",
+        "Duração e escopo por produto das restrições de movimentação/comércio pecuário",
+        "Implementação e financiamento da estratégia FMD do Oriente Médio 2026–2030"
+      ],
+      "search_text": "SAT1 febre aftosa novembro 2026 WOAH WAHIS Mongólia Botswana Argélia estratégia regional Oriente Médio 2026 2030 pecuária comércio compatibilidade vacinal"
+    }
+  },
+  "signal_rationale": {
+    "delta": "The existing corpus search found no SAT1/FMD report. New official notifications in November and the 24 November WOAH Middle East page update provide a date-specific cross-border livestock/market-access delta distinct from the 23 November AMR implementation-gap report and today's Global Macro.",
+    "evidence": "FAO reported a government-requested FAO-WOAH field assessment after SAT1 outbreaks in Mongolia's Bayan-Ulgii and Khovd provinces on 13 November. WOAH lists Botswana SAT1 on 17 November and Algeria SAT1 on 10 November, while Mauritius reported serotype O on 19 November; the report explicitly separates the serotypes and diseases. WOAH's 24 November Middle East page describes the regional SAT1 spread and 2026–2030 strategy.",
+    "scale_path": "Serotype spread across livestock jurisdictions → veterinary surveillance and laboratory confirmation → vaccine matching and movement controls → production/market-access interruptions → farm income, trade and public response costs.",
+    "transmission": "Infection and control measures can reduce animal productivity and restrict movement/export certification; delays and uneven reporting increase uncertainty and can widen trading-partner restrictions. Price and loss effects require country/product data and are not estimated here.",
+    "falsifier": "The systemic-risk thesis weakens if notifications stabilize with stable surveillance, affected zones remain contained, vaccine compatibility/coverage and veterinary capacity are verified, and trade restrictions remain short and narrowly targeted."
+  },
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "First-occurrence country notifications are not total outbreak counts or herd prevalence.",
+    "The 2026 count in the WOAH August summary is incomplete for the calendar year.",
+    "The Mongolia FAO update reports a field assessment, not a complete national incidence or loss estimate.",
+    "FMD serotype O in Mauritius and African swine fever in Nigeria are separate events from SAT1.",
+    "Vaccine compatibility is source- and region-specific; no product-level recommendation is made.",
+    "No food-price, livestock-loss or trade-loss estimate is calculated without affected herd, output and product-level trade data."
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-11-26 05:25 America/Sao_Paulo",
+    "comparative_corpus": "GitHub repository search found no SAT1/FMD article in the indexed corpus; existing AMR and Bundibugyo items are distinct and not duplicated.",
+    "novelty_decision": "One date-specific thematic report selected after Global Macro; new official November notifications and regional update support a distinct animal-health, production and trade-governance delta.",
+    "fact_inference_scenario_separated": true,
+    "no_cross_disease_counting": true,
+    "bilingual_parity": {
+      "same_numeric_series": true,
+      "same_reference_count": true,
+      "charts": 1,
+      "tables": 1,
+      "flows": 1,
+      "maps": 1,
+      "references_en": 7,
+      "references_pt": 7
+    },
+    "visual_evidence": {
+      "charts": 1,
+      "tables": 1,
+      "flows": 1,
+      "maps": 1
+    },
+    "source_audit": {
+      "references": 7,
+      "primary_institutional_sources": 7,
+      "urls_unique": 7,
+      "domains": 4,
+      "unused_references": 0,
+      "all_references_cited": true
+    },
+    "manual_preflight": {
+      "schema_v2": true,
+      "controlled_programs": true,
+      "controlled_topics": true,
+      "phenomena_valid": true,
+      "word_count_en": 2083,
+      "word_count_pt": 2328,
+      "references_en": 7,
+      "references_pt": 7,
+      "ready_for_independent_qa": true,
+      "repository_script_validator": "Not run by producer; independent QA must execute exact-HEAD validators."
+    }
+  },
+  "revision": 1,
+  "revision_reason": "New thematic report based on official November SAT1 notifications, the FAO-WOAH Mongolia field assessment and WOAH's 24 November regional update.",
+  "revision_scope": "New report only; registered kind/program and frozen taxonomy preserved; no public bundle or canonical Atlas changes.",
+  "qa_fixes_applied": [],
+  "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-1-publication-reconciliation"
+}
