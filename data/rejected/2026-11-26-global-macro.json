@@ -109,7 +109,7 @@
     "max_new_rejections_per_id": 3,
     "source_sha_must_change_before_recheck": true,
     "rejection_loop_limit_reached": false,
-    "blocked_after_limit": true,
+    "blocked_after_limit": false,
     "post_limit_behavior": "This ID has one rejection. A new review requires a new exact pending/EN/PT-BR blob tuple; identical SHAs must not be replayed."
   },
   "publisher_prerequisites": [
