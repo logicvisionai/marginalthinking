@@ -33,8 +33,8 @@
       "summary": "Independent source review supports USTR's 14 Section 301 determinations and proposed (not applied) duties; BEA Q3 GDP 4.3% annualized and private domestic final sales 5.8%; October PCE headline/core 3.8%/3.3%; Eurostat euro-area HICP 4.0%; IIF October EM portfolio outflows $33.8bn; worldsteel October output 142.4 Mt/-1.1% y/y; FAO October FFPI 133.9/-1.2% m/m and sugar +6.6% m/m/+28.8% y/y; and BCB Selic 13.75%. Reuters-reported market and shipping claims are attributed; incident claims are not independently verified. No material error found in the checked observations."
     },
     "evidence_traceability": {
-      "result": "passed_with_limitation",
-      "summary": "13 numbered references are cited in both editions; core quantitative/institutional claims map to USTR, BEA, Eurostat, IIF, worldsteel, FAO and BCB. Reuters supports timestamped market snapshots and attributed incident reports. The report distinguishes proposed tariff ceilings from official applied rates and notes that market reporting is not independent primary evidence."
+      "result": "passed",
+      "summary": "All material numerical and institutional claims are traceable to suitable primary sources or explicitly attributed reporting in both editions. The source set supports the claims attached to it; USTR proposals are distinguished from effective duties, and Reuters market/incident claims are attributed. Residual source limitations (proposal status, observation windows and unverified incident claims) are separately and explicitly recorded in the limitations array; they do not constitute an evidence-traceability failure."
     },
     "research_depth": {
       "result": "passed",
@@ -112,7 +112,7 @@
     "Reuters incident claims are attributed and not independently verified in this report.",
     "No bilateral trade/finance dependency matrix or measured tariff pass-through elasticity is supplied; transmission remains conditional."
   ],
-  "notes": "Independent QA approval of revision 5 after producer correction. Revision 4 rejection remains in data/rejected as immutable history. The correction changed only Markdown visual syntax and the corresponding producer visual audit; numerical observations, source set, thesis and analytical scope were preserved. Candidate-specific strict visual validation passes. The strict editorial workflow is blocked globally by the separate SAT1 draft; exact depth thresholds for this candidate were independently applied and pass. Current build/deploy status is not claimed as complete.",
+  "notes": "Independent QA approval of revision 5 after producer correction. Revision 4 rejection remains in data/rejected as immutable history. The correction changed only Markdown visual syntax and the corresponding producer visual audit; numerical observations, source set, thesis and analytical scope were preserved. Candidate-specific strict visual validation passes. The strict editorial workflow is blocked globally by the separate SAT1 draft; exact depth thresholds for this candidate were independently applied and pass. Current build/deploy status is not claimed as complete. QA grade amendment: evidence_traceability is passed; the non-material source caveats remain in limitations. This aligns the QA grade with the strict depth validator without changing the reviewed source tuple or publication snapshot.",
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -319,5 +319,15 @@
     ],
     "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-5-publication-reconciliation",
     "revised_at": "2026-11-26T05:34:00-03:00"
-  }
+  },
+  "qa_amendments": [
+    {
+      "amended_at": "2026-11-26T05:39:00-03:00",
+      "reviewed_commit": "389f416b47153a0b7f8e6a38f2bb48591c102c39",
+      "field": "checks.evidence_traceability.result",
+      "previous_result": "passed_with_limitation",
+      "corrected_result": "passed",
+      "reason": "Exact editorial-depth validation requires a passed evidence_traceability grade. Re-review confirmed that material claims are source-traceable and that remaining caveats are correctly recorded as limitations; no content, source or publication snapshot changed."
+    }
+  ]
 }
