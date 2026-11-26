@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-26",
+  "idempotency_key": "structural-opportunity-scan-2026-11-26",
+  "scanned_at": "2026-11-26T05:45:00-03:00",
+  "scope": [
+    "infrastructure",
+    "energy",
+    "regulation",
+    "logistics",
+    "productivity",
+    "capital access",
+    "production",
+    "institutions"
+  ],
+  "primary_sources": [
+    {
+      "title": "MDIC/Embrapii/GIZ-IKI call for steel and cement decarbonization projects",
+      "date": "2026-11-13",
+      "url": "https://www.gov.br/mdic/pt-br/assuntos/noticias/2026/novembro/chamada-publica-destina-ate-r-81-mi-a-projetos-de-descarbonizacao-dos-setores-de-aco-e-cimento",
+      "facts": "Up to R$81m non-repayable resources; 15 proposed innovation projects; applications through Embrapii coordinating unit due 29 Jan 2027; results 12 Apr 2027; projects up to 30 months."
+    },
+    {
+      "title": "ANEEL Transmission Auction 4/2026 result",
+      "date": "2026-10-30",
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/leilao-de-transmissao-no-4-2026-termina-com-os-8-lotes-arrematados-e-economia-para-o-consumidor",
+      "facts": "8 lots awarded; approx. R$8.8bn investment; 1,866 km new lines; 12,694 MVA transformation; 50.10% discount; operation deadlines 42–60 months."
+    },
+    {
+      "title": "ANEEL 1/2027 transmission auction pipeline",
+      "date": "2026-10-21",
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026/aneel-realiza-workshop-de-esclarecimentos-sobre-o-1o-leilao-de-transmissao-de-2027",
+      "facts": "Planned 30 Apr 2027 auction: 12 lots, 3,245 km new lines, 1,386 MVA, 13 states; TCU submission expected Dec 2026."
+    },
+    {
+      "title": "USTR Section 301 determinations and proposed actions",
+      "date": "2026-11-25",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+      "facts": "Formal determinations and proposed actions for 14 economies; public comments due 5 Jan 2027 and hearings from 25 Jan; tariffs are proposed, not effective."
+    },
+    {
+      "title": "EIA Short-Term Energy Outlook, November 2026",
+      "date": "2026-11-10",
+      "url": "https://www.eia.gov/outlooks/steo/"
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "SO-2026-11-26-BR-INDUSTRIAL-DECARB-RD",
+      "status": "candidate_hypothesis_pending_validation",
+      "mechanism": "A non-repayable R&D/industrial-demonstration call can lower early validation costs for steel/cement decarbonization technologies and connect research to plant-level trials.",
+      "observed_evidence": "MDIC reports up to R$81m, 15 proposals, non-repayable IKI/Embrapii resources plus company counterpart; application deadline 29 Jan 2027, result 12 Apr 2027, project duration up to 30 months.",
+      "validation_gaps": [
+        "Eligible applicants and matching requirements for each call lot",
+        "Actual submitted/selected projects and award values",
+        "Plant-level baseline emissions, energy use and output",
+        "Technology readiness, capex, operating cost, permits and scale-up pathway",
+        "Measured emissions reduction and productivity after demonstration"
+      ],
+      "falsifier": "No eligible plant/project can meet counterpart and technical requirements; awards do not yield validated industrial deployment or measurable emissions/productivity gains.",
+      "canonical_atlas_update": false
+    },
+    {
+      "id": "SO-2026-11-26-BR-TRANSMISSION-PIPELINE",
+      "status": "monitor_existing_pipeline_not_new_validated_candidate",
+      "mechanism": "Awarded and planned transmission capacity may reduce a grid-access bottleneck for generation and electricity-intensive production over multi-year construction horizons.",
+      "observed_evidence": "ANEEL/EPE auction 4/2026 awarded 8 lots, about R$8.88bn, 1,866 km new lines and 12,694 MVA, with 42–60 month operation deadlines; 1/2027 pipeline lists 12 lots, 3,245 km and 1,386 MVA, planned for 30 Apr 2027.",
+      "validation_gaps": [
+        "Contract signatures, milestones and actual construction progress",
+        "Substation-by-substation capacity and connection queue",
+        "Local demand, connection rights and tariff/curtailment exposure",
+        "Financing close, permits and commissioned capacity"
+      ],
+      "falsifier": "Projects are delayed/cancelled or new capacity is not available at the relevant nodes when demand arrives.",
+      "canonical_atlas_update": false
+    },
+    {
+      "id": "SO-2026-11-26-TRADE-RECONFIGURATION",
+      "status": "conditional_hypothesis_watch",
+      "mechanism": "Proposed duties may change supplier selection, inventory, assembly location and investment timing in covered product chains; firms could reroute sourcing or localize production if final tariff incidence is durable.",
+      "observed_evidence": "USTR published determinations/proposed actions for 14 economies on 25 Nov; comments due 5 Jan 2027 and hearings from 25 Jan. Measures remain proposed, not effective.",
+      "validation_gaps": [
+        "Final product-level coverage, exclusions and effective dates",
+        "Customs data by product/origin after implementation",
+        "Announced/committed capex, plant permits and production start",
+        "Actual landed-cost changes and trade diversion rather than transshipment"
+      ],
+      "falsifier": "Final measures are narrowed/delayed, landed-cost changes are negligible, or no realized sourcing/capex/production shift is observed.",
+      "canonical_atlas_update": false
+    }
+  ],
+  "validated_candidates": [],
+  "canonical_atlas_modified": false,
+  "notes": "Daily scan completed once for the date. Hypotheses are markers only; none meets the Atlas validation threshold of identifiable project/asset, sponsor/control, committed capital, permitting, schedule, capacity, demand and cash-flow evidence. Do not promote or edit canonical Atlas in this task."
+}
