@@ -10593,6 +10593,51 @@
           "note": "Nvidia ratings and equity repricing are governance/market observations, not a demonstrated new technical capability, independent replication, deployment milestone or manufacturing-scale change."
         }
       ]
+    },
+    {
+      "id": "2026-11-26-mt-gm-2026-11-26-revision-4-publication-reconciliation",
+      "reconciled_at": "2026-11-26T05:17:00-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-26"
+      ],
+      "audit_note": "Producer-stage reconciliation for MT-GM-2026-11-26 revision 1. The report covers USTR's proposed Section 301 actions, US GDP/PCE, global market and rates observations, October euro-area inflation, October emerging-market flows, steel production, Brazilian policy and attributed energy/shipping risk. All seven active reconciliation-required assets were assessed; no canonical data change is supported by this report's evidence. Candidate structural signals remain non-canonical in the daily scan. Revision 2 adds FAO October food-price and cereal-balance evidence, including the sugar/cereal divergence and external-food-assistance count; no canonical dataset update is supported. Revision 3 expands grouped reference citations into individually auditable numbers; no evidence or canonical data changed. Revision 4 refreshes the market cutoff to 05:05 BRT, uses the 07:58 GMT oil snapshot, corrects APAC ex-Japan to +1.8%, adds Taiwan/European futures and replaces the generic S&P reference with the direct rating action; no canonical data changed.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report identifies tariff exposure and market/price transmission but does not provide a source-audited bilateral trade, credit, energy or capital-flow matrix with comparable country weights and periods. Do not infer dependency edges from the USTR list or market co-movement. The FAO food-price index is a traded-commodity basket and does not provide a comparable bilateral food-dependency matrix."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The USTR proposals and industrial data suggest conditional trade-reconfiguration hypotheses, but no site-level project with verified sponsor, committed capital, permits, schedule, utilities, capacity, contracted demand and cash flows is established in this report. Candidate hypotheses remain in the separate daily staging scan; canonical Atlas unchanged. The FAO release is a commodity/food-security update, not a site-level project or validated capital opportunity."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "The report discusses USTR, central banks and listed issuers but establishes no new beneficial-ownership transfer, voting-rights change, board-control change or strategic-control relation under the actor registry."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No concession, reserve right, mineral title, operator-control change or transfer of strategic-resource ownership is evidenced."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The Section 301 actions remain proposed and subject to consultation; no completed policy implementation with ex-post outcomes and a defensible counterfactual is evaluated."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "The report attributes oil/shipping incident claims to Reuters and does not independently verify incident details, vessel identity, actor attribution or territorial-control change. No canonical conflict event is added."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Nvidia ratings and equity repricing are governance/market observations, not a demonstrated new technical capability, independent replication, deployment milestone or manufacturing-scale change."
+        }
+      ]
     }
   ]
 }

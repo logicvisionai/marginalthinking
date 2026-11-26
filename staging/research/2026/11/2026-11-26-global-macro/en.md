@@ -1,6 +1,6 @@
 # Tariff proposals become concrete, but markets price the process—not the duty
 
-*Global Macro — 26 November 2026 | Information cutoff: 04:45 BRT, America/Sao_Paulo*
+*Global Macro — 26 November 2026 | Information cutoff: 05:05 BRT, America/Sao_Paulo*
 
 ## Executive assessment
 
@@ -58,7 +58,7 @@ Emerging-market flows remain a vulnerability, although the latest comparable est
 
 Eurostat's final October HICP put euro-area inflation at 4.0% year on year, up from 3.8% in September. Energy contributed 1.89 percentage points to the annual rate; services contributed 1.55 points. The energy contribution means that a supply shock can matter for headline inflation even if the underlying domestic price process is more moderate. It does not mean energy alone explains the full 4.0%. [8]
 
-In Asia, Reuters reported a relief rally on 26 November: Japan's Nikkei gained 1.6%, South Korea's main index rose 1.9%, and Asia-Pacific shares excluding Japan edged up 0.6% in the early snapshot. The same report noted that the region remained sharply down for November. The rebound followed the prior selloff and reflected a less severe reading of the tariff proposal; it should not be treated as a reversal of the month-to-date drawdown. [5]
+In Reuters' early-Asia snapshot published at 01:35 UTC on 26 November, Japan's Nikkei gained 1.6%, South Korea's main index rose 1.9%, Taiwan added 1.4% and Asia-Pacific shares excluding Japan rose 1.8%. The same report said Japan was down 8% for November, South Korea 16% and Taiwan 15%. European futures—not cash-market closes—were also higher: EURO STOXX 50 +2.3%, DAX +2.1% and FTSE +1.4%. The rebound followed the prior selloff and reflected a less severe reading of the tariff proposal; it should not be treated as a reversal of the month-to-date drawdown. [5]
 
 Industrial data reinforce the need to avoid a single global-cycle label. worldsteel reported October crude-steel production of 142.4 million tonnes across 70 reporting economies, down 1.1% year on year. North America rose 5.6%, Africa 7.9%, the EU fell 4.0%, South America fell 4.1%, and the Middle East fell 27.7%. These are regional output observations, not a direct measure of final demand or capacity utilization. [9]
 
@@ -97,7 +97,7 @@ Brazil is not among the 14 economies covered by the USTR determinations announce
 
 ## 6. Energy and conflict claims add a separate inflation channel
 
-Brent traded around US$94.7 per barrel on 26 November, while US WTI was around US$84.0; WTI had no settlement scheduled because of Thanksgiving. Reuters attributed the rise to supply concerns following reported attacks on Saudi infrastructure and reports of mines affecting ships in the Strait of Hormuz. These claims remain attributed to statements and reporting cited by Reuters; this edition does not independently verify the incidents or assign responsibility. [11]
+At 07:58 GMT on 26 November (04:58 BRT), Brent was US$94.52 per barrel, down 0.1% on the day, and WTI was US$83.83, up 0.2%; WTI had no settlement scheduled because of Thanksgiving. Brent had settled 3.5% higher in the previous session and WTI 2% higher. Reuters attributed the prior session's supply premium to the Houthis' claim of an attack on Saudi Arabia's Ras Tanura refinery and Iranian reports that mines struck tankers in the Strait of Hormuz. The claims are attributed; this edition does not independently verify the incidents or assign responsibility. Reuters also reported that Middle East exports had been rising despite shipping attacks and that prices had fallen about a quarter in the three weeks before the latest rebound, a counterweight to a persistent-supply-loss interpretation. [11]
 
 The energy channel differs from the tariff channel. A tariff affects covered goods and can be partly absorbed or rerouted. A sustained interruption to oil exports or shipping can affect a wider set of transport, petrochemical and energy costs. But a single oil-price jump after an unverified incident report is not proof of a lasting supply loss. The IEA's November outlook described rising global supply and tight buffers in refined products; that broader balance is a counterweight to a purely disruption-driven interpretation. [12]
 
@@ -121,7 +121,7 @@ The next useful observations are the final product annexes, public-comment recor
 
 3. BEA, 25 Nov 2026, Personal Income and Outlays, October 2026: https://bea.gov/news/2026/personal-income-and-outlays-october-2026
 
-4. S&P Global Ratings, 25 Nov 2026, Nvidia ratings CreditWatch negative: https://www.spglobal.com/ratings/en/regulatory/press-releases
+4. S&P Global Ratings, 25 Nov 2026, NVIDIA Corp. 'AA' Ratings Placed On CreditWatch Negative On Rising M&G Risk: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3667832
 
 5. Reuters, 26 Nov 2026, Asian shares bounce; tariff and AI risks remain: https://www.reuters.com/world/china/global-markets-global-markets-2026-11-26/
 
@@ -135,7 +135,7 @@ The next useful observations are the final product annexes, public-comment recor
 
 10. Banco Central do Brasil, Copom communications, November 2026: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/cronologicos
 
-11. Reuters, 26 Nov 2026, oil rises on attributed supply and shipping concerns: https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/
+11. Reuters, 26 Nov 2026, oil little changed as supply concerns linger after Iran claims mine strikes on ships: https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/
 
 12. EIA, 10 Nov 2026, Short-Term Energy Outlook: https://www.eia.gov/outlooks/steo/
 

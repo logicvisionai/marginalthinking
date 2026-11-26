@@ -143,7 +143,7 @@
     "Oil and shipping incident claims are attributed to Reuters and not independently verified in this report."
   ],
   "producer_checks": {
-    "information_cutoff": "2026-11-26 04:45 America/Sao_Paulo",
+    "information_cutoff": "2026-11-26 05:05 America/Sao_Paulo",
     "comparative_editions": [
       "MT-GM-2026-11-25",
       "MT-GM-2026-11-24",
@@ -172,13 +172,15 @@
       "primary_institutional_sources": 10,
       "market_reporting_sources": 3,
       "urls_unique": 13,
-      "domains": 11,
+      "domains": 10,
       "unused_references": 0,
       "all_references_cited": true,
       "reproducibility_notes": {
-        "food": "FAO 6 Nov 2026 October FFPI: 133.9 points, -1.2% m/m, +5.9% y/y, -16.4% from March 2022 peak. Cereal index 116.8 (-4.5% m/m, +12.6% y/y); vegetable oils 199.2 (+0.3% m/m); sugar 121.3 (+6.6% m/m, +28.8% y/y); meat -1.2% m/m; dairy -1.1% m/m. FAO forecast 2026 cereal production 2,999 Mt (second-highest), 2026/27 cereal trade 507.7 Mt (-3.3%) and stocks-to-use 32.4%; 41 countries/territories require external food assistance (31 in Africa). FFPI is an international traded-commodity index, not retail CPI or household affordability; production/trade numbers are forecasts."
+        "food": "FAO 6 Nov 2026 October FFPI: 133.9 points, -1.2% m/m, +5.9% y/y, -16.4% from March 2022 peak. Cereal index 116.8 (-4.5% m/m, +12.6% y/y); vegetable oils 199.2 (+0.3% m/m); sugar 121.3 (+6.6% m/m, +28.8% y/y); meat -1.2% m/m; dairy -1.1% m/m. FAO forecast 2026 cereal production 2,999 Mt (second-highest), 2026/27 cereal trade 507.7 Mt (-3.3%) and stocks-to-use 32.4%; 41 countries/territories require external food assistance (31 in Africa). FFPI is an international traded-commodity index, not retail CPI or household affordability; production/trade numbers are forecasts.",
+        "market_window": "Reuters early-Asia report published 26 Nov 01:35 UTC: Nikkei +1.6%, Korea +1.9%, Taiwan +1.4%, APAC ex-Japan +1.8%; Japan -8%, Korea -16%, Taiwan -15% month-to-date; European futures EURO STOXX 50 +2.3%, DAX +2.1%, FTSE +1.4%. Reuters US session 25 Nov: Dow +0.33%, S&P -0.25%, Nasdaq -0.62%, MSCI global -0.60%, 10-year Treasury 4.84% and -6.2bp. US cash market closed 26 Nov for Thanksgiving.",
+        "oil": "Reuters 26 Nov article reports prices at 07:58 GMT (04:58 BRT): Brent $94.52/bbl, -0.1% on day; WTI $83.83/bbl, +0.2%, no WTI settlement due Thanksgiving. Prior session settlements Brent +3.5%, WTI +2%. Reuters attributes risk premium to Houthi claim of attack on Ras Tanura and Iranian reports of mines striking tankers; also notes Middle East exports had been rising and prices had fallen roughly 25% over prior three weeks. Incidents remain attributed, not independently verified."
       },
-      "citation_audit": "Each reference number 1 through 13 is individually cited in the EN and PT-BR body; grouped citations were expanded to support exact reference matching."
+      "citation_audit": "Reference numbers 1 through 13 are individually cited in both bodies. S&P reference 4 now links directly to the 25 November rating action. Reuters reference 11 is timestamped 07:58 GMT (04:58 BRT) for Brent/WTI; the early-Asia snapshot is 01:35 UTC."
     }
   },
   "manual_preflight": {
@@ -186,19 +188,19 @@
     "controlled_programs": true,
     "controlled_topics": true,
     "phenomena_valid": true,
-    "word_count_en": 2805,
-    "word_count_pt": 3183,
+    "word_count_en": 2898,
+    "word_count_pt": 3298,
     "references_en": 13,
     "references_pt": 13,
     "ready_for_independent_qa": true,
     "repository_script_validator": "Producer preflight: schema v2, controlled taxonomy, daily brief visual floor (two tables, explicit chart, structural flow/map), source count and bilingual visual parity checked manually. Full repository validators and independent QA remain separate and are not claimed as passed."
   },
-  "revision": 3,
-  "revision_reason": "Expands grouped numeric citation notation into individually auditable citations for each retained reference in EN/PT-BR; no source claims or data values changed.",
-  "revision_scope": "Citation-format audit correction to the same Global Macro ID/slug; article content, thesis, chart data and references preserved.",
+  "revision": 4,
+  "revision_reason": "Updates the 26 November market window with Reuters' timestamped 01:35 UTC Asia snapshot and 07:58 GMT oil quotes; corrects APAC ex-Japan and adds Taiwan/European futures; replaces generic S&P reference with its exact rating action URL and clarifies prior-session attributed oil claims.",
+  "revision_scope": "Same Global Macro ID/slug; updated market window, oil price timestamp/attribution and direct reference URLs in both locales. No thesis or taxonomy change.",
   "qa_fixes_applied": [
     "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT"
   ],
-  "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-3-publication-reconciliation",
+  "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-4-publication-reconciliation",
   "revised_at": "2026-11-26T05:17:00-03:00"
 }

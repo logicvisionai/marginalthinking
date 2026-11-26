@@ -1,6 +1,6 @@
 # Tarifas propostas ganham forma, mas o mercado precifica o processo — não o imposto
 
-*Global Macro — 26 de novembro de 2026 | Corte informacional: 04h45 BRT, America/Sao_Paulo*
+*Global Macro — 26 de novembro de 2026 | Corte informacional: 05h05 BRT, America/Sao_Paulo*
 
 ## Avaliação executiva
 
@@ -58,7 +58,7 @@ Os fluxos para mercados emergentes continuam vulneráveis, embora a estimativa c
 
 O HICP final de outubro divulgado pelo Eurostat colocou a inflação da zona do euro em 4,0% em doze meses, ante 3,8% em setembro. Energia contribuiu com 1,89 ponto percentual para a taxa anual; serviços, com 1,55 ponto. A contribuição de energia significa que um choque de oferta pode afetar a inflação cheia mesmo quando o processo doméstico de preços é mais moderado. Não significa que energia explique sozinha os 4,0%. [8]
 
-Na Ásia, a Reuters reportou uma recuperação em 26 de novembro: o Nikkei japonês subiu 1,6%, o principal índice sul-coreano avançou 1,9% e as ações da Ásia-Pacífico excluindo Japão ganharam 0,6% no retrato inicial. A mesma reportagem observou que a região ainda acumulava perdas expressivas em novembro. A recuperação veio após a queda anterior e refletiu uma leitura menos severa da proposta tarifária; não deve ser tratada como reversão da perda acumulada no mês. [5]
+No retrato inicial da Ásia publicado pela Reuters às 01h35 UTC de 26 de novembro, o Nikkei japonês subiu 1,6%, o principal índice sul-coreano avançou 1,9%, Taiwan ganhou 1,4% e as ações da Ásia-Pacífico excluindo Japão subiram 1,8%. A mesma reportagem informou que Japão acumulava queda de 8% no mês, Coreia do Sul 16% e Taiwan 15%. Os futuros europeus — não fechamentos do mercado à vista — também subiram: EURO STOXX 50 +2,3%, DAX +2,1% e FTSE +1,4%. A recuperação veio após a queda anterior e refletiu uma leitura menos severa da proposta tarifária; não deve ser tratada como reversão da perda acumulada no mês. [5]
 
 Os dados industriais reforçam a necessidade de evitar um rótulo único para o ciclo global. A worldsteel informou produção de aço bruto de 142,4 milhões de toneladas em outubro, entre 70 economias reportantes, queda de 1,1% em relação ao ano anterior. A América do Norte cresceu 5,6%, a África 7,9%, a União Europeia caiu 4,0%, a América do Sul caiu 4,1% e o Oriente Médio recuou 27,7%. São observações de produção regional, não medidas diretas de demanda final ou utilização de capacidade. [9]
 
@@ -97,7 +97,7 @@ O Brasil não está entre as 14 economias cobertas pelas determinações do USTR
 
 ## 6. Energia e alegações de conflito adicionam outro canal inflacionário
 
-O Brent negociou perto de US$ 94,7 por barril em 26 de novembro, enquanto o WTI americano ficou perto de US$ 84,0; não havia liquidação do WTI programada por causa do feriado de Thanksgiving. A Reuters atribuiu a alta a preocupações de oferta após relatos de ataques a infraestrutura saudita e notícias de minas afetando navios no Estreito de Hormuz. Essas alegações permanecem atribuídas às declarações e reportagens citadas pela Reuters; esta edição não verifica independentemente os incidentes nem atribui responsabilidade. [11]
+Às 07h58 GMT de 26 de novembro (04h58 BRT), o Brent estava em US$ 94,52 por barril, queda de 0,1% no dia, e o WTI em US$ 83,83, alta de 0,2%; não havia liquidação do WTI programada por causa do feriado de Thanksgiving. O Brent havia fechado 3,5% mais alto na sessão anterior e o WTI, 2% acima. A Reuters atribuiu o prêmio de oferta da sessão anterior à alegação dos Houthis de ataque à refinaria Ras Tanura, na Arábia Saudita, e a relatos iranianos de minas que atingiram navios no Estreito de Hormuz. As alegações são atribuídas; esta edição não verifica independentemente os incidentes nem atribui responsabilidade. A Reuters também informou que as exportações do Oriente Médio vinham aumentando apesar dos ataques à navegação e que os preços haviam caído cerca de um quarto nas três semanas anteriores à recuperação recente, um contraponto à interpretação de perda persistente de oferta. [11]
 
 O canal de energia é diferente do canal tarifário. Uma tarifa afeta bens cobertos e pode ser parcialmente absorvida ou redirecionada. Uma interrupção persistente de exportações de petróleo ou de navegação pode afetar um conjunto mais amplo de custos de transporte, petroquímica e energia. Mas uma alta pontual do petróleo após relatos não verificados de incidentes não prova perda duradoura de oferta. A perspectiva de novembro da IEA descreveu aumento da oferta global e buffers apertados em produtos refinados; esse balanço mais amplo é um contraponto à interpretação exclusivamente baseada em interrupções. [12]
 
@@ -121,7 +121,7 @@ As próximas observações úteis não são outra manchete sobre a tarifa máxim
 
 3. BEA, 25 nov. 2026, Renda Pessoal e Gastos, outubro de 2026: https://bea.gov/news/2026/personal-income-and-outlays-october-2026
 
-4. S&P Global Ratings, 25 nov. 2026, ratings da Nvidia em CreditWatch negativo: https://www.spglobal.com/ratings/en/regulatory/press-releases
+4. S&P Global Ratings, 25 nov. 2026, NVIDIA Corp. 'AA' Ratings Placed On CreditWatch Negative On Rising M&G Risk: https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3667832
 
 5. Reuters, 26 nov. 2026, recuperação das ações asiáticas; riscos de tarifas e IA: https://www.reuters.com/world/china/global-markets-global-markets-2026-11-26/
 
@@ -135,7 +135,7 @@ As próximas observações úteis não são outra manchete sobre a tarifa máxim
 
 10. Banco Central do Brasil, comunicados do Copom, novembro de 2026: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/cronologicos
 
-11. Reuters, 26 nov. 2026, petróleo sobe diante de alegações atribuídas de oferta e navegação: https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/
+11. Reuters, 26 nov. 2026, petróleo pouco muda enquanto persistem preocupações de oferta após alegações sobre minas em navios: https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/
 
 12. EIA, 10 nov. 2026, Short-Term Energy Outlook: https://www.eia.gov/outlooks/steo/
 
