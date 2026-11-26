@@ -54,4 +54,36 @@ These series measure national implementation, intended animal-use quantities, in
 - ECDC/WHO Europe, *Surveillance of antimicrobial resistance in Europe, 2025 data*, 18 November 2026: https://www.ecdc.europa.eu/en/publications-data/surveillance-antimicrobial-resistance-europe-2025-data
 - ECDC, *Antimicrobial consumption in the EU/EEA (ESAC-Net) — Annual Epidemiological Report 2025*, 18 November 2026: https://www.ecdc.europa.eu/en/publications-data/antimicrobial-consumption-eueea-esac-net-annual-epidemiological-report-2025
 
-**Related canonical report:** `MT-BIO-2026-11-23-amr-implementation-gap` (published revision 3).- `MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk` — FMD/SAT1 and transboundary livestock control (published revision 4).
+**Related canonical report:** `MT-BIO-2026-11-23-amr-implementation-gap` (published revision 3).
+
+## 2026-11-26 update — FMD/SAT1 and transboundary control
+
+The 26 November 2026 report `MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk` adds a second, distinct animal-health mechanism to this briefing. Foot-and-mouth disease is serotype-specific: surveillance and laboratory confirmation must identify the circulating serotype before vaccine compatibility or response adequacy can be assessed. The FAO Asia-Pacific warning about SAT1 vaccine suitability is specific to the products and regions covered by that source; it must not be generalized to every vaccine or country.
+
+**Mechanism to retain:** cross-border animal movement can transmit infection between livestock jurisdictions; diagnostic capacity and timely reporting determine how quickly authorities identify affected zones; serotype-matched prevention, movement controls and credible surveillance shape containment and the scope of market-access restrictions. Veterinary services, laboratories, border inspection and producer access are therefore part of the same operating system, but their capacity and coverage must be measured separately.
+
+**Institutional caveat:** the FAO/WOAH Middle East FMD strategy for 2026–2030 is a 14-country coordination framework. Its launch does not establish national appropriations, procurement, implementation or outcomes. Treat national budgets, vaccine-match evidence, laboratory capacity, movement-control enforcement and follow-up reporting as separate verification questions.
+
+### What changed since last review
+
+- The November FAO-WOAH field assessment in Mongolia and November WOAH SAT1 notifications add a dated cross-border surveillance and response signal beyond the earlier AMR material.
+- The report distinguishes first-occurrence notifications from renewed notifications and separates SAT1 from FMD serotype O and African swine fever. Do not combine these into one outbreak count or infer a single continuous transmission chain from geographically separate notifications.
+- The FAO rapid risk assessment is a historical baseline using information through 23 February 2026 and a dated three-month horizon; its qualitative categories are not current probabilities or observed infections.
+- No comparable herd, output, bilateral livestock-trade or restriction-duration dataset supports a regional loss or food-price estimate. Do not infer price effects from notification counts alone.
+
+### Open questions
+
+- Which countries publish serotype-specific vaccine-match and vaccination-coverage evidence, and for what products and affected zones?
+- Do laboratory turnaround, veterinary staffing and reporting coverage improve after the Mongolia assessment and regional strategy launch?
+- Which of the 14 participating Middle East countries publish national budgets, implementation milestones and measurable outcomes for the 2026–2030 strategy?
+- How long do movement and export restrictions remain in force, and are they limited to verified affected zones and products?
+- Can future country-level data connect animal-health events to production and trade outcomes without confusing reporting intensity with incidence?
+
+**Primary references for current verification:**
+
+- WOAH Middle East, Foot and Mouth Disease regional page, updated 24 November 2026: https://rr-middleeast.woah.org/en/foot-and-mouth-disease/
+- FAO, Mongolia SAT1 field-assessment update, 13 November 2026: https://www.fao.org/animal-health/news-events/news/detail/fao-hands-over-laboratory-diagnostic-kits-to-support-the-response-to-sat-1-foot-and-mouth-disease/en
+- FAO, Middle East Regional Strategy 2026–2030 launch, 30 September 2026: https://www.fao.org/neareast/news/details/advancing-foot-and-mouth-disease-prevention-in-the-middle-east-launch-of-the-regional-strategy-2026-2030/en
+- WOAH, Foot and Mouth Disease overview: https://www.woah.org/en/disease/foot-and-mouth-disease/
+
+**Related canonical report:** `MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk` (published revision 4).
