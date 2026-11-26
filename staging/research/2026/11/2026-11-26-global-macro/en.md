@@ -8,7 +8,7 @@ The new information is not simply another tariff threat. On 25 November, the Off
 
 Markets initially sold off, then partially recovered as investors assessed the proposal's legal and commercial scope. That response is understandable, but it does not eliminate the macroeconomic risk. A proposed duty can change sourcing, inventory and investment decisions before customs collections begin; if adopted, it can raise some landed costs while redirecting trade rather than reducing it. The distribution of the burden depends on product coverage, exemptions, supplier substitution, exchange rates and firms' ability to absorb costs in margins.
 
-The latest US data complicate the policy response. Real GDP grew at a 4.3% annual rate in the third quarter, revised up from 3.4%, while October headline and core PCE inflation each rose 0.3% month on month and 3.8% and 3.3% year on year, respectively. Real personal consumption expenditures were essentially flat in October. Strong quarterly output therefore coexists with persistent inflation and a weaker monthly consumption pulse. [2,3]
+The latest US data complicate the policy response. Real GDP grew at a 4.3% annual rate in the third quarter, revised up from 3.4%, while October headline and core PCE inflation each rose 0.3% month on month and 3.8% and 3.3% year on year, respectively. Real personal consumption expenditures were essentially flat in October. Strong quarterly output therefore coexists with persistent inflation and a weaker monthly consumption pulse. [2] [3]
 
 Observed: USTR published determinations and proposed actions; US Q3 GDP was revised higher; October PCE inflation remained elevated; equities were mixed on 25 November; Treasury yields fell; Brent rose amid attributed reports of attacks and shipping disruption. Inference: investors are distinguishing a tariff proposal from a tariff actually collected, while still demanding a premium for policy, energy and technology-financing uncertainty. Scenario, not fact: if duties are adopted broadly and retaliation follows, the combination could delay investment and keep core goods inflation firmer into 2027.
 
@@ -30,7 +30,7 @@ The first response is likely to be commercial rather than statistical. Importers
 
 The chain is conditional at every step. A proposal can be narrowed or delayed. A firm may absorb a duty in its margin rather than pass it on. A currency move can offset part of the price change. A buyer may switch to a supplier outside covered jurisdictions, changing trade routes without necessarily reducing total imports. A tariff can therefore raise prices in one sector, compress profits in another and redirect production to a third economy.
 
-The opposing interpretation is that the market move is mainly a technology valuation and funding event, with tariffs acting as a catalyst rather than the underlying cause. That alternative is plausible: the Nasdaq and chip shares were weaker than the Dow, and S&P Global Ratings placed Nvidia's 'AA' ratings on CreditWatch negative citing rising management-and-governance risk. This is a governance review, not evidence of default or a collapse in AI demand. [4,5]
+The opposing interpretation is that the market move is mainly a technology valuation and funding event, with tariffs acting as a catalyst rather than the underlying cause. That alternative is plausible: the Nasdaq and chip shares were weaker than the Dow, and S&P Global Ratings placed Nvidia's 'AA' ratings on CreditWatch negative citing rising management-and-governance risk. This is a governance review, not evidence of default or a collapse in AI demand. [4] [5]
 
 ## 3. US growth is strong in the quarter, not uniformly strong in the month
 
@@ -46,7 +46,7 @@ For the Federal Reserve, the data reduce the case for rapid easing but do not me
 
 ## 4. Rates, currencies and risk assets tell a split story
 
-On 25 November, the Dow rose 0.33%, while the S&P 500 fell 0.25% and the Nasdaq fell 0.62%. The MSCI world gauge declined about 0.6% in the session. US Treasury yields fell as investors sought safety: the 10-year yield was reported at 4.84%, down roughly 6.2 basis points. The US dollar index eased about 0.14%; the euro traded near US$1.09. These are observations from the reported session, not official closing values for 26 November, when US cash markets are closed for Thanksgiving. [5,6]
+On 25 November, the Dow rose 0.33%, while the S&P 500 fell 0.25% and the Nasdaq fell 0.62%. The MSCI world gauge declined about 0.6% in the session. US Treasury yields fell as investors sought safety: the 10-year yield was reported at 4.84%, down roughly 6.2 basis points. The US dollar index eased about 0.14%; the euro traded near US$1.09. These are observations from the reported session, not official closing values for 26 November, when US cash markets are closed for Thanksgiving. [5] [6]
 
 ```chart\ntype: bar\ntitle: Selected equity-index returns, 25 November 2026\nunit: percent, daily session\nDow Jones | 0.33\nS&P 500 | -0.25\nNasdaq Composite | -0.62\nMSCI world | -0.60\n```
 

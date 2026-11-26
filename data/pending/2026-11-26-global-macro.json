@@ -177,7 +177,8 @@
       "all_references_cited": true,
       "reproducibility_notes": {
         "food": "FAO 6 Nov 2026 October FFPI: 133.9 points, -1.2% m/m, +5.9% y/y, -16.4% from March 2022 peak. Cereal index 116.8 (-4.5% m/m, +12.6% y/y); vegetable oils 199.2 (+0.3% m/m); sugar 121.3 (+6.6% m/m, +28.8% y/y); meat -1.2% m/m; dairy -1.1% m/m. FAO forecast 2026 cereal production 2,999 Mt (second-highest), 2026/27 cereal trade 507.7 Mt (-3.3%) and stocks-to-use 32.4%; 41 countries/territories require external food assistance (31 in Africa). FFPI is an international traded-commodity index, not retail CPI or household affordability; production/trade numbers are forecasts."
-      }
+      },
+      "citation_audit": "Each reference number 1 through 13 is individually cited in the EN and PT-BR body; grouped citations were expanded to support exact reference matching."
     }
   },
   "manual_preflight": {
@@ -192,10 +193,12 @@
     "ready_for_independent_qa": true,
     "repository_script_validator": "Producer preflight: schema v2, controlled taxonomy, daily brief visual floor (two tables, explicit chart, structural flow/map), source count and bilingual visual parity checked manually. Full repository validators and independent QA remain separate and are not claimed as passed."
   },
-  "revision": 2,
-  "revision_reason": "Completes the food-commodity screen with FAO's latest October index and cereal balance, separates cereal/sugar/rice movements and adds the food-security country count; same daily edition and thesis retained.",
-  "revision_scope": "Same Global Macro ID/slug; added sourced FAO commodity and food-security evidence in both locales, one matched chart and table, and reference 13. No public files or taxonomy changes.",
-  "qa_fixes_applied": [],
-  "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-2-publication-reconciliation",
-  "revised_at": "2026-11-26T04:58:00-03:00"
+  "revision": 3,
+  "revision_reason": "Expands grouped numeric citation notation into individually auditable citations for each retained reference in EN/PT-BR; no source claims or data values changed.",
+  "revision_scope": "Citation-format audit correction to the same Global Macro ID/slug; article content, thesis, chart data and references preserved.",
+  "qa_fixes_applied": [
+    "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT"
+  ],
+  "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-3-publication-reconciliation",
+  "revised_at": "2026-11-26T05:17:00-03:00"
 }
