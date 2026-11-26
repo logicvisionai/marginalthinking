@@ -496,6 +496,29 @@
         }
       ],
       "notes": "New revision-9 tuple was reviewed in full. The prior Focus-vintage defect is resolved; two material visual/inference defects remain. This is a post-limit block, not a fourth rejection."
+    },
+    {
+      "revision": 10,
+      "reviewed_at": "2026-11-25T23:02:00-03:00",
+      "reviewed_commit": "597209227342d088716b6fee13cd8f445812d416",
+      "pending_blob_sha": "46c5a74a856ce9512966c3c49e3b99853dd3c18a",
+      "source_blob_shas": {
+        "en": "dcb3ef6a1eaae0c1f30df0cf3576d8021217eef2",
+        "pt-BR": "66ca8738f7ab8f1a0f31b6f0294f9ea493cbb0fc"
+      },
+      "qa_status": "blocked",
+      "block_reason": "rejection_loop_limit_reached",
+      "rejection_count_incremented": false,
+      "issues": [
+        {
+          "code": "REVISION_SPECIFIC_REGISTRY_RECONCILIATION_MISSING",
+          "severity": "material",
+          "location": "data/pending/2026-11-24-global-macro.json: producer_checks.reconciliation_run_id and revision_scope; data/reconciliation-ledger.json: 2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation",
+          "evidence": "Revision 10's revision_scope explicitly requires reconciliation of all seven active cumulative registry assets and a report-specific run. Its pending sidecar still links a run whose ID is explicitly revision 8, created before revisions 9 and 10. The publisher watchdog's completed run 02be0101-4b34-8324-bacc-15b031063110 at 2026-11-25 22:45 BRT independently confirmed that the seven revision-8 decisions do not constitute reconciliation of revision 10. No revision-10 run is present in data/reconciliation-ledger.json.",
+          "required_correction": "Create and append a new report-specific reconciliation run for MT-GM-2026-11-24 revision 10. Record an evidence-backed decision for each of the seven active assets in data/system-registry.json, preserve no-change/not-applicable/deferred decisions only where current evidence supports them, and update pending.producer_checks.reconciliation_run_id to the new run ID. No Markdown rewrite is required if the reconciliation confirms no asset-state changes. Resubmit the exact updated pending tuple for QA."
+        }
+      ],
+      "notes": "Post-limit block only; rejection_count_for_id remains 3. This is not a fourth rejection. Approval revision 10 was revoked to prevent the publisher from treating the stale revision-8 reconciliation as current."
     }
   ]
 }

@@ -4,7 +4,7 @@
   "slug": "2026-11-24-global-macro",
   "revision": 10,
   "program": "political-economy-markets",
-  "qa_status": "approved",
+  "qa_status": "revoked",
   "reviewed_at": "2026-11-25T22:57:50-03:00",
   "reviewed_commit": "02a22a31cf906ed779f6d3873969dc8618ece212",
   "pending_blob_sha": "46c5a74a856ce9512966c3c49e3b99853dd3c18a",
@@ -57,8 +57,8 @@
       "summary": "The report separates observed indicators from interpretation and conditional scenarios. It gives base and adverse paths and observable falsifiers, including narrowing Germany–France PMI dispersion, reversal of EM outflows, lower refined-product premiums and subsequent national-accounts/employment evidence."
     },
     "system_registry_reconciliation": {
-      "result": "passed",
-      "summary": "The pending references report-specific run 2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation. It is the latest run for MT-GM-2026-11-24 and records decisions for all seven active reconciliation-required registry assets: global-dependency-network, structural-opportunity-atlas, strategic-actors, resource-control-atlas, policy-case-atlas, conflict-systems and technology-signal-ledger. Revision 9/10 changed wording, visual scope and inference qualification without introducing a new asset-state claim."
+      "result": "blocked",
+      "summary": "Post-approval independent verification found that revision 10 still references 2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation. The publisher watchdog's latest completed run (2026-11-25 22:45 BRT, run 02be0101-4b34-8324-bacc-15b031063110) explicitly determined that the seven revision-8 decisions do not constitute reconciliation of revision 10. A new report-specific run with evidence and decisions for all seven active assets is required."
     },
     "editorial_style": {
       "result": "passed",
@@ -89,8 +89,8 @@
       "summary": "Main was re-read immediately before writing at 02a22a31cf906ed779f6d3873969dc8618ece212. The only existing approval sidecar is revoked for revision 2 and binds a different tuple; the rejection history records three prior rejections and the revision-9 post-limit block. No public metadata exists for MT-GM-2026-11-24. The write will use a non-force compare-and-swap update against this exact HEAD."
     },
     "editorial_publication_readiness": {
-      "result": "passed",
-      "summary": "Revision 10 passes source integrity, schema/taxonomy, cutoff, factual methodology, evidence traceability, depth, visual evidence, bilingual equivalence, novelty, counterfactual and seven-asset registry reconciliation. Explicit measurement and preflight limitations are documented; no material defect blocks QA approval. This record authorizes publisher review but does not itself publish the report."
+      "result": "blocked",
+      "summary": "Approval revoked because the pending v2 revision 10 lacks a revision-specific system-registry reconciliation run. The current linked ledger entry is explicitly revision 8 and predates revisions 9 and 10. Do not publish until the producer appends a new seven-asset reconciliation run and updates pending.producer_checks.reconciliation_run_id."
     }
   },
   "contrary_evidence": [
@@ -113,7 +113,12 @@
     "The independent word-count logic returns 4,378 EN and 5,091 PT-BR versus producer preflight counts of 4,363 and 5,070; both are far above the required threshold.",
     "The build passed, but Cloudflare deployment and live production verification remain unconfirmed because repository credentials are missing."
   ],
-  "notes": "Independent QA approval for MT-GM-2026-11-24 revision 10. The previous revision-2 approval was revoked and is not reused; the prior approval and all rejection/post-limit history remain available in Git history and the rejected sidecar. This approval binds only the exact revision-10 pending/EN/PT-BR tuple. The publisher's watchdog can discover this approval; no public metadata or report files are created by this QA commit. The separate Cloudflare deployment failure is not evidence of publication, and no production release is claimed.",
+  "notes": [
+    "Revision 10 was initially approved by independent QA, then the approval was revoked at 2026-11-25T23:02:00-03:00 after the report-specific system-registry gate was rechecked against the publisher watchdog's latest completed run.",
+    "The linked reconciliation run is 2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation. It contains seven asset decisions but is explicitly revision 8 and predates revisions 9 and 10; the publisher correctly refused to treat it as a revision-10 reconciliation.",
+    "The publication snapshot and exact pending/EN/PT-BR blob tuple are preserved for audit. No public metadata, report, index, CSS, taxonomy or institutional content was modified.",
+    "This is a post-limit block, not a fourth rejection. The rejection count remains 3. The producer must create a fresh revision-10 reconciliation run for all seven active assets, update pending.producer_checks.reconciliation_run_id, and resubmit."
+  ],
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -367,5 +372,14 @@
       "CREDIT_HEADING_SCOPE_CALIBRATED"
     ],
     "reconciliation_run_id": "2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation"
+  },
+  "revocation": {
+    "revoked_at": "2026-11-25T23:02:00-03:00",
+    "revoked_by": "MT 4/5 — QA Editorial",
+    "original_approval_blob_sha": "73f4cc88ca8a534e16136fa3a0176cce8606ec00",
+    "original_approval_commit_sha": "597209227342d088716b6fee13cd8f445812d416",
+    "rejection_record_path": "data/rejected/2026-11-24-global-macro.json",
+    "reason": "Material system-registry reconciliation gap discovered after approval. The revision-10 pending links a run explicitly labelled revision 8; the publisher's own completed watchdog run confirmed that the old seven-asset decisions do not constitute reconciliation of revision 10.",
+    "publication_snapshot_preserved": true
   }
 }
