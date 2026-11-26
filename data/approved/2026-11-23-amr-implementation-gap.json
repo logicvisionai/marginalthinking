@@ -1,0 +1,277 @@
+{
+  "schema_version": 2,
+  "id": "MT-BIO-2026-11-23-amr-implementation-gap",
+  "slug": "2026-11-23-amr-implementation-gap",
+  "revision": 3,
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-26T09:07:23-03:00",
+  "reviewed_commit": "b2e6685ada27a5f7a7e4465963f846b04732b029",
+  "pending_blob_sha": "fb8de0125a1eccc720e75f867841e958feef0657",
+  "source_blob_shas": {
+    "en": "dd13c6e4c6df4b0c5d5502d39d031981b0f77b0b",
+    "pt-BR": "fee643251a75b7d582ceb3daf5e4ccf1f42d455f"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Re-read at main HEAD b2e6685ada27a5f7a7e4465963f846b04732b029. Exact Git blob tuple: pending fb8de0125a1eccc720e75f867841e958feef0657, EN dd13c6e4c6df4b0c5d5502d39d031981b0f77b0b, PT-BR fee643251a75b7d582ceb3daf5e4ccf1f42d455f. Canonical approval sidecar and reports/2026/11/2026-11-23-amr-implementation-gap/metadata.json were absent before this approval. Revision 3 fingerprints differ from all prior rejected revisions."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Pending v2 schema, ready:true, canonical ID/slug, date, source locale, staged paths, controlled taxonomy version 1.0, one primary program, related programs, dimensions, geography, topics, institutional-change phenomenon, research-report format and event-driven cadence conform to the schema and frozen taxonomy. No taxonomy extension."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 23 November 2026 06:20 BRT cutoff is consistent with the cited current releases: WHO TrACSS 16 November, WOAH ANIMUSE 17 November, and ECDC/WHO Europe plus ECDC ESAC-Net 18 November 2026. Historical UN and WOAH standards are separately dated."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Primary-source checks confirm TrACSS 173/183 plans, 22% both funded and fully implemented, 36% reference-laboratory capacity and 63% appropriate-use guidelines; ANIMUSE 148/132/119 participants, 74% biomass coverage, 83,254 tonnes and coverage-adjusted 86,346 tonnes, 87–90 mg/kg and five farm-record sources; ECDC 2025 invasive-isolate thresholds and EU incidence 3.75/100,000, +72%; ESAC-Net EU indicators 18.9 DID, 62.5% Access and separate EU/EEA community series 17.3 DID. The 80-participant −3% and separate 74-participant +9% ANIMUSE series retain distinct cohorts and periods. No animal-to-human causal attribution is made."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "All ten numbered references were checked against original institutional sources. [1] resolves to the WHO 16 November 2026 TrACSS release; [2] is the original WOAH ANIMUSE PDF; [3] the ECDC/WHO Europe 2025 surveillance report; [4] the ECDC 2025 ESAC-Net report; [5] the WHO adopted GAP-AMR release; [6] UNGA A/RES/79/2; [7] the Quadripartite second biennial report landing page; [8] the WHO draft updated plan; [9] the WHO AMR fact sheet; [10] the WOAH Terrestrial Code. Ten unique URLs, five hostnames, no unused references, and body citations [1]–[10] are matched in both editions. The WHO Macao regional URL was opened and verified as the exact global release."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 3052,
+        "pt-BR": 3513,
+        "urls_en": 10,
+        "urls_pt": 10
+      },
+      "summary": "The report develops a connected argument from national plans and funding to diagnostics, surveillance and point-of-use measurement; distinguishes four data streams; compares distinct ANIMUSE cohorts and human clinical surveillance; explains regional coverage limits; and presents base, upside and downside scenarios with observable falsifiers. Depth is substantive rather than word-count-only."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Alternative explanations and falsifiers are explicit: sample composition and reporting coverage can change aggregates; human clinical surveillance is not prevalence; animal-use and human-resistance series are not linked causally. Scenarios specify what changes in funded plans, laboratory coverage, farm records, comparable ANIMUSE cohorts and bloodstream-infection incidence would weaken the base/downside assessment."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both editions contain the same evidence set: three charts, three tables, one structural flow and one regional comparison map. Chart values are traceable to cited source tables/figures; units, periods, cohorts and geographic scopes are labelled. The map uses the repository's region | finding | qualification grammar and explicitly states that the two surveillance systems do not establish causation. No decorative or fabricated data."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Research-report length and structure are justified by the multi-system question. Sections advance evidence, mechanism, comparison, limitations and scenarios without stitched actor summaries. No internal QA labels, product roadmap or Marginal Thinking implementation narrative. Numbered citations appear in the argument and full references are at the end in both editions."
+    },
+    "bilingual_parity": {
+      "result": "passed",
+      "summary": "EN and PT-BR have equivalent thesis, evidence status, numbers, dates, qualifications, four data streams, three charts, three tables, flow, map, scenarios and ten references. EU versus EU/EEA scopes and the two ANIMUSE trend cohorts are consistent; PT-BR units and chart labels are localized."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The cited 12 October livestock-AMR baseline predates the 16–18 November WHO, WOAH and ECDC releases. This report adds the 2026 TrACSS implementation indicators, 2024 ANIMUSE quantitative baseline and 2025 ECDC/ESAC-Net surveillance and consumption results. The distinct implementation-measurement thesis is not a date-only rewrite."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "The pending producer_checks.reconciliation_run_id points to 2026-11-26-mt-bio-2026-11-23-amr-implementation-gap-revision-3-publication-reconciliation. The matching append-only ledger run is present with seven decisions for the seven active cumulative assets; no unsupported dependency, ownership/control, resource-right, conflict-system, policy-case or deployed-technology update is inferred."
+    },
+    "repository_validation": {
+      "result": "passed",
+      "summary": "GitHub Actions run 45809552740 checked out exact HEAD b2e6685ada27a5f7a7e4465963f846b04732b029. validate-pipeline.mjs passed with 214 canonical public bundles; validate-editorial-depth.mjs passed with 218 research artifacts reviewed; research validation, system registry, visual/image checks, site generation and Worker bundle validation passed. The separate deploy job is operational and not part of editorial approval."
+    }
+  },
+  "contrary_evidence": [
+    "TrACSS is a national self-assessment, not an independent audit of expenditure or service quality.",
+    "ANIMUSE quantitative data rely primarily on sales/import records; only five of 119 participants selected farm records, and the 2024 global indicator covers 74% of estimated food-producing animal biomass.",
+    "The 3% decline among 80 consistent participants for 2019–2024 and 9% increase among a different 74-participant analysis for 2018–2024 cannot be combined into one trend.",
+    "ECDC results are based on invasive clinical isolates and heterogeneous national surveillance systems; they are not community prevalence.",
+    "The EU population-weighted consumption indicators and the separate EU/EEA community-consumption series have different scopes and should not be compared directly.",
+    "No linked national animal-use, pathogen, exposure and human clinical data establish an animal-to-human causal pathway in this report."
+  ],
+  "limitations": [
+    "No matched country-level dataset links veterinary antimicrobial administration to human resistance outcomes across species, pathogens, antimicrobial classes and time lags.",
+    "ANIMUSE estimates depend on participant submissions, estimated biomass and coverage adjustments; they are not a census of doses administered.",
+    "The separate 74-participant +9% trend is reported by WOAH as available through the Interactive Report and is not reproduced as a full series in the PDF; the article states this limitation.",
+    "The ECDC/WHO Europe report cautions that country comparisons are affected by differences in population coverage, representativeness and laboratory practice.",
+    "This independent editorial review is not external peer review."
+  ],
+  "notes": "Revision 3 passes independent QA on the exact pending and EN/PT-BR Git blob tuple above. The prior three rejection records remain immutable history; the current revision has new fingerprints and is approved, not rejected. This approval authorizes the publisher to materialize the snapshot. It does not claim that a public bundle, deployment or live-site update has already occurred.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-BIO-2026-11-23-amr-implementation-gap",
+    "slug": "2026-11-23-amr-implementation-gap",
+    "date": "2026-11-23",
+    "published_at": "2026-11-23T06:20:00-03:00",
+    "kind": "biosecurity-livestock-governance",
+    "priority": 36,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "political-economy-markets",
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "industry-production",
+      "institutions-governance",
+      "trade-investment",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-23-amr-implementation-gap/en.md",
+        "title": "AMR: national plans are expanding faster than the systems needed to measure and control resistance",
+        "deck": "WHO’s 2026 country survey, WOAH’s 2024 animal-use baseline and ECDC’s 2025 clinical surveillance show that plans and reporting have expanded faster than financing, diagnostics and point-of-use measurement.",
+        "tags": [
+          "antimicrobial resistance",
+          "One Health",
+          "livestock",
+          "public health",
+          "surveillance",
+          "diagnostics",
+          "governance"
+        ],
+        "keywords": [
+          "ANIMUSE 2024",
+          "TrACSS 2026",
+          "ECDC AMR 2025",
+          "antimicrobial use animals",
+          "resistance surveillance",
+          "farm records",
+          "national action plans"
+        ],
+        "regime": "Global AMR governance has broadened, but financing, reference laboratories and animal-use measurement remain incomplete.",
+        "key_risk": "Plans remain unfunded and veterinary-use data continue to rely on sales/import records, preventing reliable evaluation of stewardship and resistance trends.",
+        "watch": [
+          "TrACSS 2027 funded-plan and laboratory indicators",
+          "ANIMUSE species-level data collection begun in September 2026",
+          "farm-record share in the next ANIMUSE round",
+          "ECDC 2026 bloodstream-infection incidence",
+          "EU antibiotic-consumption progress toward 2030 targets"
+        ],
+        "search_text": "AMR 23 November 2026 antimicrobial resistance national action plans TrACSS ANIMUSE WOAH ECDC surveillance livestock human diagnostics funding One Health"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md",
+        "title": "Resistência antimicrobiana: planos nacionais avançam mais rápido que a capacidade de medir e conter o problema",
+        "deck": "A autoavaliação da OMS de 2026, a linha de base animal da WOAH para 2024 e a vigilância clínica do ECDC para 2025 mostram que planos e reportes avançaram mais rápido que financiamento, diagnóstico e medição no ponto de uso.",
+        "tags": [
+          "resistência antimicrobiana",
+          "Saúde Única",
+          "pecuária",
+          "saúde pública",
+          "vigilância",
+          "diagnóstico",
+          "governança"
+        ],
+        "keywords": [
+          "ANIMUSE 2024",
+          "TrACSS 2026",
+          "ECDC AMR 2025",
+          "uso de antimicrobianos em animais",
+          "vigilância da resistência",
+          "registros de fazenda",
+          "planos nacionais"
+        ],
+        "regime": "A governança global da resistência antimicrobiana se ampliou, mas financiamento, laboratórios de referência e medição do uso animal continuam incompletos.",
+        "key_risk": "Planos permanecem sem financiamento e os dados veterinários continuam dependendo de vendas e importações, impedindo avaliar com confiabilidade a gestão de antimicrobianos e as tendências de resistência.",
+        "watch": [
+          "Indicadores de financiamento e laboratórios no TrACSS 2027",
+          "Coleta por espécie do ANIMUSE iniciada em setembro de 2026",
+          "Participação de registros de fazenda na próxima rodada ANIMUSE",
+          "Incidência de infecções da corrente sanguínea no ECDC em 2026",
+          "Progresso do consumo europeu de antibióticos em direção às metas de 2030"
+        ],
+        "search_text": "resistência antimicrobiana 23 novembro 2026 planos nacionais TrACSS ANIMUSE WOAH ECDC vigilância pecuária saúde humana diagnóstico financiamento Saúde Única"
+      }
+    },
+    "signal_rationale": {
+      "delta": "New primary releases published 16–18 November 2026 combine a global implementation-capacity survey, WOAH’s 2024 animal-use baseline and ECDC/WHO’s 2025 invasive-isolate surveillance. This is a distinct measurement-and-financing update to the existing October livestock-AMR dossier, not a repeat of its general One Health framework.",
+      "evidence": "WHO TrACSS: 173/183 countries report plans but only 22% report funding plus full implementation and 36% reference-laboratory capacity; WOAH ANIMUSE: 119 participants cover 74% of food-animal biomass, but only five used farm records; ECDC: 21/43 countries show ≥50% 3GC resistance in K. pneumoniae, 21/38 show ≥50% carbapenem resistance in Acinetobacter, and EU carbapenem-resistant K. pneumoniae bloodstream incidence is 72% above 2019.",
+      "scale_path": "National financing and laboratory capacity determine whether action plans generate surveillance; veterinary point-of-use data determine whether animal-use targets can be measured; standardized human clinical surveillance enables trend monitoring and accountability.",
+      "transmission": "Underfunded diagnostics and incomplete animal-use records weaken stewardship and prevention; resistant infections increase treatment complexity and hospital costs, while poor veterinary measurement obscures agrifood-sector exposure and policy effectiveness.",
+      "falsifier": "A material rise in funded and evaluated national plans, reference-laboratory coverage, farm-record reporting and falling comparable resistant bloodstream-infection incidence would weaken the implementation-gap thesis."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "TrACSS is a country self-assessment, not an independent audit of budgets or service quality.",
+      "ANIMUSE quantities are primarily derived from sales and import records; only five of 119 quantitative participants used farm records.",
+      "The ANIMUSE 2019–2024 and 2018–2024 trend estimates use different participant groups and periods.",
+      "ECDC data concern invasive human clinical isolates; they are not population-wide prevalence estimates.",
+      "Animal antimicrobial-use data and human resistance data are not linked at matched country, pathogen, exposure and time levels; no causal attribution is made.",
+      "Growth-promotion findings are participant reports (29 of 148; ten uncertain), not an estimate of global animal production share.",
+      "ESAC-Net's 18.9 DID and AWaRe target indicators are EU-level; the 17.3 DID community-consumption series is EU/EEA and is a separate measure."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-23 06:20 America/Sao_Paulo",
+      "corpus_comparison": "Existing 2026-10-12 livestock-AMR report is a broad governance baseline. This report is a focused update on new TrACSS 2026, ANIMUSE 2024 and ECDC 2025 releases, with point-of-use data and implementation finance as the distinct thesis.",
+      "novelty_decision": "Substantive new primary-data delta; same registered editorial line and kind, new date-specific report, no arbitrary program or topic.",
+      "fact_inference_scenario_separated": true,
+      "no_causal_inference_between_animal_use_and_human_resistance": true,
+      "bilingual_parity": {
+        "same_numeric_series": true,
+        "same_reference_count": true,
+        "charts": 3,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1,
+        "references_en": 10,
+        "references_pt": 10
+      },
+      "visual_evidence": {
+        "charts": 3,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1
+      },
+      "source_audit": {
+        "references": 10,
+        "primary_institutional_sources": 10,
+        "urls_unique": 10,
+        "domains": 5,
+        "unused_references": 0,
+        "all_references_cited": true,
+        "citation_audit": "Body citations [1]–[10] were checked in both editions. Reference [1] now points to the verified WHO release dated 16 November 2026 at the official Macao regional URL. [5] supports the 2026 Global Action Plan, [6] the 2024 UN Political Declaration, [7] the Quadripartite implementation report, [8] the updated WHO plan, [9] WHO burden estimates, and [10] the WOAH prudent-use code. The 74-participant 9% result is attributed to the separate analysis available through the ANIMUSE Interactive Report, not reproduced in the PDF."
+      },
+      "manual_preflight": {
+        "schema_v2": true,
+        "controlled_programs": true,
+        "controlled_topics": true,
+        "phenomena_valid": true,
+        "word_count_en": 3052,
+        "word_count_pt": 3513,
+        "references_en": 10,
+        "references_pt": 10,
+        "ready_for_independent_qa": true,
+        "repository_script_validator": "Not run by producer in this revision; exact-HEAD GitHub Actions validation must be checked before independent QA approval."
+      },
+      "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-23-amr-implementation-gap-revision-3-publication-reconciliation"
+    },
+    "revision": 3,
+    "revision_reason": "Corrects the WHO primary-source destination for TrACSS 2026 and reconciles the count of four distinct data streams in both editions; no numerical series, observation period, source value or analytical thesis changed.",
+    "revision_scope": "Source-link traceability and bilingual copy consistency only. All factual series, qualifications, visual evidence, and the implementation-gap thesis remain unchanged.",
+    "qa_fixes_applied": [
+      "ESAC_NET_EU_INDICATORS_MISLABELLED_AS_EU_EEA",
+      "MAP_FENCE_UNCLOSED_AND_INVALID_TABLE_SYNTAX",
+      "ANIMUSE_74_PARTICIPANT_TREND_PROVENANCE_OVERSTATED",
+      "PTBR_CHART_UNIT_LABEL_MIXED_LANGUAGE",
+      "VISUAL_EVIDENCE_TABLE_COUNT_UNDERREPORTED",
+      "SOURCE_AUDIT_DOMAIN_COUNT_MISMATCH",
+      "WHO_PRIMARY_SOURCE_URL_CORRECTED",
+      "DATA_STREAM_COUNT_MISMATCH_CORRECTED"
+    ],
+    "revised_at": "2026-11-26T08:07:24-03:00",
+    "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-23-amr-implementation-gap-revision-2-publication-reconciliation"
+  }
+}
