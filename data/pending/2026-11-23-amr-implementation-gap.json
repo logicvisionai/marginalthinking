@@ -150,7 +150,7 @@
       "domains": 5,
       "unused_references": 0,
       "all_references_cited": true,
-      "citation_audit": "Body citations [1]–[10] were checked in both editions. [5] supports the 2026 Global Action Plan, [6] the 2024 UN Political Declaration, [7] the Quadripartite implementation report, [8] the updated WHO plan, [9] WHO burden estimates, and [10] the WOAH prudent-use code. The 74-participant 9% result is cited in the ANIMUSE executive summary and conclusions; the foreword says the separate analysis is available through the Interactive Report and is not reproduced in this PDF."
+      "citation_audit": "Body citations [1]–[10] were checked in both editions. Reference [1] now points to the verified WHO release dated 16 November 2026 at the official Macao regional URL. [5] supports the 2026 Global Action Plan, [6] the 2024 UN Political Declaration, [7] the Quadripartite implementation report, [8] the updated WHO plan, [9] WHO burden estimates, and [10] the WOAH prudent-use code. The 74-participant 9% result is attributed to the separate analysis available through the ANIMUSE Interactive Report, not reproduced in the PDF."
     },
     "manual_preflight": {
       "schema_v2": true,
@@ -162,20 +162,23 @@
       "references_en": 10,
       "references_pt": 10,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "Not run by producer in this revision; independent QA must execute exact-HEAD validation."
-    }
+      "repository_script_validator": "Not run by producer in this revision; exact-HEAD GitHub Actions validation must be checked before independent QA approval."
+    },
+    "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-23-amr-implementation-gap-revision-3-publication-reconciliation"
   },
-  "revision": 2,
-  "revision_reason": "Corrects EU-only ESAC-Net aggregate indicators versus the separate EU/EEA community-consumption series; clarifies the provenance of the 74-participant ANIMUSE trend; closes and replaces the Markdown-table map with the renderer's regional-card grammar; localizes the remaining PT-BR chart unit; and recomputes visual/source audit counts.",
-  "revision_scope": "Source-scope and attribution clarification plus deterministic map and bilingual-label corrections. Adds the separately reported 17.3 DID EU/EEA community-consumption series while preserving all animal-use and human-resistance observations and the analytical thesis.",
+  "revision": 3,
+  "revision_reason": "Corrects the WHO primary-source destination for TrACSS 2026 and reconciles the count of four distinct data streams in both editions; no numerical series, observation period, source value or analytical thesis changed.",
+  "revision_scope": "Source-link traceability and bilingual copy consistency only. All factual series, qualifications, visual evidence, and the implementation-gap thesis remain unchanged.",
   "qa_fixes_applied": [
     "ESAC_NET_EU_INDICATORS_MISLABELLED_AS_EU_EEA",
     "MAP_FENCE_UNCLOSED_AND_INVALID_TABLE_SYNTAX",
     "ANIMUSE_74_PARTICIPANT_TREND_PROVENANCE_OVERSTATED",
     "PTBR_CHART_UNIT_LABEL_MIXED_LANGUAGE",
     "VISUAL_EVIDENCE_TABLE_COUNT_UNDERREPORTED",
-    "SOURCE_AUDIT_DOMAIN_COUNT_MISMATCH"
+    "SOURCE_AUDIT_DOMAIN_COUNT_MISMATCH",
+    "WHO_PRIMARY_SOURCE_URL_CORRECTED",
+    "DATA_STREAM_COUNT_MISMATCH_CORRECTED"
   ],
-  "revised_at": "2026-11-26T06:36:10-03:00",
+  "revised_at": "2026-11-26T08:07:24-03:00",
   "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-23-amr-implementation-gap-revision-2-publication-reconciliation"
 }

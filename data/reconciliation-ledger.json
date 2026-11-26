@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-26T06:36:10-03:00",
+  "last_reconciled_at": "2026-11-26T08:07:24-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10781,6 +10781,51 @@
         "MT-BIO-2026-11-23-amr-implementation-gap"
       ],
       "audit_note": "Producer-stage reconciliation for corrected AMR implementation-gap revision 2. This revision clarifies EU versus EU/EEA ESAC-Net indicators, corrects source provenance and deterministic visual grammar, and adds the separately reported EU/EEA community-consumption indicator. The seven active cumulative assets were reviewed again; no canonical dataset update is supported by these observations. No animal-to-human causal edge, ownership transfer, resource right, conflict transition, site-level project or deployed technology capability is inferred.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report compares AMR governance and surveillance indicators but provides no source-audited bilateral trade, finance, energy or dependency weights. No dependency edge is inferred."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "No site-level project with verified sponsor, committed capital, permits, schedule, utilities, capacity, contracted demand and cash flows is identified. Diagnostic and surveillance capacity gaps are policy needs, not validated project candidates."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "No beneficial ownership, voting rights, board control or strategic-control relationship is evidenced in the report."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No concession, reserve, mineral title, resource right or operator-control change is evidenced."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The report assesses current implementation and surveillance indicators but does not establish an implemented policy intervention with ex-post outcome and defensible counterfactual suitable for a canonical policy-case update."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The report contains no independently verified conflict-system transition or territorial-control change."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Laboratory capacity and surveillance systems are institutional capabilities; the report does not establish a new technical capability with independent validation, deployment milestone or manufacturing-scale evidence."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-mt-bio-2026-11-23-amr-implementation-gap-revision-3-publication-reconciliation",
+      "reconciled_at": "2026-11-26T08:07:24-03:00",
+      "report_ids_reviewed": [
+        "MT-BIO-2026-11-23-amr-implementation-gap"
+      ],
+      "audit_note": "Producer-stage reconciliation for AMR revision 3. This revision corrects only WHO reference URL [1] and the four-stream count wording; no substantive data or thesis changed. The seven active cumulative assets were reviewed again; no canonical dataset update is supported. No animal-to-human causal edge, ownership transfer, resource right, conflict transition, site-level project or deployed technology capability is inferred.",
       "decisions": [
         {
           "asset_id": "global-dependency-network",

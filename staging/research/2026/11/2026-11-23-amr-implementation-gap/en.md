@@ -110,7 +110,7 @@ The EU-level consumption indicators improved in 2025, but remain off target. The
 
 ## 5. The data streams must not be treated as one causal chain
 
-The three datasets answer different questions.
+The four data streams answer different questions.
 
 - **TrACSS** asks whether countries report national plans, funding, laboratories, guidelines and surveillance systems.
 - **ANIMUSE** estimates antimicrobial quantities intended for animal use and normalizes them by estimated animal biomass.
@@ -170,7 +170,7 @@ The central test is not whether countries have adopted another declaration. It i
 
 ## References
 
-1. World Health Organization, “More countries have antimicrobial resistance plans but patients still lack testing and treatment”, TrACSS 2026, 16 November 2026. https://www.who.int/vanuatu/news/detail-global/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment
+1. World Health Organization, “More countries have antimicrobial resistance plans but patients still lack testing and treatment”, TrACSS 2026, 16 November 2026. https://www.who.int/macaochina/news/detail-global/16-11-2026-more-countries-have-antimicrobial-resistance-plans-but-patients-still-lack-testing-and-treatment
 2. World Organisation for Animal Health, *Animal Antimicrobial Use (ANIMUSE) Global Report: Analysis of 2024 Data*, 2026. https://www.woah.org/app/uploads/2026/11/animuseglobalreporten.pdf
 3. European Centre for Disease Prevention and Control and WHO Regional Office for Europe, *Surveillance of antimicrobial resistance in Europe, 2025 data*, 18 November 2026. https://www.ecdc.europa.eu/en/publications-data/surveillance-antimicrobial-resistance-europe-2025-data
 4. European Centre for Disease Prevention and Control, *Antimicrobial consumption in the EU/EEA (ESAC-Net) — Annual Epidemiological Report 2025*, 18 November 2026. https://www.ecdc.europa.eu/en/publications-data/antimicrobial-consumption-eueea-esac-net-annual-epidemiological-report-2025
