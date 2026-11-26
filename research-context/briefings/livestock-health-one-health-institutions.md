@@ -83,6 +83,9 @@ The 26 November 2026 report `MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade
 
 - WOAH Middle East, Foot and Mouth Disease regional page, updated 24 November 2026: https://rr-middleeast.woah.org/en/foot-and-mouth-disease/
 - FAO, Mongolia SAT1 field-assessment update, 13 November 2026: https://www.fao.org/animal-health/news-events/news/detail/fao-hands-over-laboratory-diagnostic-kits-to-support-the-response-to-sat-1-foot-and-mouth-disease/en
+- WOAH Africa, immediate notifications in Africa, including Botswana and Algeria SAT1 events in November 2026: https://rr-africa.woah.org/en/immediate-notifications-in-africa/
+- FAO Asia-Pacific, SAT1 preparedness and vaccine-suitability warning, 17 June 2026: https://www.fao.org/asiapacific/news/news-detail/fao-moves-to-avert-wider-livestock-crisis-as-new-foot-and-mouth-disease-serotype-threat-reaches-asia/en
+- FAO, Rapid risk assessment: FMD SAT1, version 2, published 4 March 2026 using information through 23 February 2026: https://www.fao.org/animal-health/rapid-risk-assessment-fmd/en
 - FAO, Middle East Regional Strategy 2026–2030 launch, 30 September 2026: https://www.fao.org/neareast/news/details/advancing-foot-and-mouth-disease-prevention-in-the-middle-east-launch-of-the-regional-strategy-2026-2030/en
 - WOAH, Foot and Mouth Disease overview: https://www.woah.org/en/disease/foot-and-mouth-disease/
 
