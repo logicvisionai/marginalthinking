@@ -2,17 +2,17 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-24",
   "slug": "2026-11-24-global-macro",
-  "revision": 8,
+  "revision": 9,
   "rejection_count_for_id": 3,
   "rejection_loop_limit_reached": true,
   "qa_status": "blocked",
   "block_reason": "rejection_loop_limit_reached",
-  "reviewed_at": "2026-11-25T21:35:16-03:00",
-  "reviewed_commit": "e9f11dba4cb09e10e83e2b16438049d243a22351",
-  "pending_blob_sha": "cb6e8a6295aa73f1be243059fab98c21c07b73b6",
+  "reviewed_at": "2026-11-25T22:02:29-03:00",
+  "reviewed_commit": "5db7747c0d044a79dd73ee60cb504d8e4257288d",
+  "pending_blob_sha": "dbd9f27a01f4d7766aa935991d0f2dd48f446184",
   "source_blob_shas": {
-    "en": "a8ee063db65f3e8ca56f4203308a2d2b890829e5",
-    "pt-BR": "fc5110aa0e501f82df40bca4c317dd8262a5d04d"
+    "en": "c8a13bd7b03aebd11e0143c92419659f2b15ccfb",
+    "pt-BR": "c5350569f9ed9ba87d0338226b4739b919eb9e49"
   },
   "reconciliation_run_id": "2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation",
   "previous_rejections": [
@@ -252,96 +252,98 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Re-read the schema-v2 pending sidecar and both complete staged Markdown files at HEAD e9f11dba4cb09e10e83e2b16438049d243a22351. Exact tuple: pending cb6e8a6295aa73f1be243059fab98c21c07b73b6; EN a8ee063db65f3e8ca56f4203308a2d2b890829e5; PT-BR fc5110aa0e501f82df40bca4c317dd8262a5d04d."
+      "summary": "Re-read the schema-v2 pending sidecar and both complete staged Markdown editions at exact HEAD 5db7747c0d044a79dd73ee60cb504d8e4257288d. Exact revision-9 tuple: pending dbd9f27a01f4d7766aa935991d0f2dd48f446184; EN c8a13bd7b03aebd11e0143c92419659f2b15ccfb; PT-BR c5350569f9ed9ba87d0338226b4739b919eb9e49. Latest commit changed only these three staged artifacts."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Pending revision 8 is schema_version 2, ready true, canonical ID/slug, daily-global-macro kind, registered political-economy-markets program, valid related program, global geography, controlled topics and war-armed-conflict phenomenon."
+      "summary": "Pending is schema_version 2, ready true, canonical ID/slug, revision 9, kind daily-global-macro, program political-economy-markets, related program global-system-power, global geography and registered war-armed-conflict phenomenon."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "The 24 November 2026 20:45 BRT cutoff is explicit. The cited BCB Focus report is dated 19 November and was available before cutoff; the defect is the selected value, not the source vintage."
+      "summary": "The 24 November 2026 20:45 BRT information cutoff and publication timestamp are explicit. The BCB Focus report dated 19 November, Worldsteel release dated 24 November, Ifo release dated 24 November, 23–24 November market sessions and all cited policy/commodity releases precede the stated cutoff."
     },
     "factual_methodology": {
-      "result": "failed",
-      "summary": "The 2027 Focus terminal Selic median in the cited 19 November report is 13.00%, not 12.75%. The article's 12.00% to 12.75% comparison is not supported by the cited vintage."
+      "result": "passed_with_minor_limitations",
+      "summary": "The corrected 19 November BCB Focus terminal Selic median is 13.00% today, 12.75% one week earlier and 11.75% four weeks earlier; the article and pending source-audit now match. The Ministry's 12.93% accumulated Selic parameter remains correctly distinguished from the Focus terminal median. Principal PMI, Worldsteel, Ifo, Treasury, NFCI, IIF, IEA, FAO, PTAX, B3 and central-bank figures were checked against original sources. Minor rounding and citation-path limitations do not alter the thesis."
     },
     "evidence_traceability": {
-      "result": "failed",
-      "summary": "Reference [26] is an official primary source, but its current 2027 Selic median contradicts the number stated in both editions and the pending source-audit note."
+      "result": "passed_with_minor_limitations",
+      "summary": "Thirty numbered references appear in both editions. Primary sources support the central-bank settings, Focus vintage, Ministry forecast grid, Worldsteel production, Ifo values (the official press-release page links its four-page data PDF), Treasury curve, Chicago Fed/ALFRED vintage, IIF flows, IEA balance, FAO index and PTAX. Conflict/shipping claims remain attributed to Reuters and named reporting actors."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "Both editions exceed the daily brief threshold and include regional evidence, multiple transmission mechanisms, contrary evidence, scenarios and observable falsifiers. Exact-HEAD editorial-depth CI passed for 216 revised/future artifacts."
+      "summary": "Both editions contain a multiregional thesis, competing evidence, five analytical sections, conditional scenarios and observable falsifiers. Repository-compatible counts are approximately 4,288 EN and 5,125 PT-BR words including tables and references; the exact-HEAD depth job did not list this candidate among its six failing drafts."
     },
     "visual_evidence_readiness": {
-      "result": "passed",
-      "summary": "Both locales contain two quantitative charts, four ordinary Markdown tables, one causal flow and one regional exposure map. Visual structures are evidence-bearing and numerically equivalent."
+      "result": "failed",
+      "summary": "The visual floor is numerically met in both locales (two explicit charts, four ordinary Markdown tables, one flow and one regional map), with matching data and units. However, the first PMI chart title incorrectly describes all plotted economies as euro-area constituents even though the chart also includes the United States, United Kingdom, Japan and India. The third flow chain states higher refinancing/foreign-currency costs and weaker investment as categorical outcomes, while the report supplies EM portfolio-outflow estimates but no direct EM borrowing-cost or investment evidence; the NFCI is negative and describes looser-than-average US conditions. These are material scope and inference defects under RESEARCH-VISUALS.md."
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "The EN and PT-BR editions preserve the same numbers, dates, qualifications, references, charts, tables, flow and map. The Focus error is repeated consistently in both languages."
+      "summary": "EN and PT-BR contain equivalent data, dates, 30 references, two charts, four tables, one flow and one map. Both editions repeat the same PMI chart-scope mislabel and the same over-categorical third flow chain."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The report includes competing interpretations, conditional upside/downside paths and observable falsifiers."
+      "summary": "The article separates survey readings from GDP, crude supply from refined-product availability, portfolio-flow estimates from total capital flight, and the Ministry's forecast vintage from Focus market medians. It includes contrary evidence, scenarios and falsifiers."
     },
     "novelty_vs_corpus": {
       "result": "passed",
-      "summary": "The cross-region industrial-output and financing-dispersion thesis is distinct from the 23 November China iron-ore/steel inventory edition."
+      "summary": "The 24 November regional PMI/steel-output and financing-dispersion thesis is distinct from 23 November China's iron-ore/inventory transmission, 22 November productivity/AI valuation, and 21 November cross-asset repricing."
     },
     "system_registry_reconciliation": {
-      "result": "passed",
-      "summary": "The pending binds report-specific run 2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation; it assesses all seven active reconciliation-required assets and records evidence gaps without unsupported dataset updates."
+      "result": "passed_with_limitation",
+      "summary": "The referenced run 2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation names MT-GM-2026-11-24 and records decisions for all seven active reconciliation-required assets. Revision 9 only corrects the BCB Focus vintage and does not change any registry asset."
     },
     "editorial_style": {
       "result": "passed",
-      "summary": "Analytical prose, numbered references at the end, explicit observation periods and attribution of conflict/shipping claims; no internal production labels."
-    },
-    "producer_preflight_consistency": {
-      "result": "failed",
-      "summary": "The pending source_audit.reproducibility_notes.brazil_forecast repeats 12.75% as the current 2027 Focus terminal median, so the internal evidence record carries the same vintage error."
+      "summary": "Institutional prose is neutral, sources are grouped at the end, market and conflict claims are attributed, and no internal production labels appear."
     },
     "editorial_depth_script": {
-      "result": "passed",
-      "summary": "Exact-HEAD workflow 45724330285 reports 'Editorial depth validation OK: 216 revised and future research artifacts'; this candidate is not among the draft failures."
+      "result": "passed_with_global_failures",
+      "summary": "Exact-HEAD workflow 45731871512 ran scripts/validate-editorial-depth.mjs. It failed on six other drafts missing visual-evidence budgets; this candidate was not among the failures."
     },
     "pipeline_validation": {
-      "result": "passed_with_limitation",
-      "summary": "Exact-HEAD workflow 45724330285 ran scripts/validate-pipeline.mjs successfully: 213 public bundles, zero approved-unpublished and six legacy pending already public. The default pipeline gate does not independently approve unapproved pending drafts."
+      "result": "passed",
+      "summary": "Exact-HEAD workflow 45731871432 ran scripts/validate-pipeline.mjs successfully: 213 public bundles, 20 unpublished pending, zero approved-unpublished and six legacy pending already public. The candidate is staged and has no live approval."
     },
     "repository_build": {
-      "result": "passed_with_limitation",
-      "summary": "The build job passed, including pipeline, editorial-depth, research and visual-output checks. The separate deploy job failed at Check Cloudflare credentials; deployment and live verification were skipped."
-    },
-    "publication_snapshot_integrity": {
-      "result": "not_run",
-      "summary": "No approval snapshot was created because the material Focus-vintage discrepancy blocks editorial publication readiness."
+      "result": "passed_with_deploy_block",
+      "summary": "The exact-HEAD build job passed validation/build, public visual semantics, generated-site and Worker checks. The separate deploy job failed at Cloudflare credentials; deployment and live verification were skipped."
     },
     "concurrent_approval_integrity": {
       "result": "passed",
-      "summary": "The only approval sidecar remains revoked for revision 2; no approval or public metadata exists for revision 8."
+      "summary": "No approval exists for revision 9 and no public metadata exists for MT-GM-2026-11-24. The existing approval sidecar is revoked and binds revision 2 only."
+    },
+    "publication_snapshot_integrity": {
+      "result": "not_run",
+      "summary": "No approval or publication snapshot was created because visual_evidence_readiness failed."
     },
     "editorial_publication_readiness": {
       "result": "blocked",
-      "summary": "A material current-value mismatch remains in both locales and the pending source audit. The item cannot be approved until corrected. The ID has already reached its three-rejection limit, so this is recorded as a block rather than a fourth rejection."
+      "summary": "Revision 9 is not publication-ready until the PMI chart scope is corrected in both locales and the third causal flow is qualified as a potential transmission channel, with the absence of direct EM borrowing-cost/investment evidence stated."
     },
     "rejection_loop_guard": {
       "result": "blocked",
-      "summary": "rejection_count_for_id remains 3; no fourth rejection was created. Per the existing replay_guard, this changed tuple was reviewed and remains blocked pending correction."
+      "summary": "The ID has reached its three-rejection limit. This review records a post-limit block for the new revision-9 tuple without creating a fourth rejection; rejection_count_for_id remains 3."
     }
   },
   "issues": [
     {
-      "code": "BRAZIL_FOCUS_2027_SELIC_TERMINAL_MEDIAN_VINTAGE_MISMATCH",
+      "code": "PMI_CHART_SCOPE_MISLABELLED",
       "severity": "material",
-      "status": "active",
-      "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:85; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:85; data/pending/2026-11-24-global-macro.json:producer_checks.source_audit.reproducibility_notes.brazil_forecast",
-      "evidence": "The 19 November 2026 Banco Central do Brasil Focus report, page 1, row 'Selic (% a.a.)', gives the 2027 terminal-rate median as 13.00% today, 12.75% one week earlier and 11.75% four weeks earlier. The staged EN and PT-BR texts instead say the median rose from 12.00% to 12.75%, and the pending source-audit note records 12.75% as the current terminal median. This is a stale/misread vintage and the cited primary source contradicts the claim. Official source: https://www.bcb.gov.br/content/focus/focus/R20261119.pdf, page 1, line 49 of the parsed release.",
-      "required_correction": "In both locales, state the 19 November 2026 Focus median for the 2027 terminal Selic rate as 13.00%. If reporting the recent change, identify 12.75% as the one-week-earlier median and 11.75% as the four-week-earlier median. Correct the pending source_audit.reproducibility_notes.brazil_forecast to use the same vintage. Preserve the conceptual distinction between the Ministry's 12.93% accumulated Selic parameter and the Focus terminal-rate median; do not treat them as the same measure."
+      "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:23; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:23",
+      "evidence": "The chart lists United States, Euro area, Germany, France, United Kingdom, Japan and India. Its title says 'euro-area aggregate and constituent economies', which falsely classifies the United States, United Kingdom, Japan and India as euro-area constituents. RESEARCH-VISUALS.md requires titles to make the comparison unambiguous.",
+      "required_correction": "Retitle both charts to a scope-neutral label such as 'Selected economies — November 2026 flash composite PMI output indices (non-additive comparison)' and 'Economias selecionadas — índices compostos de atividade PMI de novembro de 2026 (comparação não aditiva)'. Preserve the exact series, values, units and non-additive qualification."
+    },
+    {
+      "code": "FLOW_CAUSALITY_UNQUALIFIED",
+      "severity": "material",
+      "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:163-168; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:163-168",
+      "evidence": "The third flow chain states that broad US financial conditions and emerging-market outflows lead to higher refinancing/foreign-currency funding costs, then weaker investment and more selective hiring. The report provides an IIF estimate of portfolio outflows, but no direct EM borrowing-cost, FX-funding or investment series. The Chicago Fed NFCI is −0.478, a looser-than-average US reading, so it cannot itself substantiate a generalized increase in refinancing costs. RESEARCH-VISUALS.md requires every arrowed mechanism to be defended by the prose and evidence.",
+      "required_correction": "Rewrite the chain as a conditional channel, e.g. 'Continued EM portfolio outflows → potential pressure on FX liquidity and external refinancing access → possible higher funding costs for marginal borrowers → investment/hiring restraint if funding constraints persist'. Add one sentence stating that the report has no direct comparable EM borrowing-cost or investment series and does not claim those effects have already occurred. Keep the negative US NFCI interpretation separate from the EM outflow channel."
     }
   ],
-  "notes": "Post-limit QA review of revision 8. The previous ICE BofA OAS licensing issue is resolved by removing the values/chart and replacing the series with the Chicago Fed NFCI. A new material factual discrepancy was found in the Brazil Focus comparison: the 19 November 2026 Focus report gives the 2027 terminal Selic median as 13.00%, while both staged editions and the pending source-audit note use 12.75% as the current value and state an unsupported 12.00% to 12.75% move. The article's comparison with the Ministry's accumulated Selic parameter must be recalibrated. The ID has already reached three rejections; this update preserves rejection_count_for_id=3 and qa_status=blocked and is not a fourth rejection. Rework owner: MT 1/5 — Diário e Radar.",
+  "notes": "Post-limit QA review of revision 9. The 19 November BCB Focus value is now correctly 13.00% today, 12.75% one week earlier and 11.75% four weeks earlier in both locales and the pending source-audit. The earlier revision-8 Focus issue is resolved. The new tuple remains blocked because the PMI chart title misclassifies non-euro economies as euro-area constituents and the third causal flow states unmeasured EM refinancing/investment effects as outcomes. The ID has already reached three rejections; no fourth rejection was created. The record now points to the current revision-9 tuple while preserving all three prior rejections and the revision-8 post-limit block. Rework owner: MT 1/5 — Diário e Radar.",
   "prior_blocked_revision": {
     "revision": 7,
     "pending_blob_sha": "5a9ab005d244d396d1fccedd1a23e46fc82c6820",
@@ -359,5 +361,141 @@
     "resolution_status": "resolved_in_revision_8",
     "resolution_evidence": "Revision 8 removes the ICE BofA US High Yield OAS values and chart from both staged editions and replaces the series with the Chicago Fed NFCI. The current FRED series is tagged 'Copyrighted: Citation Required', and the article cites Chicago Fed, FRED and the 18 November ALFRED vintage. No pre-approval-only ICE series values remain in the staged article."
   },
-  "rework_owner": "MT 1/5 — Diário e Radar"
+  "rework_owner": "MT 1/5 — Diário e Radar",
+  "prior_blocked_revision_8": {
+    "revision": 8,
+    "reviewed_at": "2026-11-25T21:35:16-03:00",
+    "reviewed_commit": "e9f11dba4cb09e10e83e2b16438049d243a22351",
+    "pending_blob_sha": "cb6e8a6295aa73f1be243059fab98c21c07b73b6",
+    "source_blob_shas": {
+      "en": "a8ee063db65f3e8ca56f4203308a2d2b890829e5",
+      "pt-BR": "fc5110aa0e501f82df40bca4c317dd8262a5d04d"
+    },
+    "reconciliation_run_id": "2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation",
+    "checks": {
+      "source_integrity": {
+        "result": "passed",
+        "summary": "Re-read the schema-v2 pending sidecar and both complete staged Markdown files at HEAD e9f11dba4cb09e10e83e2b16438049d243a22351. Exact tuple: pending cb6e8a6295aa73f1be243059fab98c21c07b73b6; EN a8ee063db65f3e8ca56f4203308a2d2b890829e5; PT-BR fc5110aa0e501f82df40bca4c317dd8262a5d04d."
+      },
+      "schema_and_taxonomy": {
+        "result": "passed",
+        "summary": "Pending revision 8 is schema_version 2, ready true, canonical ID/slug, daily-global-macro kind, registered political-economy-markets program, valid related program, global geography, controlled topics and war-armed-conflict phenomenon."
+      },
+      "source_vintage_and_cutoff": {
+        "result": "passed",
+        "summary": "The 24 November 2026 20:45 BRT cutoff is explicit. The cited BCB Focus report is dated 19 November and was available before cutoff; the defect is the selected value, not the source vintage."
+      },
+      "factual_methodology": {
+        "result": "failed",
+        "summary": "The 2027 Focus terminal Selic median in the cited 19 November report is 13.00%, not 12.75%. The article's 12.00% to 12.75% comparison is not supported by the cited vintage."
+      },
+      "evidence_traceability": {
+        "result": "failed",
+        "summary": "Reference [26] is an official primary source, but its current 2027 Selic median contradicts the number stated in both editions and the pending source-audit note."
+      },
+      "research_depth": {
+        "result": "passed",
+        "summary": "Both editions exceed the daily brief threshold and include regional evidence, multiple transmission mechanisms, contrary evidence, scenarios and observable falsifiers. Exact-HEAD editorial-depth CI passed for 216 revised/future artifacts."
+      },
+      "visual_evidence_readiness": {
+        "result": "passed",
+        "summary": "Both locales contain two quantitative charts, four ordinary Markdown tables, one causal flow and one regional exposure map. Visual structures are evidence-bearing and numerically equivalent."
+      },
+      "bilingual_equivalence": {
+        "result": "passed",
+        "summary": "The EN and PT-BR editions preserve the same numbers, dates, qualifications, references, charts, tables, flow and map. The Focus error is repeated consistently in both languages."
+      },
+      "counterfactual_review": {
+        "result": "passed",
+        "summary": "The report includes competing interpretations, conditional upside/downside paths and observable falsifiers."
+      },
+      "novelty_vs_corpus": {
+        "result": "passed",
+        "summary": "The cross-region industrial-output and financing-dispersion thesis is distinct from the 23 November China iron-ore/steel inventory edition."
+      },
+      "system_registry_reconciliation": {
+        "result": "passed",
+        "summary": "The pending binds report-specific run 2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation; it assesses all seven active reconciliation-required assets and records evidence gaps without unsupported dataset updates."
+      },
+      "editorial_style": {
+        "result": "passed",
+        "summary": "Analytical prose, numbered references at the end, explicit observation periods and attribution of conflict/shipping claims; no internal production labels."
+      },
+      "producer_preflight_consistency": {
+        "result": "failed",
+        "summary": "The pending source_audit.reproducibility_notes.brazil_forecast repeats 12.75% as the current 2027 Focus terminal median, so the internal evidence record carries the same vintage error."
+      },
+      "editorial_depth_script": {
+        "result": "passed",
+        "summary": "Exact-HEAD workflow 45724330285 reports 'Editorial depth validation OK: 216 revised and future research artifacts'; this candidate is not among the draft failures."
+      },
+      "pipeline_validation": {
+        "result": "passed_with_limitation",
+        "summary": "Exact-HEAD workflow 45724330285 ran scripts/validate-pipeline.mjs successfully: 213 public bundles, zero approved-unpublished and six legacy pending already public. The default pipeline gate does not independently approve unapproved pending drafts."
+      },
+      "repository_build": {
+        "result": "passed_with_limitation",
+        "summary": "The build job passed, including pipeline, editorial-depth, research and visual-output checks. The separate deploy job failed at Check Cloudflare credentials; deployment and live verification were skipped."
+      },
+      "publication_snapshot_integrity": {
+        "result": "not_run",
+        "summary": "No approval snapshot was created because the material Focus-vintage discrepancy blocks editorial publication readiness."
+      },
+      "concurrent_approval_integrity": {
+        "result": "passed",
+        "summary": "The only approval sidecar remains revoked for revision 2; no approval or public metadata exists for revision 8."
+      },
+      "editorial_publication_readiness": {
+        "result": "blocked",
+        "summary": "A material current-value mismatch remains in both locales and the pending source audit. The item cannot be approved until corrected. The ID has already reached its three-rejection limit, so this is recorded as a block rather than a fourth rejection."
+      },
+      "rejection_loop_guard": {
+        "result": "blocked",
+        "summary": "rejection_count_for_id remains 3; no fourth rejection was created. Per the existing replay_guard, this changed tuple was reviewed and remains blocked pending correction."
+      }
+    },
+    "issues": [
+      {
+        "code": "BRAZIL_FOCUS_2027_SELIC_TERMINAL_MEDIAN_VINTAGE_MISMATCH",
+        "severity": "material",
+        "status": "active",
+        "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:85; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:85; data/pending/2026-11-24-global-macro.json:producer_checks.source_audit.reproducibility_notes.brazil_forecast",
+        "evidence": "The 19 November 2026 Banco Central do Brasil Focus report, page 1, row 'Selic (% a.a.)', gives the 2027 terminal-rate median as 13.00% today, 12.75% one week earlier and 11.75% four weeks earlier. The staged EN and PT-BR texts instead say the median rose from 12.00% to 12.75%, and the pending source-audit note records 12.75% as the current terminal median. This is a stale/misread vintage and the cited primary source contradicts the claim. Official source: https://www.bcb.gov.br/content/focus/focus/R20261119.pdf, page 1, line 49 of the parsed release.",
+        "required_correction": "In both locales, state the 19 November 2026 Focus median for the 2027 terminal Selic rate as 13.00%. If reporting the recent change, identify 12.75% as the one-week-earlier median and 11.75% as the four-week-earlier median. Correct the pending source_audit.reproducibility_notes.brazil_forecast to use the same vintage. Preserve the conceptual distinction between the Ministry's 12.93% accumulated Selic parameter and the Focus terminal-rate median; do not treat them as the same measure."
+      }
+    ],
+    "notes": "Post-limit QA review of revision 8. The previous ICE BofA OAS licensing issue is resolved by removing the values/chart and replacing the series with the Chicago Fed NFCI. A new material factual discrepancy was found in the Brazil Focus comparison: the 19 November 2026 Focus report gives the 2027 terminal Selic median as 13.00%, while both staged editions and the pending source-audit note use 12.75% as the current value and state an unsupported 12.00% to 12.75% move. The article's comparison with the Ministry's accumulated Selic parameter must be recalibrated. The ID has already reached three rejections; this update preserves rejection_count_for_id=3 and qa_status=blocked and is not a fourth rejection. Rework owner: MT 1/5 — Diário e Radar."
+  },
+  "post_limit_reviews": [
+    {
+      "revision": 9,
+      "reviewed_at": "2026-11-25T22:02:29-03:00",
+      "reviewed_commit": "5db7747c0d044a79dd73ee60cb504d8e4257288d",
+      "pending_blob_sha": "dbd9f27a01f4d7766aa935991d0f2dd48f446184",
+      "source_blob_shas": {
+        "en": "c8a13bd7b03aebd11e0143c92419659f2b15ccfb",
+        "pt-BR": "c5350569f9ed9ba87d0338226b4739b919eb9e49"
+      },
+      "qa_status": "blocked",
+      "block_reason": "rejection_loop_limit_reached",
+      "rejection_count_incremented": false,
+      "issues": [
+        {
+          "code": "PMI_CHART_SCOPE_MISLABELLED",
+          "severity": "material",
+          "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:23; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:23",
+          "evidence": "The chart lists United States, Euro area, Germany, France, United Kingdom, Japan and India. Its title says 'euro-area aggregate and constituent economies', which falsely classifies the United States, United Kingdom, Japan and India as euro-area constituents. RESEARCH-VISUALS.md requires titles to make the comparison unambiguous.",
+          "required_correction": "Retitle both charts to a scope-neutral label such as 'Selected economies — November 2026 flash composite PMI output indices (non-additive comparison)' and 'Economias selecionadas — índices compostos de atividade PMI de novembro de 2026 (comparação não aditiva)'. Preserve the exact series, values, units and non-additive qualification."
+        },
+        {
+          "code": "FLOW_CAUSALITY_UNQUALIFIED",
+          "severity": "material",
+          "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:163-168; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:163-168",
+          "evidence": "The third flow chain states that broad US financial conditions and emerging-market outflows lead to higher refinancing/foreign-currency funding costs, then weaker investment and more selective hiring. The report provides an IIF estimate of portfolio outflows, but no direct EM borrowing-cost, FX-funding or investment series. The Chicago Fed NFCI is −0.478, a looser-than-average US reading, so it cannot itself substantiate a generalized increase in refinancing costs. RESEARCH-VISUALS.md requires every arrowed mechanism to be defended by the prose and evidence.",
+          "required_correction": "Rewrite the chain as a conditional channel, e.g. 'Continued EM portfolio outflows → potential pressure on FX liquidity and external refinancing access → possible higher funding costs for marginal borrowers → investment/hiring restraint if funding constraints persist'. Add one sentence stating that the report has no direct comparable EM borrowing-cost or investment series and does not claim those effects have already occurred. Keep the negative US NFCI interpretation separate from the EM outflow channel."
+        }
+      ],
+      "notes": "New revision-9 tuple was reviewed in full. The prior Focus-vintage defect is resolved; two material visual/inference defects remain. This is a post-limit block, not a fourth rejection."
+    }
+  ]
 }
