@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-26T13:56:13-03:00",
+  "last_reconciled_at": "2026-11-26T14:00:12-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10916,6 +10916,51 @@
         "MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk"
       ],
       "audit_note": "Producer-stage reconciliation for SAT1/FMD regional livestock-trade report, revision 3. The revision repairs Markdown table syntax, adds a dated aggregation of FAO's February 2026 risk matrix, and adds WOAH's general serotype-specific vaccine guidance; no canonical cumulative dataset update is supported. The new chart is a qualitative risk classification, not an outbreak count or probability. No cross-disease or animal-to-human inference is made.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report identifies cross-border animal movement and trade channels but has no comparable bilateral livestock trade, veterinary service, border-control or commodity exposure matrix. No dependency edge is inferred."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Surveillance, laboratory and vaccine-match needs are policy/infrastructure gaps, but no site-level project with verified sponsor, committed capital, permits, capacity, contracted demand and cash flows is established. The separate daily Atlas scan records only conditional hypotheses."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "No ownership, voting rights, board control or strategic-control relationship change is evidenced."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No concession, reserve, mineral title, resource right or operator-control change is evidenced."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The regional 2026–2030 strategy is a framework/launch; this report does not establish national funding, implementation or ex-post outcomes and a defensible counterfactual for a canonical policy-case update."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Animal disease notifications are not conflict events; no territorial-control or conflict-system change is inferred."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Vaccine matching and diagnostic capacity are operational requirements; no new validated technical capability, deployment milestone or manufacturing-scale signal is established."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-4-publication-reconciliation",
+      "reconciled_at": "2026-11-26T14:00:12-03:00",
+      "report_ids_reviewed": [
+        "MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk"
+      ],
+      "audit_note": "Producer-stage reconciliation for SAT1/FMD regional livestock-trade report, revision 4. The revision clarifies that first-occurrence and renewed notifications are separate country-level categories and dates the FAO risk-assessment chart to its 23 February 2026 data vintage. No numerical observations, outbreak counts or canonical cumulative datasets changed.",
       "decisions": [
         {
           "asset_id": "global-dependency-network",

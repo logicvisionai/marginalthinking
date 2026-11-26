@@ -16,16 +16,16 @@ A febre aftosa é uma doença viral altamente contagiosa que afeta animais de ca
 
 SAT1 é um dos vários sorotipos do vírus da febre aftosa. Uma primeira notificação em um país significa que o sorotipo foi reportado ali pela primeira vez no sistema oficial; não significa que o país nunca teve febre aftosa, que todos os rebanhos estejam infectados ou que todo o território esteja afetado. O resumo da WOAH de agosto de 2026 registra primeiras ocorrências de SAT1 no Iraque, Kuwait, Egito e Azerbaijão em 2025, e em Israel, Chipre, Palestina, China e Mongólia em 2026. Também registra novas notificações na Türkiye, no Líbano e na Grécia após cerca de seis décadas. A página regional do Oriente Médio, atualizada em 24 de novembro, descreve SAT1 chegando à região em 2025–2026 e identifica a estratégia regional que orienta prevenção e controle. [1] [4]
 
-| Primeiras notificações oficiais de ocorrência via WAHIS | Contagem | Escopo |
+| Categorias de notificações de SAT1 por país reportadas via WAHIS | Contagem | Escopo |
 |---|---:|---|
-| 2025 | 4 | Iraque, Kuwait, Egito, Azerbaijão |
-| 2026 até 26 de agosto | 5 | Israel, Chipre, Palestina, China, Mongólia |
-| Notificações renovadas de SAT1 após cerca de 60 anos | 3 | Türkiye, Líbano, Grécia; não são primeiras notificações de FMD |
+| Primeira ocorrência em 2025 | 4 | Iraque, Kuwait, Egito, Azerbaijão |
+| Primeira ocorrência em 2026 até 26 de agosto | 5 | Israel, Chipre, Palestina, China, Mongólia |
+| Notificação renovada após ~60 anos (2025–26) | 3 | Türkiye, Líbano, Grécia; não são primeiras notificações de FMD |
 
 ```chart
 type: bar
-title: Primeiras notificações de ocorrência de SAT1 por ano, resumo da WOAH
-unit: países; não total de surtos
+title: Categorias de notificações de SAT1 por país reportadas pela WOAH
+unit: países; primeiras ocorrências e notificações renovadas são categorias distintas
 2025 | 4
 2026 até 26 de agosto | 5
 ```
@@ -48,7 +48,7 @@ A WOAH identifica biossegurança, vacinação, controles de movimentação e vig
 
 ```chart
 type: bar
-title: Avaliação da exposição a SAT1 pela FAO, fevereiro de 2026
+title: Avaliação de exposição a SAT1 pela FAO (dados até 23 de fevereiro de 2026)
 unit: países/territórios; categorias qualitativas, não probabilidades
 Improvável | 2
 Provável | 9

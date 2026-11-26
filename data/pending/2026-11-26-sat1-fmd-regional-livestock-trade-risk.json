@@ -145,7 +145,8 @@
       "charts": 2,
       "tables": 1,
       "flows": 1,
-      "maps": 1
+      "maps": 1,
+      "chart_semantics": "Chart 1 compares country counts in three distinct notification categories, not a continuous time series: first occurrences in 2025, first occurrences through 26 Aug 2026, and renewed notifications after about 60 years in 2025–26. Chart 2 is the FAO qualitative risk matrix aggregation using data through 23 Feb 2026."
     },
     "source_audit": {
       "references": 8,
@@ -170,15 +171,17 @@
       "repository_script_validator": "Candidate-specific visual grammar and depth thresholds checked against scripts/validate-editorial-depth.mjs and scripts/lib/visuals.mjs; exact-HEAD CI remains independent."
     }
   },
-  "revision": 3,
-  "revision_reason": "Repairs literal escaped newline sequences in the EN/PT-BR evidence table, adds a second sourced chart from FAO's dated 17-country risk matrix, and adds WOAH's disease overview to support serotype-specific vaccine matching; the main thesis and observed outbreak notifications are unchanged.",
-  "revision_scope": "Same SAT1/FMD report ID and slug. Both locales now render the notification table correctly, include the same second chart derived from the FAO February 2026 likelihood-impact matrix, and cite WOAH's general disease guidance for serotype-specific vaccine immunity. No new outbreak count, herd prevalence, loss estimate or causal claim is introduced.",
+  "revision": 4,
+  "revision_reason": "Clarifies the first chart and table as country-level notification categories, separating first occurrences from renewed notifications; dates the FAO assessment chart by its 23 February 2026 data vintage. No numerical values or source observations changed.",
+  "revision_scope": "Presentation semantics only. EN/PT-BR table headers, first-chart title/unit/category labels and second-chart title now distinguish notification types and the FAO assessment's data cutoff without changing any series, source or thesis.",
   "qa_fixes_applied": [
     "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT",
     "LITERAL_BACKSLASH_N_TABLE_REPAIRED_IN_BOTH_LOCALES",
     "FAO_RISK_MATRIX_SECOND_CHART_ADDED_IN_BOTH_LOCALES",
-    "WOAH_SEROTYPE_SPECIFIC_VACCINE_SOURCE_ADDED"
+    "WOAH_SEROTYPE_SPECIFIC_VACCINE_SOURCE_ADDED",
+    "NOTIFICATION_CATEGORY_CHART_LABELS_CLARIFIED",
+    "FAO_ASSESSMENT_VINTAGE_IN_CHART_TITLE"
   ],
-  "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-3-publication-reconciliation",
-  "revised_at": "2026-11-26T13:56:13-03:00"
+  "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-4-publication-reconciliation",
+  "revised_at": "2026-11-26T14:00:12-03:00"
 }

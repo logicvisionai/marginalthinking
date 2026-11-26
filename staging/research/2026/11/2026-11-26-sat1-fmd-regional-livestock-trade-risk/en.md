@@ -16,16 +16,16 @@ FMD is a highly contagious viral disease affecting cloven-hoofed animals, includ
 
 SAT1 is one of several FMD virus serotypes. A first notification in a country means that the serotype was reported there for the first time through the official system; it does not mean that the country had no FMD previously, that every herd is infected or that the entire country is affected. WOAH's August 2026 summary records first SAT1 occurrences in Iraq, Kuwait, Egypt and Azerbaijan in 2025, and in Israel, Cyprus, Palestine, China and Mongolia in 2026. It also records renewed notifications in Türkiye, Lebanon and Greece after about six decades. The Middle East regional page, updated 24 November, describes SAT1 reaching the region in 2025–2026 and identifies the regional strategy now guiding prevention and control. [1] [4]
 
-| Official first-occurrence notifications through WAHIS | Count | Scope |
+| Country-level SAT1 notification categories reported through WAHIS | Count | Scope |
 |---|---:|---|
-| 2025 | 4 | Iraq, Kuwait, Egypt, Azerbaijan |
-| 2026 through 26 August | 5 | Israel, Cyprus, Palestine, China, Mongolia |
-| Renewed SAT1 notifications after about 60 years | 3 | Türkiye, Lebanon, Greece; not first-ever FMD reports |
+| First occurrence 2025 | 4 | Iraq, Kuwait, Egypt, Azerbaijan |
+| First occurrence 2026 through 26 August | 5 | Israel, Cyprus, Palestine, China, Mongolia |
+| Renewed after ~60 years (2025–26) | 3 | Türkiye, Lebanon, Greece; not first-ever FMD reports |
 
 ```chart
 type: bar
-title: First SAT1 occurrence notifications by year, as summarized by WOAH
-unit: countries; not total outbreaks
+title: Country-level SAT1 notification categories reported by WOAH
+unit: countries; first occurrences and renewed notifications are separate categories
 2025 | 4
 2026 through 26 August | 5
 ```
@@ -48,7 +48,7 @@ WOAH identifies biosecurity, vaccination, movement controls and border surveilla
 
 ```chart
 type: bar
-title: FAO's February 2026 SAT1 exposure assessment by likelihood
+title: FAO SAT1 exposure assessment (data as of 23 February 2026)
 unit: countries/territories; qualitative categories, not probabilities
 Unlikely | 2
 Likely | 9
