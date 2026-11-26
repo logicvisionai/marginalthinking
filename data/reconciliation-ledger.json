@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-26T04:45:00-03:00",
+  "last_reconciled_at": "2026-11-26T05:10:00-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10411,6 +10411,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Nvidia ratings and equity repricing are governance/market observations, not a demonstrated new technical capability, independent replication, deployment milestone or manufacturing-scale change."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-mt-bio-2026-11-23-amr-implementation-gap-revision-1-publication-reconciliation",
+      "reconciled_at": "2026-11-26T05:10:00-03:00",
+      "report_ids_reviewed": [
+        "MT-BIO-2026-11-23-amr-implementation-gap"
+      ],
+      "audit_note": "Producer-stage reconciliation for corrected AMR implementation-gap revision 1. The report updates human clinical resistance, national AMR implementation capacity and animal antimicrobial-use measurement. All seven active reconciliation-required assets were assessed; no canonical cumulative dataset change is supported. No animal-to-human causal edge, new conflict event, ownership transfer, resource right or deployed technology signal is inferred.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "The report compares AMR governance indicators and separate animal/human datasets, but provides no source-audited bilateral trade, finance, energy or dependency weights. No dependency edge is inferred."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "No site-level project with verified sponsor, committed capital, permits, schedule, utilities, capacity, contracted demand and cash flows is identified. Diagnostic and surveillance capacity gaps are policy needs, not validated project candidates."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "No beneficial ownership, voting rights, board control or strategic-control relationship changes are evidenced."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No concession, reserve, mineral title, resource right or operator-control change is evidenced."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "The report assesses current implementation and surveillance indicators but does not establish an implemented policy intervention with ex-post outcome and defensible counterfactual suitable for a canonical policy-case update."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "The report contains no independently verified conflict-system transition or territorial-control change."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Laboratory capacity and surveillance systems are institutional capabilities; the report does not establish a new technical capability with independent validation, deployment milestone or manufacturing-scale evidence."
         }
       ]
     }

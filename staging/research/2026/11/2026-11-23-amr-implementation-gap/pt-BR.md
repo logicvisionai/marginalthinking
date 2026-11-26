@@ -10,7 +10,7 @@ O novo relatório ANIMUSE da Organização Mundial de Saúde Animal estabelece u
 
 Essas medidas não são intercambiáveis. O ANIMUSE mede quantidades destinadas ao uso animal, normalizadas pela biomassa estimada. O ECDC e a OMS analisam resistência em isolados clínicos humanos invasivos. O TrACSS é uma autoavaliação da capacidade nacional de implementação. Os conjuntos de dados não permitem concluir que o uso de antimicrobianos na pecuária tenha causado os padrões de resistência humana observados na Europa. Seu valor é institucional: em conjunto, mostram que uma política de Saúde Única não pode ser avaliada de forma confiável sem vigilância comparável, capacidade diagnóstica, dados de uso no campo e implementação nacional financiada.
 
-A distinção importa porque a resistência antimicrobiana não é um surto isolado nem um choque de mercado de curta duração. É uma perda cumulativa de eficácia dos tratamentos em medicina humana, saúde animal, produção de alimentos e meio ambiente. O Plano de Ação Global sobre Resistência Antimicrobiana de 2026, adotado pela Assembleia Mundial da Saúde em maio, estabelece um marco até 2036. A Declaração Política das Nações Unidas de 2024 já havia comprometido os governos com maior vigilância, capacidade diagnóstica e redução significativa do uso de antimicrobianos nos sistemas agroalimentares até 2030. Os novos dados mostram a distância entre esses compromissos e a implementação. [4][5]
+A resistência antimicrobiana representa uma perda cumulativa de eficácia dos tratamentos em medicina humana, saúde animal, produção de alimentos e meio ambiente, e não um surto isolado ou um choque de mercado de curta duração. O Plano de Ação Global sobre Resistência Antimicrobiana de 2026, adotado pela Assembleia Mundial da Saúde em maio, estabelece um marco até 2036. [5] A Declaração Política das Nações Unidas de 2024 comprometeu os governos com maior vigilância e capacidade diagnóstica e com uma redução significativa do uso de antimicrobianos nos sistemas agroalimentares até 2030. [6] A OMS estima que a resistência antimicrobiana impõe mortalidade e custos relevantes aos sistemas de saúde, tornando a capacidade de implementação uma questão de desenvolvimento e economia, além de clínica. [9] Os novos dados mostram a distância entre esses compromissos e a implementação.
 
 ## 1. Planos nacionais não equivalem a capacidade operacional
 
@@ -29,7 +29,7 @@ A lacuna de capacidade aparece no ponto em que um paciente ou um animal precisa 
 ```chart
 type: bar
 title: Capacidade global de implementação em resistência antimicrobiana, TrACSS 2026
-unit: percent of countries
+unit: percentual de países
 Planos financiados e integralmente implementados | 22
 Laboratórios de referência com capacidade de teste selecionada | 36
 Diretrizes para uso apropriado de antimicrobianos | 63
@@ -43,7 +43,7 @@ O relatório da OMS identifica ferramentas práticas de diagnóstico como parte 
 
 O relatório global ANIMUSE da WOAH analisa dados de 2024 coletados durante a décima primeira rodada de reporte, realizada entre setembro de 2025 e março de 2026. Dos 148 participantes, 132 forneceram informações quantitativas e 119 entraram na análise global de quantidades. Esses 119 participantes representavam 74% da biomassa global estimada de animais terrestres e aquáticos destinados à produção de alimentos. Animais de companhia foram excluídos do indicador global normalizado pela biomassa. [2]
 
-A WOAH estima que 83.254 toneladas de agentes antimicrobianos foram utilizadas em animais em 2024 com base nos dados reportados. Após o ajuste pela cobertura estimada, o total poderia chegar a 86.346 toneladas. O indicador global ficou entre 87 e 90 miligramas por quilograma de biomassa animal estimada, dependendo do ajuste de cobertura. São estimativas construídas a partir das declarações dos participantes, não um censo de cada dose administrada a cada animal.
+A WOAH estima que 83.254 toneladas de agentes antimicrobianos foram reportadas como destinadas ao uso em animais em 2024, com base nos dados enviados. Após o ajuste pela cobertura estimada, o total poderia chegar a 86.346 toneladas. O indicador global ficou entre 87 e 90 miligramas por quilograma de biomassa animal estimada, dependendo do ajuste de cobertura. São estimativas construídas a partir das declarações dos participantes, não um censo de cada dose administrada a cada animal.
 
 A limitação da medição é mais importante do que a precisão aparente do total global. Apenas cinco dos 119 participantes selecionaram registros de fazenda — a fonte mais próxima do ponto de administração — para os dados quantitativos validados. O relatório afirma que a análise depende principalmente de registros de vendas e importações. Esses registros medem produtos que entram no mercado ou na cadeia de distribuição; não mostram necessariamente a quantidade administrada, a espécie tratada, a indicação, a duração do tratamento ou se o produto foi usado para promoção de crescimento ou tratamento veterinário. [2]
 
@@ -64,14 +64,14 @@ A diferença afeta a política pública. Se um país registra importações e ve
 
 ## 3. A tendência ainda não é uma queda global estável
 
-O ANIMUSE registra redução de 3% no indicador ajustado pela biomassa entre 2019 e 2024 entre 80 participantes que forneceram dados consistentes durante todo o período. Nesse grupo, o indicador global caiu de 108 para 105 mg/kg. Uma análise separada, disponível no relatório interativo do ANIMUSE, encontrou aumento de 9% entre 2018 e 2024 entre outro grupo, formado por 74 participantes. Os períodos e os conjuntos de participantes são diferentes; os números não devem ser combinados como uma única série contínua. [2]
+O ANIMUSE registra redução de 3% no indicador ajustado pela biomassa entre 2019 e 2024 entre 80 participantes que forneceram dados consistentes durante todo o período. Nesse grupo, o indicador global caiu de 108 para 105 mg/kg. Uma análise separada no próprio relatório ANIMUSE encontrou aumento de 9% entre 2018 e 2024 entre outro grupo, formado por 74 participantes. Os períodos e os conjuntos de participantes são diferentes; os números não devem ser combinados como uma única série contínua. [2]
 
 O contraste não demonstra que um dos resultados esteja errado. Mostra como a composição dos participantes, a cobertura do reporte e as janelas temporais afetam os agregados globais. Um grupo menor, com reporte consistente, pode revelar uma tendência dentro daquele grupo, enquanto uma amostra mais ampla ou composta de outra forma pode apontar direção diferente. Sem reporte nacional estável e métodos transparentes, a média global pode mudar porque a amostra mudou, não porque o uso mudou.
 
 ```chart
 type: bar
 title: Tendências de uso de antimicrobianos em animais ajustadas pela biomassa
-unit: percent change over the stated period
+unit: variação percentual no período indicado
 80 participantes consistentes, 2019–2024 | -3
 Análise distinta com 74 participantes, 2018–2024 | 9
 ```
@@ -86,20 +86,20 @@ O relatório do ECDC e do Escritório Regional da OMS para a Europa utiliza dado
 
 Em 21 dos 43 países que reportaram a combinação relevante, pelo menos metade dos isolados de *K. pneumoniae* era resistente a cefalosporinas de terceira geração. Em 21 dos 38 países, pelo menos metade dos isolados de *Acinetobacter* era resistente a carbapenêmicos. São proporções de países que ultrapassaram um limiar de resistência em isolados invasivos; não representam a proporção de todas as infecções na região nem uma medida direta da prevalência na comunidade. [3]
 
-Na União Europeia e no Espaço Econômico Europeu, a incidência estimada de infecções da corrente sanguínea causadas por *K. pneumoniae* resistente a carbapenêmicos chegou a 3,75 por 100 mil habitantes em 2025. O valor foi 72% superior à linha de base de 2019 e ficou 1,68 por 100 mil acima da meta de 2030, de 2,07. O relatório descreve aumento estatisticamente significativo entre 2019 e 2025. Também aponta que 21 dos 43 países da Região Europeia da OMS registraram resistência de pelo menos 50% a cefalosporinas de terceira geração em *K. pneumoniae*. [3]
+Na União Europeia (UE), a incidência estimada de infecções da corrente sanguínea causadas por *K. pneumoniae* resistente a carbapenêmicos chegou a 3,75 por 100 mil habitantes em 2025. O valor foi 72% superior à linha de base de 2019 e ficou 1,68 por 100 mil acima da meta de 2030, de 2,07. O relatório descreve aumento estatisticamente significativo entre 2019 e 2025. Também aponta que 21 dos 43 países da Região Europeia da OMS registraram resistência de pelo menos 50% a cefalosporinas de terceira geração em *K. pneumoniae*. [3]
 
 | Indicador de resistência humana | Observação de 2025 | Escopo |
 |---|---:|---|
 | Países com ≥50% de resistência de *K. pneumoniae* a cefalosporinas de terceira geração | 21 de 43 | Região Europeia da OMS, isolados invasivos |
 | Países com ≥50% de resistência de *Acinetobacter* spp. a carbapenêmicos | 21 de 38 | Região Europeia da OMS, isolados invasivos |
-| Incidência na UE/EEE de infecção da corrente sanguínea por *K. pneumoniae* resistente a carbapenêmicos | 3,75 por 100 mil | 2025 |
-| Variação em relação a 2019 | +72% | Incidência na UE/EEE |
-| Meta da UE/EEE para 2030 | 2,07 por 100 mil | Meta, não resultado observado |
+| Incidência na UE de infecção da corrente sanguínea por *K. pneumoniae* resistente a carbapenêmicos | 3,75 por 100 mil | 2025 |
+| Variação em relação a 2019 | +72% | Incidência na UE |
+| Meta da UE para 2030 | 2,07 por 100 mil | Meta, não resultado observado |
 
 ```chart
 type: bar
 title: Países com percentuais elevados de resistência em isolados invasivos, Região Europeia da OMS, 2025
-unit: percent of countries reporting the combination
+unit: percentual de países reporting the combination
 K. pneumoniae, cefalosporinas de terceira geração (21/43) | 49
 Acinetobacter spp., carbapenêmicos (21/38) | 55
 ```
@@ -136,9 +136,9 @@ Análise integrada de Saúde Única
   -> não inferir causalidade animal-humano a partir de séries agregadas paralelas
 ```
 
-A distinção também muda a resposta de política pública. A proibição de determinado uso pode ser necessária, mas não substitui prevenção de doenças, acesso veterinário, capacidade diagnóstica ou registros confiáveis. Se os produtores não conseguem diagnosticar doenças, obter vacinas ou manter biossegurança, restrições mal desenhadas podem atrasar tratamentos ou deslocar o uso para fora do sistema de reporte formal. Em sentido contrário, acesso sem gestão adequada pode manter incentivos para o uso de antimicrobianos quando manejo ou vacinação reduziriam a incidência de doenças.
+A eficácia da política depende de combinar restrições com prevenção de doenças, acesso veterinário, capacidade diagnóstica e registros confiáveis. A proibição de determinado uso pode ser necessária, mas não substitui essas capacidades operacionais. Se os produtores não conseguem diagnosticar doenças, obter vacinas ou manter biossegurança, restrições mal desenhadas podem atrasar tratamentos ou deslocar o uso para fora do sistema de reporte formal. Em sentido contrário, acesso sem gestão adequada pode manter incentivos para o uso de antimicrobianos quando manejo ou vacinação reduziriam a incidência de doenças.
 
-O relatório da WOAH destaca boas práticas de manejo, bem-estar animal, biossegurança e vacinação como meios de reduzir a necessidade de antimicrobianos. O Plano de Ação Global da OMS também enfatiza prevenção, controle de infecções, água e saneamento, vigilância e financiamento sustentável. O objetivo de política pública não é apenas reduzir um total nacional de vendas. É reduzir infecções evitáveis e uso inadequado, preservando o acesso ao tratamento eficaz quando ele for clinicamente necessário. [2][5]
+O relatório da WOAH destaca boas práticas de manejo, bem-estar animal, biossegurança e vacinação como meios de reduzir a necessidade de antimicrobianos. O Plano de Ação Global da OMS também enfatiza prevenção, controle de infecções, água e saneamento, vigilância e financiamento sustentável. O objetivo de política pública não é apenas reduzir um total nacional de vendas. É reduzir infecções evitáveis e uso inadequado, preservando o acesso ao tratamento eficaz quando ele for clinicamente necessário. O Código da WOAH e o marco de implementação do Quadripartite enfatizam uso prudente, prevenção e responsabilização intersetorial; o plano atualizado da OMS vincula essas medidas a financiamento sustentável e vigilância. [2][5][7][8][10]
 
 ## 6. Diferenças regionais e limites de comparação
 

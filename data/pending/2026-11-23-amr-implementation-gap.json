@@ -106,7 +106,7 @@
   },
   "signal_rationale": {
     "delta": "New primary releases published 16–18 November 2026 combine a global implementation-capacity survey, WOAH’s 2024 animal-use baseline and ECDC/WHO’s 2025 invasive-isolate surveillance. This is a distinct measurement-and-financing update to the existing October livestock-AMR dossier, not a repeat of its general One Health framework.",
-    "evidence": "WHO TrACSS: 173/183 countries report plans but only 22% report funding plus full implementation and 36% reference-laboratory capacity; WOAH ANIMUSE: 119 participants cover 74% of food-animal biomass, but only five used farm records; ECDC: 21/43 countries show ≥50% 3GC resistance in K. pneumoniae, 21/38 show ≥50% carbapenem resistance in Acinetobacter, and EU/EEA carbapenem-resistant K. pneumoniae bloodstream incidence is 72% above 2019.",
+    "evidence": "WHO TrACSS: 173/183 countries report plans but only 22% report funding plus full implementation and 36% reference-laboratory capacity; WOAH ANIMUSE: 119 participants cover 74% of food-animal biomass, but only five used farm records; ECDC: 21/43 countries show ≥50% 3GC resistance in K. pneumoniae, 21/38 show ≥50% carbapenem resistance in Acinetobacter, and EU carbapenem-resistant K. pneumoniae bloodstream incidence is 72% above 2019.",
     "scale_path": "National financing and laboratory capacity determine whether action plans generate surveillance; veterinary point-of-use data determine whether animal-use targets can be measured; standardized human clinical surveillance enables trend monitoring and accountability.",
     "transmission": "Underfunded diagnostics and incomplete animal-use records weaken stewardship and prevention; resistant infections increase treatment complexity and hospital costs, while poor veterinary measurement obscures agrifood-sector exposure and policy effectiveness.",
     "falsifier": "A material rise in funded and evaluated national plans, reference-laboratory coverage, farm-record reporting and falling comparable resistant bloodstream-infection incidence would weaken the implementation-gap thesis."
@@ -132,7 +132,9 @@
       "charts": 3,
       "tables": 2,
       "flows": 1,
-      "maps": 1
+      "maps": 1,
+      "references_en": 10,
+      "references_pt": 10
     },
     "visual_evidence": {
       "charts": 3,
@@ -144,19 +146,35 @@
       "references": 10,
       "primary_institutional_sources": 10,
       "urls_unique": 10,
-      "domains": 6
+      "domains": 6,
+      "unused_references": 0,
+      "all_references_cited": true,
+      "citation_audit": "Body citations [1]–[10] were checked in both editions. [5] supports the 2026 Global Action Plan, [6] the 2024 UN Political Declaration, [7] the Quadripartite implementation report, [8] the updated WHO plan, [9] WHO burden estimates, and [10] the WOAH prudent-use code. The ANIMUSE 9% analysis is attributed to the report itself, not its interactive portal."
     },
     "manual_preflight": {
       "schema_v2": true,
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 3227,
-      "word_count_pt": 3705,
+      "word_count_en": 3291,
+      "word_count_pt": 3776,
       "references_en": 10,
       "references_pt": 10,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "not executed in this run; independent QA must run repository validators"
+      "repository_script_validator": "Not run by producer in this revision; independent QA must execute exact-HEAD validation."
     }
-  }
+  },
+  "revision": 1,
+  "revision_reason": "Corrects citation numbering and supports all retained references, restores the EU-only scope of ECDC incidence/target values, distinguishes quantities intended for animal use from administered doses, corrects attribution of the ANIMUSE 9% cohort analysis, localizes PT-BR chart units and removes formulaic signposting.",
+  "revision_scope": "Source-scope and citation corrections plus language cleanup in both staged editions; all observations, numerical values, charts and analytical thesis preserved. ID and slug unchanged.",
+  "qa_fixes_applied": [
+    "CITATION_MISNUMBERING_AND_UNCITED_REFERENCES",
+    "ECDC_EU_INCIDENCE_MISLABELLED_AS_EU_EEA",
+    "WOAH_INTENDED_USE_MISSTATED_AS_ADMINISTERED_USE",
+    "ANIMUSE_9_PERCENT_TREND_SOURCE_MISATTRIBUTED",
+    "PTBR_VISUAL_UNIT_LABELS_NOT_LOCALIZED",
+    "FORMULAIC_META_DISCOURSE"
+  ],
+  "revised_at": "2026-11-26T05:10:00-03:00",
+  "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-23-amr-implementation-gap-revision-1-publication-reconciliation"
 }

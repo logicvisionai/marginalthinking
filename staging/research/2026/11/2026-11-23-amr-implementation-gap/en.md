@@ -10,7 +10,7 @@ The World Organisation for Animal Health’s new ANIMUSE report establishes a 20
 
 These are not interchangeable measurements. ANIMUSE measures quantities intended for animal use, normalized by estimated biomass. ECDC and WHO report resistance in invasive human clinical isolates. TrACSS is a self-assessment of national implementation capacity. The datasets cannot establish that antimicrobial use in livestock caused the human resistance patterns observed in Europe. Their value is institutional: together they show that a One Health policy framework cannot be evaluated reliably without comparable surveillance, diagnostic capacity, field-level use data and funded national implementation.
 
-The distinction matters because antimicrobial resistance is not a single outbreak or a short-lived market shock. It is a cumulative loss of treatment effectiveness across human medicine, animal health, food production and the environment. The 2026 Global Action Plan on AMR, adopted by the World Health Assembly in May, sets a framework through 2036. The 2024 United Nations Political Declaration had already committed governments to stronger surveillance, diagnostic capacity and a meaningful reduction in antimicrobial use in agrifood systems by 2030. The new data show how far implementation remains from those commitments. [4][5]
+Antimicrobial resistance is a cumulative loss of treatment effectiveness across human medicine, animal health, food production and the environment, not a single outbreak or a short-lived market shock. The 2026 Global Action Plan on AMR, adopted by the World Health Assembly in May, sets a framework through 2036. [5] The 2024 United Nations Political Declaration committed governments to stronger surveillance and diagnostic capacity and to a meaningful reduction in antimicrobial use in agrifood systems by 2030. [6] WHO estimates that AMR imposes substantial mortality and health-system costs, making implementation capacity a development and economic issue as well as a clinical one. [9] The new data show how far implementation remains from those commitments.
 
 ## 1. National plans are not the same as operating capacity
 
@@ -43,7 +43,7 @@ The WHO report identifies practical tools for diagnostic testing as part of its 
 
 WOAH’s ANIMUSE Global Report analyses 2024 data collected during its eleventh reporting round, which ran from September 2025 to March 2026. Of 148 participants, 132 supplied quantitative information and 119 were included in the global quantity analysis. Those 119 participants represented 74% of estimated global biomass for terrestrial and aquatic food-producing animals. Companion animals were excluded from the biomass-normalized global indicator. [2]
 
-WOAH estimates that 83,254 tonnes of antimicrobial agents were used in animals in 2024 based on the reported data. After adjustment for estimated coverage, the total could reach 86,346 tonnes. The global indicator ranged from 87 to 90 milligrams per kilogram of estimated animal biomass, depending on the coverage adjustment. These are estimates built from participant submissions, not a census of every dose administered to every animal.
+WOAH estimates that 83,254 tonnes of antimicrobial agents were reported as intended for use in animals in 2024, based on submitted data. After adjustment for estimated coverage, the total could reach 86,346 tonnes. The global indicator ranged from 87 to 90 milligrams per kilogram of estimated animal biomass, depending on the coverage adjustment. These are estimates built from participant submissions, not a census of every dose administered to every animal.
 
 The measurement limitation is more important than the apparent precision of the global total. Only five of the 119 participants selected farm records — the source closest to the point of administration — for validated quantitative data. The report says the analysis relies primarily on sales and import records. Those records measure products entering a market or distribution chain; they do not necessarily show the quantity administered, the animal species treated, the indication, treatment duration or whether a product was used for growth promotion or veterinary treatment. [2]
 
@@ -64,7 +64,7 @@ The difference affects policy. If a country records imports and sales but not us
 
 ## 3. The trend is not yet a stable global decline
 
-ANIMUSE reports a 3% decline in the biomass-adjusted indicator between 2019 and 2024 among 80 participants that supplied consistent data over the full period. In that cohort, the global indicator fell from 108 to 105 mg/kg. A separate analysis available through the ANIMUSE interactive report found a 9% increase between 2018 and 2024 among a different group of 74 participants. The periods and participant sets differ; the figures should not be combined into one continuous series. [2]
+ANIMUSE reports a 3% decline in the biomass-adjusted indicator between 2019 and 2024 among 80 participants that supplied consistent data over the full period. In that cohort, the global indicator fell from 108 to 105 mg/kg. A separate analysis in the ANIMUSE report itself found a 9% increase between 2018 and 2024 among a different group of 74 participants. The periods and participant sets differ; the figures should not be combined into one continuous series. [2]
 
 The contrast is not evidence that one result is false. It shows how participant composition, reporting coverage and time windows affect global aggregates. A smaller group with consistent reporting can reveal a trend within that group, while a broader or differently composed sample can produce another direction. Without stable national reporting and transparent methods, a global average may change because the sample changed rather than because use changed.
 
@@ -86,15 +86,15 @@ The ECDC and WHO Regional Office for Europe report uses 2025 invasive-isolate da
 
 In 21 of 43 countries reporting the relevant combination, at least half of *K. pneumoniae* isolates were resistant to third-generation cephalosporins. In 21 of 38 countries, at least half of *Acinetobacter* isolates were resistant to carbapenems. These are proportions of countries crossing a resistance threshold for invasive isolates; they are not the proportion of all infections in the region, nor a direct measure of community prevalence. [3]
 
-Within the EU/EEA, the estimated incidence of bloodstream infections caused by carbapenem-resistant *K. pneumoniae* reached 3.75 per 100,000 population in 2025. That was 72% above the 2019 baseline and 1.68 per 100,000 above the 2030 target of 2.07. The report describes a statistically significant increase between 2019 and 2025. It also notes that 21 of 43 countries in the wider WHO European Region reported resistance of at least 50% for third-generation cephalosporins in *K. pneumoniae*. [3]
+Within the EU, the estimated incidence of bloodstream infections caused by carbapenem-resistant *K. pneumoniae* reached 3.75 per 100,000 population in 2025. That was 72% above the 2019 baseline and 1.68 per 100,000 above the 2030 target of 2.07. The report describes a statistically significant increase between 2019 and 2025. It also notes that 21 of 43 countries in the wider WHO European Region reported resistance of at least 50% for third-generation cephalosporins in *K. pneumoniae*. [3]
 
 | Human AMR indicator | 2025 observation | Scope |
 |---|---:|---|
 | Countries with ≥50% third-generation cephalosporin resistance in *K. pneumoniae* | 21 of 43 | WHO European Region, invasive isolates |
 | Countries with ≥50% carbapenem resistance in *Acinetobacter* spp. | 21 of 38 | WHO European Region, invasive isolates |
-| EU/EEA incidence of carbapenem-resistant *K. pneumoniae* bloodstream infection | 3.75 per 100,000 | 2025 |
-| Change from 2019 baseline | +72% | EU/EEA incidence |
-| EU/EEA 2030 target | 2.07 per 100,000 | Target, not observed outcome |
+| EU incidence of carbapenem-resistant *K. pneumoniae* bloodstream infection | 3.75 per 100,000 | 2025 |
+| Change from 2019 baseline | +72% | EU incidence |
+| EU 2030 target | 2.07 per 100,000 | Target, not observed outcome |
 
 ```chart
 type: bar
@@ -136,9 +136,9 @@ Shared One Health analysis
   -> do not infer animal-to-human causation from parallel aggregate series
 ```
 
-The distinction also changes the policy response. A ban on a particular use may be necessary, but it cannot replace disease prevention, veterinary access, diagnostic capacity or reliable records. If farmers cannot diagnose disease, obtain vaccines or maintain biosecurity, poorly designed restrictions can increase treatment delays or push use outside formal reporting. Conversely, unrestricted access without stewardship can preserve incentives to use antimicrobials when better husbandry or vaccination would reduce disease incidence.
+Policy effectiveness depends on matching restrictions with disease prevention, veterinary access, diagnostic capacity and reliable records. A ban on a particular use may be necessary, but it cannot substitute for those operating capabilities. If farmers cannot diagnose disease, obtain vaccines or maintain biosecurity, poorly designed restrictions can increase treatment delays or push use outside formal reporting. Conversely, unrestricted access without stewardship can preserve incentives to use antimicrobials when better husbandry or vaccination would reduce disease incidence.
 
-WOAH’s report emphasizes good husbandry, animal welfare, biosecurity and vaccination as ways to reduce the need for antimicrobials. The WHO Global Action Plan similarly emphasizes prevention, infection control, water and sanitation, surveillance and sustainable financing. The policy objective is not simply to reduce a national sales total. It is to reduce avoidable infections and inappropriate use while maintaining access to effective treatment when it is clinically necessary. [2][5]
+WOAH’s report emphasizes good husbandry, animal welfare, biosecurity and vaccination as ways to reduce the need for antimicrobials. The WHO Global Action Plan similarly emphasizes prevention, infection control, water and sanitation, surveillance and sustainable financing. The policy objective is not simply to reduce a national sales total. It is to reduce avoidable infections and inappropriate use while maintaining access to effective treatment when it is clinically necessary. The WOAH Code and the Quadripartite implementation framework emphasize prudent use, prevention and cross-sector accountability; WHO's updated action plan links those measures to sustainable financing and surveillance. [2][5][7][8][10]
 
 ## 6. Regional differences and the limits of comparison
 
