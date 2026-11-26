@@ -2,19 +2,19 @@
   "schema_version": 2,
   "id": "MT-GM-2026-11-24",
   "slug": "2026-11-24-global-macro",
-  "revision": 7,
+  "revision": 8,
   "rejection_count_for_id": 3,
   "rejection_loop_limit_reached": true,
   "qa_status": "blocked",
   "block_reason": "rejection_loop_limit_reached",
-  "reviewed_at": "2026-11-25T02:40:18-03:00",
-  "reviewed_commit": "5a35ebdada22a1885dec904a7bc01f8170e6a0de",
-  "pending_blob_sha": "5a9ab005d244d396d1fccedd1a23e46fc82c6820",
+  "reviewed_at": "2026-11-25T21:35:16-03:00",
+  "reviewed_commit": "e9f11dba4cb09e10e83e2b16438049d243a22351",
+  "pending_blob_sha": "cb6e8a6295aa73f1be243059fab98c21c07b73b6",
   "source_blob_shas": {
-    "en": "b5543aaf29cf10cd9069bd089b87be86c1a77179",
-    "pt-BR": "58c9a77ca9dfbd3fd0af3c644126b9a905b5dbe7"
+    "en": "a8ee063db65f3e8ca56f4203308a2d2b890829e5",
+    "pt-BR": "fc5110aa0e501f82df40bca4c317dd8262a5d04d"
   },
-  "reconciliation_run_id": "2026-11-24-mt-gm-2026-11-24-revision-7-publication-reconciliation",
+  "reconciliation_run_id": "2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation",
   "previous_rejections": [
     {
       "revision": 2,
@@ -252,85 +252,112 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Exact pending v2 and complete staged EN/PT-BR blobs were re-read from main; all three SHA values recorded below."
+      "summary": "Re-read the schema-v2 pending sidecar and both complete staged Markdown files at HEAD e9f11dba4cb09e10e83e2b16438049d243a22351. Exact tuple: pending cb6e8a6295aa73f1be243059fab98c21c07b73b6; EN a8ee063db65f3e8ca56f4203308a2d2b890829e5; PT-BR fc5110aa0e501f82df40bca4c317dd8262a5d04d."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Pending v2 and controlled taxonomy fields are valid; no taxonomy changes."
+      "summary": "Pending revision 8 is schema_version 2, ready true, canonical ID/slug, daily-global-macro kind, registered political-economy-markets program, valid related program, global geography, controlled topics and war-armed-conflict phenomenon."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "The report's 24 Nov 20:45 BRT cutoff is explicit; latest market observations are dated by their actual source session."
+      "summary": "The 24 November 2026 20:45 BRT cutoff is explicit. The cited BCB Focus report is dated 19 November and was available before cutoff; the defect is the selected value, not the source vintage."
     },
     "factual_methodology": {
-      "result": "passed_with_limitation",
-      "summary": "Primary Worldsteel, ifo, IEA, FAO and IIF values checked; source-specific units and observation periods are separated. Publication of ICE BofA top-level index data remains unauthorized without prior written permission."
+      "result": "failed",
+      "summary": "The 2027 Focus terminal Selic median in the cited 19 November report is 13.00%, not 12.75%. The article's 12.00% to 12.75% comparison is not supported by the cited vintage."
     },
     "evidence_traceability": {
-      "result": "passed",
-      "summary": "References and source mapping were checked; the ICE series is directly identified and its copyright restriction is visible on FRED."
+      "result": "failed",
+      "summary": "Reference [26] is an official primary source, but its current 2027 Selic median contradicts the number stated in both editions and the pending source-audit note."
     },
     "research_depth": {
       "result": "passed",
-      "reviewed_word_counts": {
-        "en": 4347,
-        "pt-BR": 5052
-      },
-      "summary": "Both staged editions exceed the daily 1,700-word threshold and contain analytical sections, dated observations, limitations and conditional interpretation."
+      "summary": "Both editions exceed the daily brief threshold and include regional evidence, multiple transmission mechanisms, contrary evidence, scenarios and observable falsifiers. Exact-HEAD editorial-depth CI passed for 216 revised/future artifacts."
     },
     "visual_evidence_readiness": {
       "result": "passed",
-      "summary": "Both locales have 2 explicit charts, 4 ordinary Markdown tables, 1 flow and 1 map; numeric chart series match. No unsupported table fences remain."
+      "summary": "Both locales contain two quantitative charts, four ordinary Markdown tables, one causal flow and one regional exposure map. Visual structures are evidence-bearing and numerically equivalent."
     },
     "bilingual_equivalence": {
       "result": "passed",
-      "summary": "Numeric chart series, reference count and main analytical claims align between EN and PT-BR."
+      "summary": "The EN and PT-BR editions preserve the same numbers, dates, qualifications, references, charts, tables, flow and map. The Focus error is repeated consistently in both languages."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "Conditional interpretation and observable watch/falsifier conditions are present."
+      "summary": "The report includes competing interpretations, conditional upside/downside paths and observable falsifiers."
     },
     "novelty_vs_corpus": {
       "result": "passed",
-      "summary": "Revision 7 adds October worldsteel output and the 24 Nov ifo survey to the regional activity/financing dispersion analysis; it is distinct from the 23 Nov China steel-inventory edition."
-    },
-    "editorial_style": {
-      "result": "passed",
-      "summary": "Writing is analytical and attributed; conflict reporting is not treated as independently verified physical disruption."
+      "summary": "The cross-region industrial-output and financing-dispersion thesis is distinct from the 23 November China iron-ore/steel inventory edition."
     },
     "system_registry_reconciliation": {
       "result": "passed",
-      "summary": "The report-specific reconciliation run is present in data/reconciliation-ledger.json and contains decisions for all seven active reconciliation-required assets."
+      "summary": "The pending binds report-specific run 2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation; it assesses all seven active reconciliation-required assets and records evidence gaps without unsupported dataset updates."
     },
-    "editorial_publication_readiness": {
-      "result": "blocked",
-      "summary": "The public draft reproduces ICE BofA US High Yield OAS daily top-level values and a chart. FRED series notes state that reproduction is prohibited and top-level data may not be published/distributed to third parties without prior written approval from ICE Data."
+    "editorial_style": {
+      "result": "passed",
+      "summary": "Analytical prose, numbered references at the end, explicit observation periods and attribution of conflict/shipping claims; no internal production labels."
+    },
+    "producer_preflight_consistency": {
+      "result": "failed",
+      "summary": "The pending source_audit.reproducibility_notes.brazil_forecast repeats 12.75% as the current 2027 Focus terminal median, so the internal evidence record carries the same vintage error."
     },
     "editorial_depth_script": {
-      "result": "not_run",
-      "summary": "Local execution was unavailable because git clone failed with DNS resolution error for github.com; manual depth/visual thresholds were checked."
+      "result": "passed",
+      "summary": "Exact-HEAD workflow 45724330285 reports 'Editorial depth validation OK: 216 revised and future research artifacts'; this candidate is not among the draft failures."
     },
     "pipeline_validation": {
-      "result": "not_run",
-      "summary": "Local execution was unavailable because git clone failed with DNS resolution error for github.com."
+      "result": "passed_with_limitation",
+      "summary": "Exact-HEAD workflow 45724330285 ran scripts/validate-pipeline.mjs successfully: 213 public bundles, zero approved-unpublished and six legacy pending already public. The default pipeline gate does not independently approve unapproved pending drafts."
+    },
+    "repository_build": {
+      "result": "passed_with_limitation",
+      "summary": "The build job passed, including pipeline, editorial-depth, research and visual-output checks. The separate deploy job failed at Check Cloudflare credentials; deployment and live verification were skipped."
     },
     "publication_snapshot_integrity": {
-      "result": "passed",
-      "summary": "Pending and both staged Git blob SHAs were re-read exactly; no approval snapshot was created."
+      "result": "not_run",
+      "summary": "No approval snapshot was created because the material Focus-vintage discrepancy blocks editorial publication readiness."
     },
     "concurrent_approval_integrity": {
       "result": "passed",
-      "summary": "No approval or public metadata exists for revision 7; the existing approval is revoked and covers revision 2."
+      "summary": "The only approval sidecar remains revoked for revision 2; no approval or public metadata exists for revision 8."
+    },
+    "editorial_publication_readiness": {
+      "result": "blocked",
+      "summary": "A material current-value mismatch remains in both locales and the pending source audit. The item cannot be approved until corrected. The ID has already reached its three-rejection limit, so this is recorded as a block rather than a fourth rejection."
+    },
+    "rejection_loop_guard": {
+      "result": "blocked",
+      "summary": "rejection_count_for_id remains 3; no fourth rejection was created. Per the existing replay_guard, this changed tuple was reviewed and remains blocked pending correction."
     }
   },
   "issues": [
     {
+      "code": "BRAZIL_FOCUS_2027_SELIC_TERMINAL_MEDIAN_VINTAGE_MISMATCH",
+      "severity": "material",
+      "status": "active",
+      "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:85; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:85; data/pending/2026-11-24-global-macro.json:producer_checks.source_audit.reproducibility_notes.brazil_forecast",
+      "evidence": "The 19 November 2026 Banco Central do Brasil Focus report, page 1, row 'Selic (% a.a.)', gives the 2027 terminal-rate median as 13.00% today, 12.75% one week earlier and 11.75% four weeks earlier. The staged EN and PT-BR texts instead say the median rose from 12.00% to 12.75%, and the pending source-audit note records 12.75% as the current terminal median. This is a stale/misread vintage and the cited primary source contradicts the claim. Official source: https://www.bcb.gov.br/content/focus/focus/R20261119.pdf, page 1, line 49 of the parsed release.",
+      "required_correction": "In both locales, state the 19 November 2026 Focus median for the 2027 terminal Selic rate as 13.00%. If reporting the recent change, identify 12.75% as the one-week-earlier median and 11.75% as the four-week-earlier median. Correct the pending source_audit.reproducibility_notes.brazil_forecast to use the same vintage. Preserve the conceptual distinction between the Ministry's 12.93% accumulated Selic parameter and the Focus terminal-rate median; do not treat them as the same measure."
+    }
+  ],
+  "notes": "Post-limit QA review of revision 8. The previous ICE BofA OAS licensing issue is resolved by removing the values/chart and replacing the series with the Chicago Fed NFCI. A new material factual discrepancy was found in the Brazil Focus comparison: the 19 November 2026 Focus report gives the 2027 terminal Selic median as 13.00%, while both staged editions and the pending source-audit note use 12.75% as the current value and state an unsupported 12.00% to 12.75% move. The article's comparison with the Ministry's accumulated Selic parameter must be recalibrated. The ID has already reached three rejections; this update preserves rejection_count_for_id=3 and qa_status=blocked and is not a fourth rejection. Rework owner: MT 1/5 — Diário e Radar.",
+  "prior_blocked_revision": {
+    "revision": 7,
+    "pending_blob_sha": "5a9ab005d244d396d1fccedd1a23e46fc82c6820",
+    "source_blob_shas": {
+      "en": "b5543aaf29cf10cd9069bd089b87be86c1a77179",
+      "pt-BR": "58c9a77ca9dfbd3fd0af3c644126b9a905b5dbe7"
+    },
+    "issue": {
       "code": "ICE_BOF A_OAS_TOP_LEVEL_DATA_PUBLICATION_REQUIRES_PRIOR_WRITTEN_PERMISSION",
       "severity": "material",
       "location": "staging/research/2026/11/2026-11-24-global-macro/en.md:115,215; staging/research/2026/11/2026-11-24-global-macro/pt-BR.md:115,215; data/pending/2026-11-24-global-macro.json:source_audit.reproducibility_notes.credit_spread",
       "evidence": "The staged editions publish the ICE BofA US High Yield Index OAS values (3.23%, 3.34%, 3.43%, 3.47%, 3.52%, 3.76%) and a derived chart. FRED's series notes classify the series as copyrighted/pre-approval required and state: “Reproduction of this data in any form is prohibited except with the prior written permission of ICE Data Indices” and that end-of-day index values, returns and statistics are internal-use only and may not be published or distributed to third parties without prior written approval. Source: https://fred.stlouisfed.org/graph/?graph_id=1609165 (lines 18, 42, 46–48).",
       "required_correction": "Provide written permission from ICE Data Indices covering public reproduction in Marginal Thinking, or remove the ICE-derived values/chart and replace them with a source series whose license expressly permits public publication. Recalculate the spread comparison and revise all related prose, tables, charts and source-audit notes in both locales."
-    }
-  ],
-  "notes": "Blocked, not rejected: the same ID has already reached the three-rejection loop limit. This record preserves the revision-4 rejection and its earlier history without incrementing rejection_count_for_id or issuing a fourth rejection. No public files or indexes changed."
+    },
+    "resolution_status": "resolved_in_revision_8",
+    "resolution_evidence": "Revision 8 removes the ICE BofA US High Yield OAS values and chart from both staged editions and replaces the series with the Chicago Fed NFCI. The current FRED series is tagged 'Copyrighted: Citation Required', and the article cites Chicago Fed, FRED and the 18 November ALFRED vintage. No pre-approval-only ICE series values remain in the staged article."
+  },
+  "rework_owner": "MT 1/5 — Diário e Radar"
 }
