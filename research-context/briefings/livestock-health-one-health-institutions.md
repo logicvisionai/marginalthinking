@@ -2,7 +2,7 @@
 
 **Scope:** institutional coordination among veterinary services, food safety, public health and livestock producers.
 **Canonical slug:** `livestock-health-one-health-institutions`
-**Last reviewed:** 2026-10-12
+**Last reviewed:** 2026-11-26
 **Evidence note:** internal orientation only; reverify public claims externally.
 
 ## Structural assessment
@@ -30,6 +30,7 @@ Smaller producers may face greater fixed compliance costs. Sanitary infrastructu
 - `MT-BIO-2026-10-12-livestock-amr` — canonical livestock health governance research.
 - `MT-PH-2026-10-19-pandemic-scars` — broader outbreak detection and social resilience.
 - `MT-FS-2026-10-12-healthy-diet-development` — food safety and household access.
+- `MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk` — FMD/SAT1 and transboundary livestock control (published revision 4).
 
 ## Verification notes
 
@@ -53,4 +54,4 @@ These series measure national implementation, intended animal-use quantities, in
 - ECDC/WHO Europe, *Surveillance of antimicrobial resistance in Europe, 2025 data*, 18 November 2026: https://www.ecdc.europa.eu/en/publications-data/surveillance-antimicrobial-resistance-europe-2025-data
 - ECDC, *Antimicrobial consumption in the EU/EEA (ESAC-Net) — Annual Epidemiological Report 2025*, 18 November 2026: https://www.ecdc.europa.eu/en/publications-data/antimicrobial-consumption-eueea-esac-net-annual-epidemiological-report-2025
 
-**Related canonical report:** `MT-BIO-2026-11-23-amr-implementation-gap` (published revision 3).
+**Related canonical report:** `MT-BIO-2026-11-23-amr-implementation-gap` (published revision 3).- `MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk` — FMD/SAT1 and transboundary livestock control (published revision 4).
