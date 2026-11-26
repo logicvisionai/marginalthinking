@@ -1,0 +1,120 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-26",
+  "slug": "2026-11-26-global-macro",
+  "revision": 4,
+  "rejection_count_for_id": 1,
+  "rejection_loop_limit_reached": false,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-26T05:33:42-03:00",
+  "reviewed_commit": "b7b2bc89628a136eb57b214c9b72b247eb97492d",
+  "pending_blob_sha": "bc555ee48a4ee843ca37739960adb04246755a52",
+  "source_blob_shas": {
+    "en": "40a3d271c860190e116d0fdd929f6f5fb0f4dcad",
+    "pt-BR": "bcba60318a8d9deb7b2e21433c9cb6c8f3e6713d"
+  },
+  "previous_rejections": [],
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Read the complete ready schema-v2 pending sidecar and both staged Markdown editions at main. Exact pending/EN/PT-BR blob tuple is recorded. At pre-write inventory, approval, rejection and public metadata paths for this ID/slug were absent."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Revision 4 uses canonical ID/slug, schema_version 2, daily-global-macro, brief/daily, controlled program, topics, geography and strategic-competition phenomenon. No taxonomy expansion."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Cutoff 05:05 BRT follows the 25 November USTR and BEA releases and the 26 November Reuters Asia/oil snapshots cited. The oil quote timestamp 07:58 GMT equals 04:58 BRT and is within the stated cutoff. US cash markets are correctly described as closed for Thanksgiving."
+    },
+    "factual_methodology": {
+      "result": "passed_with_limitation",
+      "summary": "Primary USTR confirms 14 Section 301 determinations and proposed—not collected—duties; BEA confirms Q3 GDP 4.3% annualized and 5.8% final private domestic sales; FAO confirms October FFPI 133.9, -1.2% m/m, sugar +6.6% m/m/+28.8% y/y and cereal index -4.5%; Eurostat confirms euro-area HICP 4.0%; IIF confirms October EM portfolio outflows $33.8bn; worldsteel confirms October crude steel 142.4 Mt/-1.1% y/y; BCB confirms Selic 13.75%. Reuters oil incidents are explicitly attributed and not independently verified. No material numerical error found in the checked primary-source claims."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "13 reference URLs are listed and cited; the principal data claims map to USTR, BEA, FAO, Eurostat, IIF, worldsteel and BCB. Market and incident reporting is attributed. Full source-by-source audit is limited to the claims sampled in this QA; the material blocker is visual grammar and audit consistency."
+    },
+    "research_depth": {
+      "result": "failed",
+      "summary": "The exact staged Markdown contains escaped literal backslash-n sequences in visual blocks. Strict depth visual counts therefore do not meet the required 2 charts, 1 flow, 1 map and table floor: the malformed first chart is not recognized, and flow/map fences are not exact Markdown fence lines. EN is at the 1,700-word daily brief floor; PT-BR exceeds it. Depth cannot be approved while required visuals are not parseable."
+    },
+    "visual_evidence_readiness": {
+      "result": "failed",
+      "summary": "Strict pending pipeline run 45782443528, on parent 5dc5b756c530386b1941c7ea0dbfa4c8d3084a08, reported for this exact unchanged candidate tuple: structural visual absent in EN/PT-BR and only 2 valid visuals versus minimum 3 for brief. Comparing parent to reviewed HEAD b7b2bc89628a136eb57b214c9b72b247eb97492d shows only staging/editorial-radar/2026-11-26.json changed; pending and both staged Markdown blobs are unchanged. The literal \\n sequences prevent the authored flow/map and selected-equity chart from being parsed as intended."
+    },
+    "bilingual_equivalence": {
+      "result": "passed_with_limitation",
+      "summary": "The two editions are substantively equivalent and contain corresponding numeric series and visual intent, but both share the same escaped-newline defect. Visual parity does not cure invalid visual grammar."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report separates observed determinations/data, inference and conditional scenarios, includes a competing technology-financing interpretation and observable falsifiers."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "Revision 4 adds the formal 25 November USTR determinations, newly released BEA GDP/PCE, timestamped 26 November market/oil snapshots and FAO October food-commodity divergence; this is a substantive dated update rather than a date-only rewrite."
+    },
+    "editorial_style": {
+      "result": "passed_with_limitation",
+      "summary": "Institutional prose is generally neutral, distinguishes proposed from applied tariffs, stock/flow periods and reported versus verified conflict claims. No editorial rewrite is approved because the source tuple is rejected for visual integrity."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "Pending reconciliation_run_id names the report-specific revision-4 run. The ledger contains the run and seven asset decisions; no unsupported canonical change is inferred."
+    },
+    "editorial_depth_script": {
+      "result": "not_run",
+      "summary": "The strict editorial workflow failed in validate-pipeline before invoking validate-editorial-depth. Static application of scripts/validate-editorial-depth.mjs thresholds predicts failure: only one exact chart fence, zero exact flow/map fences and insufficient valid visual signature. Run the script after correcting the Markdown blocks."
+    },
+    "pipeline_validation": {
+      "result": "failed",
+      "summary": "Strict pending workflow 45782443528 failed validate-pipeline visual checks for this candidate: structural visual missing in both locales and 2 visuals found versus 3 required. The candidate tuple is unchanged at reviewed HEAD. Public production build run 45782518218 passed build/visual output but does not override the strict staged-pending failure."
+    },
+    "repository_build": {
+      "result": "passed_with_limitation",
+      "summary": "Current HEAD run 45782518218 passed build, public visual semantics, generated site and Worker. Deploy failed at Cloudflare credential check; no production deployment or live verification is confirmed."
+    },
+    "concurrent_approval_integrity": {
+      "result": "passed",
+      "summary": "Reviewed main HEAD and candidate blob tuple were re-read before the rejection write. No approval, prior rejection or public metadata existed for this ID/slug; the rejection is an additive sidecar only."
+    },
+    "publication_snapshot_integrity": {
+      "result": "not_run",
+      "summary": "No approval or immutable publication snapshot was created because visual and strict-depth readiness failed."
+    },
+    "editorial_publication_readiness": {
+      "result": "failed",
+      "summary": "Revision 4 is not publication-ready. Correct the literal escaped-newline visual blocks in both locales, make the table/chart/flow/map grammar parse as intended, reconcile producer_checks.visual_evidence with actual parser output, then submit a new exact pending/EN/PT-BR SHA tuple and rerun strict QA."
+    }
+  },
+  "issues": [
+    {
+      "code": "LITERAL_BACKSLASH_N_BREAKS_MARKDOWN_VISUALS",
+      "severity": "material",
+      "location": "staging/research/2026/11/2026-11-26-global-macro/en.md:19,29,41,51,94; staging/research/2026/11/2026-11-26-global-macro/pt-BR.md:19,29,41,51,94",
+      "evidence": "Each locale contains 36 literal two-character \\\\n sequences in authored visual blocks. At line 19 the tariff table is one physical Markdown line; line 29 starts ```flow followed by literal \\\\n; line 41 the US indicator table is similarly collapsed; line 51 the selected-equity chart is collapsed; line 94 the regional map is collapsed. The deterministic renderer splits on actual LF and requires exact fence lines/table separator lines, so these blocks are not parsed as the intended evidence.",
+      "required_correction": "Replace the literal backslash+n sequences with actual newline characters in all affected visual blocks in both EN and PT-BR. Preserve values, labels, units and citations; then render and inspect each table/chart/flow/map."
+    },
+    {
+      "code": "VISUAL_EVIDENCE_BUDGET_AND_PREFLIGHT_MISMATCH",
+      "severity": "material",
+      "location": "data/pending/2026-11-26-global-macro.json producer_checks.bilingual_parity and producer_checks.visual_evidence; both staged Markdown visual blocks",
+      "evidence": "Pending claims charts=2, tables=3, flows=1, maps=1. The strict validator for the unchanged tuple reports no structural visual and only 2 valid visuals total in each locale, below the brief minimum of 3. The valid visual grammar does not match the producer's audit claims.",
+      "required_correction": "After fixing Markdown, rerun the repository visual parser and strict pipeline; update producer_checks visual counts and parity from actual parsed EN/PT-BR output, not intended fence count."
+    }
+  ],
+  "rework_owner": "MT 1/5 — Diário e Radar",
+  "replay_guard": {
+    "max_new_rejections_per_id": 3,
+    "source_sha_must_change_before_recheck": true,
+    "rejection_loop_limit_reached": false,
+    "blocked_after_limit": true,
+    "post_limit_behavior": "This ID has one rejection. A new review requires a new exact pending/EN/PT-BR blob tuple; identical SHAs must not be replayed."
+  },
+  "publisher_prerequisites": [
+    "Correct and re-stage both locales; strict visual and editorial-depth checks must pass for the new exact blob tuple.",
+    "No approval or public metadata exists for this revision."
+  ],
+  "notes": "Revision 4 is rejected for a material Markdown visual-grammar defect in both locales. The report-specific registry reconciliation exists and the checked current-source facts are supported, but the visual evidence is not parseable as claimed. No approval, publication snapshot or public bundle was created."
+}
