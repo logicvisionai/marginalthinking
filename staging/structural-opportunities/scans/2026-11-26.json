@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-11-26",
   "idempotency_key": "structural-opportunity-scan-2026-11-26",
-  "scanned_at": "2026-11-26T05:45:00-03:00",
+  "scanned_at": "2026-11-26T04:58:00-03:00",
   "scope": [
     "infrastructure",
     "energy",
