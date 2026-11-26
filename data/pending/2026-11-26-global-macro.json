@@ -1,0 +1,195 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-26",
+  "slug": "2026-11-26-global-macro",
+  "date": "2026-11-26",
+  "published_at": "2026-11-26T08:15:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "fiscal-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "institutions-governance",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "strategic-competition"
+  ],
+  "format": "brief",
+  "cadence": "daily",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-26-global-macro/en.md",
+      "title": "Tariff proposals become concrete, but markets price the process—not the duty",
+      "deck": "USTR's formal determinations and proposed tariffs move trade policy from speculation into consultation, while strong US quarterly growth, sticky PCE inflation, falling Treasury yields and a relief rally reveal a split market response.",
+      "tags": [
+        "Global Macro",
+        "trade policy",
+        "tariffs",
+        "inflation",
+        "monetary policy",
+        "capital markets",
+        "energy",
+        "global production"
+      ],
+      "keywords": [
+        "USTR Section 301 determinations November 2026",
+        "proposed tariffs 14 economies",
+        "US Q3 GDP 4.3 percent",
+        "October PCE inflation 3.8 core 3.3",
+        "Treasury 10-year yield November 25",
+        "emerging market portfolio outflows October",
+        "Brent oil November 26"
+      ],
+      "regime": "Global activity remains uneven; US quarterly demand is strong but monthly real consumption is flat, inflation remains elevated, and trade-policy uncertainty is interacting with technology and energy risk.",
+      "key_risk": "Broad final tariff coverage or retaliation could increase landed costs and delay investment while sticky inflation limits monetary-policy flexibility; persistent energy disruption would add a separate price shock.",
+      "watch": [
+        "USTR Federal Register annexes, comments due 5 January 2027 and hearings from 25 January",
+        "Effective dates, product exclusions and netting against existing duties",
+        "US import prices, core goods PCE and corporate margin disclosures",
+        "November emerging-market capital-flow estimates",
+        "OPEC+ 29 November 2026 output-policy meeting",
+        "Oil shipping and export data from the Gulf"
+      ],
+      "search_text": "Global Macro 26 November 2026 USTR 14 Section 301 economies proposed tariff duties public comments January 2027 US GDP Q3 4.3 October PCE 3.8 core 3.3 real PCE flat Treasury yield 4.84 falling tariff market rebound Asia equities Brent 94.7 IIF outflows emerging markets steel production euro inflation Brazil Selic"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-26-global-macro/pt-BR.md",
+      "title": "Tarifas propostas ganham forma, mas o mercado precifica o processo — não o imposto",
+      "deck": "As determinações formais e as tarifas propostas pelo USTR levam a política comercial da especulação à consulta, enquanto crescimento trimestral americano forte, inflação PCE persistente, rendimentos menores dos Treasuries e recuperação das bolsas revelam uma resposta de mercado dividida.",
+      "tags": [
+        "Global Macro",
+        "política comercial",
+        "tarifas",
+        "inflação",
+        "política monetária",
+        "mercados de capitais",
+        "energia",
+        "produção global"
+      ],
+      "keywords": [
+        "determinações Seção 301 USTR novembro 2026",
+        "tarifas propostas 14 economias",
+        "PIB americano 3º tri 4,3 por cento",
+        "inflação PCE outubro 3,8 núcleo 3,3",
+        "Treasury dez anos 25 novembro",
+        "saídas de carteira emergentes outubro",
+        "petróleo Brent 26 novembro"
+      ],
+      "regime": "A atividade global permanece desigual; a demanda trimestral americana é forte, mas o consumo real mensal está estável, a inflação continua elevada e a incerteza comercial interage com riscos de tecnologia e energia.",
+      "key_risk": "Cobertura tarifária final ampla ou retaliação pode elevar custos de importação e atrasar investimentos enquanto a inflação persistente limita a flexibilidade monetária; uma interrupção energética prolongada acrescentaria outro choque de preços.",
+      "watch": [
+        "Anexos do Federal Register do USTR, comentários até 5 de janeiro de 2027 e audiências a partir de 25 de janeiro",
+        "Datas de vigência, exclusões por produto e abatimento de tarifas existentes",
+        "Preços de importação dos EUA, PCE de bens essenciais e margens corporativas",
+        "Estimativas de fluxos de capital emergente de novembro",
+        "Reunião da OPEP+ de 29 de novembro de 2026 sobre política de produção",
+        "Dados de navegação e exportação de petróleo do Golfo"
+      ],
+      "search_text": "Global Macro 26 novembro 2026 USTR 14 economias Seção 301 tarifas propostas consulta pública janeiro 2027 PIB EUA terceiro trimestre 4,3 PCE outubro 3,8 núcleo 3,3 PCE real estável Treasury 4,84 queda recuperação bolsas Ásia Brent 94,7 saídas IIF mercados emergentes produção aço inflação euro Selic Brasil"
+    }
+  },
+  "signal_rationale": {
+    "delta": "Compared with the 25 November edition, which covered tariff expectations before formal findings and the inflation-rate transmission, this edition updates the legal state to published determinations and proposed product-level actions, then tests the market response against the BEA's newly released Q3 GDP second estimate and October PCE. The 24 November issue's regional growth/steel dispersion and the 23 November China ore/steel inventory thesis are not repeated.",
+    "evidence": "USTR's 25 November notice lists determinations for 14 economies, proposed additional duties with exceptions/netting and a public-comment process through 5 January 2027. BEA released Q3 real GDP at 4.3% annualized and October PCE inflation at 3.8% headline/3.3% core. Reuters reports the 25 November equity/yield close and 26 November Asian rebound; Treasury/FRED reports the 10-year yield; Eurostat, IIF and worldsteel provide dated cross-region inflation, flows and output data.",
+    "scale_path": "Formal trade-policy findings affect product coverage and expected landed costs; firms adjust sourcing, inventories and investment; import prices and margins transmit to inflation and trade volumes; monetary expectations, yields, FX and cross-border funding respond.",
+    "transmission": "USTR determination → consultation/final coverage/effective date → tariff incidence and sourcing → import prices, margins, trade and capex → inflation expectations, central-bank reaction, yields, currencies and capital flows.",
+    "falsifier": "The thesis weakens if final coverage is narrow or delayed, net landed costs barely change, trade and capex remain stable, core goods inflation disinflates and energy shipping/export data show no sustained supply loss."
+  },
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "Tariffs remain proposed; product annexes, exclusions, effective dates and final negotiated changes must be monitored.",
+    "Market observations are from different reporting windows; US cash markets are closed on 26 November for Thanksgiving.",
+    "PCE, GDP, HICP and steel-output series have different scopes and cannot be treated as one comparable measure.",
+    "The IIF capital-flow estimate is October monthly data, not November daily flow.",
+    "Oil and shipping incident claims are attributed to Reuters and not independently verified in this report."
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-11-26 04:45 America/Sao_Paulo",
+    "comparative_editions": [
+      "MT-GM-2026-11-25",
+      "MT-GM-2026-11-24",
+      "MT-GM-2026-11-23"
+    ],
+    "novelty_decision": "The new delta is formal USTR determinations/proposed measures plus released BEA GDP/PCE data; this is not merely a calendar update to 25 November. The 24 November regional PMI/steel and 23 November China ore-inventory theses are not repeated.",
+    "fact_inference_scenario_separated": true,
+    "bilingual_parity": {
+      "same_numeric_series": true,
+      "same_reference_count": true,
+      "charts": 1,
+      "tables": 2,
+      "flows": 1,
+      "maps": 1,
+      "references_en": 12,
+      "references_pt": 12
+    },
+    "visual_evidence": {
+      "charts": 1,
+      "tables": 2,
+      "flows": 1,
+      "maps": 1
+    },
+    "source_audit": {
+      "references": 12,
+      "primary_institutional_sources": 9,
+      "market_reporting_sources": 3,
+      "urls_unique": 12,
+      "domains": 10,
+      "reproducibility_notes": {
+        "tariffs": "USTR 25 November 2026 determination and proposed-action notice. Rates are ceilings proposed for consultation, with product exclusions and netting/conditional agreements; they are not final duties in force. Comments due 5 January 2027; hearings from 25 January.",
+        "us_gdp": "BEA second estimate for Q3 2026, release 25 November: real GDP +4.3% annualized; final sales to private domestic purchasers +5.8%; revised from 3.4% advance estimate. Quarterly annualized series.",
+        "us_pce": "BEA October 2026 PIO release 25 November: headline PCE +0.3% m/m/+3.8% y/y; core +0.3% m/m/+3.3% y/y; real PCE essentially 0.0% m/m; saving rate 4.1%.",
+        "market_window": "Reuters reports US session 25 November (Dow +0.33%, S&P -0.25%, Nasdaq -0.62%, 10-year yield 4.84%, down 6.2bp) and early Asia snapshot 26 November (Nikkei +1.6%, Korea +1.9%, APAC ex-Japan +0.6%). US cash market closed for Thanksgiving on 26 November.",
+        "euro_inflation": "Eurostat final October 2026 HICP released 18 November: euro area 4.0% y/y; energy contributed 1.89pp and services 1.55pp.",
+        "em_flows": "IIF November tracker released 5 November: nonresident EM portfolio outflows $33.8bn in October; monthly estimate, not November daily data.",
+        "steel": "worldsteel 24 November release: October production 142.4Mt across 70 reporting economies, -1.1% y/y; regional/country figures are production, not final demand.",
+        "brazil_policy": "BCB Copom November 2026 statement maintains Selic at 13.75% p.a.; Brazil is not among the 14 economies named in the USTR determination.",
+        "oil": "Reuters 26 November reports Brent around $94.7/bbl and attributes supply concerns to claimed attacks/shipping reports; incident attribution is not independently verified here.",
+        "source_independence": "Reuters provides market-window observations and attribution; primary USTR, BEA, Treasury/FRED, Eurostat, IIF, worldsteel, BCB and EIA sources support legal, statistical and policy claims."
+      }
+    }
+  },
+  "manual_preflight": {
+    "schema_v2": true,
+    "controlled_programs": true,
+    "controlled_topics": true,
+    "phenomena_valid": true,
+    "word_count_en": 2470,
+    "word_count_pt": 2780,
+    "references_en": 12,
+    "references_pt": 12,
+    "ready_for_independent_qa": true,
+    "repository_script_validator": "Producer preflight: schema v2, controlled taxonomy, daily brief visual floor (two tables, explicit chart, structural flow/map), source count and bilingual visual parity checked manually. Full repository validators and independent QA remain separate and are not claimed as passed."
+  },
+  "revision": 1,
+  "revision_reason": "New daily edition: formal USTR determinations and proposed tariff actions published on 25 November, and BEA released Q3 GDP second estimate and October PCE after the prior report's cutoff.",
+  "revision_scope": "New report only; no public bundle, index, taxonomy, CSS, routes or approved/rejected records modified.",
+  "qa_fixes_applied": [],
+  "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-1-publication-reconciliation"
+}
