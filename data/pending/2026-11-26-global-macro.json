@@ -4,7 +4,7 @@
   "id": "MT-GM-2026-11-26",
   "slug": "2026-11-26-global-macro",
   "date": "2026-11-26",
-  "published_at": "2026-11-26T08:15:00-03:00",
+  "published_at": "2026-11-26T04:50:00-03:00",
   "kind": "daily-global-macro",
   "priority": 10,
   "source_locale": "en",
@@ -197,5 +197,5 @@
   "revision_scope": "Same Global Macro ID/slug; added sourced FAO commodity and food-security evidence in both locales, one matched chart and table, and reference 13. No public files or taxonomy changes.",
   "qa_fixes_applied": [],
   "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-2-publication-reconciliation",
-  "revised_at": "2026-11-26T05:35:00-03:00"
+  "revised_at": "2026-11-26T04:58:00-03:00"
 }
