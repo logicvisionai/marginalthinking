@@ -16,7 +16,11 @@ FMD is a highly contagious viral disease affecting cloven-hoofed animals, includ
 
 SAT1 is one of several FMD virus serotypes. A first notification in a country means that the serotype was reported there for the first time through the official system; it does not mean that the country had no FMD previously, that every herd is infected or that the entire country is affected. WOAH's August 2026 summary records first SAT1 occurrences in Iraq, Kuwait, Egypt and Azerbaijan in 2025, and in Israel, Cyprus, Palestine, China and Mongolia in 2026. It also records renewed notifications in Türkiye, Lebanon and Greece after about six decades. The Middle East regional page, updated 24 November, describes SAT1 reaching the region in 2025–2026 and identifies the regional strategy now guiding prevention and control. [1] [4]
 
-| Official first-occurrence notifications through WAHIS | Count | Scope |\n|---|---:|---|\n| 2025 | 4 | Iraq, Kuwait, Egypt, Azerbaijan |\n| 2026 through 26 August | 5 | Israel, Cyprus, Palestine, China, Mongolia |\n| Renewed SAT1 notifications after about 60 years | 3 | Türkiye, Lebanon, Greece; not first-ever FMD reports |
+| Official first-occurrence notifications through WAHIS | Count | Scope |
+|---|---:|---|
+| 2025 | 4 | Iraq, Kuwait, Egypt, Azerbaijan |
+| 2026 through 26 August | 5 | Israel, Cyprus, Palestine, China, Mongolia |
+| Renewed SAT1 notifications after about 60 years | 3 | Türkiye, Lebanon, Greece; not first-ever FMD reports |
 
 ```chart
 type: bar
@@ -38,9 +42,18 @@ The notification pattern can have two simultaneous meanings. It may indicate wid
 
 ## 3. Vaccine matching and veterinary capacity are the operational bottlenecks
 
-FMD control depends on identifying the serotype and selecting prevention measures compatible with the circulating virus. FAO's June 2026 regional update warned that commonly used FMD vaccines in South and Southeast Asia were not fit to tackle SAT1 and described support for early warning, risk-based surveillance and rapid laboratory diagnosis in seven countries. That statement is specific to the vaccine products and regions discussed by FAO; it should not be generalized to every vaccine or every country. [5]
+FMD control depends on identifying the serotype and selecting prevention measures compatible with the circulating virus. [8] FAO's June 2026 regional update warned that commonly used FMD vaccines in South and Southeast Asia were not fit to tackle SAT1 and described support for early warning, risk-based surveillance and rapid laboratory diagnosis in seven countries. That statement is specific to the vaccine products and regions discussed by FAO; it should not be generalized to every vaccine or every country. [5]
 
-WOAH identifies biosecurity, vaccination, movement controls and border surveillance as preventive measures. FAO's March rapid risk assessment, based on information through 23 February, considered further spread in adjacent and nearby countries very likely over the following three months, with moderate-to-severe potential impact and high uncertainty. That was a dated risk assessment, not a current probability estimate for November. Its described pathways included informal animal movement, weak veterinary services and limited SAT1 vaccine availability. [6]
+WOAH identifies biosecurity, vaccination, movement controls and border surveillance as preventive measures. [1] FAO's March rapid risk assessment, based on information through 23 February, assessed 17 unaffected countries and territories for exposure over the following three months. Aggregating its likelihood–impact matrix gives six very likely, nine likely and two unlikely assessments. These are qualitative categories, not observed infections or probabilities, and the three-month horizon is a historical baseline rather than a current November forecast. The assessment identifies informal animal movement, weak veterinary services and limited SAT1 vaccine availability as risk pathways. [6]
+
+```chart
+type: bar
+title: FAO's February 2026 SAT1 exposure assessment by likelihood
+unit: countries/territories; qualitative categories, not probabilities
+Unlikely | 2
+Likely | 9
+Very likely | 6
+```
 
 ```flow
 Official notification and serotype identification
@@ -104,3 +117,4 @@ SAT1's geographic expansion is a genuine animal-health and trade risk, but the c
 6. FAO, Rapid risk assessment: FMD SAT1, version 2, data through 23 Feb 2026, published 4 Mar 2026: https://www.fao.org/animal-health/rapid-risk-assessment-fmd/en
 
 7. FAO, “Advancing foot-and-mouth disease prevention in the Middle East — Launch of the Regional Strategy 2026–2030”, 30 Sep 2026: https://www.fao.org/neareast/news/details/advancing-foot-and-mouth-disease-prevention-in-the-middle-east-launch-of-the-regional-strategy-2026-2030/en
+8. WOAH, “Foot and mouth disease”, disease overview, accessed 26 November 2026: https://www.woah.org/en/disease/foot-and-mouth-disease/

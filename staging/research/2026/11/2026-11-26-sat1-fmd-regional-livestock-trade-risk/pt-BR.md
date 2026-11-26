@@ -16,7 +16,11 @@ A febre aftosa é uma doença viral altamente contagiosa que afeta animais de ca
 
 SAT1 é um dos vários sorotipos do vírus da febre aftosa. Uma primeira notificação em um país significa que o sorotipo foi reportado ali pela primeira vez no sistema oficial; não significa que o país nunca teve febre aftosa, que todos os rebanhos estejam infectados ou que todo o território esteja afetado. O resumo da WOAH de agosto de 2026 registra primeiras ocorrências de SAT1 no Iraque, Kuwait, Egito e Azerbaijão em 2025, e em Israel, Chipre, Palestina, China e Mongólia em 2026. Também registra novas notificações na Türkiye, no Líbano e na Grécia após cerca de seis décadas. A página regional do Oriente Médio, atualizada em 24 de novembro, descreve SAT1 chegando à região em 2025–2026 e identifica a estratégia regional que orienta prevenção e controle. [1] [4]
 
-| Primeiras notificações oficiais de ocorrência via WAHIS | Contagem | Escopo |\n|---|---:|---|\n| 2025 | 4 | Iraque, Kuwait, Egito, Azerbaijão |\n| 2026 até 26 de agosto | 5 | Israel, Chipre, Palestina, China, Mongólia |\n| Notificações renovadas de SAT1 após cerca de 60 anos | 3 | Türkiye, Líbano, Grécia; não são primeiras notificações de FMD |
+| Primeiras notificações oficiais de ocorrência via WAHIS | Contagem | Escopo |
+|---|---:|---|
+| 2025 | 4 | Iraque, Kuwait, Egito, Azerbaijão |
+| 2026 até 26 de agosto | 5 | Israel, Chipre, Palestina, China, Mongólia |
+| Notificações renovadas de SAT1 após cerca de 60 anos | 3 | Türkiye, Líbano, Grécia; não são primeiras notificações de FMD |
 
 ```chart
 type: bar
@@ -38,9 +42,18 @@ O padrão de notificações pode ter dois significados simultâneos. Pode indica
 
 ## 3. Compatibilidade vacinal e capacidade veterinária são os gargalos operacionais
 
-O controle da febre aftosa depende de identificar o sorotipo e selecionar medidas preventivas compatíveis com o vírus circulante. A atualização regional da FAO de junho de 2026 alertou que vacinas de FMD comumente usadas no Sul e Sudeste da Ásia não eram adequadas para SAT1 e descreveu apoio a alerta precoce, vigilância baseada em risco e diagnóstico laboratorial rápido em sete países. A afirmação é específica aos produtos e regiões discutidos pela FAO; não deve ser generalizada para todas as vacinas ou todos os países. [5]
+O controle da febre aftosa depende de identificar o sorotipo e selecionar medidas preventivas compatíveis com o vírus circulante. [8] A atualização regional da FAO de junho de 2026 alertou que vacinas de FMD comumente usadas no Sul e Sudeste da Ásia não eram adequadas para SAT1 e descreveu apoio a alerta precoce, vigilância baseada em risco e diagnóstico laboratorial rápido em sete países. A afirmação é específica aos produtos e regiões discutidos pela FAO; não deve ser generalizada para todas as vacinas ou todos os países. [5]
 
-A WOAH identifica biossegurança, vacinação, controles de movimentação e vigilância de fronteira como medidas preventivas. A avaliação rápida da FAO de março, baseada em informações até 23 de fevereiro, considerou muito provável a disseminação adicional em países adjacentes ou próximos nos três meses seguintes, com impacto potencial moderado a severo e alta incerteza. Era uma avaliação de risco datada, não uma estimativa de probabilidade atual para novembro. As vias descritas incluíam movimentação informal de animais, serviços veterinários frágeis e disponibilidade limitada de vacina SAT1. [6]
+A WOAH identifica biossegurança, vacinação, controles de movimentação e vigilância de fronteira como medidas preventivas. [1] A avaliação rápida de risco da FAO publicada em março, com informações até 23 de fevereiro, examinou 17 países e territórios ainda não afetados quanto à exposição nos três meses seguintes. A soma da matriz probabilidade–impacto resulta em seis avaliações de muito provável, nove de provável e duas de improvável. São categorias qualitativas, não infecções observadas nem probabilidades, e o horizonte de três meses é uma linha de base histórica, não uma previsão atual para novembro. A avaliação identifica movimentação informal de animais, serviços veterinários frágeis e disponibilidade limitada de vacina SAT1 como vias de risco. [6]
+
+```chart
+type: bar
+title: Avaliação da exposição a SAT1 pela FAO, fevereiro de 2026
+unit: países/territórios; categorias qualitativas, não probabilidades
+Improvável | 2
+Provável | 9
+Muito provável | 6
+```
 
 ```flow
 Notificação oficial e identificação do sorotipo
@@ -104,3 +117,4 @@ A expansão geográfica de SAT1 é um risco real para saúde animal e comércio,
 6. FAO, avaliação rápida de risco FMD SAT1, versão 2, dados até 23 fev. 2026, publicada em 4 mar. 2026: https://www.fao.org/animal-health/rapid-risk-assessment-fmd/en
 
 7. FAO, “Advancing foot-and-mouth disease prevention in the Middle East — Launch of the Regional Strategy 2026–2030”, 30 set. 2026: https://www.fao.org/neareast/news/details/advancing-foot-and-mouth-disease-prevention-in-the-middle-east-launch-of-the-regional-strategy-2026-2030/en
+8. WOAH, “Foot and mouth disease”, página institucional sobre a doença, acesso em 26 nov. 2026: https://www.woah.org/en/disease/foot-and-mouth-disease/

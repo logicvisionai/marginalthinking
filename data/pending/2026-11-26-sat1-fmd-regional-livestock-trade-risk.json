@@ -134,47 +134,51 @@
     "bilingual_parity": {
       "same_numeric_series": true,
       "same_reference_count": true,
-      "charts": 1,
+      "charts": 2,
       "tables": 1,
       "flows": 1,
       "maps": 1,
-      "references_en": 7,
-      "references_pt": 7
+      "references_en": 8,
+      "references_pt": 8
     },
     "visual_evidence": {
-      "charts": 1,
+      "charts": 2,
       "tables": 1,
       "flows": 1,
       "maps": 1
     },
     "source_audit": {
-      "references": 7,
-      "primary_institutional_sources": 7,
-      "urls_unique": 7,
+      "references": 8,
+      "primary_institutional_sources": 8,
+      "urls_unique": 8,
       "domains": 4,
       "unused_references": 0,
       "all_references_cited": true,
-      "citation_audit": "References 1 through 7 are individually cited in both EN and PT-BR bodies; grouped citations [1–4], [1,4], [2,3] and [1,6] were expanded to individual bracketed numbers."
+      "citation_audit": "References 1 through 8 are individually cited in both EN and PT-BR bodies. Reference 8 adds WOAH's general FMD disease overview for serotype-specific immunity; the FAO February assessment chart aggregates the likelihood totals in Table 1 and is explicitly dated and non-probabilistic.",
+      "fao_risk_distribution": "FAO rapid risk assessment v2, data through 23 Feb 2026, Table 1: among 17 unaffected countries/territories, likelihood-impact combinations sum to 2 unlikely (2 low impact), 9 likely (3 low, 4 moderate, 2 severe) and 6 very likely (2 moderate, 4 severe). The chart aggregates likelihood row totals only; these are qualitative expert categories for the following three months, not probabilities or observed cases."
     },
     "manual_preflight": {
       "schema_v2": true,
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 2089,
-      "word_count_pt": 2334,
-      "references_en": 7,
-      "references_pt": 7,
+      "word_count_en": 1960,
+      "word_count_pt": 2197,
+      "references_en": 8,
+      "references_pt": 8,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "Not run by producer; independent QA must execute exact-HEAD validators."
+      "repository_script_validator": "Candidate-specific visual grammar and depth thresholds checked against scripts/validate-editorial-depth.mjs and scripts/lib/visuals.mjs; exact-HEAD CI remains independent."
     }
   },
-  "revision": 2,
-  "revision_reason": "Expands grouped numeric citations to individually auditable reference numbers [1]–[7] in both locales; no observations, dates, counts, source scope or thesis changed.",
-  "revision_scope": "Citation-format audit correction to the same SAT1/FMD report ID and slug; EN/PT-BR text otherwise preserved.",
+  "revision": 3,
+  "revision_reason": "Repairs literal escaped newline sequences in the EN/PT-BR evidence table, adds a second sourced chart from FAO's dated 17-country risk matrix, and adds WOAH's disease overview to support serotype-specific vaccine matching; the main thesis and observed outbreak notifications are unchanged.",
+  "revision_scope": "Same SAT1/FMD report ID and slug. Both locales now render the notification table correctly, include the same second chart derived from the FAO February 2026 likelihood-impact matrix, and cite WOAH's general disease guidance for serotype-specific vaccine immunity. No new outbreak count, herd prevalence, loss estimate or causal claim is introduced.",
   "qa_fixes_applied": [
-    "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT"
+    "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT",
+    "LITERAL_BACKSLASH_N_TABLE_REPAIRED_IN_BOTH_LOCALES",
+    "FAO_RISK_MATRIX_SECOND_CHART_ADDED_IN_BOTH_LOCALES",
+    "WOAH_SEROTYPE_SPECIFIC_VACCINE_SOURCE_ADDED"
   ],
-  "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-2-publication-reconciliation",
-  "revised_at": "2026-11-26T05:20:00-03:00"
+  "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-3-publication-reconciliation",
+  "revised_at": "2026-11-26T13:56:13-03:00"
 }
