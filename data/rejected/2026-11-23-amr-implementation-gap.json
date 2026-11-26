@@ -2,196 +2,240 @@
   "schema_version": 2,
   "id": "MT-BIO-2026-11-23-amr-implementation-gap",
   "slug": "2026-11-23-amr-implementation-gap",
-  "revision": 0,
-  "rejection_count_for_id": 1,
+  "revision": 1,
+  "rejection_count_for_id": 2,
   "rejection_loop_limit_reached": false,
   "qa_status": "rejected",
-  "reviewed_at": "2026-11-23T10:05:57Z",
-  "reviewed_commit": "f133a62ce6b8200f82ae5debba3819a0950da178",
-  "pending_blob_sha": "b15ac577e873212885b9ae7e18bcb41547cc5dbd",
+  "reviewed_at": "2026-11-26T09:36:10Z",
+  "reviewed_commit": "bf16cc06576b8214d94ff25b5cfb6fcbdcc020ab",
+  "pending_blob_sha": "6e877806bf5b3d6785c2e1843f9802dc2c0e2491",
   "source_blob_shas": {
-    "en": "a6f4ae924f759336a2b5e422302bb746866f1ded",
-    "pt-BR": "5e3683f574e914dbb1c02065eef5f6673e5228d6"
+    "en": "c62c8d6edbdaa20bdad3a8aba415534d4c5cd51d",
+    "pt-BR": "a48f73eda020bbaa358a5db04dbaf936cffedc05"
   },
-  "previous_rejections": [],
+  "previous_rejections": [
+    {
+      "revision": 0,
+      "rejection_record_blob_sha": "f2adaba8e029792119aac1a51097c5c398fa72fd",
+      "pending_blob_sha": "b15ac577e873212885b9ae7e18bcb41547cc5dbd",
+      "source_blob_shas": {
+        "en": "a6f4ae924f759336a2b5e422302bb746866f1ded",
+        "pt-BR": "5e3683f574e914dbb1c02065eef5f6673e5228d6"
+      },
+      "issues": [
+        "CITATION_MISNUMBERING_AND_UNCITED_REFERENCES",
+        "ECDC_EU_INCIDENCE_MISLABELLED_AS_EU_EEA",
+        "WOAH_INTENDED_USE_MISSTATED_AS_ADMINISTERED_USE",
+        "ANIMUSE_9_PERCENT_TREND_SOURCE_MISATTRIBUTED",
+        "PTBR_VISUAL_UNIT_LABELS_NOT_LOCALIZED",
+        "FORMULAIC_META_DISCOURSE"
+      ],
+      "prior_guard_anomaly": "The prior record set blocked_after_limit=true while rejection_count_for_id was 1 of a maximum 3. This revision corrects the guard to false; review is allowed only because all three current blobs differ from revision 0."
+    }
+  ],
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Pending v2 and both complete staged Markdown editions were read at main HEAD f133a62ce6b8200f82ae5debba3819a0950da178. Exact Git blob tuple: pending b15ac577e873212885b9ae7e18bcb41547cc5dbd; EN a6f4ae924f759336a2b5e422302bb746866f1ded; PT-BR 5e3683f574e914dbb1c02065eef5f6673e5228d6. No approval, rejection or public metadata existed for this ID/slug before this decision."
+      "summary": "Exact current Git blobs verified: pending 6e877806bf5b3d6785c2e1843f9802dc2c0e2491, EN c62c8d6edbdaa20bdad3a8aba415534d4c5cd51d, PT-BR a48f73eda020bbaa358a5db04dbaf936cffedc05. No approval sidecar and no canonical reports/**/metadata.json exist for this ID/revision."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Pending schema_version 2, ready=true, canonical ID/slug, registered kind biosecurity-livestock-governance, controlled primary program technology-production-society, related programs, dimensions, geography, topics and phenomenon institutional-change are valid. The editorial line is registered in data/system-registry.json."
+      "summary": "Pending is schema_version 2, ready:true, canonical ID/slug retained, registered kind biosecurity-livestock-governance, program technology-production-society, valid related programs, controlled topics, phenomenon, research-report format and event-driven cadence."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "The information cutoff is 2026-11-23 06:20 America/Sao_Paulo. The WHO TrACSS release is dated 16 November 2026; the WOAH ANIMUSE report and ECDC/WHO European Region and ESAC-Net reports were released before the cutoff. The cited observations are explicitly separated by their own reference periods (2024 animal-use data, 2025 growth-promotion questionnaire, 2025 human invasive-isolate data and 2025 EU/EEA consumption)."
+      "summary": "The 2026-11-23 06:20 America/Sao_Paulo cutoff is respected by the cited 16–18 November 2026 WHO, WOAH and ECDC releases. Older WHO, UN and WOAH standards are identified by their actual dates."
     },
     "factual_methodology": {
       "result": "failed",
-      "summary": "Two material scope/measurement errors remain in both editions. First, the ECDC value of 3.75 per 100,000, the +72% change and the 2.07 target are explicitly the estimated total EU incidence, not EU/EEA incidence; the current prose and EN/PT-BR table label them EU/EEA. Second, the ANIMUSE 83,254-tonne figure is reported quantities of antimicrobial agents intended for use in animals, based primarily on sales and imports; the current sentence says the agents 'were used'/'foram utilizadas', implying administered use despite the report's explicit distinction between market-level data and farm-level administration."
+      "summary": "Most numerical claims were confirmed against primary sources, including TrACSS 2026, ANIMUSE 2024 and ECDC 2025. However, the ESAC-Net paragraph labels EU-only aggregate indicators and 2030 targets as EU/EEA. The 18.9 DID, -5%, 15.9 DID target, 62.5% Access share, 61.1% baseline and 65% target are explicitly EU population-weighted indicators; the report separately gives an EU/EEA community-consumption series. The two scopes must not be merged."
     },
     "evidence_traceability": {
       "result": "failed",
-      "summary": "The opening paragraph attaches references [4][5] to the 2026 Global Action Plan and the 2024 UN Political Declaration. Reference [4] is the ECDC ESAC-Net consumption report and does not support either claim; [5] is the WHO Global Action Plan release; [6] is the UN declaration but is never cited. References [6]–[10] are all absent from body citations, while producer_checks.source_audit reports ten references. In addition, the 9% increase among 74 participants is attributed to the ANIMUSE interactive report, although the WOAH PDF itself presents that separate 2018–2024 analysis in its executive summary and Chapter 4."
+      "summary": "All ten numbered references are present and cited, but the 74-participant/9% ANIMUSE trend is described as an analysis in the report itself without acknowledging that the foreword says the separate analysis is available through the ANIMUSE Interactive Report and is not included in the PDF; the executive summary and conclusions repeat the result but do not reproduce the underlying analysis. The pending source_audit also claims six domains while the ten URLs resolve to five unique hostnames: apps.who.int, docs.un.org, www.ecdc.europa.eu, www.who.int and www.woah.org."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "The article has a distinct research question and a continuous argument from national plan coverage to animal-use measurement, human clinical resistance, regional transmission, financing and conditional policy responses. It includes competing interpretations, three scenarios and explicit falsifiers. It exceeds the 1,700-word research-report floor and connects institutional, production and economic dimensions. Depth is not inferred from word count alone."
+      "summary": "The report contains a distinct implementation-capacity thesis, mechanism, evidence limitations, base/upside/downside scenarios and falsifiers. It separates market-level animal-use quantities from administration, human invasive-isolate resistance and country self-assessment; it does not claim animal-use causation of human resistance. Manual application of the current depth-script thresholds indicates the candidate is above the word, source, heading and visual floors."
     },
     "visual_evidence_readiness": {
-      "result": "passed",
-      "summary": "Both editions contain three explicit charts, two evidence tables, one causal flow and one regional-comparison map. The numeric series and visual structure are semantically aligned; values are reproducible from the cited WHO, WOAH and ECDC sources. The map uses regional comparison cards and qualitative qualification rather than invented coordinates. Strict pipeline visual validation passed for this exact unchanged source tuple."
+      "result": "failed",
+      "summary": "Both map fences use Markdown table syntax with leading/trailing pipes, a header and separator. The deterministic map renderer instead treats each non-empty line as region|finding|qualification; it does not discard table headers or separators and its geographicSummary split preserves empty leading/trailing cells. The map therefore renders blank region labels and spurious header/separator cards. PT-BR chart unit at line 102 still contains English. Pending visual inventory also reports two tables while each staged edition contains three ordinary Markdown tables."
     },
     "bilingual_equivalence": {
-      "result": "passed",
-      "summary": "The thesis, observations, numerical series, source list, scenarios and material qualifications are substantively aligned between EN and PT-BR. The EU/EEA scope error and administered-use wording occur in both editions, so they are factual errors rather than translation divergence. Minor language cleanup remains: PT-BR chart unit labels are still in English."
+      "result": "failed",
+      "summary": "The substantive numeric series and source lists align, but PT-BR chart unit at line 102 is mixed-language ('percentual de países reporting the combination'). The same invalid map grammar appears in both editions."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The report distinguishes observed facts, inference and what is not established; it presents base, favorable and adverse scenarios and identifies inventory, hot-metal output, mill margins, resistance trends and implementation measures that would weaken or strengthen the thesis."
+      "summary": "The report distinguishes observations, inference and scenarios, includes measurable falsifiers and explicitly rejects causal attribution between parallel animal-use and human-resistance aggregates."
     },
     "novelty_vs_corpus": {
       "result": "passed",
-      "summary": "The published 12 October 2026 livestock-AMR governance report is a broad institutional baseline on animal production, veterinary access, surveillance and incentives. This 23 November item adds distinct current releases: WHO TrACSS 2026, WOAH's 2024 ANIMUSE dataset, ECDC/WHO 2025 invasive-isolate data and ESAC-Net 2025 consumption. It is an empirical update, not a date-only rewrite."
+      "summary": "This is a substantive update to the 2026-10-12 livestock-AMR governance baseline, using new WHO TrACSS 2026, WOAH ANIMUSE 2024 and ECDC 2025 evidence rather than a date-only rewrite."
     },
     "system_registry_reconciliation": {
-      "result": "not_run",
-      "summary": "No reconciliation-ledger run names MT-BIO-2026-11-23-amr-implementation-gap. The item is not public, so QA did not mutate the canonical ledger. Before publication, the publisher must record evidence-based decisions for all seven active reconciliation-required assets; no dataset change may be inferred from this report."
+      "result": "passed",
+      "summary": "The pending revision-1 reconciliation_run_id exists in data/reconciliation-ledger.json and contains evidence-based decisions for all seven active reconciliation-required assets. Any corrected revision 2 must create a new revision-specific reconciliation run rather than reusing this revision-1 run."
+    },
+    "editorial_style": {
+      "result": "passed",
+      "summary": "The prose is neutral, the body citations are numbered and the bibliography is at the end. The prior formulaic signposting was removed. Remaining language defect is confined to the PT-BR chart unit."
     },
     "editorial_depth_script": {
-      "result": "passed",
-      "summary": "The strict editorial-health workflow 45150214273 executed scripts/validate-editorial-depth.mjs on HEAD 967bf883b34bd1f75e35ee1a04051edf9db94bc2. A Git compare from that HEAD to the reviewed HEAD f133a62 shows only two unrelated additions (editorial radar and structural-opportunity scan); the pending and both staged Markdown blobs for this candidate are unchanged. The candidate is not among the depth failures. The aggregate script still exited non-zero for other, older drafts; this is a candidate-specific pass, not an overall workflow pass."
+      "result": "not_run",
+      "summary": "The strict editorial-health run 45785673932 executed validate-pipeline.mjs but short-circuited before validate-editorial-depth.mjs because the separate SAT1 draft failed the pipeline. Manual evaluation of the exact current depth rules: 3,097 EN and 3,555 PT-BR words after fenced blocks are stripped; 10 unique URLs; 5 hostnames; 3 charts; 1 flow; 1 map; 9 H2 headings; sufficient table lines and explicit scenarios/falsifiers. This is not represented as an actual script execution."
     },
     "pipeline_validation": {
       "result": "passed",
-      "summary": "The strict pending-research job in workflow 45150214273 ran scripts/validate-pipeline.mjs and reported 'Pipeline validation OK: 208 public bundles; 22 unpublished pending; 0 approved unpublished; 6 legacy pending already public.' The current reviewed candidate was included in the strict pending inventory. The latest public build workflow 45150702907 also passed validate-pipeline.mjs with 208 public bundles and zero approvals awaiting publication."
+      "summary": "The strict pending run 45785673932 included this unchanged revision-1 tuple and reported no AMR candidate errors; its aggregate failure was caused by the separate SAT1 item. The current HEAD build run 45786440131 also passed validate-pipeline.mjs and the public build."
     },
     "repository_build": {
-      "result": "failed",
-      "summary": "Workflow 45150702907 on the reviewed HEAD passed pipeline validation but failed later in validate-research.mjs because of the pre-existing public MT-GM-2026-11-18 revision-5 self-reference at line 60 in EN and PT-BR. Build/render and deploy were skipped. This repository-wide blocker is independent of the candidate's four content defects and is not attributed to this report."
+      "result": "passed",
+      "summary": "On HEAD bf16cc06576b8214d94ff25b5cfb6fcbdcc020ab, workflow 45786440131 passed build, visual semantics, generated-site verification, Worker validation and artifact upload."
+    },
+    "deployment_status": {
+      "result": "blocked",
+      "summary": "The separate deploy job failed at Check Cloudflare credentials because CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID are unavailable. Deployment and live-site verification were skipped; this is an infrastructure blocker, not a candidate-specific content finding."
     },
     "editorial_publication_readiness": {
       "result": "failed",
-      "summary": "Approval is withheld for the incorrect EU-versus-EU/EEA incidence scope, the conflation of intended animal antimicrobial quantities with administered use, the misnumbered UN/WHO citations and the misattribution of the 9% ANIMUSE trend analysis. The Portuguese chart-unit labels and repeated formulaic 'distinction matters' phrasing also require cleanup. System-registry reconciliation and a successful repository build remain publication prerequisites."
+      "summary": "Approval is withheld for the EU-only ESAC-Net indicators labelled EU/EEA and the invalid deterministic map syntax. The ANIMUSE 74-participant trend provenance, PT-BR chart unit and producer visual/source audit counts also require correction."
+    },
+    "publication_snapshot_integrity": {
+      "result": "not_applicable",
+      "summary": "No approval sidecar, publication snapshot or public metadata exists for this revision; none was fabricated."
+    },
+    "concurrent_approval_integrity": {
+      "result": "passed",
+      "summary": "HEAD and all three current blobs were reread immediately before the transaction. No concurrent approval or public metadata was present."
     }
   },
   "confidence": "high",
   "contrary_evidence": [
-    "Among 80 consistent WOAH participants, the biomass-adjusted indicator declined 3% from 2019 to 2024 (108 to 105 mg/kg).",
-    "A separate WOAH analysis of 74 participants found a 9% increase over 2018–2024; the cohorts and periods differ and should not be merged.",
-    "EU/EEA antimicrobial consumption fell 5% from the 2019 baseline in 2025 and the Access share increased, although both 2030 targets remain unmet.",
-    "The WHO and ECDC reports show expanded national plans and surveillance coverage alongside substantial implementation and diagnostic gaps."
+    "WHO TrACSS 2026 reports 173 of 183 countries with plans, while only 22% report both funding and full implementation and 36% report reference-laboratory capacity.",
+    "WOAH ANIMUSE 2024 covers 74% of estimated global food-producing animal biomass with 119 participants; 83,254 tonnes were reported and the coverage-adjusted estimate is 86,346 tonnes.",
+    "Only five of 119 quantitative ANIMUSE participants selected farm records as a validated quantitative source; most data came from sales and imports.",
+    "The 80-participant ANIMUSE cohort shows a 3% decline from 2019 to 2024, while a distinct 74-participant analysis is cited as showing a 9% increase from 2018 to 2024; the cohorts and periods must remain separate.",
+    "ECDC 2025 data show at least 50% third-generation cephalosporin resistance in K. pneumoniae in 21 of 43 reporting countries and at least 50% carbapenem resistance in Acinetobacter spp. in 21 of 38.",
+    "The EU incidence of carbapenem-resistant K. pneumoniae bloodstream infection was 3.75 per 100,000 in 2025, 72% above 2019 and 1.68 above the EU 2030 target of 2.07.",
+    "The 2024 UN declaration commits to meaningful reduction of antimicrobials used globally in agrifood systems by 2030."
   ],
   "limitations": [
-    "ANIMUSE quantitative estimates rely primarily on sales/import and other market-level data; only five of 119 participants selected farm records as a validated quantitative source.",
-    "The WOAH 2024 biomass-normalized indicator excludes companion animals and uses estimated terrestrial and aquatic food-producing animal biomass.",
-    "The 2025 growth-promotion questionnaire describes the situation when the eleventh round launched in 2025 and is not the same observation year as the 2024 quantitative-use data.",
-    "The ECDC country-threshold results use invasive isolates and country-level combinations; they are not community prevalence or the proportion of all infections.",
-    "The report does not establish a causal link between the animal-use indicators and the human clinical resistance patterns presented; the datasets are distinct and should remain analytically separate.",
-    "The 9% trend analysis is in the WOAH report itself; the current sentence incorrectly attributes it to the interactive report.",
-    "The latest public build is blocked by an unrelated existing report defect; approval is not granted and no deployment is claimed."
+    "TrACSS is a national self-assessment, not an independent audit of budget execution or service quality.",
+    "ANIMUSE quantities are primarily derived from sales/import records; only five of 119 quantitative participants used farm records.",
+    "The ANIMUSE 2019–2024 and 2018–2024 trends use different participant cohorts and periods.",
+    "ECDC country-threshold results concern invasive clinical isolates, not community prevalence.",
+    "The EU-level ESAC-Net targets and population-weighted indicators must be distinguished from the separate EU/EEA community-consumption series.",
+    "The available datasets do not establish a causal link between animal antimicrobial use and the human resistance patterns presented."
   ],
   "issues": [
     {
       "severity": "material",
-      "code": "CITATION_MISNUMBERING_AND_UNCITED_REFERENCES",
+      "code": "ESAC_NET_EU_INDICATORS_MISLABELLED_AS_EU_EEA",
+      "paths": [
+        "staging/research/2026/11/2026-11-23-amr-implementation-gap/en.md",
+        "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:109 — sentence beginning 'Antibiotic consumption is improving in the EU/EEA...'",
+        "pt-BR.md:109 — sentence beginning 'O consumo de antibióticos melhora na União Europeia e no Espaço Econômico Europeu...'"
+      ],
+      "evidence": "ECDC ESAC-Net AER 2025 (18 November 2026) explicitly labels 18.9 DID, the -5% change from 2019, 15.9 DID target, 62.5% Access share, 61.1% baseline and 65% target as EU population-weighted indicators and EU-level targets. The same report separately gives an EU/EEA population-weighted mean community-consumption figure of 17.3 DID. Current wording places the EU-only values under an EU/EEA label.",
+      "source_urls": [
+        "https://www.ecdc.europa.eu/en/publications-data/antimicrobial-consumption-eueea-esac-net-annual-epidemiological-report-2025",
+        "https://www.ecdc.europa.eu/sites/default/files/documents/ESAC-Net-AER-2025.pdf"
+      ],
+      "required_correction": "Rewrite the paragraph to identify the 18.9 DID and AWaRe indicators as EU-level, not EU/EEA. If the EU/EEA scope is retained, distinguish the separate 17.3 DID community-consumption series and do not compare it directly with the EU-only 15.9 target."
+    },
+    {
+      "severity": "material",
+      "code": "MAP_FENCE_USES_MARKDOWN_TABLE_SYNTAX_INSTEAD_OF_MAP_GRAMMAR",
+      "paths": [
+        "staging/research/2026/11/2026-11-23-amr-implementation-gap/en.md",
+        "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md"
+      ],
+      "locations": [
+        "en.md:147–155 — map fence",
+        "pt-BR.md:147–155 — map fence"
+      ],
+      "evidence": "RESEARCH-VISUALS.md requires geographic map fences to use one `region | finding | qualification` record per line. scripts/lib/research-visuals.mjs geographicSummary (lines 104–118) splits every non-empty line directly on `|` and renders the first three cells as region/value/qualification; it does not remove Markdown table delimiters or filter a header/separator. The current leading-pipe rows produce an empty region field, and the header and separator become spurious cards.",
+      "required_correction": "Replace the Markdown table inside each map fence with plain map records, without leading/trailing pipes, header or separator rows. Keep one region, one value/finding and one qualification per line; add a title: line if needed. Preserve only source-supported values and do not invent coordinates."
+    },
+    {
+      "severity": "material",
+      "code": "ANIMUSE_74_PARTICIPANT_TREND_PROVENANCE_OVERSTATED",
+      "paths": [
+        "staging/research/2026/11/2026-11-23-amr-implementation-gap/en.md",
+        "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md",
+        "data/pending/2026-11-23-amr-implementation-gap.json"
+      ],
+      "locations": [
+        "en.md:67 — 'A separate analysis in the ANIMUSE report itself...'",
+        "pt-BR.md:67 — 'Uma análise separada no próprio relatório ANIMUSE...'",
+        "pending.producer_checks.source_audit.citation_audit"
+      ],
+      "evidence": "The WOAH ANIMUSE Global Report foreword says the separate 74-participant 2018–2024 analysis showing a 9% increase is available through the ANIMUSE Interactive Report but is not included in this report (PDF foreword, page viii). The executive summary and Chapter 7 repeat the 9% result, but the underlying analysis is not reproduced. The current source audit overstates that the analysis is simply in the report rather than clarifying this distinction.",
+      "source_urls": [
+        "https://www.woah.org/app/uploads/2026/11/animuseglobalreporten.pdf"
+      ],
+      "required_correction": "Use precise attribution such as: 'The report's executive summary and conclusions also cite a separate 74-participant analysis available through the ANIMUSE Interactive Report, not reproduced in this PDF, showing a 9% increase from 2018 to 2024.' Mirror it in PT-BR and update source_audit.citation_audit to preserve the provenance distinction."
+    },
+    {
+      "severity": "minor",
+      "code": "PTBR_CHART_UNIT_LABEL_MIXED_LANGUAGE",
+      "paths": [
+        "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md"
+      ],
+      "locations": [
+        "pt-BR.md:102 — unit: 'percentual de países reporting the combination'"
+      ],
+      "evidence": "The chart title and categories are in PT-BR, but the unit still contains an English clause despite revision_reason and qa_fixes_applied claiming that PT-BR chart units were localized.",
+      "required_correction": "Change to natural PT-BR, for example 'percentual de países que reportaram a combinação', preserving the numeric series."
+    },
+    {
+      "severity": "minor",
+      "code": "VISUAL_EVIDENCE_TABLE_COUNT_UNDERREPORTED",
       "paths": [
         "data/pending/2026-11-23-amr-implementation-gap.json",
         "staging/research/2026/11/2026-11-23-amr-implementation-gap/en.md",
         "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md"
       ],
       "locations": [
-        "en.md:13 — paragraph ending '[4][5]' after the 2026 Global Action Plan and 2024 UN Political Declaration",
-        "pt-BR.md:13 — equivalent paragraph ending '[4][5]'",
-        "en.md and pt-BR.md: references 6–10, lines 178–182"
+        "pending.producer_checks.visual_evidence.tables",
+        "pending.producer_checks.bilingual_parity.tables",
+        "EN/PT-BR sections 1, 2 and 4"
       ],
-      "evidence": "Reference [4] is the ECDC ESAC-Net 2025 antimicrobial-consumption report; [5] is the WHO 2026–2036 Global Action Plan release; [6] is the UN General Assembly Political Declaration A/RES/79/2. The paragraph's two policy claims are not supported by [4], and the direct UN declaration reference [6] is not cited. References [6]–[10] are not cited anywhere in either body, while the pending source_audit counts all ten as references. The WOAH report itself records the 2024 UN commitment to meaningfully reduce antimicrobial use in agrifood systems by 2030 (ANIMUSE Global Report, Chapter 4, pp. 44–45).",
-      "required_correction": "In both editions, cite [5] for the 2026 Global Action Plan and [6] for the 2024 UN Political Declaration (for example, replace the opening '[4][5]' with '[5][6]'). Add inline citations for references [7]–[10] only where each directly supports a specific claim, or remove unused entries and renumber the bibliography consistently. Recompute producer_checks.source_audit from sources actually cited; do not count unused URLs as evidence."
-    },
-    {
-      "severity": "material",
-      "code": "ECDC_EU_INCIDENCE_MISLABELLED_AS_EU_EEA",
-      "paths": [
-        "staging/research/2026/11/2026-11-23-amr-implementation-gap/en.md",
-        "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:89 — sentence beginning 'Within the EU/EEA, the estimated incidence...'",
-        "en.md:95–96 — table rows 'EU/EEA incidence...' and 'Change from 2019 baseline'",
-        "pt-BR.md:89 — sentence beginning 'Na União Europeia e no Espaço Econômico Europeu...'",
-        "pt-BR.md:95–97 — table rows 'Incidência na UE/EEE...' and 'Meta da UE/EEE para 2030'"
-      ],
-      "evidence": "ECDC, Surveillance of antimicrobial resistance in Europe, 2025 data, PDF page 4, lines 92–93, states that 3.75 per 100,000, the 72% increase from 2019 and the 2.07 target are the 'estimated total EU incidence' and the EU target. The report separately uses EU/EEA for other network-level indicators. The current text and table expand the denominator to EU/EEA.",
-      "required_correction": "Change only the labels attached to the 3.75, +72% and 2.07 incidence/target figures to 'EU' in EN and 'União Europeia/UE' in PT-BR. Preserve EU/EEA labels for the broader EARS-Net consumption and network coverage measures where the source uses that scope."
-    },
-    {
-      "severity": "material",
-      "code": "WOAH_INTENDED_USE_MISSTATED_AS_ADMINISTERED_USE",
-      "paths": [
-        "staging/research/2026/11/2026-11-23-amr-implementation-gap/en.md",
-        "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:46 — sentence beginning 'WOAH estimates that 83,254 tonnes... were used in animals'",
-        "pt-BR.md:46 — sentence beginning 'A WOAH estima que 83.254 toneladas... foram utilizadas em animais'"
-      ],
-      "evidence": "WOAH ANIMUSE Global Report: Analysis of 2024 Data, PDF page 8, states that 83,254 tonnes were quantities of antimicrobial agents 'intended for use in animals' and that the estimate is based primarily on sales and imports. PDF page 34, lines 1758–1764, says only five of the 119 participants selected farm records as a quantitative source; all other sources captured products sold, imported or manufactured for intended administration. 'Used in animals' overstates the observed measure as actual administration.",
-      "required_correction": "Use 'quantities of antimicrobial agents intended for use in animals' in EN and 'quantidades de agentes antimicrobianos destinadas ao uso em animais' in PT-BR. Keep the distinction between market-level reported quantities and on-farm administration explicit in the sentence and adjacent explanation."
-    },
-    {
-      "severity": "material",
-      "code": "ANIMUSE_9_PERCENT_TREND_SOURCE_MISATTRIBUTED",
-      "paths": [
-        "staging/research/2026/11/2026-11-23-amr-implementation-gap/en.md",
-        "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:67 — phrase 'A separate analysis available through the ANIMUSE interactive report...'",
-        "pt-BR.md:67 — phrase 'Uma análise separada, disponível no relatório interativo do ANIMUSE...'"
-      ],
-      "evidence": "The WOAH ANIMUSE Global Report itself presents the separate 74-participant analysis and 9% increase in its executive summary (PDF page 6) and Chapter 4 (PDF page 34, lines 3059–3067). The interactive report is described as providing visualisations of trends over additional years not covered in this edition (PDF page 6, lines 431–432). The current wording attributes the specific 9% analysis to the interactive report rather than the report being cited.",
-      "required_correction": "Replace the attribution in both editions with 'A separate analysis in the ANIMUSE report...' / 'Uma análise separada no relatório ANIMUSE...' and keep the 74-participant cohort and 2018–2024 period explicit."
+      "evidence": "The pending reports two tables in each locale, but the staged Markdown contains three ordinary Markdown tables: TrACSS indicators, ANIMUSE measures and ECDC resistance indicators. The table-shaped map block is not a fourth Markdown table; it is malformed map input.",
+      "required_correction": "After fixing the map fence, recompute the bilingual visual inventory and set ordinary Markdown tables to three in both producer_checks fields; keep map count at one."
     },
     {
       "severity": "minor",
-      "code": "PTBR_VISUAL_UNIT_LABELS_NOT_LOCALIZED",
+      "code": "SOURCE_AUDIT_DOMAIN_COUNT_MISMATCH",
       "paths": [
-        "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md"
+        "data/pending/2026-11-23-amr-implementation-gap.json"
       ],
       "locations": [
-        "pt-BR.md:32 — unit 'percent of countries'",
-        "pt-BR.md:74 — unit 'percent change over the stated period'",
-        "pt-BR.md:102 — unit 'percent of countries reporting the combination'"
+        "pending.producer_checks.source_audit.domains"
       ],
-      "evidence": "The chart titles and categories are in Brazilian Portuguese, but the unit strings remain in English. Numeric parity is intact; this is a language-quality defect rather than a numeric divergence.",
-      "required_correction": "Translate the three unit labels to natural Brazilian Portuguese (for example, 'percentual de países', 'variação percentual no período indicado' and 'percentual de países que reportaram a combinação') while preserving values and chart semantics."
-    },
-    {
-      "severity": "minor",
-      "code": "FORMULAIC_META_DISCOURSE",
-      "paths": [
-        "staging/research/2026/11/2026-11-23-amr-implementation-gap/en.md",
-        "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md"
-      ],
-      "locations": [
-        "en.md:13 and 139 — 'The distinction matters...' / 'The distinction also changes...'",
-        "pt-BR.md:13 and 139 — 'A distinção importa...' / 'A distinção também muda...'"
-      ],
-      "evidence": "RESEARCH-PUBLISHING.md explicitly identifies repeated formulaic metadiscourse such as 'the distinction matters' and Portuguese equivalents as language to remove when the sentence can state the analytical point directly.",
-      "required_correction": "Rewrite both passages as direct statements of the analytical mechanism, without reader-facing signposting. Preserve the argument and update both locales together."
+      "evidence": "The ten unique source URLs in both Markdown editions resolve to five unique hostnames: apps.who.int, docs.un.org, www.ecdc.europa.eu, www.who.int and www.woah.org. The producer audit records six domains.",
+      "required_correction": "Recompute the domain count from the exact ten URLs using one documented hostname/domain convention and update source_audit; do not inflate the count by counting repeated URLs."
     }
   ],
   "rework_owner": "MT 1/5 — Diário e Radar",
+  "rework_automation_id": "6a8d9b7bbfc88191a2fea2af12852687",
   "replay_guard": {
     "max_new_rejections_per_id": 3,
     "source_sha_must_change_before_recheck": true,
-    "blocked_after_limit": true,
-    "no_fourth_rejection": true
+    "rejection_loop_limit_reached": false,
+    "blocked_after_limit": false,
+    "no_fourth_rejection": true,
+    "post_limit_behavior": "This is rejection 2 of 3. A third review requires a new exact pending/EN/PT-BR blob tuple; identical SHAs must not be replayed. Block further rejection loops after the third new rejection."
   },
-  "publication_prerequisites": [
-    "After a corrected revision is approved, the publisher must append a reconciliation-ledger run naming MT-BIO-2026-11-23-amr-implementation-gap and recording evidence-based decisions for all seven active reconciliation-required assets.",
-    "The repository-wide public build must be repaired independently; the current failure in MT-GM-2026-11-18 revision 5 is not a defect in this candidate."
+  "publisher_prerequisites": [
+    "No approval or publication snapshot exists for revision 1; the publisher must not publish it.",
+    "After correction, revision 2 must receive a new report-specific System Registry reconciliation run covering all seven active reconciliation-required assets; do not reuse the revision-1 run.",
+    "The current public build succeeds, but the Cloudflare deploy remains blocked by missing credentials; no live production update may be claimed."
   ],
-  "notes": "First rejection for MT-BIO-2026-11-23-amr-implementation-gap. The pending sidecar does not declare a revision; QA treats the initial state as revision 0 and requires a corrected resubmission to use an explicit higher revision (revision 1). The current tuple is pending b15ac577e873212885b9ae7e18bcb41547cc5dbd, EN a6f4ae924f759336a2b5e422302bb746866f1ded and PT-BR 5e3683f574e914dbb1c02065eef5f6673e5228d6. This is a new item, not a replay. Recheck only after all three source blobs change and the canonical ID/slug remain unchanged. The report's depth and visual floors pass; rejection is based on material factual-scope and source-traceability defects. No approval or publication authorization is granted. No reports/**, public index, CSS, taxonomy or institutional content was modified."
+  "notes": "Second rejection for MT-BIO-2026-11-23-amr-implementation-gap. All three current blob SHAs differ from revision 0, so this is a valid new review, not a replay. The prior record's blocked_after_limit=true was inconsistent with rejection_count_for_id=1 of 3; the current guard is corrected to false. No approval, publication snapshot or public metadata was created. No reports/**, public index, CSS, taxonomy or institutional content was modified."
 }
