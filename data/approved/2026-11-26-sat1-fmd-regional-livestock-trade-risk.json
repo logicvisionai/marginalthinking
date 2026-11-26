@@ -1,0 +1,302 @@
+{
+  "schema_version": 2,
+  "id": "MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk",
+  "slug": "2026-11-26-sat1-fmd-regional-livestock-trade-risk",
+  "revision": 4,
+  "program": "technology-production-society",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-26T14:05:35-03:00",
+  "reviewed_commit": "30fc16d0fff8df724418bd76c9531695f123f986",
+  "pending_blob_sha": "8fd6d9d91d3dd4a464a0c352d4559bb07149a117",
+  "source_blob_shas": {
+    "en": "4d12139ef3795a70220cb8c5fc947e5b9aadf0f4",
+    "pt-BR": "cfb721cb6420f2fbae0ca893b9f5ca955ab6b585"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Re-read the complete schema-v2 ready pending and both complete staged Markdown editions at HEAD 30fc16d0fff8df724418bd76c9531695f123f986. Exact Git blob tuple: pending 8fd6d9d91d3dd4a464a0c352d4559bb07149a117; EN 4d12139ef3795a70220cb8c5fc947e5b9aadf0f4; PT-BR cfb721cb6420f2fbae0ca893b9f5ca955ab6b585. Revision 2 remains preserved as rejection history; no approval or public metadata existed for revision 4 before this transaction."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Revision 4 conforms to data/schemas/research-pending-v2.json: schema_version 2, ready true, canonical ID/slug/revision, source paths and required metadata. Controlled taxonomy version 1.0 validates the biosecurity-livestock-governance kind, technology-production-society program, global geography, dimensions, topics, institutional-change phenomenon, research-report format and event-driven cadence. No taxonomy modification."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed_with_limitation",
+      "summary": "Dated evidence precedes the 05:25 BRT information cutoff: WOAH Middle East page updated 24 November; FAO Mongolia field mission 13 November; WOAH Africa events through 19 November; WOAH WAHIS summary 26 August; FAO Asia-Pacific update 17 June; FAO risk assessment version 2 uses data through 23 February and was published 4 March; FAO regional strategy launched 30 September. Reference 8 is a stable WOAH disease overview accessed on 26 November during revision; it adds no dated outbreak observation and does not extend the event-data cutoff."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Original institutional sources support the country-level notifications: four first SAT1 occurrences in 2025, five through 26 August 2026, and three renewed notifications after about six decades; Mongolia field findings in Bayan-Ulgii and Khovd; SAT1 notifications in Botswana and Algeria; distinct serotype-O notification in Mauritius; and separate African swine fever notification in Nigeria. FAO Table 1 covers 17 unaffected countries/territories: 2 unlikely, 9 likely and 6 very likely likelihood categories. The aggregation is qualitative and dated, not an observed infection count or probability. The 14-country Middle East strategy is treated as a framework, not proof of funded implementation. No regional loss or price estimate is inferred."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Eight unique institutional URLs across four source hosts are listed at the end and cited individually in both editions. WOAH/FAO sources support each notification, the risk-matrix aggregation, vaccine-matching caveat and regional strategy. Reference 8 supports the general point that FMD serotypes require serotype-specific vaccines; the article does not infer compatibility of a particular product or country. No secondary source is used to establish an official outbreak notification."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 1964,
+        "pt-BR": 2203
+      },
+      "summary": "Both editions exceed the repository's 1,700-word research-report floor and develop the chain from notification and laboratory confirmation to vaccine matching, movement controls, trade restrictions and public cost. Nine H2 sections cover evidence, mechanism, regional coordination, economic transmission, competing scenarios, limitations and observable next indicators. Depth is analytical rather than word-count-only."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Both locales contain one valid Markdown evidence table, two explicit charts, one causal flow and one regional-comparison map: five visuals against the four-visual research-report floor. The first chart and table distinguish first-occurrence notifications from renewed notifications; the second chart aggregates the dated FAO likelihood matrix and explicitly labels categories as qualitative, not probabilities. Chart series are numerically identical across EN/PT-BR; the flow expresses the defended response mechanism; the map uses region | finding | qualification cards without guessed coordinates."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "EN and PT-BR preserve the same thesis, source set, dates, country counts, FAO risk categories, caveats, scenarios and next indicators. Both editions have eight references, one table, two charts, one flow and one map; the two chart numeric series match exactly. Locale-specific labels and prose are semantically equivalent."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed_with_limitation",
+      "summary": "No prior SAT1/FMD report ID or matching public report path was found in the current repository inventory/search. The 23 November AMR implementation-gap report is related to animal health but addresses antimicrobial resistance and uses different evidence and mechanisms; this report is specifically about SAT1 serotype notifications, vaccine matching and transboundary livestock trade risk."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report separates a localized-control base case, an adverse spread-before-response case and an improved-coordination case. It gives observable conditions that would weaken each scenario, including stable/declining WAHIS notifications with stable surveillance coverage, bounded affected zones and verified vaccine matching, or continued notifications despite high verified coverage."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "Pending revision 4 binds 2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-4-publication-reconciliation. The append-only ledger contains the matching report-specific run with seven decisions for all active reconciliation-required assets: dependency network and structural opportunity atlas deferred for evidence gaps; strategic actors verified no change; resource-control and conflict systems not applicable; policy-case atlas deferred; technology-signal ledger not applicable. No unsupported canonical dataset update is inferred."
+    },
+    "editorial_style": {
+      "result": "passed",
+      "summary": "Institutional and neutral prose; observed notifications are distinguished from inference and scenarios; references are at the end; the report avoids a single epidemic curve across distinct notifications, does not conflate FMD serotypes or ASF, and does not imply human pandemic transmission or measured food-price effects."
+    },
+    "producer_preflight_consistency": {
+      "result": "passed_with_limitation",
+      "summary": "Source and visual counts in producer metadata match revision 4: eight references, eight unique URLs, four hosts, two charts, one table, one flow and one map. The producer's stored word-count fields remain 4 EN and 6 PT-BR words below the exact repository counting routine after chart-label refinements; independent exact counts are 1964 EN and 2203 PT-BR, both above the 1,700-word floor. This metadata discrepancy is non-material."
+    },
+    "editorial_depth_script": {
+      "result": "passed_with_limitation",
+      "summary": "Exact-HEAD strict editorial-health run 45863899462 executed validate-editorial-depth.mjs. Revision 4 is absent from its failure list and meets its candidate thresholds: at least 1,700 words in both locales, eight URLs, four hosts, two charts, three or more table lines, one flow, one map, nine H2 sections and identical numeric chart series. The global script exits non-zero only for six unrelated older drafts: slavery, Mauá, Medici, Rockefeller, Rothschild and Economists. Those remain separate backlog blockers; no candidate-specific depth failure is present."
+    },
+    "pipeline_validation": {
+      "result": "passed",
+      "summary": "Exact-HEAD strict editorial-health run 45863899462 executed validate-pipeline.mjs and returned: 215 public bundles, 20 unpublished pending, 0 approved unpublished, 6 legacy pending already public. It emitted warnings for three previously rejected country-context revisions newer than public; their pending/source fingerprints still match existing rejection records. No SAT1 pipeline or taxonomy error was reported."
+    },
+    "repository_build": {
+      "result": "passed_with_limitation",
+      "summary": "Exact-HEAD Validate Marginal Thinking run 45863899517 completed the build job successfully: npm build, research visual semantics, generated-site checks, strategic-resource inventory checks, Worker dry-run and artifact upload all passed. The separate deploy job has not yet confirmed production deployment; this approval does not claim publication or live deployment."
+    },
+    "publication_snapshot_integrity": {
+      "result": "passed",
+      "summary": "The approval publication field embeds the complete normalized pending v2 object for revision 4, including source paths, metadata, producer checks, revision history and reconciliation_run_id. It is immutable and tied to the exact pending/EN/PT-BR blob tuple."
+    },
+    "concurrent_approval_integrity": {
+      "result": "passed",
+      "summary": "Immediately before writing, main was 30fc16d0fff8df724418bd76c9531695f123f986; exact pending and source SHAs were re-read; the canonical approval sidecar and reports metadata were absent; revision-2 rejection history was present. The approval commit will use an expected-HEAD lease with force=false and will not modify reports, public indexes, CSS, taxonomy or institutional content."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Revision 4 meets factual, source, taxonomy, depth, bilingual, visual, novelty, counterfactual and seven-asset reconciliation gates. The historical FAO risk categories and absence of measured national losses are explicit. The publisher must independently verify the snapshot and create the public metadata; approval is not publication confirmation."
+    }
+  },
+  "contrary_evidence": [
+    "The FAO risk assessment is based on information through 23 February 2026 and its three-month horizon is historical; it cannot establish current November exposure probabilities.",
+    "Country-level WAHIS notifications do not establish herd-level prevalence, national incidence or total outbreaks.",
+    "The Middle East 2026–2030 strategy launch does not prove national funding, implementation or outcomes.",
+    "The cited FAO vaccine warning is specific to products and regions discussed in that update; it is not generalized to every vaccine or country."
+  ],
+  "limitations": [
+    "No comparable country-level herd, production, bilateral livestock-trade or restriction-duration dataset supports a regional economic-loss estimate.",
+    "The 2026 first-occurrence count is through 26 August and is not a complete year-end total.",
+    "The FAO likelihood categories are expert assessments for a dated three-month horizon, not probabilities or observed infections.",
+    "Mongolia's cited field update does not provide a complete national incidence or loss series.",
+    "The 14-country regional strategy is a coordination framework; national budgets and implementation remain to be measured.",
+    "The general WOAH disease overview was accessed during revision after the stated information cutoff but adds no dated event observation."
+  ],
+  "notes": "Revision 4 corrects the malformed table syntax, adds a second sourced chart and a relevant WOAH primary source, and clarifies that first-occurrence and renewed notifications are separate categories. Approval is limited to editorial readiness; publication and live deployment remain unconfirmed.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk",
+    "slug": "2026-11-26-sat1-fmd-regional-livestock-trade-risk",
+    "date": "2026-11-26",
+    "published_at": "2026-11-26T04:56:00-03:00",
+    "kind": "biosecurity-livestock-governance",
+    "priority": 35,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "global-system-power",
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "multi-country",
+      "regions": [
+        "middle-east",
+        "asia-pacific",
+        "africa"
+      ],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "industry-production",
+      "trade-investment",
+      "institutions-governance",
+      "geopolitics-security",
+      "social-change"
+    ],
+    "phenomena": [
+      "institutional-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-26-sat1-fmd-regional-livestock-trade-risk/en.md",
+        "title": "SAT1 crosses regional boundaries; livestock risk now depends on surveillance and vaccine matching",
+        "deck": "Official SAT1 notifications across the Middle East, Asia and Africa, plus a November FAO-WOAH field mission in Mongolia, show a transboundary livestock risk whose economic impact depends on laboratory capacity, vaccine compatibility, animal-movement controls and regional reporting.",
+        "tags": [
+          "foot-and-mouth disease",
+          "SAT1",
+          "livestock",
+          "animal health",
+          "food security",
+          "trade",
+          "veterinary governance"
+        ],
+        "keywords": [
+          "FMD SAT1 2026",
+          "WOAH WAHIS notifications",
+          "Mongolia Bayan-Ulgii Khovd",
+          "Middle East FMD strategy 2026 2030",
+          "animal movement controls",
+          "vaccine matching",
+          "livestock trade restrictions"
+        ],
+        "regime": "SAT1 has been reported beyond its historical range; national surveillance and response capacity are uneven and the 14-country Middle East strategy is now an institutional framework.",
+        "key_risk": "SAT1 reaches additional susceptible herds before serotype-matched prevention, laboratory confirmation and movement controls are deployed, causing localized production losses and wider temporary trade restrictions.",
+        "watch": [
+          "FAO-WOAH follow-up from the November Mongolia field assessment",
+          "New WAHIS notifications with administrative area and serotype/topotype",
+          "Country-level vaccine-match and vaccination-coverage evidence",
+          "Duration and product scope of livestock movement/trade restrictions",
+          "Implementation and financing of the Middle East FMD strategy 2026–2030"
+        ],
+        "search_text": "SAT1 foot-and-mouth disease November 2026 WOAH WAHIS Mongolia Botswana Algeria Middle East 2026 2030 regional strategy livestock trade vaccine matching"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-26-sat1-fmd-regional-livestock-trade-risk/pt-BR.md",
+        "title": "SAT1 ultrapassa fronteiras regionais; o risco pecuário depende de vigilância e compatibilidade vacinal",
+        "deck": "Notificações oficiais de SAT1 no Oriente Médio, Ásia e África, junto à missão de campo FAO-WOAH na Mongólia em novembro, mostram um risco pecuário transfronteiriço cujo impacto econômico depende de laboratórios, compatibilidade vacinal, controles de movimentação e reporte regional.",
+        "tags": [
+          "febre aftosa",
+          "SAT1",
+          "pecuária",
+          "saúde animal",
+          "segurança alimentar",
+          "comércio",
+          "governança veterinária"
+        ],
+        "keywords": [
+          "FMD SAT1 2026",
+          "notificações WAHIS WOAH",
+          "Mongólia Bayan-Ulgii Khovd",
+          "estratégia FMD Oriente Médio 2026 2030",
+          "controle de movimentação animal",
+          "compatibilidade vacinal",
+          "restrições ao comércio pecuário"
+        ],
+        "regime": "SAT1 foi notificado além de sua área histórica; a capacidade nacional de vigilância e resposta é desigual e a estratégia de 14 países do Oriente Médio constitui agora um marco institucional.",
+        "key_risk": "SAT1 atingir novos rebanhos suscetíveis antes da implementação de prevenção compatível com o sorotipo, confirmação laboratorial e controles de movimentação, causando perdas locais e restrições temporárias mais amplas ao comércio.",
+        "watch": [
+          "Acompanhamento FAO-WOAH da avaliação de campo na Mongólia em novembro",
+          "Novas notificações WAHIS com área administrativa e sorotipo/topotipo",
+          "Evidência nacional de compatibilidade vacinal e cobertura de vacinação",
+          "Duração e escopo por produto das restrições de movimentação/comércio pecuário",
+          "Implementação e financiamento da estratégia FMD do Oriente Médio 2026–2030"
+        ],
+        "search_text": "SAT1 febre aftosa novembro 2026 WOAH WAHIS Mongólia Botswana Argélia estratégia regional Oriente Médio 2026 2030 pecuária comércio compatibilidade vacinal"
+      }
+    },
+    "signal_rationale": {
+      "delta": "The existing corpus search found no SAT1/FMD report. New official notifications in November and the 24 November WOAH Middle East page update provide a date-specific cross-border livestock/market-access delta distinct from the 23 November AMR implementation-gap report and today's Global Macro.",
+      "evidence": "FAO reported a government-requested FAO-WOAH field assessment after SAT1 outbreaks in Mongolia's Bayan-Ulgii and Khovd provinces on 13 November. WOAH lists Botswana SAT1 on 17 November and Algeria SAT1 on 10 November, while Mauritius reported serotype O on 19 November; the report explicitly separates the serotypes and diseases. WOAH's 24 November Middle East page describes the regional SAT1 spread and 2026–2030 strategy.",
+      "scale_path": "Serotype spread across livestock jurisdictions → veterinary surveillance and laboratory confirmation → vaccine matching and movement controls → production/market-access interruptions → farm income, trade and public response costs.",
+      "transmission": "Infection and control measures can reduce animal productivity and restrict movement/export certification; delays and uneven reporting increase uncertainty and can widen trading-partner restrictions. Price and loss effects require country/product data and are not estimated here.",
+      "falsifier": "The systemic-risk thesis weakens if notifications stabilize with stable surveillance, affected zones remain contained, vaccine compatibility/coverage and veterinary capacity are verified, and trade restrictions remain short and narrowly targeted."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "First-occurrence country notifications are not total outbreak counts or herd prevalence.",
+      "The 2026 count in the WOAH August summary is incomplete for the calendar year.",
+      "The Mongolia FAO update reports a field assessment, not a complete national incidence or loss estimate.",
+      "FMD serotype O in Mauritius and African swine fever in Nigeria are separate events from SAT1.",
+      "Vaccine compatibility is source- and region-specific; no product-level recommendation is made.",
+      "No food-price, livestock-loss or trade-loss estimate is calculated without affected herd, output and product-level trade data."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-26 05:25 America/Sao_Paulo",
+      "comparative_corpus": "GitHub repository search found no SAT1/FMD article in the indexed corpus; existing AMR and Bundibugyo items are distinct and not duplicated.",
+      "novelty_decision": "One date-specific thematic report selected after Global Macro; new official November notifications and regional update support a distinct animal-health, production and trade-governance delta.",
+      "fact_inference_scenario_separated": true,
+      "no_cross_disease_counting": true,
+      "bilingual_parity": {
+        "same_numeric_series": true,
+        "same_reference_count": true,
+        "charts": 2,
+        "tables": 1,
+        "flows": 1,
+        "maps": 1,
+        "references_en": 8,
+        "references_pt": 8
+      },
+      "visual_evidence": {
+        "charts": 2,
+        "tables": 1,
+        "flows": 1,
+        "maps": 1,
+        "chart_semantics": "Chart 1 compares country counts in three distinct notification categories, not a continuous time series: first occurrences in 2025, first occurrences through 26 Aug 2026, and renewed notifications after about 60 years in 2025–26. Chart 2 is the FAO qualitative risk matrix aggregation using data through 23 Feb 2026."
+      },
+      "source_audit": {
+        "references": 8,
+        "primary_institutional_sources": 8,
+        "urls_unique": 8,
+        "domains": 4,
+        "unused_references": 0,
+        "all_references_cited": true,
+        "citation_audit": "References 1 through 8 are individually cited in both EN and PT-BR bodies. Reference 8 adds WOAH's general FMD disease overview for serotype-specific immunity; the FAO February assessment chart aggregates the likelihood totals in Table 1 and is explicitly dated and non-probabilistic.",
+        "fao_risk_distribution": "FAO rapid risk assessment v2, data through 23 Feb 2026, Table 1: among 17 unaffected countries/territories, likelihood-impact combinations sum to 2 unlikely (2 low impact), 9 likely (3 low, 4 moderate, 2 severe) and 6 very likely (2 moderate, 4 severe). The chart aggregates likelihood row totals only; these are qualitative expert categories for the following three months, not probabilities or observed cases."
+      },
+      "manual_preflight": {
+        "schema_v2": true,
+        "controlled_programs": true,
+        "controlled_topics": true,
+        "phenomena_valid": true,
+        "word_count_en": 1960,
+        "word_count_pt": 2197,
+        "references_en": 8,
+        "references_pt": 8,
+        "ready_for_independent_qa": true,
+        "repository_script_validator": "Candidate-specific visual grammar and depth thresholds checked against scripts/validate-editorial-depth.mjs and scripts/lib/visuals.mjs; exact-HEAD CI remains independent."
+      }
+    },
+    "revision": 4,
+    "revision_reason": "Clarifies the first chart and table as country-level notification categories, separating first occurrences from renewed notifications; dates the FAO assessment chart by its 23 February 2026 data vintage. No numerical values or source observations changed.",
+    "revision_scope": "Presentation semantics only. EN/PT-BR table headers, first-chart title/unit/category labels and second-chart title now distinguish notification types and the FAO assessment's data cutoff without changing any series, source or thesis.",
+    "qa_fixes_applied": [
+      "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT",
+      "LITERAL_BACKSLASH_N_TABLE_REPAIRED_IN_BOTH_LOCALES",
+      "FAO_RISK_MATRIX_SECOND_CHART_ADDED_IN_BOTH_LOCALES",
+      "WOAH_SEROTYPE_SPECIFIC_VACCINE_SOURCE_ADDED",
+      "NOTIFICATION_CATEGORY_CHART_LABELS_CLARIFIED",
+      "FAO_ASSESSMENT_VINTAGE_IN_CHART_TITLE"
+    ],
+    "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-4-publication-reconciliation",
+    "revised_at": "2026-11-26T14:00:12-03:00"
+  }
+}
