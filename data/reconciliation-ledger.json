@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-26T14:00:12-03:00",
+  "last_reconciled_at": "2026-11-26T14:39:29-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -10996,6 +10996,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Vaccine matching and diagnostic capacity are operational requirements; no new validated technical capability, deployment milestone or manufacturing-scale signal is established."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-mt-bio-2026-11-26-sat1-fmd-regional-livestock-trade-risk-revision-4-publisher-reconciliation",
+      "reconciled_at": "2026-11-26T14:39:29-03:00",
+      "report_ids_reviewed": [
+        "MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk"
+      ],
+      "audit_note": "Publisher-stage reconciliation for SAT1/FMD regional livestock-trade report, revision 4. Re-read the approved immutable snapshot, exact staged source blobs and active registry. No new material evidence or canonical cumulative dataset change was found since the producer-stage review; all seven active reconciliation-required assets retain their evidence-based decisions.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Publication-stage recheck: The report identifies cross-border animal movement and trade channels but has no comparable bilateral livestock trade, veterinary service, border-control or commodity exposure matrix. No dependency edge is inferred."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Publication-stage recheck: Surveillance, laboratory and vaccine-match needs are policy/infrastructure gaps, but no site-level project with verified sponsor, committed capital, permits, capacity, contracted demand and cash flows is established. The separate daily Atlas scan records only conditional hypotheses."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "verified_no_change",
+          "note": "Publication-stage recheck: No ownership, voting rights, board control or strategic-control relationship change is evidenced."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Publication-stage recheck: No concession, reserve, mineral title, resource right or operator-control change is evidenced."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Publication-stage recheck: The regional 2026–2030 strategy is a framework/launch; this report does not establish national funding, implementation or ex-post outcomes and a defensible counterfactual for a canonical policy-case update."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "Publication-stage recheck: Animal disease notifications are not conflict events; no territorial-control or conflict-system change is inferred."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Publication-stage recheck: Vaccine matching and diagnostic capacity are operational requirements; no new validated technical capability, deployment milestone or manufacturing-scale signal is established."
         }
       ]
     }
