@@ -150,7 +150,7 @@
     },
     {
       "severity": "material",
-      "code": "MAP_FENCE_USES_MARKDOWN_TABLE_SYNTAX_INSTEAD_OF_MAP_GRAMMAR",
+      "code": "MAP_FENCE_UNCLOSED_AND_INVALID_TABLE_SYNTAX",
       "paths": [
         "staging/research/2026/11/2026-11-23-amr-implementation-gap/en.md",
         "staging/research/2026/11/2026-11-23-amr-implementation-gap/pt-BR.md"
@@ -159,8 +159,8 @@
         "en.md:147–155 — map fence",
         "pt-BR.md:147–155 — map fence"
       ],
-      "evidence": "RESEARCH-VISUALS.md requires geographic map fences to use one `region | finding | qualification` record per line. scripts/lib/research-visuals.mjs geographicSummary (lines 104–118) splits every non-empty line directly on `|` and renders the first three cells as region/value/qualification; it does not remove Markdown table delimiters or filter a header/separator. The current leading-pipe rows produce an empty region field, and the header and separator become spurious cards.",
-      "required_correction": "Replace the Markdown table inside each map fence with plain map records, without leading/trailing pipes, header or separator rows. Keep one region, one value/finding and one qualification per line; add a title: line if needed. Preserve only source-supported values and do not invent coordinates."
+      "evidence": "Both staged editions open a ```map fence but contain no closing triple-backtick before the following prose, conclusion and references. Under Markdown fenced-block semantics, the remainder of each edition is swallowed as code rather than rendered as prose. Even if a closing fence were added without changing the content, RESEARCH-VISUALS.md requires one region | finding | qualification record per line; the current pipe-table header/separator and leading/trailing delimiters are not valid map records. scripts/lib/research-visuals.mjs geographicSummary splits each line directly on | and uses the first three cells as region/value/qualification, so table-style rows yield an empty region field and spurious header/separator cards.",
+      "required_correction": "Close the map fence before the explanatory paragraph and the next H2 in both editions. Replace the Markdown table inside each map fence with plain map records, without leading/trailing pipes, header or separator rows. Use one region, one finding/value and one qualification per line; add a localized title: line if needed. Preserve only source-supported values and do not invent coordinates."
     },
     {
       "severity": "material",
@@ -237,5 +237,5 @@
     "After correction, revision 2 must receive a new report-specific System Registry reconciliation run covering all seven active reconciliation-required assets; do not reuse the revision-1 run.",
     "The current public build succeeds, but the Cloudflare deploy remains blocked by missing credentials; no live production update may be claimed."
   ],
-  "notes": "Second rejection for MT-BIO-2026-11-23-amr-implementation-gap. All three current blob SHAs differ from revision 0, so this is a valid new review, not a replay. The prior record's blocked_after_limit=true was inconsistent with rejection_count_for_id=1 of 3; the current guard is corrected to false. No approval, publication snapshot or public metadata was created. No reports/**, public index, CSS, taxonomy or institutional content was modified."
+  "notes": "Second rejection for MT-BIO-2026-11-23-amr-implementation-gap. All three current blob SHAs differ from revision 0, so this is a valid new review, not a replay. The prior record's blocked_after_limit=true was inconsistent with rejection_count_for_id=1 of 3; the current guard is corrected to false. No approval, publication snapshot or public metadata was created. No reports/**, public index, CSS, taxonomy or institutional content was modified. Additional parser inspection found that the map fence is unclosed in both editions; the following explanatory prose, conclusion and references are therefore not reliably rendered as Markdown. This was added to the same revision-1 rejection record without incrementing the rejection counter."
 }
