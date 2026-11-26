@@ -1,0 +1,323 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-26",
+  "slug": "2026-11-26-global-macro",
+  "revision": 5,
+  "program": "political-economy-markets",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-26T05:35:00-03:00",
+  "reviewed_commit": "a02480faf018c3ef2929ff12d849c96949dbe67b",
+  "pending_blob_sha": "4f2072d4ba069f038f70642bb0ac9e981502c16c",
+  "source_blob_shas": {
+    "en": "3b67af30a5663c76fe12a1555f7c9be1977b9fe2",
+    "pt-BR": "264405e1d30c190bb438a64cd7e837b4b8a88405"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Re-read the complete schema-v2 ready pending and both complete staged Markdown editions at HEAD a02480faf018c3ef2929ff12d849c96949dbe67b. Exact Git blob tuple: pending 4f2072d4ba069f038f70642bb0ac9e981502c16c; EN 3b67af30a5663c76fe12a1555f7c9be1977b9fe2; PT-BR 264405e1d30c190bb438a64cd7e837b4b8a88405. The revision-4 rejection remains preserved as history; no approval or public metadata existed for revision 5 before this transaction."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Revision 5 is schema_version 2, ready true, canonical ID/slug/revision, registered daily-global-macro/brief/daily, controlled political-economy-markets program, global geography, valid topics and strategic-competition phenomenon. No taxonomy changes."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "The 05:05 BRT cutoff follows the cited 25 November USTR/BEA releases and 26 November Reuters market/oil observations. The oil quote timestamp 07:58 GMT (04:58 BRT) precedes the cutoff. US cash-market closure for Thanksgiving is stated; monthly IIF and FAO series are not presented as intraday data."
+    },
+    "factual_methodology": {
+      "result": "passed_with_limitation",
+      "summary": "Independent source review supports USTR's 14 Section 301 determinations and proposed (not applied) duties; BEA Q3 GDP 4.3% annualized and private domestic final sales 5.8%; October PCE headline/core 3.8%/3.3%; Eurostat euro-area HICP 4.0%; IIF October EM portfolio outflows $33.8bn; worldsteel October output 142.4 Mt/-1.1% y/y; FAO October FFPI 133.9/-1.2% m/m and sugar +6.6% m/m/+28.8% y/y; and BCB Selic 13.75%. Reuters-reported market and shipping claims are attributed; incident claims are not independently verified. No material error found in the checked observations."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "13 numbered references are cited in both editions; core quantitative/institutional claims map to USTR, BEA, Eurostat, IIF, worldsteel, FAO and BCB. Reuters supports timestamped market snapshots and attributed incident reports. The report distinguishes proposed tariff ceilings from official applied rates and notes that market reporting is not independent primary evidence."
+    },
+    "research_depth": {
+      "result": "passed",
+      "reviewed_word_counts": {
+        "en": 2721,
+        "pt-BR": 3090
+      },
+      "summary": "Both editions exceed the daily brief substantive floor and have ten analytical H2 sections, mechanism-based argument, competing interpretation, conditional scenarios and observable falsifiers. Depth is not based on word count alone."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Exact parser review of both staged editions finds 3 valid Markdown tables, 2 explicit charts, 1 causal flow and 1 regional map in each locale; zero literal escaped-newline sequences remain. Charts use reproducible cited values and identical numeric series across EN/PT-BR. The selected equity chart, FAO commodity chart, tariff/US indicator tables, causal chain and regional steel comparison now parse as intended."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "EN/PT-BR preserve the same thesis, dates, figures, 13 references, 3 tables, 2 charts, 1 flow and 1 map. Locale-specific prose is idiomatic and the visual series are exactly numerically aligned."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "The edition's formal USTR determinations/proposed actions, released BEA Q3/PCE data, timestamped 26 November market/oil snapshot and FAO commodity divergence add a substantive dated delta versus 23–25 November macro editions; not a calendar-only rewrite."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "The report includes base, adverse and relief scenarios, competing technology-financing explanation and concrete conditions that would weaken the tariff-transmission thesis."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "Pending binds 2026-11-26-mt-gm-2026-11-26-revision-5-publication-reconciliation. The append-only ledger contains the matching report-specific run with seven decisions for all active reconciliation-required assets; no unsupported canonical dataset update is inferred."
+    },
+    "editorial_style": {
+      "result": "passed",
+      "summary": "Institutional, neutral prose; references at the end; distinguishes tariff proposal from collected duty, quarterly GDP from monthly consumption, market estimates from policy decisions and attributed conflict claims from verified events."
+    },
+    "producer_preflight_consistency": {
+      "result": "passed",
+      "summary": "Revision-5 producer visual audit reports 3 tables, 2 charts, 1 flow and 1 map; exact parser output matches in both locales. Source and bilingual counts are internally consistent."
+    },
+    "editorial_depth_script": {
+      "result": "passed_with_limitation",
+      "summary": "The exact strict editorial workflow could not reach validate-editorial-depth because validate-pipeline stopped on the separate SAT1 pending draft. I applied the script's exact candidate thresholds to revision 5: EN 2,721 words, PT-BR 3,090; 13 unique URLs and 11 hosts; 10 H2 sections; 2 exact chart fences, 1 flow, 1 map and 25 pipe lines; date/falsifier checks pass; chart numeric series parity passes. No candidate-specific depth failure remains."
+    },
+    "pipeline_validation": {
+      "result": "passed_with_limitation",
+      "summary": "Strict pending workflow 45785031590 ran validate-pipeline on the reviewed source tuple. Its only candidate-specific failures are for MT-BIO-2026-11-26-sat1-fmd-regional-livestock-trade-risk (table missing, 3/4 visuals); it reports no MT-GM-2026-11-26 revision-5 visual failure. The public pipeline/build at earlier HEAD passed; no public report is materialized by this approval."
+    },
+    "repository_build": {
+      "result": "passed_with_limitation",
+      "summary": "The public build at HEAD b7b2bc89628a136eb57b214c9b72b247eb97492d passed build, visual semantics, generated-site and Worker checks; current public files are unchanged by revision 5. The current main build run 45785031898 is still pending, and the prior deploy job failed at Cloudflare credentials. This approval does not claim current build completion or production deployment."
+    },
+    "publication_snapshot_integrity": {
+      "result": "passed",
+      "summary": "The approval publication field embeds the complete normalized pending v2 object for revision 5, including source paths, metadata, producer checks, revision history and reconciliation_run_id. It is immutable and tied to the exact pending/EN/PT-BR blob tuple."
+    },
+    "concurrent_approval_integrity": {
+      "result": "passed",
+      "summary": "Immediately before writing, main was a02480faf018c3ef2929ff12d849c96949dbe67b; exact pending and source SHAs were re-read, approval/public metadata paths were absent, and the revision-4 rejection history was present. The commit uses an expected-HEAD lease; no public files or index are changed."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Revision 5 meets editorial, factual, taxonomy, bilingual, visual, depth-threshold and seven-asset reconciliation gates. Residual source limitations are explicit and do not materially undermine the conclusions. Publisher must independently verify snapshot SHAs and build/deploy; approval is not publication confirmation."
+    }
+  },
+  "contrary_evidence": [
+    "USTR actions remain proposed and subject to public consultation; final product coverage, exclusions and effective dates can change.",
+    "US Q3 GDP is strong, but October real PCE was flat; exports fell and imports increased, so activity is not uniformly strong.",
+    "Markets were mixed and regional; a single 26 November rebound does not reverse month-to-date drawdowns.",
+    "FAO's aggregate food index fell in October while sugar rose; the index is not retail CPI or household affordability.",
+    "Reuters reports oil/shipping incident claims with attribution; Middle East exports had been rising and prices had fallen substantially before the latest rebound."
+  ],
+  "limitations": [
+    "Tariff proposals and rate ceilings are not final applied duties; product annexes and consultation outcomes remain pending.",
+    "Market observations combine different session windows; US cash markets were closed on 26 November.",
+    "IIF October flows are monthly estimates, not November daily flows.",
+    "FAO international commodity quotations do not measure national retail food inflation or household access.",
+    "Reuters incident claims are attributed and not independently verified in this report.",
+    "No bilateral trade/finance dependency matrix or measured tariff pass-through elasticity is supplied; transmission remains conditional."
+  ],
+  "notes": "Independent QA approval of revision 5 after producer correction. Revision 4 rejection remains in data/rejected as immutable history. The correction changed only Markdown visual syntax and the corresponding producer visual audit; numerical observations, source set, thesis and analytical scope were preserved. Candidate-specific strict visual validation passes. The strict editorial workflow is blocked globally by the separate SAT1 draft; exact depth thresholds for this candidate were independently applied and pass. Current build/deploy status is not claimed as complete.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-GM-2026-11-26",
+    "slug": "2026-11-26-global-macro",
+    "date": "2026-11-26",
+    "published_at": "2026-11-26T04:50:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "fiscal-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "strategic-competition"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-26-global-macro/en.md",
+        "title": "Tariff proposals become concrete, but markets price the process—not the duty",
+        "deck": "USTR's formal determinations and proposed tariffs move trade policy from speculation into consultation, while strong US quarterly growth, sticky PCE inflation, falling Treasury yields and a relief rally reveal a split market response. The latest FAO food index adds a divergent food-commodity signal: cereals eased while sugar rose sharply and food-assistance needs remained widespread.",
+        "tags": [
+          "Global Macro",
+          "trade policy",
+          "tariffs",
+          "inflation",
+          "monetary policy",
+          "capital markets",
+          "energy",
+          "global production",
+          "food commodities",
+          "food security"
+        ],
+        "keywords": [
+          "USTR Section 301 determinations November 2026",
+          "proposed tariffs 14 economies",
+          "US Q3 GDP 4.3 percent",
+          "October PCE inflation 3.8 core 3.3",
+          "Treasury 10-year yield November 25",
+          "emerging market portfolio outflows October",
+          "Brent oil November 26",
+          "FAO Food Price Index October 2026 133.9",
+          "FAO sugar prices October 2026 28.8 percent",
+          "cereal production 2999 million tonnes 2026",
+          "41 countries external food assistance"
+        ],
+        "regime": "Global activity remains uneven; US quarterly demand is strong but monthly real consumption is flat, inflation remains elevated, and trade-policy uncertainty is interacting with technology and energy risk.",
+        "key_risk": "Broad final tariff coverage or retaliation could increase landed costs and delay investment while sticky inflation limits monetary-policy flexibility; persistent energy disruption would add a separate price shock.",
+        "watch": [
+          "USTR Federal Register annexes, comments due 5 January 2027 and hearings from 25 January",
+          "Effective dates, product exclusions and netting against existing duties",
+          "US import prices, core goods PCE and corporate margin disclosures",
+          "November emerging-market capital-flow estimates",
+          "OPEC+ 29 November 2026 output-policy meeting",
+          "Oil shipping and export data from the Gulf"
+        ],
+        "search_text": "Global Macro 26 November 2026 USTR 14 Section 301 economies proposed tariff duties public comments January 2027 US GDP Q3 4.3 October PCE 3.8 core 3.3 real PCE flat Treasury yield 4.84 falling tariff market rebound Asia equities Brent 94.7 IIF outflows emerging markets steel production euro inflation Brazil Selic FAO October 2026 food price index 133.9 down 1.2 month-on-month sugar up 6.6 cereals down 4.5 cereal production 2999 million tonnes trade down 3.3 41 countries external food assistance"
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-26-global-macro/pt-BR.md",
+        "title": "Tarifas propostas ganham forma, mas o mercado precifica o processo — não o imposto",
+        "deck": "As determinações formais e as tarifas propostas pelo USTR levam a política comercial da especulação à consulta, enquanto crescimento trimestral americano forte, inflação PCE persistente, rendimentos menores dos Treasuries e recuperação das bolsas revelam uma resposta de mercado dividida. O último índice da FAO acrescenta um sinal divergente de commodities alimentares: cereais recuaram enquanto o açúcar subiu fortemente e a necessidade de assistência alimentar permaneceu ampla.",
+        "tags": [
+          "Global Macro",
+          "política comercial",
+          "tarifas",
+          "inflação",
+          "política monetária",
+          "mercados de capitais",
+          "energia",
+          "produção global",
+          "commodities alimentares",
+          "segurança alimentar"
+        ],
+        "keywords": [
+          "determinações Seção 301 USTR novembro 2026",
+          "tarifas propostas 14 economias",
+          "PIB americano 3º tri 4,3 por cento",
+          "inflação PCE outubro 3,8 núcleo 3,3",
+          "Treasury dez anos 25 novembro",
+          "saídas de carteira emergentes outubro",
+          "petróleo Brent 26 novembro",
+          "Índice de Preços de Alimentos FAO outubro 2026 133,9",
+          "preços açúcar FAO outubro 2026 28,8 por cento",
+          "produção de cereais 2999 milhões de toneladas 2026",
+          "41 países assistência alimentar externa"
+        ],
+        "regime": "A atividade global permanece desigual; a demanda trimestral americana é forte, mas o consumo real mensal está estável, a inflação continua elevada e a incerteza comercial interage com riscos de tecnologia e energia.",
+        "key_risk": "Cobertura tarifária final ampla ou retaliação pode elevar custos de importação e atrasar investimentos enquanto a inflação persistente limita a flexibilidade monetária; uma interrupção energética prolongada acrescentaria outro choque de preços.",
+        "watch": [
+          "Anexos do Federal Register do USTR, comentários até 5 de janeiro de 2027 e audiências a partir de 25 de janeiro",
+          "Datas de vigência, exclusões por produto e abatimento de tarifas existentes",
+          "Preços de importação dos EUA, PCE de bens essenciais e margens corporativas",
+          "Estimativas de fluxos de capital emergente de novembro",
+          "Reunião da OPEP+ de 29 de novembro de 2026 sobre política de produção",
+          "Dados de navegação e exportação de petróleo do Golfo"
+        ],
+        "search_text": "Global Macro 26 novembro 2026 USTR 14 economias Seção 301 tarifas propostas consulta pública janeiro 2027 PIB EUA terceiro trimestre 4,3 PCE outubro 3,8 núcleo 3,3 PCE real estável Treasury 4,84 queda recuperação bolsas Ásia Brent 94,7 saídas IIF mercados emergentes produção aço inflação euro Selic Brasil índice FAO outubro 2026 133,9 queda 1,2 mensal açúcar alta 6,6 cereais queda 4,5 produção 2999 milhões toneladas comércio recua 3,3 41 países assistência alimentar"
+      }
+    },
+    "signal_rationale": {
+      "delta": "Compared with the 25 November edition, which covered tariff expectations before formal findings and the inflation-rate transmission, this edition updates the legal state to published determinations and proposed product-level actions, then tests the market response against the BEA's newly released Q3 GDP second estimate and October PCE. The 24 November issue's regional growth/steel dispersion and the 23 November China ore/steel inventory thesis are not repeated. The revision completes the food-commodity screen with FAO's 6 November October index: aggregate food prices fell 1.2% month on month while sugar rose 6.6% and 28.8% year on year; the latest cereal balance and 41-country external-assistance count add a distinct food-system qualification.",
+      "evidence": "USTR's 25 November notice lists determinations for 14 economies, proposed additional duties with exceptions/netting and a public-comment process through 5 January 2027. BEA released Q3 real GDP at 4.3% annualized and October PCE inflation at 3.8% headline/3.3% core. Reuters reports the 25 November equity/yield close and 26 November Asian rebound; Treasury/FRED reports the 10-year yield; Eurostat, IIF and worldsteel provide dated cross-region inflation, flows and output data. FAO's 6 November release reports FFPI 133.9 (-1.2% m/m, +5.9% y/y), cereal index 116.8 (-4.5% m/m), sugar 121.3 (+6.6% m/m, +28.8% y/y), 2026 cereal production forecast 2,999 Mt, 2026/27 trade -3.3% and 41 countries/territories requiring external food assistance.",
+      "scale_path": "Formal trade-policy findings affect product coverage and expected landed costs; firms adjust sourcing, inventories and investment; import prices and margins transmit to inflation and trade volumes; monetary expectations, yields, FX and cross-border funding respond.",
+      "transmission": "USTR determination → consultation/final coverage/effective date → tariff incidence and sourcing → import prices, margins, trade and capex → inflation expectations, central-bank reaction, yields, currencies and capital flows. Food commodities are heterogeneous: cereal quotations eased, sugar rose on Brazil weather-related harvest/crushing disruption and production concerns elsewhere; global export quotations pass through national currencies, transport, conflict and retail margins before affecting household affordability.",
+      "falsifier": "The thesis weakens if final coverage is narrow or delayed, net landed costs barely change, trade and capex remain stable, core goods inflation disinflates and energy shipping/export data show no sustained supply loss."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "Tariffs remain proposed; product annexes, exclusions, effective dates and final negotiated changes must be monitored.",
+      "Market observations are from different reporting windows; US cash markets are closed on 26 November for Thanksgiving.",
+      "PCE, GDP, HICP and steel-output series have different scopes and cannot be treated as one comparable measure.",
+      "The IIF capital-flow estimate is October monthly data, not November daily flow.",
+      "Oil and shipping incident claims are attributed to Reuters and not independently verified in this report."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-26 05:05 America/Sao_Paulo",
+      "comparative_editions": [
+        "MT-GM-2026-11-25",
+        "MT-GM-2026-11-24",
+        "MT-GM-2026-11-23"
+      ],
+      "novelty_decision": "The new delta is formal USTR determinations/proposed measures plus released BEA GDP/PCE data; this is not merely a calendar update to 25 November. The 24 November regional PMI/steel and 23 November China ore-inventory theses are not repeated.",
+      "fact_inference_scenario_separated": true,
+      "bilingual_parity": {
+        "same_numeric_series": true,
+        "same_reference_count": true,
+        "charts": 2,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1,
+        "references_en": 13,
+        "references_pt": 13
+      },
+      "visual_evidence": {
+        "charts": 2,
+        "tables": 3,
+        "flows": 1,
+        "maps": 1
+      },
+      "source_audit": {
+        "references": 13,
+        "primary_institutional_sources": 10,
+        "market_reporting_sources": 3,
+        "urls_unique": 13,
+        "domains": 10,
+        "unused_references": 0,
+        "all_references_cited": true,
+        "reproducibility_notes": {
+          "food": "FAO 6 Nov 2026 October FFPI: 133.9 points, -1.2% m/m, +5.9% y/y, -16.4% from March 2022 peak. Cereal index 116.8 (-4.5% m/m, +12.6% y/y); vegetable oils 199.2 (+0.3% m/m); sugar 121.3 (+6.6% m/m, +28.8% y/y); meat -1.2% m/m; dairy -1.1% m/m. FAO forecast 2026 cereal production 2,999 Mt (second-highest), 2026/27 cereal trade 507.7 Mt (-3.3%) and stocks-to-use 32.4%; 41 countries/territories require external food assistance (31 in Africa). FFPI is an international traded-commodity index, not retail CPI or household affordability; production/trade numbers are forecasts.",
+          "market_window": "Reuters early-Asia report published 26 Nov 01:35 UTC: Nikkei +1.6%, Korea +1.9%, Taiwan +1.4%, APAC ex-Japan +1.8%; Japan -8%, Korea -16%, Taiwan -15% month-to-date; European futures EURO STOXX 50 +2.3%, DAX +2.1%, FTSE +1.4%. Reuters US session 25 Nov: Dow +0.33%, S&P -0.25%, Nasdaq -0.62%, MSCI global -0.60%, 10-year Treasury 4.84% and -6.2bp. US cash market closed 26 Nov for Thanksgiving.",
+          "oil": "Reuters 26 Nov article reports prices at 07:58 GMT (04:58 BRT): Brent $94.52/bbl, -0.1% on day; WTI $83.83/bbl, +0.2%, no WTI settlement due Thanksgiving. Prior session settlements Brent +3.5%, WTI +2%. Reuters attributes risk premium to Houthi claim of attack on Ras Tanura and Iranian reports of mines striking tankers; also notes Middle East exports had been rising and prices had fallen roughly 25% over prior three weeks. Incidents remain attributed, not independently verified."
+        },
+        "citation_audit": "Reference numbers 1 through 13 are individually cited in both bodies. S&P reference 4 now links directly to the 25 November rating action. Reuters reference 11 is timestamped 07:58 GMT (04:58 BRT) for Brent/WTI; the early-Asia snapshot is 01:35 UTC."
+      }
+    },
+    "manual_preflight": {
+      "schema_v2": true,
+      "controlled_programs": true,
+      "controlled_topics": true,
+      "phenomena_valid": true,
+      "word_count_en": 2898,
+      "word_count_pt": 3298,
+      "references_en": 13,
+      "references_pt": 13,
+      "ready_for_independent_qa": true,
+      "repository_script_validator": "Markdown visual syntax corrected in revision 5; strict repository validators remain independent and must be confirmed by CI/QA."
+    },
+    "revision": 5,
+    "revision_reason": "Corrects literal escaped newline sequences in the EN/PT-BR Markdown visual blocks so tables, charts, flow and map are parsed by the deterministic renderer; no source observations or analytical thesis changed.",
+    "revision_scope": "Same MT-GM ID/slug. Markdown syntax and producer visual audit corrected in both locales; all values, citations, dates, analysis and source scope preserved.",
+    "qa_fixes_applied": [
+      "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT",
+      "MARKDOWN_ESCAPED_NEWLINE_VISUAL_BLOCKS_CORRECTED"
+    ],
+    "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-5-publication-reconciliation",
+    "revised_at": "2026-11-26T05:34:00-03:00"
+  }
+}
