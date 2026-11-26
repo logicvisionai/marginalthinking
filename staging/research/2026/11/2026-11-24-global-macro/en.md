@@ -20,7 +20,7 @@ The November flash composite PMIs show the dispersion directly.
 
 ```chart
 type: bar
-title: November 2026 flash composite PMI output indices — euro-area aggregate and constituent economies (non-additive comparison)
+title: Selected major economies and the euro-area aggregate — November 2026 flash composite PMI output indices (non-additive comparison)
 unit: index points; 50 separates expansion from contraction
 United States | 54.6
 Euro area | 51.7
@@ -104,7 +104,7 @@ The 19 November Focus report, summarized by B3 on 23 November, raised the market
 | Exchange rate, R$/US$ | 5.40 | 5.55 | +0.15 |
 
 
-## 3. Markets: equities reverse part of the rebound while credit remains expensive
+## 3. Markets: equities reverse part of the rebound while financing remains uneven
 
 US equities rose sharply on 23 November: the S&P 500 gained 4.7%, the Nasdaq 6.5%, the Dow 3.0% and the Russell 2000 3.4%. The move ended a seven-session losing streak and recovered just over half of the preceding week’s losses. The rebound was led by technology and AI-linked shares; the Associated Press described the move as a sharp reversal after a week of losses. AP reported that Nvidia’s board reinstated CEO Jensen Huang amid an investigation into possible foreign-spy and national-security concerns; Nvidia shares rose 31.5%. The company-specific event helps explain the concentration of the rebound in AI-linked shares, but it is not evidence of a broad improvement in macroeconomic or financing conditions. A one-day change in equity prices cannot establish that earnings, financing or productivity expectations have been repaired. [23]
 
@@ -126,7 +126,7 @@ The equity rebound and the NFCI describe different dimensions of financial condi
 
 The WSJ Dollar Index rose 0.27% to 99.02 on 23 November, its largest daily gain since 11 November and its tenth advance in thirteen sessions. This is the WSJ index, not the ICE DXY measure. In Brazil, the Central Bank’s PTAX dollar selling rate was R$5.9708 on 23 November. The Ibovespa fell 0.95% to 164,796.05 points, diverging from the US equity rebound as domestic caution and the fall in oil weighed on local shares. These observations show that the global relief rally did not translate into uniform risk appetite across markets. [21–24]
 
-The Institute of International Finance estimated US$33.8 billion of non-resident portfolio outflows from emerging markets in October, after US$19.3 billion of outflows in September and US$27.4 billion of inflows in October 2025. The October figure was the largest monthly outflow since March. It is a monthly estimate, not a daily measure of 23 November trading. It nevertheless shows that the financing environment for emerging markets was already under pressure before the latest US equity rebound. [16]
+The Institute of International Finance estimated US$33.8 billion of non-resident portfolio outflows from emerging markets in October, after US$19.3 billion of outflows in September and US$27.4 billion of inflows in October 2025. The October figure was the largest monthly outflow since March. It is a monthly estimate, not a daily measure of 23 November trading. The tracker does not measure emerging-market borrowing spreads, foreign-currency funding costs or realised investment effects. The link from outflows to refinancing costs is therefore a conditional transmission channel, not an observed increase in this edition. [16]
 
 ## 4. Energy and commodities: cheaper crude, persistent product and logistics risk
 
@@ -160,11 +160,13 @@ Crude supply recovery
   -> but diesel, refining, shipping and insurance remain costly
   -> delivered-cost pressure persists in exposed sectors
 
-Broad US financial conditions and emerging-market outflows
-  -> higher refinancing and foreign-currency funding costs
-  -> weaker investment by marginal borrowers
-  -> more selective hiring and procurement
-  -> wider regional differences in growth
+US NFCI below zero (looser-than-average US conditions)
+  -> describes broad US conditions, not financing costs for emerging-market borrowers
+
+Emerging-market portfolio outflows
+  -> may pressure FX liquidity and external refinancing access in exposed markets
+  -> can raise funding costs for marginal borrowers if outflows persist
+  -> could restrain investment and hiring where funding constraints bind
 ```
 
 ```map

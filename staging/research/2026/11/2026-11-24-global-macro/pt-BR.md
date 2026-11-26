@@ -20,7 +20,7 @@ Os PMIs compostos preliminares de novembro mostram diretamente essa dispersão.
 
 ```chart
 type: bar
-title: Índices compostos de atividade PMI — novembro de 2026; zona do euro agregada e economias componentes (comparação não aditiva)
+title: Economias selecionadas e agregado da zona do euro — índices compostos de atividade PMI de novembro de 2026 (comparação não aditiva)
 unit: pontos do índice; 50 separa expansão de contração
 Estados Unidos | 54.6
 Zona do euro | 51.7
@@ -104,7 +104,7 @@ O Relatório Focus de 19 de novembro, resumido pela B3 em 23 de novembro, elevou
 | Câmbio, R$/US$ | 5,40 | 5,55 | +0,15 |
 
 
-## 3. Mercados: as bolsas devolvem parte da alta, enquanto o crédito permanece caro
+## 3. Mercados: as bolsas devolvem parte da alta, enquanto o financiamento permanece desigual
 
 As ações americanas avançaram fortemente em 23 de novembro: o S&P 500 subiu 4,7%, o Nasdaq 6,5%, o Dow 3,0% e o Russell 2000, 3,4%. O movimento encerrou uma sequência de sete sessões de queda e recuperou pouco mais da metade das perdas da semana anterior. A recuperação foi liderada por ações de tecnologia e ligadas à IA; a Associated Press descreveu o movimento como uma reversão acentuada após uma semana de perdas. A AP informou que o conselho da Nvidia reintegrou o CEO Jensen Huang em meio a uma investigação sobre possíveis questões de espionagem estrangeira e segurança nacional; as ações da empresa subiram 31,5%. O evento específico ajuda a explicar a concentração da recuperação em papéis ligados à IA, mas não demonstra melhora ampla das condições macroeconômicas ou de financiamento. Uma variação de um dia nos preços das ações não demonstra que as expectativas de lucro, financiamento ou produtividade tenham sido reparadas. [23]
 
@@ -126,7 +126,7 @@ A recuperação das ações e o NFCI descrevem dimensões diferentes das condiç
 
 O WSJ Dollar Index subiu 0,27%, para 99,02, em 23 de novembro, seu maior ganho diário desde 11 de novembro e a décima alta em treze sessões. Trata-se do índice do WSJ, não do ICE DXY. No Brasil, a taxa de venda do dólar PTAX do Banco Central foi de R$5,9708 em 23 de novembro. O Ibovespa caiu 0,95%, para 164.796,05 pontos, divergindo da recuperação das ações americanas em meio à cautela doméstica e à queda do petróleo, que pressionou papéis locais. As observações mostram que o alívio global não se traduziu em apetite uniforme por risco entre mercados. [21–24]
 
-O Institute of International Finance estimou saídas de US$33,8 bilhões em fluxos de carteira de não residentes dos mercados emergentes em outubro, depois de saídas de US$19,3 bilhões em setembro e de entradas de US$27,4 bilhões em outubro de 2025. O resultado de outubro foi a maior saída mensal desde março. É uma estimativa mensal, não uma medida diária das negociações de 23 de novembro. Ainda assim, mostra que o ambiente de financiamento dos emergentes já estava sob pressão antes da recuperação mais recente das ações americanas. [16]
+O Institute of International Finance estimou saídas de US$33,8 bilhões em fluxos de carteira de não residentes dos mercados emergentes em outubro, depois de saídas de US$19,3 bilhões em setembro e de entradas de US$27,4 bilhões em outubro de 2025. O resultado de outubro foi a maior saída mensal desde março. É uma estimativa mensal, não uma medida diária das negociações de 23 de novembro. O indicador não mede spreads de empréstimos dos mercados emergentes, custos de financiamento em moeda estrangeira ou efeitos realizados sobre o investimento. A ligação entre saídas e custos de refinanciamento é, portanto, um canal condicional de transmissão, não um aumento observado nesta edição. [16]
 
 ## 4. Energia e commodities: petróleo bruto mais barato, riscos persistentes nos derivados e na logística
 
@@ -160,11 +160,13 @@ Recuperação da oferta de petróleo bruto
   -> diesel, refino, transporte marítimo e seguro continuam caros
   -> pressão sobre custos entregues persiste nos setores expostos
 
-Condições financeiras americanas amplas e saídas de emergentes
-  -> aumento dos custos de refinanciamento e de financiamento em moeda estrangeira
-  -> menor investimento dos tomadores marginais
-  -> contratação e compras mais seletivas
-  -> ampliação das diferenças regionais de crescimento
+NFCI americano abaixo de zero (condições mais frouxas que a média)
+  -> descreve as condições amplas dos EUA, não o custo de financiamento de tomadores emergentes
+
+Saídas de carteira dos mercados emergentes
+  -> podem pressionar a liquidez cambial e o acesso a refinanciamento externo nos mercados expostos
+  -> podem elevar os custos de financiamento dos tomadores marginais se persistirem
+  -> podem restringir investimento e contratação onde houver limites de financiamento
 ```
 
 ```map
