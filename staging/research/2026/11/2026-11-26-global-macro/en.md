@@ -16,7 +16,15 @@ Observed: USTR published determinations and proposed actions; US Q3 GDP was revi
 
 USTR determined that practices relating to structural excess capacity and manufacturing production in China, the European Union, Singapore, Switzerland, Indonesia, Malaysia, Cambodia, Thailand, South Korea, Vietnam, Taiwan, Bangladesh, Japan and India were actionable under Section 301. The agency published economy-specific reports and proposed responsive action for public comment. It did not announce a uniform tariff already collected at customs. [1]
 
-| Economy | Proposed additional duty | Qualification |\n|---|---:|---|\n| Bangladesh | Up to 18% | Net of existing Section 301 duties; exemptions |\n| China | Up to 20% | Product exceptions and specified existing-duty treatment |\n| European Union | 15% | Net of MFN and existing Section 301 duties; exemptions |\n| India | Up to 25% | Proposal includes possible 17% rate under a responsive agreement |\n| Malaysia | Up to 18% | Net of existing duties; exemptions |\n| Singapore | Up to 20% | Proposal contemplates 10% under a responsive agreement |\n| Vietnam | Up to 35% | Proposal contemplates 20% under a responsive agreement |
+| Economy | Proposed additional duty | Qualification |
+|---|---:|---|
+| Bangladesh | Up to 18% | Net of existing Section 301 duties; exemptions |
+| China | Up to 20% | Product exceptions and specified existing-duty treatment |
+| European Union | 15% | Net of MFN and existing Section 301 duties; exemptions |
+| India | Up to 25% | Proposal includes possible 17% rate under a responsive agreement |
+| Malaysia | Up to 18% | Net of existing duties; exemptions |
+| Singapore | Up to 20% | Proposal contemplates 10% under a responsive agreement |
+| Vietnam | Up to 35% | Proposal contemplates 20% under a responsive agreement |
 
 These are proposed ceilings, not final applied rates. Federal Register notices and annexes determine product scope; the USTR summary alone is not a substitute for customs classification. Comments are due 5 January 2027, and hearings are scheduled to begin on 25 January. The interval creates room for consultation, modification, litigation and negotiated commitments. [1]
 
@@ -26,7 +34,14 @@ The market's relief on 26 November reflects a comparison with earlier expectatio
 
 The first response is likely to be commercial rather than statistical. Importers may advance orders, hold additional inventory, renegotiate supplier prices or delay a sourcing decision until product coverage is clearer. Manufacturers may compare a tariff on the finished good with duties on intermediate components and reconsider where final assembly takes place. These actions consume working capital and can create temporary demand for freight and warehousing even when final demand has not changed.
 
-```flow\nUSTR determination and proposed duty\n→ public comments, hearings and possible negotiation\n→ final product coverage and effective date\n→ landed costs, inventory and supplier choices\n→ margins, import prices and investment timing\n→ consumer prices, trade volumes and monetary-policy expectations\n```
+```flow
+USTR determination and proposed duty
+→ public comments, hearings and possible negotiation
+→ final product coverage and effective date
+→ landed costs, inventory and supplier choices
+→ margins, import prices and investment timing
+→ consumer prices, trade volumes and monetary-policy expectations
+```
 
 The chain is conditional at every step. A proposal can be narrowed or delayed. A firm may absorb a duty in its margin rather than pass it on. A currency move can offset part of the price change. A buyer may switch to a supplier outside covered jurisdictions, changing trade routes without necessarily reducing total imports. A tariff can therefore raise prices in one sector, compress profits in another and redirect production to a third economy.
 
@@ -38,7 +53,14 @@ BEA's second estimate put Q3 real GDP growth at 4.3% annualized, compared with 2
 
 The October household release is less buoyant. Current-dollar personal income rose 0.7% and disposable income 0.8%, but real PCE was unchanged at the reported monthly precision. Headline PCE inflation was 0.3% monthly and 3.8% annually; core PCE was also 0.3% monthly and 3.3% annually. The saving rate was 4.1%. The increase in nominal income partly reflected compensation, government benefits and receipts on assets; BEA notes a one-time Medicare Improvement Fund premium rebate within social benefits. [3]
 
-| US indicator | Latest observation | Scope |\n|---|---:|---|\n| Real GDP, Q3 | +4.3% annualized | Quarterly output, revised estimate |\n| Final sales to private domestic purchasers, Q3 | +5.8% annualized | Domestic private demand |\n| Headline PCE, October | +0.3% m/m; +3.8% y/y | PCE price index |\n| Core PCE, October | +0.3% m/m; +3.3% y/y | PCE excluding food and energy |\n| Real PCE, October | About 0.0% m/m | Inflation-adjusted household spending |\n| Personal saving rate, October | 4.1% | Saving as share of disposable income |
+| US indicator | Latest observation | Scope |
+|---|---:|---|
+| Real GDP, Q3 | +4.3% annualized | Quarterly output, revised estimate |
+| Final sales to private domestic purchasers, Q3 | +5.8% annualized | Domestic private demand |
+| Headline PCE, October | +0.3% m/m; +3.8% y/y | PCE price index |
+| Core PCE, October | +0.3% m/m; +3.3% y/y | PCE excluding food and energy |
+| Real PCE, October | About 0.0% m/m | Inflation-adjusted household spending |
+| Personal saving rate, October | 4.1% | Saving as share of disposable income |
 
 The combination is not contradictory. GDP is a quarterly aggregate reported at an annualized rate; real PCE is a monthly household-flow estimate. A strong investment quarter can lift GDP while household volumes pause in one month. The GDP revision also does not establish that all sectors are accelerating: imports rose, exports fell and component contributions differ from the headline rate.
 
@@ -48,7 +70,15 @@ For the Federal Reserve, the data reduce the case for rapid easing but do not me
 
 On 25 November, the Dow rose 0.33%, while the S&P 500 fell 0.25% and the Nasdaq fell 0.62%. The MSCI world gauge declined about 0.6% in the session. US Treasury yields fell as investors sought safety: the 10-year yield was reported at 4.84%, down roughly 6.2 basis points. The US dollar index eased about 0.14%; the euro traded near US$1.09. These are observations from the reported session, not official closing values for 26 November, when US cash markets are closed for Thanksgiving. [5] [6]
 
-```chart\ntype: bar\ntitle: Selected equity-index returns, 25 November 2026\nunit: percent, daily session\nDow Jones | 0.33\nS&P 500 | -0.25\nNasdaq Composite | -0.62\nMSCI world | -0.60\n```
+```chart
+type: bar
+title: Selected equity-index returns, 25 November 2026
+unit: percent, daily session
+Dow Jones | 0.33
+S&P 500 | -0.25
+Nasdaq Composite | -0.62
+MSCI world | -0.60
+```
 
 The fall in yields alongside high GDP and inflation is important. It is consistent with demand for duration as equity risk is reduced, rather than a clean repricing toward easier monetary policy. A lower Treasury yield can coexist with a higher expected policy rate when investors seek safety or question the durability of earnings and investment. The curve should be read with equity, credit and currency moves, not in isolation.
 
@@ -91,7 +121,13 @@ The divergence matters for the transmission mechanism. Wheat and maize eased wit
 
 A lower global cereal quotation can ease some import costs without improving food access everywhere. Domestic currency depreciation, transport, conflict, wages and retail margins intervene between export quotations and household baskets; the aggregate index can fall while vulnerable households face worsening affordability.
 
-```map\nNorth America | October steel output increased 5.6% y/y | Production is not final demand\nAsia and Oceania | October output was broadly flat y/y | Regional aggregate masks country and sector differences\nEuropean Union | October steel output fell 4.0% y/y | Energy and trade exposure remain relevant\nSouth America | October steel output fell 4.1% y/y | Brazil also declined; it is outside this USTR action\nMiddle East | October steel output fell 27.7% y/y | Large contraction; single-cause attribution is not established\n```
+```map
+North America | October steel output increased 5.6% y/y | Production is not final demand
+Asia and Oceania | October output was broadly flat y/y | Regional aggregate masks country and sector differences
+European Union | October steel output fell 4.0% y/y | Energy and trade exposure remain relevant
+South America | October steel output fell 4.1% y/y | Brazil also declined; it is outside this USTR action
+Middle East | October steel output fell 27.7% y/y | Large contraction; single-cause attribution is not established
+```
 
 Brazil is not among the 14 economies covered by the USTR determinations announced on 25 November. The immediate direct tariff channel from this particular action is therefore not established for Brazil. Indirect effects remain possible through trade diversion, commodity prices, exchange rates and demand from affected partners. Banco Central do Brasil maintained the Selic at 13.75% in November; this restrictive rate is a domestic monetary condition, not a response to a tariff that has not yet been implemented. [10]
 

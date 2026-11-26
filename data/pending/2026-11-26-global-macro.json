@@ -193,14 +193,15 @@
     "references_en": 13,
     "references_pt": 13,
     "ready_for_independent_qa": true,
-    "repository_script_validator": "Producer preflight: schema v2, controlled taxonomy, daily brief visual floor (two tables, explicit chart, structural flow/map), source count and bilingual visual parity checked manually. Full repository validators and independent QA remain separate and are not claimed as passed."
+    "repository_script_validator": "Markdown visual syntax corrected in revision 5; strict repository validators remain independent and must be confirmed by CI/QA."
   },
-  "revision": 4,
-  "revision_reason": "Updates the 26 November market window with Reuters' timestamped 01:35 UTC Asia snapshot and 07:58 GMT oil quotes; corrects APAC ex-Japan and adds Taiwan/European futures; replaces generic S&P reference with its exact rating action URL and clarifies prior-session attributed oil claims.",
-  "revision_scope": "Same Global Macro ID/slug; updated market window, oil price timestamp/attribution and direct reference URLs in both locales. No thesis or taxonomy change.",
+  "revision": 5,
+  "revision_reason": "Corrects literal escaped newline sequences in the EN/PT-BR Markdown visual blocks so tables, charts, flow and map are parsed by the deterministic renderer; no source observations or analytical thesis changed.",
+  "revision_scope": "Same MT-GM ID/slug. Markdown syntax and producer visual audit corrected in both locales; all values, citations, dates, analysis and source scope preserved.",
   "qa_fixes_applied": [
-    "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT"
+    "CITATION_GROUPS_EXPANDED_FOR_REFERENCE_AUDIT",
+    "MARKDOWN_ESCAPED_NEWLINE_VISUAL_BLOCKS_CORRECTED"
   ],
-  "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-4-publication-reconciliation",
-  "revised_at": "2026-11-26T05:17:00-03:00"
+  "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-26-revision-5-publication-reconciliation",
+  "revised_at": "2026-11-26T05:34:00-03:00"
 }

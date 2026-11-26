@@ -16,7 +16,15 @@ Observado: o USTR publicou determinações e propostas; o PIB americano do terce
 
 O USTR determinou que práticas relacionadas a excesso estrutural de capacidade e produção manufatureira em China, União Europeia, Singapura, Suíça, Indonésia, Malásia, Camboja, Tailândia, Coreia do Sul, Vietnã, Taiwan, Bangladesh, Japão e Índia eram passíveis de ação sob a Seção 301. A agência publicou relatórios específicos por economia e propôs medidas de resposta para consulta pública. Não anunciou uma tarifa uniforme já cobrada na alfândega. [1]
 
-| Economia | Tarifa adicional proposta | Qualificação |\n|---|---:|---|\n| Bangladesh | Até 18% | Líquida de tarifas Seção 301 existentes; exceções |\n| China | Até 20% | Exceções por produto e tratamento de tarifas existentes |\n| União Europeia | 15% | Líquida de tarifas MFN e Seção 301 existentes; exceções |\n| Índia | Até 25% | Proposta prevê possível taxa de 17% sob acordo responsivo |\n| Malásia | Até 18% | Líquida de tarifas existentes; exceções |\n| Singapura | Até 20% | Proposta prevê 10% sob acordo responsivo |\n| Vietnã | Até 35% | Proposta prevê 20% sob acordo responsivo |
+| Economia | Tarifa adicional proposta | Qualificação |
+|---|---:|---|
+| Bangladesh | Até 18% | Líquida de tarifas Seção 301 existentes; exceções |
+| China | Até 20% | Exceções por produto e tratamento de tarifas existentes |
+| União Europeia | 15% | Líquida de tarifas MFN e Seção 301 existentes; exceções |
+| Índia | Até 25% | Proposta prevê possível taxa de 17% sob acordo responsivo |
+| Malásia | Até 18% | Líquida de tarifas existentes; exceções |
+| Singapura | Até 20% | Proposta prevê 10% sob acordo responsivo |
+| Vietnã | Até 35% | Proposta prevê 20% sob acordo responsivo |
 
 São tetos propostos, não alíquotas finais aplicadas. Os avisos do Federal Register e seus anexos determinam a cobertura dos produtos; o resumo do USTR não substitui a classificação aduaneira. Comentários devem ser enviados até 5 de janeiro de 2027, e as audiências devem começar em 25 de janeiro. O intervalo abre espaço para consultas, modificações, litígios e compromissos negociados. [1]
 
@@ -26,7 +34,14 @@ O alívio observado no mercado em 26 de novembro reflete uma comparação com ex
 
 A primeira resposta tende a ser comercial, não estatística. Importadores podem antecipar pedidos, manter estoques maiores, renegociar preços com fornecedores ou adiar uma decisão de origem até que a cobertura dos produtos fique clara. Fabricantes podem comparar a tarifa sobre o bem final com as tarifas sobre componentes intermediários e reconsiderar o local da montagem final. Essas decisões consomem capital de giro e podem gerar demanda temporária por frete e armazenagem mesmo sem mudança na demanda final.
 
-```flow\nDeterminação e tarifa proposta pelo USTR\n→ consulta pública, audiências e possível negociação\n→ cobertura final dos produtos e data de vigência\n→ custo de importação, estoques e escolha de fornecedores\n→ margens, preços importados e prazo de investimento\n→ preços ao consumidor, volumes comerciais e expectativas monetárias\n```
+```flow
+Determinação e tarifa proposta pelo USTR
+→ consulta pública, audiências e possível negociação
+→ cobertura final dos produtos e data de vigência
+→ custo de importação, estoques e escolha de fornecedores
+→ margens, preços importados e prazo de investimento
+→ preços ao consumidor, volumes comerciais e expectativas monetárias
+```
 
 A cadeia é condicional em cada etapa. A proposta pode ser reduzida ou adiada. Uma empresa pode absorver a tarifa na margem em vez de repassá-la. Uma mudança cambial pode compensar parte do preço. O comprador pode trocar por fornecedor fora das jurisdições cobertas, alterando rotas comerciais sem necessariamente reduzir o total importado. Assim, uma tarifa pode elevar preços em um setor, comprimir lucros em outro e redirecionar produção para uma terceira economia.
 
@@ -38,7 +53,14 @@ A segunda estimativa do BEA colocou o crescimento do PIB real do terceiro trimes
 
 O relatório de outubro das famílias é menos vigoroso. A renda pessoal em dólares correntes subiu 0,7% e a renda disponível 0,8%, mas o PCE real ficou estável na precisão publicada. A inflação PCE cheia foi de 0,3% mensal e 3,8% anual; o núcleo também foi 0,3% mensal e 3,3% anual. A taxa de poupança foi 4,1%. O aumento da renda nominal refletiu em parte remuneração, benefícios públicos e rendimentos de ativos; o BEA registra um pagamento pontual de rebate do Medicare Improvement Fund dentro dos benefícios sociais. [3]
 
-| Indicador americano | Última observação | Escopo |\n|---|---:|---|\n| PIB real, 3º tri. | +4,3% anualizado | Produção trimestral, estimativa revisada |\n| Vendas finais a compradores privados domésticos, 3º tri. | +5,8% anualizado | Demanda privada doméstica |\n| PCE cheio, outubro | +0,3% m/m; +3,8% a/a | Índice de preços do PCE |\n| Núcleo do PCE, outubro | +0,3% m/m; +3,3% a/a | PCE sem alimentos e energia |\n| PCE real, outubro | Cerca de 0,0% m/m | Gasto das famílias ajustado pela inflação |\n| Taxa de poupança, outubro | 4,1% | Poupança como proporção da renda disponível |
+| Indicador americano | Última observação | Escopo |
+|---|---:|---|
+| PIB real, 3º tri. | +4,3% anualizado | Produção trimestral, estimativa revisada |
+| Vendas finais a compradores privados domésticos, 3º tri. | +5,8% anualizado | Demanda privada doméstica |
+| PCE cheio, outubro | +0,3% m/m; +3,8% a/a | Índice de preços do PCE |
+| Núcleo do PCE, outubro | +0,3% m/m; +3,3% a/a | PCE sem alimentos e energia |
+| PCE real, outubro | Cerca de 0,0% m/m | Gasto das famílias ajustado pela inflação |
+| Taxa de poupança, outubro | 4,1% | Poupança como proporção da renda disponível |
 
 A combinação não é contraditória. PIB é um agregado trimestral apresentado a taxa anualizada; PCE real é uma estimativa mensal de fluxo das famílias. Um trimestre forte de investimento pode elevar o PIB enquanto o volume de consumo pausa em um mês. A revisão do PIB também não demonstra aceleração de todos os setores: importações aumentaram, exportações caíram e a contribuição de cada componente difere da taxa principal.
 
@@ -48,7 +70,15 @@ Para o Federal Reserve, os dados reduzem o argumento a favor de cortes rápidos,
 
 Em 25 de novembro, o Dow subiu 0,33%, enquanto o S&P 500 caiu 0,25% e o Nasdaq recuou 0,62%. O indicador global da MSCI caiu cerca de 0,6% na sessão. Os rendimentos dos Treasuries caíram com a busca por segurança: o rendimento de dez anos foi reportado em 4,84%, queda aproximada de 6,2 pontos-base. O índice do dólar recuou cerca de 0,14%; o euro negociou perto de US$ 1,09. São observações da sessão reportada, não fechamentos oficiais de 26 de novembro, quando o mercado à vista americano está fechado pelo feriado de Thanksgiving. [5] [6]
 
-```chart\ntype: bar\ntitle: Retorno de índices acionários selecionados, 25 de novembro de 2026\nunit: percent, sessão diária\nDow Jones | 0.33\nS&P 500 | -0.25\nNasdaq Composite | -0.62\nMSCI global | -0.60\n```
+```chart
+type: bar
+title: Retorno de índices acionários selecionados, 25 de novembro de 2026
+unit: percent, sessão diária
+Dow Jones | 0.33
+S&P 500 | -0.25
+Nasdaq Composite | -0.62
+MSCI global | -0.60
+```
 
 A queda dos rendimentos junto com PIB e inflação elevados é importante. É compatível com demanda por títulos de maior duração durante redução de risco em ações, e não com uma reprecificação limpa para política monetária mais frouxa. Um rendimento menor do Treasury pode coexistir com maior expectativa de juros básicos quando investidores buscam segurança ou questionam a durabilidade dos lucros e investimentos. A curva deve ser lida junto com ações, crédito e câmbio, não isoladamente.
 
@@ -91,7 +121,13 @@ A divergência altera o mecanismo de transmissão. Trigo e milho recuaram com de
 
 Uma cotação global menor de cereais pode aliviar alguns custos de importação sem melhorar o acesso a alimentos em todos os lugares. Câmbio doméstico, transporte, conflito, salários e margens de varejo intervêm entre a cotação de exportação e a cesta das famílias; o índice agregado pode cair enquanto famílias vulneráveis enfrentam piora de acessibilidade.
 
-```map\nAmérica do Norte | Produção de aço em outubro cresceu 5,6% a/a | Produção não é demanda final\nÁsia e Oceania | Produção de outubro ficou estável a/a | Agregado regional esconde diferenças entre países e setores\nUnião Europeia | Produção de aço em outubro caiu 4,0% a/a | Exposição a energia e comércio permanece relevante\nAmérica do Sul | Produção de aço em outubro caiu 4,1% a/a | Brasil também recuou; está fora desta ação do USTR\nOriente Médio | Produção de aço em outubro caiu 27,7% a/a | Contração grande; não há atribuição a uma única causa\n```
+```map
+América do Norte | Produção de aço em outubro cresceu 5,6% a/a | Produção não é demanda final
+Ásia e Oceania | Produção de outubro ficou estável a/a | Agregado regional esconde diferenças entre países e setores
+União Europeia | Produção de aço em outubro caiu 4,0% a/a | Exposição a energia e comércio permanece relevante
+América do Sul | Produção de aço em outubro caiu 4,1% a/a | Brasil também recuou; está fora desta ação do USTR
+Oriente Médio | Produção de aço em outubro caiu 27,7% a/a | Contração grande; não há atribuição a uma única causa
+```
 
 O Brasil não está entre as 14 economias cobertas pelas determinações do USTR anunciadas em 25 de novembro. Portanto, o canal tarifário direto imediato dessa ação específica não está estabelecido para o Brasil. Efeitos indiretos continuam possíveis por desvio de comércio, preços de commodities, câmbio e demanda dos parceiros afetados. O Banco Central do Brasil manteve a Selic em 13,75% em novembro; essa taxa restritiva é uma condição monetária doméstica, não uma resposta a uma tarifa ainda não implementada. [10]
 
