@@ -2,7 +2,7 @@
 
 **Scope:** durable institutional, productive, social and financial mechanisms that shape how U.S. national scale converts into regional economic capacity and global transmission  
 **Canonical slug:** `united-states`  
-**Last reviewed:** 2026-10-20  
+**Last reviewed:** 2026-11-26  
 **Evidence note:** internal orientation only; public claims require current external re-verification.
 
 ## Structural assessment
@@ -60,6 +60,10 @@ These mechanisms connect directly with the broader `global-capital-allocation` a
 
 ## What changed since last review
 
+### 2026-11-26
+
+- **Section 301 moved from investigation to formal determinations and proposed responses, not effective duties.** On 25 November, USTR determined that the practices of 14 economies relating to structural excess capacity and manufacturing production were actionable and proposed responsive tariff measures for public comment. The proposals include product annexes, exemptions, netting against specified existing duties and possible adjustments linked to reciprocal-trade commitments. Keep the stages separate: investigation, determination, proposed action, final product coverage and effective tariff. Mexico and Norway were not included in this tranche of determinations. Written comments are due 5 January 2027; hearings are scheduled from 25 January. Future analysis should track the final legal instruments and actual collection dates rather than treating the proposed ceilings as applied rates. See `MT-GM-2026-11-26` for the dated macro transmission analysis.
+
 ### 2026-11-23
 
 - **Federal R&D can create persistent innovation clusters when procurement links universities, suppliers and engineering teams.** `MT-PE-2026-11-23` reviews the OSRD model; Gross and Sampat find persistent effects on technology clusters, high-technology entrepreneurship and employment around funded technologies. The durable mechanism is institutional coordination and early risk-bearing demand, not simply higher military outlays.
@@ -83,6 +87,7 @@ These mechanisms connect directly with the broader `global-capital-allocation` a
 
 ## Open questions
 
+- Which of the 14 Section 301 determinations become final duties after comments, product exemptions, netting against existing Section 301/232 measures and reciprocal-trade commitments; what are the actual product scope and effective dates?
 - Does strong equipment investment broaden beyond AI/computing into a wider productivity cycle?
 - Can transmission, interconnection and local permitting scale quickly enough for new industrial and digital loads?
 - How much do housing constraints limit labour reallocation toward high-productivity regions?
@@ -92,6 +97,7 @@ These mechanisms connect directly with the broader `global-capital-allocation` a
 
 ## Related Marginal Thinking research
 
+- `MT-GM-2026-11-26` — formal Section 301 determinations and proposed duties, US GDP/PCE, global markets and food-price divergence; use the tariff-process distinction and conditional pass-through mechanism.
 - `MT-PE-2026-11-23` — OSRD-funded research, wartime manufacturing productivity and the conditions for postwar civilian conversion.
 - `MT-GM-2026-10-20` — mortgage affordability, distinct housing pipeline measures, distributional and selective cross-border transmission.
 - `MT-CC-2026-09-26-united-states` — canonical Country Context dossier establishing the federal, productive, housing, grid, labour and dollar-transmission mechanisms.
@@ -101,6 +107,8 @@ These mechanisms connect directly with the broader `global-capital-allocation` a
 - `MT-GM-2026-10-03` — slower U.S. hiring under persistent inflation and elevated long yields; use for the hiring-flow versus labour-level distinction and the two-sided monetary-policy constraint.
 
 ## Sources and verification notes
+
+For the 25 November 2026 Section 301 determinations and proposed actions, reopen the USTR official release: https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural. The determinations and proposed duties are dated policy developments; final product coverage, exemptions and effective dates must be reverified.
 
 This briefing is memory, not evidence. Re-open current primary sources before public reuse. Useful anchors include BEA for output/investment and PCE, BLS for labour, Census for population/housing/trade, CBO and Treasury for fiscal/debt/interest conditions, Federal Reserve for monetary and financial conditions, DOE/FERC/regional grid operators for power and transmission, and Lawrence Berkeley National Laboratory for interconnection-queue research.
 
