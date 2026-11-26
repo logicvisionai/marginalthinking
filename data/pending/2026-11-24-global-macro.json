@@ -174,11 +174,11 @@
       "reproducibility_notes": {
         "pmi_comparison": "Flash composite PMI output indices published 23–24 Nov 2026; 50 is the expansion/contraction threshold. The values are survey diffusion indices, not GDP growth rates.",
         "treasury_curve": "US Treasury official daily par curve, 23 Nov 2026: 2-year 4.63%; 10-year 4.92%; 30-year 5.29%.",
-        "brazil_forecast": "Brazil Ministry of Finance November 2026 Macrofiscal Bulletin, summary p.3 and detailed grid discussion p.19; grid closed 6 Nov. For 2027, GDP 1.8% (September 2.3%), IPCA 4.5% (3.8%), accumulated Selic 12.93% (12.67%), average exchange rate R$5.34/US$ (R$5.23), and average Brent US$95.20/bbl (US$79.50). The grid's Selic is derived from the real rate implicit in the Focus median (nominal Selic adjusted for market inflation expectations) and converted to nominal terms with the SPE inflation projection; it is distinct from the Focus terminal Selic median of 12.75% at end-2027. FX and Brent are annual averages, not terminal or spot prices.",
+        "brazil_forecast": "Brazil Ministry of Finance November 2026 Macrofiscal Bulletin, summary p.3 and detailed grid discussion p.19; grid closed 6 Nov. For 2027, GDP 1.8% (September 2.3%), IPCA 4.5% (3.8%), accumulated Selic 12.93% (12.67%), average exchange rate R$5.34/US$ (R$5.23), and average Brent US$95.20/bbl (US$79.50). The grid's Selic is an accumulated parameter derived from the real rate implicit in the Focus median and converted to nominal terms with the SPE inflation projection; it is distinct from the Focus terminal Selic median of 13.00% at end-2027 in the 19 November report (12.75% one week earlier; 11.75% four weeks earlier). FX and Brent are annual averages, not terminal or spot prices.",
         "oil_market": "Reuters settlement values for 23 Nov; IEA November report supplies October production and inventory estimates. Spot/futures settlement and monthly supply estimates are different observation types.",
         "food_prices": "FAO October 2026 FFPI: 133.9, down 1.2% m/m; cereal 116.8, down 4.5%; sugar 121.3, up 6.6%.",
         "market_flows": "IIF tracker published 5 Nov, estimating October non-resident EM portfolio outflows of US$33.8bn; monthly estimate, not daily flow.",
-        "brazil_focus": "Banco Central do Brasil Focus report with reference date 19 Nov 2026, summarized by B3 on 23 Nov: 2026 GDP 1.70% (from 1.72%), IPCA 5.15% (from 5.11%), and year-end USD/BRL 5.55 (from 5.40). These are market medians, not Central Bank forecasts, and are distinct from the Ministry of Finance's 2027 parameter grid. Primary PDF: https://www.bcb.gov.br/content/focus/focus/R20261119.pdf.",
+        "brazil_focus": "Banco Central do Brasil Focus report with reference date 19 Nov 2026, summarized by B3 on 23 Nov: 2026 GDP 1.70% (from 1.72%), IPCA 5.15% (from 5.11%), and year-end USD/BRL 5.55 (from 5.40). The 2027 terminal Selic median is 13.00% today, compared with 12.75% one week earlier and 11.75% four weeks earlier. These are market medians, not Central Bank forecasts, and are distinct from the Ministry of Finance's accumulated 2027 Selic parameter. Primary PDF: https://www.bcb.gov.br/content/focus/focus/R20261119.pdf.",
         "japan_policy": "Bank of Japan policy decision published 18 Sep 2026 sets the uncollateralized overnight call-rate guideline around 1.25% and states that the change applies from the next business day, 24 Sep; the October 2026 Outlook Report confirms the level.",
         "brazil_ptax": "Banco Central do Brasil PTAX OData historical query for 23 Nov 2026: selling rate 5.97080 at 13:06:23 BRT; date-filtered endpoint retained for reproducibility.",
         "worldsteel_production": "World Steel Association, October 2026 release published 24 Nov 2026. Production for 70 reporting countries was 142.4 Mt (-1.1% y/y); Jan-Oct was 1,509.3 Mt (-0.8%). October regional changes: Africa +7.9%, Asia/Oceania 0.0%, EU -4.0%, Europe other +5.1%, Middle East -27.7%, North America +5.6%, Russia/CIS/Ukraine -6.8%, South America -4.1%. The 70 countries represented approximately 98% of 2025 world production. US and Russian country figures are estimates.",
@@ -192,29 +192,30 @@
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 4348,
-      "word_count_pt": 5054,
+      "word_count_en": 4363,
+      "word_count_pt": 5070,
       "references_en": 30,
       "references_pt": 30,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "Revision 8 replaces the restricted ICE OAS series with the Chicago Fed NFCI, preserving two quantitative charts, four ordinary Markdown tables, one causal flow and one map in both locales. Exact-head CI and independent editorial QA are required before public promotion.",
-      "revision": 8
+      "repository_script_validator": "Revision 9 corrects the 2027 Focus terminal Selic median to the 19 November 2026 primary-source value of 13.00%, with the one-week and four-week comparators stated explicitly. It retains two quantitative charts, four ordinary Markdown tables, one causal flow and one map in both locales. Independent QA and exact-HEAD validation are required before public promotion.",
+      "revision": 9
     },
     "reconciliation_run_id": "2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation"
   },
-  "revision": 8,
-  "revision_reason": "Revision 8 removes the ICE BofA High Yield OAS series and all derived values because its publisher prohibits public reproduction without written permission. It replaces that evidence with the Chicago Fed's publicly documented NFCI vintage available at the 24 November cutoff, revises the financing interpretation and chart in both locales, and keeps the existing report-specific registry decisions with an updated reconciliation record.",
+  "revision": 9,
+  "revision_reason": "Revision 9 corrects the 2027 Focus terminal Selic median using the 19 November 2026 BCB report: 13.00% today, 12.75% one week earlier and 11.75% four weeks earlier. Revision 8 had carried the one-week-prior value as current. Both locales and the source-audit notes are corrected; the ICE BofA OAS series remains removed and the Chicago Fed NFCI evidence is retained.",
   "revision_scope": [
     "Update the article title, executive assessment and information cutoff for the 24 November evening edition.",
     "Incorporate Worldsteel October 2026 crude-steel output and regional/country divergence using the official 24 November release.",
     "Add Germany's 24 November Ifo business-climate results and distinguish survey sentiment from sector output.",
-    "Update the latest reported US equity, dollar, Treasury and Brent market session with Reuters' 24 November report; preserve the original date and vintage of the high-yield OAS series.",
+    "Update the latest reported US equity, dollar, Treasury and Brent market session with Reuters' 24 November report; retain the 24 November information cutoff and source vintage.",
     "Add the regional October steel-output table in both locales and maintain semantic parity.",
     "Update the regional transmission map, base case, conclusion and bilingual reference lists.",
     "Reconcile all seven active cumulative registry assets and link the report-specific reconciliation run.",
     "Remove ICE BofA US High Yield OAS values, chart and interpretations because public reproduction requires prior written permission.",
     "Use the Chicago Fed NFCI observation of −0.478 for the week ending 13 November, released 18 November and available before the 24 November 20:45 BRT cutoff; distinguish broad US financial conditions from emerging-market portfolio flows.",
-    "Update the financing chart, map, scenarios, watch items, source audit, bilingual metadata and report-specific reconciliation record."
+    "Update the financing chart, map, scenarios, watch items, source audit, bilingual metadata and report-specific reconciliation record.",
+    "Correct the 19 November 2026 BCB Focus terminal Selic median for 2027 to 13.00%, with 12.75% one week earlier and 11.75% four weeks earlier, in EN, PT-BR and the source-audit notes."
   ],
   "qa_fixes_applied": [
     "EDITORIAL_DEPTH_H2_SECTION_STRUCTURE",
