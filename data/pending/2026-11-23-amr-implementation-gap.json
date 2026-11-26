@@ -118,7 +118,8 @@
     "The ANIMUSE 2019–2024 and 2018–2024 trend estimates use different participant groups and periods.",
     "ECDC data concern invasive human clinical isolates; they are not population-wide prevalence estimates.",
     "Animal antimicrobial-use data and human resistance data are not linked at matched country, pathogen, exposure and time levels; no causal attribution is made.",
-    "Growth-promotion findings are participant reports (29 of 148; ten uncertain), not an estimate of global animal production share."
+    "Growth-promotion findings are participant reports (29 of 148; ten uncertain), not an estimate of global animal production share.",
+    "ESAC-Net's 18.9 DID and AWaRe target indicators are EU-level; the 17.3 DID community-consumption series is EU/EEA and is a separate measure."
   ],
   "producer_checks": {
     "information_cutoff": "2026-11-23 06:20 America/Sao_Paulo",
@@ -130,7 +131,7 @@
       "same_numeric_series": true,
       "same_reference_count": true,
       "charts": 3,
-      "tables": 2,
+      "tables": 3,
       "flows": 1,
       "maps": 1,
       "references_en": 10,
@@ -138,7 +139,7 @@
     },
     "visual_evidence": {
       "charts": 3,
-      "tables": 2,
+      "tables": 3,
       "flows": 1,
       "maps": 1
     },
@@ -146,35 +147,35 @@
       "references": 10,
       "primary_institutional_sources": 10,
       "urls_unique": 10,
-      "domains": 6,
+      "domains": 5,
       "unused_references": 0,
       "all_references_cited": true,
-      "citation_audit": "Body citations [1]–[10] were checked in both editions. [5] supports the 2026 Global Action Plan, [6] the 2024 UN Political Declaration, [7] the Quadripartite implementation report, [8] the updated WHO plan, [9] WHO burden estimates, and [10] the WOAH prudent-use code. The ANIMUSE 9% analysis is attributed to the report itself, not its interactive portal."
+      "citation_audit": "Body citations [1]–[10] were checked in both editions. [5] supports the 2026 Global Action Plan, [6] the 2024 UN Political Declaration, [7] the Quadripartite implementation report, [8] the updated WHO plan, [9] WHO burden estimates, and [10] the WOAH prudent-use code. The 74-participant 9% result is cited in the ANIMUSE executive summary and conclusions; the foreword says the separate analysis is available through the Interactive Report and is not reproduced in this PDF."
     },
     "manual_preflight": {
       "schema_v2": true,
       "controlled_programs": true,
       "controlled_topics": true,
       "phenomena_valid": true,
-      "word_count_en": 3291,
-      "word_count_pt": 3776,
+      "word_count_en": 3052,
+      "word_count_pt": 3513,
       "references_en": 10,
       "references_pt": 10,
       "ready_for_independent_qa": true,
       "repository_script_validator": "Not run by producer in this revision; independent QA must execute exact-HEAD validation."
     }
   },
-  "revision": 1,
-  "revision_reason": "Corrects citation numbering and supports all retained references, restores the EU-only scope of ECDC incidence/target values, distinguishes quantities intended for animal use from administered doses, corrects attribution of the ANIMUSE 9% cohort analysis, localizes PT-BR chart units and removes formulaic signposting.",
-  "revision_scope": "Source-scope and citation corrections plus language cleanup in both staged editions; all observations, numerical values, charts and analytical thesis preserved. ID and slug unchanged.",
+  "revision": 2,
+  "revision_reason": "Corrects EU-only ESAC-Net aggregate indicators versus the separate EU/EEA community-consumption series; clarifies the provenance of the 74-participant ANIMUSE trend; closes and replaces the Markdown-table map with the renderer's regional-card grammar; localizes the remaining PT-BR chart unit; and recomputes visual/source audit counts.",
+  "revision_scope": "Source-scope and attribution clarification plus deterministic map and bilingual-label corrections. Adds the separately reported 17.3 DID EU/EEA community-consumption series while preserving all animal-use and human-resistance observations and the analytical thesis.",
   "qa_fixes_applied": [
-    "CITATION_MISNUMBERING_AND_UNCITED_REFERENCES",
-    "ECDC_EU_INCIDENCE_MISLABELLED_AS_EU_EEA",
-    "WOAH_INTENDED_USE_MISSTATED_AS_ADMINISTERED_USE",
-    "ANIMUSE_9_PERCENT_TREND_SOURCE_MISATTRIBUTED",
-    "PTBR_VISUAL_UNIT_LABELS_NOT_LOCALIZED",
-    "FORMULAIC_META_DISCOURSE"
+    "ESAC_NET_EU_INDICATORS_MISLABELLED_AS_EU_EEA",
+    "MAP_FENCE_UNCLOSED_AND_INVALID_TABLE_SYNTAX",
+    "ANIMUSE_74_PARTICIPANT_TREND_PROVENANCE_OVERSTATED",
+    "PTBR_CHART_UNIT_LABEL_MIXED_LANGUAGE",
+    "VISUAL_EVIDENCE_TABLE_COUNT_UNDERREPORTED",
+    "SOURCE_AUDIT_DOMAIN_COUNT_MISMATCH"
   ],
-  "revised_at": "2026-11-26T04:53:00-03:00",
-  "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-23-amr-implementation-gap-revision-1-publication-reconciliation"
+  "revised_at": "2026-11-26T06:36:10-03:00",
+  "reconciliation_run_id": "2026-11-26-mt-bio-2026-11-23-amr-implementation-gap-revision-2-publication-reconciliation"
 }

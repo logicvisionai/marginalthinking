@@ -64,7 +64,7 @@ A diferença afeta a política pública. Se um país registra importações e ve
 
 ## 3. A tendência ainda não é uma queda global estável
 
-O ANIMUSE registra redução de 3% no indicador ajustado pela biomassa entre 2019 e 2024 entre 80 participantes que forneceram dados consistentes durante todo o período. Nesse grupo, o indicador global caiu de 108 para 105 mg/kg. Uma análise separada no próprio relatório ANIMUSE encontrou aumento de 9% entre 2018 e 2024 entre outro grupo, formado por 74 participantes. Os períodos e os conjuntos de participantes são diferentes; os números não devem ser combinados como uma única série contínua. [2]
+O ANIMUSE registra redução de 3% no indicador ajustado pela biomassa entre 2019 e 2024 entre 80 participantes que forneceram dados consistentes durante todo o período. Nesse grupo, o indicador global caiu de 108 para 105 mg/kg. O prefácio do relatório aponta uma análise separada, disponível no Relatório Interativo do ANIMUSE e não reproduzida neste PDF, que mostra aumento de 9% entre 2018 e 2024 em outro grupo, formado por 74 participantes. O resumo executivo e as conclusões também citam esse resultado. Os períodos e os conjuntos de participantes são diferentes; os números não devem ser combinados como uma única série contínua. [2]
 
 O contraste não demonstra que um dos resultados esteja errado. Mostra como a composição dos participantes, a cobertura do reporte e as janelas temporais afetam os agregados globais. Um grupo menor, com reporte consistente, pode revelar uma tendência dentro daquele grupo, enquanto uma amostra mais ampla ou composta de outra forma pode apontar direção diferente. Sem reporte nacional estável e métodos transparentes, a média global pode mudar porque a amostra mudou, não porque o uso mudou.
 
@@ -99,14 +99,14 @@ Na União Europeia (UE), a incidência estimada de infecções da corrente sangu
 ```chart
 type: bar
 title: Países com percentuais elevados de resistência em isolados invasivos, Região Europeia da OMS, 2025
-unit: percentual de países reporting the combination
+unit: percentual de países que reportaram a combinação
 K. pneumoniae, cefalosporinas de terceira geração (21/43) | 49
 Acinetobacter spp., carbapenêmicos (21/38) | 55
 ```
 
 O relatório identifica um gradiente amplo de norte para sul e de oeste para leste para vários patógenos Gram-negativos, com percentuais de resistência mais altos com maior frequência nas partes sul e leste da região. Esse padrão não deve ser convertido em ranking de países sem considerar cobertura laboratorial, representatividade dos isolados e protocolos nacionais de vigilância. O relatório do ECDC também informa que 31% dos países da região ainda coletam dados de resistência sem um sistema nacional padronizado, enquanto apenas 40% relatam implementação financiada e avaliada de seus planos nacionais. [3]
 
-O consumo de antibióticos melhora na União Europeia e no Espaço Econômico Europeu, mas continua fora da meta. O relatório ESAC-Net de 2025 registra consumo médio ponderado de 18,9 doses diárias definidas por mil habitantes por dia, 5% abaixo da linha de base de 2019. A meta para 2030 é 15,9, exigindo redução adicional de 3,0. A participação de antibióticos do grupo Access da classificação AWaRe da OMS chegou a 62,5%, ante 61,1% em 2019, mas permanece 2,5 pontos percentuais abaixo da meta de 65%. Isso demonstra progresso no padrão de consumo, não prova que a resistência esteja caindo na mesma proporção. [4]
+Os indicadores de consumo em nível da União Europeia melhoraram em 2025, mas continuam fora da meta. O relatório ESAC-Net de 2025 registra média ponderada pela população da UE de 18,9 doses diárias definidas por mil habitantes por dia, 5% abaixo da linha de base de 2019. A meta da UE para 2030 é 15,9, exigindo redução adicional de 3,0. A participação dos antibióticos do grupo Access da classificação AWaRe da OMS no consumo ponderado pela população da UE chegou a 62,5%, ante 61,1% em 2019, mas permanece 2,5 pontos percentuais abaixo da meta de 65%. Separadamente, o ESAC-Net registra consumo comunitário médio ponderado pela população de 17,3 doses diárias definidas por mil habitantes por dia na UE/EEE; trata-se de outro indicador e não deve ser comparado diretamente com a meta da UE. Isso demonstra progresso no padrão de consumo, não prova que a resistência esteja caindo na mesma proporção. [4]
 
 ## 5. Os conjuntos de dados não devem ser tratados como uma única cadeia causal
 
@@ -145,14 +145,14 @@ O relatório da WOAH destaca boas práticas de manejo, bem-estar animal, biosseg
 As estimativas do ANIMUSE de 2024 ajustadas pela biomassa variam entre regiões da WOAH: aproximadamente 143 mg/kg na Ásia e no Pacífico, 70 nas Américas, 38 na Europa, 34 na África e 11 no Oriente Médio. O tamanho das amostras e a cobertura regional diferem. As Américas tinham cobertura estimada de 97% da biomassa regional e a Europa, de 73%, enquanto a cobertura era menor em outras regiões; a análise do Oriente Médio tinha apenas quatro participantes. Os valores não constituem um ranking simples de qualidade da gestão ou de risco à saúde humana. Composição das espécies, sistemas produtivos, cobertura do reporte e estimativas de biomassa influenciam o resultado. [2]
 
 ```map
-| Região | Estimativa ANIMUSE 2024 | Qualificação |
-|---|---:|---|
-| Ásia e Pacífico | 143 mg/kg | Maior estimativa regional; composição produtiva e cobertura afetam a comparação |
-| Américas | 70 mg/kg | Cobertura estimada de 97% da biomassa regional |
-| Europa | 38 mg/kg | Cobertura estimada de 73% da biomassa regional |
-| África | 34 mg/kg | Menor cobertura limita a comparação direta |
-| Oriente Médio | 11 mg/kg | Apenas quatro participantes na análise quantitativa de 2024 |
-| Região Europeia da OMS | Maior resistência humana em partes do sul e leste | Resistência em isolados clínicos, não dados de uso animal |
+title: Comparação regional do uso de antimicrobianos em animais e da resistência humana
+Ásia e Pacífico | 143 mg/kg (ajustado pela cobertura) | Maior estimativa regional; composição produtiva e cobertura afetam a comparação
+Américas | 70 mg/kg (ajustado pela cobertura) | Cobertura estimada de 97% da biomassa regional
+Europa (região da WOAH) | 38 mg/kg (ajustado pela cobertura) | Cobertura estimada de 73% da biomassa regional
+África | 34 mg/kg (ajustado pela cobertura) | Menor cobertura limita a comparação direta
+Oriente Médio | 11 mg/kg (ajustado pela cobertura) | Apenas quatro participantes na análise quantitativa de 2024
+Região Europeia da OMS | Maior resistência humana em partes do sul e leste | Resistência em isolados clínicos, não dados de uso animal
+```
 
 O mapa combina dois sistemas de vigilância distintos apenas para orientação. Ele não implica que as estimativas regionais de uso animal expliquem o gradiente de resistência humana. Uma análise válida entre setores exigiria bases nacionais vinculadas e períodos compatíveis.
 

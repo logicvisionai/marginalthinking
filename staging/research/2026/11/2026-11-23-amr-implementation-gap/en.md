@@ -64,7 +64,7 @@ The difference affects policy. If a country records imports and sales but not us
 
 ## 3. The trend is not yet a stable global decline
 
-ANIMUSE reports a 3% decline in the biomass-adjusted indicator between 2019 and 2024 among 80 participants that supplied consistent data over the full period. In that cohort, the global indicator fell from 108 to 105 mg/kg. A separate analysis in the ANIMUSE report itself found a 9% increase between 2018 and 2024 among a different group of 74 participants. The periods and participant sets differ; the figures should not be combined into one continuous series. [2]
+ANIMUSE reports a 3% decline in the biomass-adjusted indicator between 2019 and 2024 among 80 participants that supplied consistent data over the full period. In that cohort, the global indicator fell from 108 to 105 mg/kg. The report's foreword points to a separate analysis available through the ANIMUSE Interactive Report, not reproduced in this PDF, that shows a 9% increase between 2018 and 2024 among a different group of 74 participants. The executive summary and conclusions also cite that result. The periods and participant sets differ; the figures should not be combined into one continuous series. [2]
 
 The contrast is not evidence that one result is false. It shows how participant composition, reporting coverage and time windows affect global aggregates. A smaller group with consistent reporting can reveal a trend within that group, while a broader or differently composed sample can produce another direction. Without stable national reporting and transparent methods, a global average may change because the sample changed rather than because use changed.
 
@@ -106,7 +106,7 @@ Acinetobacter spp., carbapenems (21/38) | 55
 
 The report identifies a broad north-to-south and west-to-east gradient for several Gram-negative pathogens, with higher resistance percentages more frequently reported in southern and eastern parts of the region. That pattern should not be converted into a country ranking without accounting for laboratory coverage, isolate representativeness and local surveillance protocols. The ECDC report also notes that 31% of countries in the wider region still collect AMR data without a standardized national system, while only 40% report funded and evaluated implementation of their national action plan. [3]
 
-Antibiotic consumption is improving in the EU/EEA, but remains off target. The 2025 ESAC-Net report records population-weighted consumption of 18.9 defined daily doses per 1,000 inhabitants per day, 5% below the 2019 baseline. The 2030 target is 15.9, requiring a further reduction of 3.0. The share of WHO AWaRe Access antibiotics reached 62.5%, up from 61.1% in 2019 but still 2.5 percentage points below the 65% target. This is evidence of progress in consumption patterns, not proof that resistance is falling at the same rate. [4]
+The EU-level consumption indicators improved in 2025, but remain off target. The 2025 ESAC-Net report records an EU population-weighted mean consumption of 18.9 defined daily doses per 1,000 inhabitants per day, 5% below the 2019 baseline. The EU 2030 target is 15.9, requiring a further reduction of 3.0. The EU population-weighted share of WHO AWaRe Access antibiotics reached 62.5%, up from 61.1% in 2019 but still 2.5 percentage points below the 65% target. Separately, ESAC-Net reports EU/EEA population-weighted community consumption of 17.3 defined daily doses per 1,000 inhabitants per day; this is a different indicator and should not be compared directly with the EU-level target. This is evidence of progress in consumption patterns, not proof that resistance is falling at the same rate. [4]
 
 ## 5. The data streams must not be treated as one causal chain
 
@@ -145,14 +145,14 @@ WOAH’s report emphasizes good husbandry, animal welfare, biosecurity and vacci
 The ANIMUSE 2024 biomass-adjusted estimates vary by WOAH region: approximately 143 mg/kg in Asia and the Pacific, 70 in the Americas, 38 in Europe, 34 in Africa and 11 in the Middle East. The regional sample sizes and coverage differ. The Americas had 97% estimated biomass coverage and Europe 73%, while coverage was lower in other regions; the Middle East analysis was based on only four participants. The values are not a simple ranking of stewardship quality or human-health risk. Species mix, production systems, reporting coverage and animal biomass estimates influence the result. [2]
 
 ```map
-| Region | ANIMUSE 2024 estimate | Qualification |
-|---|---:|---|
-| Asia and the Pacific | 143 mg/kg | Largest regional estimate; production mix and coverage affect comparison |
-| Americas | 70 mg/kg | 97% estimated regional biomass coverage |
-| Europe | 38 mg/kg | 73% estimated regional biomass coverage |
-| Africa | 34 mg/kg | Lower coverage limits direct comparison |
-| Middle East | 11 mg/kg | Only four participants in the 2024 quantitative analysis |
-| WHO European Region | Higher human resistance in parts of the south and east | Clinical-isolate resistance, not animal-use data |
+title: Regional comparison of animal antimicrobial use and human resistance
+Asia and the Pacific | 143 mg/kg (coverage-adjusted) | Highest regional estimate; production mix and coverage affect comparison
+Americas | 70 mg/kg (coverage-adjusted) | 97% estimated regional biomass coverage
+Europe (WOAH region) | 38 mg/kg (coverage-adjusted) | 73% estimated regional biomass coverage
+Africa | 34 mg/kg (coverage-adjusted) | Lower coverage limits direct comparison
+Middle East | 11 mg/kg (coverage-adjusted) | Only four participants in the 2024 quantitative analysis
+WHO European Region | Higher human resistance in parts of the south and east | Clinical-isolate resistance, not animal-use data
+```
 
 The map combines two separate surveillance systems for orientation only. It does not imply that the regional animal-use estimates explain the human resistance gradient. A valid cross-sector analysis would need matched national datasets and compatible time periods.
 
