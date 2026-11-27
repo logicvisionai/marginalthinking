@@ -258,3 +258,6 @@ Both internal layers remain orientation rather than evidence.
 This layer remains internal only. `research-context/` is not copied by `scripts/cloudflare-build.sh` and should not receive public routes, navigation items or search indexing.
 
 Public historical timelines, relationship maps or context panels may be considered later only if enough high-quality context emerges organically to justify deterministic build-time derivation.
+
+## Sharpex situational discovery
+The optional read-only discovery interface in FEDERATED-RESEARCH.md is not research context storage or primary evidence. Use relevant published signals to identify questions and source leads; do not bulk-copy events into context briefings. Maintain existing source re-verification, independent analysis and contextual cutoff.

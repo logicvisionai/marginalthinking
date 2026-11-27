@@ -97,3 +97,6 @@ freshness** workflow and are **not** a deployment dependency. Only QA-approved
 and public bundles can enter the live build. Overdue unrelated editorial-series
 SLAs continue to surface separately without suppressing an approved report.
 This does not weaken public-research checks or allow unapproved content online.
+
+## Federated research exchange
+Static manifest `/research-exchange/v1/index.json` and monthly shards expose approved canonical public research for read-only discovery by Sharpex and other agents. See FEDERATED-RESEARCH.md. No partner requests during build, shared publishing pipeline or automatic import of external evidence.

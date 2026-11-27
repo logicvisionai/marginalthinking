@@ -334,3 +334,6 @@ A successful build, a valid metadata record, a visually compliant article, or a 
 
 `npm run validate:editorial-depth` provides a deterministic minimum gate for revised 12 October items and later material. Its source and word thresholds detect some superficial outputs, but the scientific acceptance decision remains evidence-led. These rules do not retroactively alter previously approved immutable revisions without a new QA/publication cycle.
 
+
+## Federated discovery (non-blocking)
+Read FEDERATED-RESEARCH.md. Relevant published Sharpex news and Nexus analyses are read-only orientation and original-source leads. Never treat the partner as an independent corroborator of the same evidence. Existing QA, publication, exact SHAs, temporal separation, bilingual standards and taxonomy remain unchanged. No partner availability dependency or new approval fields.

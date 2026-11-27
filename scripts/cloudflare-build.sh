@@ -64,6 +64,8 @@ node scripts/render-research-intelligence.mjs
 # Build the machine-readable public catalog used by the stateless MCP endpoint.
 # It contains only metadata and URLs already present in the public research corpus.
 node scripts/render-mcp-catalog.mjs
+# Federated discovery export uses only this repository's approved public bundles.
+node scripts/render-research-exchange.mjs
 # Controlled product series remain subordinate to permanent programs and receive
 # their own collection pages without expanding the global navigation.
 node scripts/render-series-pages.mjs
