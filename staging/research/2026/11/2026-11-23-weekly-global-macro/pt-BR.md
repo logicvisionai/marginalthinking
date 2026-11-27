@@ -1,18 +1,105 @@
 # Weekly Global Macro — 23 de novembro de 2026
 
-## Os limites do alívio monetário: divergência industrial, custos de energia e reprecificação do capital
+## A energia retorna ao mercado, mas financiar a próxima onda de investimentos torna-se mais difícil
 
-*Período analisado: 16 a 22 de novembro de 2026. Corte informacional: 22 de novembro de 2026, às 23h59 de Brasília. Edição retrospectiva, sem incorporar observações divulgadas após o corte. Os dados de mercado respeitam o horário de observação das respectivas fontes e não representam necessariamente o fechamento semanal.*
+*Semana analisada: 16 a 22 de novembro de 2026. Corte informacional: 22 de novembro, às 23h59 de Brasília. Avaliação retrospectiva. Evidências e anúncios anteriores ao corte; cenários de longo prazo não são resultados observados.*
 
 ## Síntese executiva
 
-As informações da semana apontam para uma tensão entre a desaceleração de segmentos da economia real e a persistência da inflação, que restringe a política monetária. Essa tensão tem consequências mais amplas do que uma queda isolada das bolsas. Nos Estados Unidos, a divulgação da produção industrial mostrou contração mensal, apesar do avanço da indústria de transformação. Na China, a atividade industrial continuou crescendo em relação ao ano anterior, mas as compras das famílias e o investimento agregado apresentaram resultados muito mais fracos. Na Europa, a inflação acelerou em um contexto de energia cara. Essa combinação dificulta uma resposta das autoridades monetárias à perda de força da demanda por meio de uma redução simples dos custos de financiamento.
+O acontecimento de maior consequência da semana não foi a queda isolada das bolsas. O World Energy Outlook da Agência Internacional de Energia, divulgado em 19 de novembro, apresentou respostas estruturais à crise energética justamente quando os mercados financeiros reavaliavam o retorno dos investimentos intensivos em capital no setor tecnológico. Os dois movimentos estão relacionados: segurança energética exige investimentos iniciais em redes, geração, rotas alternativas de fornecimento, eficiência e processamento, enquanto o financiamento de grandes projetos tecnológicos está cada vez mais exposto ao mesmo custo de capital e à reavaliação das receitas futuras. A Revisão de Estabilidade Financeira do Banco Central Europeu, de 18 de novembro, identifica conexões crescentes entre dívida soberana, financiamento empresarial e investidores não bancários alavancados. [6, 10, 11]
 
-Em 20 de novembro, a Reuters descreveu pressão vendedora sobre ações e metais industriais, acompanhada de um dólar forte e maior procura por proteção contra a volatilidade dos mercados. Esses movimentos são compatíveis com uma reavaliação dos preços atribuídos a lucros futuros e dos custos de financiamento de novos projetos. Não demonstram, por si sós, colapso do consumo agregado ou crise bancária. A avaliação de estabilidade financeira do Banco Central Europeu fornece uma referência para identificar quando as perdas de valor dos ativos podem se transformar em um problema macroeconômico: as garantias financeiras e as decisões de investimento podem ser afetadas antes que surjam dificuldades de crédito e de pagamento de dívidas. [6, 8]
+É essencial distinguir oferta física de disponibilidade efetiva. A versão de novembro do relatório de petróleo da AIE mostrou recuperação da oferta de outubro e aumento de 52 milhões de barris nos estoques observados. No entanto, os estoques em trânsito marítimo aumentaram 86 milhões de barris, enquanto os estoques em terra continuaram caindo. O petróleo pode ser contabilizado em estoque sem estar imediatamente disponível para uma refinaria ou consumidor. A recuperação do agregado constitui, portanto, um sinal limitado de melhora da oferta, não prova de que a crise energética terminou. [7]
 
-A avaliação central é condicional. O crescimento global pode permanecer positivo ao mesmo tempo que se torna menos atraente financiar um projeto adicional. Para uma empresa que considera ampliar sua capacidade produtiva, a piora das perspectivas de vendas e o aumento da rentabilidade mínima exigida reforçam-se mutuamente. Para uma família, o encarecimento do combustível e a renovação de um empréstimo podem reduzir o consumo mesmo sem perda de emprego. Para um governo, o efeito depende do custo e da composição dos vencimentos de sua dívida, da exposição à energia importada e da distribuição dos custos por impostos ou subsídios. São mecanismos distintos de ajuste, não sintomas intercambiáveis de recessão.
+Os mercados de capitais ofereceram um segundo teste independente. No fechamento de sexta-feira relatado pela Reuters, as ações taiwanesas acumularam perda semanal de aproximadamente 17%, e as ações de fabricantes americanos de chips, de 17,1%, enquanto os rendimentos dos títulos do Tesouro dos EUA caíram na sexta-feira, mesmo com expectativa de alta do Fed em dezembro. A separação entre títulos soberanos e ações de risco é compatível com uma reavaliação dos retornos esperados e prêmios de risco, e não apenas com aumento uniforme de todas as taxas de desconto. Não demonstra congelamento do crédito. [12]
 
-## 1. Estados Unidos: a composição da produção importa tanto quanto sua direção
+A questão central é se os investimentos necessários para reduzir vulnerabilidades físicas podem avançar sob condições financeiras mais exigentes. A resposta varia entre economias, empresas e tecnologias. Alguns projetos reduzem a exposição à energia importada; outros dependem de equipamentos importados, materiais refinados escassos, conexão elétrica ou dívida em moeda estrangeira. A semana trouxe evidências das restrições, não uma contração global mensurada dos investimentos. O encadeamento adverso é condicional: o investimento torna-se mais difícil de financiar, a resiliência física avança mais lentamente e novos choques de oferta mantêm inflação e crédito elevados. A recuperação mais rápida da disponibilidade efetiva de energia, das condições de crédito e da geração operacional de caixa enfraqueceria a hipótese.
+
+## 1. Recuperação física e energia disponível: as evidências por trás do aparente excedente de petróleo
+
+A AIE estima a produção mundial de petróleo de outubro em 105,4 milhões de barris por dia, aumento de 2,3 milhões em relação a setembro, após o avanço de 3 milhões naquele mês. Entretanto, o processamento global das refinarias caiu 1,3 milhão de barris por dia em outubro, para 81,3 milhões. Os estoques observados totais aumentaram enquanto as reservas disponíveis em terra diminuíram. O balanço internacional pode indicar recuperação ao mesmo tempo que economias importadoras, refinarias e consumidores enfrentam dificuldades para obter determinados combustíveis. [7]
+
+```chart
+type: bar
+title: Variação dos estoques de petróleo em outubro de 2026 — total global e componentes selecionados
+unit: milhões de barris; total e componentes sobrepostos
+Estoques globais observados | 52
+Petróleo em trânsito marítimo | 86
+Estoques totais da OCDE | -47
+```
+
+As barras não são aditivas: o total global e os componentes selecionados possuem cobertura sobreposta. O aumento de 86 milhões de barris em trânsito marítimo supera o aumento de 52 milhões no total global observado. Isso contraria a interpretação do agregado como aumento equivalente dos estoques de combustíveis imediatamente acessíveis. Os estoques da OCDE constituem um subconjunto regional, não uma medida de todos os estoques em terra. [7]
+
+| Indicador | Observação de outubro | Interpretação |
+|---|---:|---|
+| Oferta global de petróleo | 105,4 milhões b/d | Fluxo estimado de produção |
+| Processamento global das refinarias | 81,3 milhões b/d | Fluxo com cobertura diferente da oferta |
+| Exportações de petróleo bruto do Golfo | 15 milhões b/d | Cerca de 82% do nível anterior à guerra |
+| Exportações de derivados e GLP do Golfo | Aproximadamente metade do nível anterior à guerra | Interrupção específica de produtos |
+| Variação total dos estoques da OCDE | -47 milhões de barris | Variação regional de estoques |
+
+Os valores de exportações de petróleo bruto e derivados não são volumes absolutos comparáveis: um é fluxo de petróleo bruto, o outro é medida relativa de derivados e GLP. A diferença explica por que a queda do preço do petróleo bruto pode coexistir com escassez ou entregas caras de combustíveis específicos. A unidade relevante de risco passa a ser o produto utilizável entregue no local e momento necessários, não apenas o barril produzido. [7]
+
+Uma refinaria necessita de petróleo compatível, equipamentos operacionais, logística e capital de giro. Se o transporte demorar mais, um comprador pode precisar de financiamento adicional para o mesmo volume processado, pois o dinheiro permanece imobilizado por mais tempo antes da entrega e venda. A empresa pode enfrentar esse custo adicional mesmo quando cai a cotação de referência do petróleo. Uma recuperação suficientemente ampla e persistente das exportações de derivados, dos estoques em terra e da confiabilidade das entregas refutaria a ideia de que a restrição migrou da oferta agregada de petróleo para a disponibilidade e o processamento.
+
+## 2. Da substituição emergencial à alocação de capital de longo prazo
+
+O World Energy Outlook amplia o horizonte da análise de estoques. A AIE estima perdas acumuladas na oferta do Golfo durante a crise de 2026 em 2,8 bilhões de barris de petróleo e 60 bilhões de metros cúbicos de gás; sua avaliação de novembro destaca a exposição dos importadores de combustíveis asiáticos e africanos. Antes da crise, cerca de 80% do petróleo e quase 90% do GNL transportados por Hormuz destinavam-se à Ásia. Os percentuais descrevem combustíveis diferentes e não podem ser somados. [10]
+
+A AIE modela trajetórias muito diferentes para as importações futuras de petróleo e gás conforme a resposta das políticas públicas. No Additional Response Case (ARC), regiões importadoras reduzem essas importações em aproximadamente 15% até 2035, enquanto elas ficam relativamente estáveis no Stated Policies Scenario (STEPS). São resultados condicionais de modelos, não previsões. A demanda elétrica de pico cresce de 40% a 50% entre os cenários, e o STEPS aponta possível déficit de oferta de cobre de 25% em 2035 em relação à demanda projetada e à oferta existente ou planejada. [11]
+
+| Indicador estrutural | Avaliação da AIE | Natureza |
+|---|---|---|
+| Importações de petróleo e gás nas regiões importadoras, 2035 | Cerca de -15% no ARC; relativamente estáveis no STEPS | Cenários condicionais |
+| Demanda elétrica de pico, até 2035 | +40–50% entre cenários | Intervalo modelado |
+| Déficit de oferta de cobre, 2035 | 25% no STEPS | Projeção condicional |
+| População sem acesso à eletricidade | Aproximadamente 720 milhões | Estimativa corrente da AIE |
+
+A importância não reside em todas as economias importadoras eletrificarem-se no mesmo ritmo. A substituição altera a composição das dependências. Migrar de combustíveis fósseis importados para a eletricidade desloca gastos para geração, distribuição, armazenamento e equipamentos. Pode reduzir a exposição aos combustíveis comercializados internacionalmente, mas criar vulnerabilidades associadas a atrasos nas redes, máquinas importadas e concentração do processamento mineral. [10, 11]
+
+Isso altera a distribuição dos ganhos econômicos. Um país com recursos renováveis domésticos, mas crédito caro, pode possuir uma vantagem física que não consegue converter rapidamente em eletricidade barata. Um fornecedor de equipamentos pode ganhar volume com mais instalações sem aumento proporcional de margens se a competição reduzir preços. Produtores de minerais podem se beneficiar da demanda apenas se os projetos superarem restrições de licenciamento, energia, transporte e financiamento. O cenário de cobre da AIE não demonstra a viabilidade financeira de uma mina específica.
+
+A escolha é particularmente importante nas economias importadoras de menor renda, onde os gastos com acesso básico à eletricidade competem com o financiamento necessário para tornar mais resiliente a oferta existente. Uma política pode reduzir a exposição a um choque externo e aumentar a dependência de outra cadeia produtiva. A comparação adequada envolve custo do sistema ao longo de sua vida útil, confiabilidade e capacidade de financiamento, não uma classificação universal de tecnologias.
+
+## 3. A reprecificação da IA: onde as perdas podem passar dos mercados ao investimento produtivo
+
+O fechamento de sexta-feira oferece um teste mais completo do que observações isoladas feitas durante a sessão. A Reuters registrou queda de 3,70% do S&P 500 e de 5,28% do Nasdaq na sexta-feira, enquanto a taxa do título americano de dois anos caiu 13,21 pontos-base, para 4,647%, e a de dez anos caiu 10,43 pontos-base, para 4,948%. Essas variações diárias são distintas das perdas semanais das ações de tecnologia. [12]
+
+```chart
+type: bar
+title: Índices de ações americanos selecionados, sessão de 20 de novembro de 2026
+unit: variação diária %
+Dow Jones Industrial Average | -1.93
+S&P 500 | -3.70
+Nasdaq Composite | -5.28
+```
+
+A concentração das perdas em tecnologia não comprova queda equivalente da demanda tecnológica. Ativos financeiros incorporam expectativas sobre a distribuição de rendimentos futuros, enquanto pedidos de semicondutores, contratos de locação de data centers, contratos de energia e utilização efetiva medem atividade em horizontes diferentes. [12]
+
+A revisão do BCE documenta os canais que tornam essa distinção importante: concentração de ativos ligados à IA, utilização crescente de financiamento externo, alavancagem dos fundos e exposições entre mercados. Também registra uma taxa agregada de créditos inadimplentes de 2,2% na zona do euro, evidência contrária à afirmação de que os bancos já enfrentavam deterioração generalizada. [6] Essas observações apontam para possível amplificação, não para uma crise sistêmica realizada.
+
+Um projeto com receita contratada e financiamento comprometido comporta-se de maneira diferente de outro dependente de utilização futura otimista e emissões recorrentes. O segundo pode ser adiado se os investidores revisarem os fluxos de caixa esperados ou a rentabilidade exigida. Os gastos irrecuperáveis já realizados não são necessariamente revertidos: a construção pode prosseguir porque interrompê-la custa mais do que concluí-la. Os novos compromissos podem diminuir primeiro, seguidos posteriormente pelos pedidos de equipamentos, emprego e demanda elétrica. Uma desaceleração persistente deve ser testada com pedidos futuros, investimento contratado, condições das emissões de dívida e geração de caixa, não apenas com a queda de um índice de ações.
+
+Outro canal financeiro passa pelos investidores alavancados. A queda do preço das garantias pode provocar chamadas de margem, resgates e liquidação de ativos que não constituíam a origem do choque. Os títulos soberanos podem inicialmente funcionar como proteção, mas ser vendidos por necessidade de caixa. A queda dos rendimentos dos títulos americanos na semana mostra que as observações de sexta-feira não estabelecem uma liquidação generalizada desse tipo. [6, 12]
+
+```flow
+Menores fluxos de caixa esperados ou prêmios de risco maiores → ativos menos valorizados e possível encarecimento do financiamento externo → possível adiamento de projetos novos → menor demanda futura de equipamentos e energia
+Restrições à entrega de energia → custos operacionais maiores e possível persistência inflacionária → menor espaço para reduzir juros → maior pressão financeira sobre novos projetos intensivos em capital
+```
+
+Essas cadeias condicionais podem reforçar-se mutuamente, mas também podem ser interrompidas. A menor demanda de computação intensiva em energia poderia liberar capacidade de rede para usos industriais ou residenciais. A redução dos pedidos de equipamentos poderia diminuir seus preços e tornar outros investimentos mais acessíveis. Em sentido contrário, atrasos na infraestrutura podem prolongar a escassez de energia se as demais fontes de demanda continuarem aumentando. O efeito líquido depende de evidências sobre capacidade local da rede, usos concorrentes e compromissos contratuais.
+
+O principal risco financeiro, portanto, não é um colapso universal da tecnologia. É a incompatibilidade entre investimentos de longa duração, renda futura incerta e a capacidade dos credores e investidores de financiar projetos durante períodos de volatilidade. Se as novas emissões permanecerem ordenadas, os fluxos de caixa operacionais melhorarem e os projetos de infraestrutura prosseguirem, a hipótese de retroalimentação adversa perderá força.
+
+### Distinção entre valor financeiro e fluxos de capital
+
+Uma taxa de desconto maior reduz o valor presente de determinado fluxo de renda futura. O efeito pode ser especialmente elevado para empresas cuja geração esperada de caixa está concentrada em períodos distantes. Uma revisão negativa dos lucros esperados acrescenta outra fonte de pressão. Nenhum dos mecanismos exige que os investidores duvidem da utilidade tecnológica da inteligência artificial. A questão econômica é se as receitas e margens esperadas são suficientes para sustentar o preço dos direitos sobre a renda futura e os investimentos físicos necessários para realizá-la.
+
+Uma queda da capitalização de mercado é uma alteração de valor dos ativos. Não mede dinheiro retirado do mercado de ações nem a transferência de um montante equivalente em caixa para outro país. As alocações efetivas precisam ser medidas por aplicações, resgates, transações de carteira ou dados comparáveis de balanço de pagamentos. Da mesma forma, a valorização do dólar não estabelece o volume de saídas de capital dos mercados emergentes. Essas distinções evitam interpretar movimentos de mercado como evidência de redistribuição de propriedade.
+
+A amplificação é possível se a queda do valor das garantias provocar aumento das exigências de margem, vendas de ativos e redução da disponibilidade de crédito. Trata-se de um mecanismo condicional. Ele requer evidências de alavancagem, pressão de margem ou liquidação forçada; a observação de volatilidade não demonstra que esses efeitos ocorreram. Devedores com reservas de caixa elevadas e passivos de longo prazo podem permanecer relativamente protegidos, enquanto aqueles dependentes de refinanciamento frequente no mercado são mais vulneráveis. A distribuição dos vencimentos importa mais do que uma classificação genérica de aversão ao risco.
+
+
+## 4. Atividade real: utilização de capacidade, demanda das famílias e composição do investimento
 
 A divulgação do Federal Reserve de 17 de novembro, anterior à revisão anual programada, registrou queda mensal de 0,4% da produção industrial total em outubro, após alta de 0,7% em setembro. A indústria de transformação cresceu 0,3%, a mineração recuou 0,8% e os serviços de eletricidade e gás caíram 4,3%. A produção manufatureira sem veículos e peças recuou 0,1%. A produção industrial total permaneceu 2,1% acima do nível de um ano antes. [2]
 
@@ -38,9 +125,12 @@ As variações mensal e anual possuem denominadores distintos e não devem ser c
 
 A ata da reunião de outubro do FOMC foi divulgada em 18 de novembro. Ela fornece evidências sobre as deliberações da reunião anterior, e não uma decisão nova tomada durante a semana analisada. [1] Os participantes dos mercados podem ajustar suas expectativas depois de ler o documento, mas uma alteração nos juros esperados não equivale a uma decisão de política monetária. Os investidores enfrentam, portanto, duas questões diferentes: se a demanda corrente justificaria uma política mais ou menos restritiva e se a perspectiva de inflação permite essa resposta.
 
-Se a fraqueza industrial atingir o emprego e o consumo das famílias, os argumentos em favor de um alívio futuro tornam-se mais fortes. Se as pressões de preços persistirem, as autoridades podem exigir evidências adicionais de capacidade ociosa. A incerteza resultante pode desestimular compromissos empresariais de grande porte até que as condições de demanda e financiamento se tornem mais claras. As próximas divulgações americanas de contas nacionais e preços do consumo estavam programadas para 25 de novembro. Seus resultados não eram conhecidos na data de corte. [11]
+Se a fraqueza industrial atingir o emprego e o consumo das famílias, os argumentos em favor de um alívio futuro tornam-se mais fortes. Se as pressões de preços persistirem, as autoridades podem exigir evidências adicionais de capacidade ociosa. A incerteza resultante pode desestimular compromissos empresariais de grande porte até que as condições de demanda e financiamento se tornem mais claras. As próximas divulgações americanas de contas nacionais e preços do consumo estavam programadas para 25 de novembro. Seus resultados não eram conhecidos na data de corte. [9]
 
-## 2. China e Ásia: capacidade produtiva não equivale a demanda interna
+O Federal Reserve também informou utilização da capacidade de 76,4%, três pontos percentuais abaixo da média de longo prazo, e alta mensal de 1,0% da produção de equipamentos empresariais ao lado de queda de 0,7% na produção de bens de consumo. Isso favorece uma interpretação de demanda seletiva, não de escassez geral de capacidade. Um ciclo de investimentos em categoria restrita pode coexistir com capacidade ociosa em outras; a capacidade necessária para uma conexão elétrica, processo de fabricação de chips ou refinaria específica não pode ser deduzida da utilização nacional. [2]
+
+
+### Demanda industrial e a mudança da composição do investimento chinês
 
 Os dados chineses de outubro, divulgados em 16 de novembro, mostraram crescimento anual de 4,8% do valor adicionado industrial e de 5,4% na indústria de transformação. As vendas varejistas de bens de consumo cresceram apenas 0,4%. Nos dez primeiros meses de 2026, o investimento total em ativos fixos excluindo famílias rurais caiu 8,1% em relação ao mesmo período de 2025; o investimento em infraestrutura diminuiu 5,1%, o manufatureiro 2,9% e o desenvolvimento imobiliário 21,6%. Em contraste, o investimento em setores de alta tecnologia cresceu 4,0%. [5]
 
@@ -67,9 +157,10 @@ O ajuste é particularmente importante no setor imobiliário, porque a construç
 
 As consequências para os parceiros comerciais da China dependem daquilo que exportam. Um fornecedor de equipamentos industriais pode estar exposto a mudanças na composição do investimento, enquanto um produtor de insumos básicos para construção pode ser mais sensível ao ajuste imobiliário. Um exportador de bens de consumo depende mais do gasto doméstico. Reduzir o efeito internacional da atividade chinesa a uma única elasticidade das importações, portanto, pode levar a uma interpretação equivocada.
 
-O Gabinete do Governo do Japão publicou em 16 de novembro sua primeira estimativa preliminar das contas nacionais do terceiro trimestre. [10] Essa divulgação pertence a período de observação e estrutura de medição diferentes dos indicadores mensais chineses. Para o Japão, os canais relevantes incluem custos de energia importada, poder de compra real das famílias e demanda externa por manufaturados. Não se constrói uma classificação numérica de crescimento do PIB entre países com base em séries incompatíveis. Contas nacionais comparáveis, volumes exportados e consumo das famílias são necessários para avaliar se a demanda asiática está se tornando mais abrangente.
+O investimento fixo chinês excluindo o setor imobiliário ainda caiu 5,1% de janeiro a outubro, enquanto o investimento privado caiu 11,4%, incluindo recuo de 7,8% quando se exclui o setor imobiliário. A fraqueza, portanto, ultrapassa a construção. O valor nominal das exportações de bens, contudo, aumentou 28,7% em relação ao ano anterior em outubro. O valor nominal do comércio pode variar por volumes, composição de produtos e preços; não mede volume real. A combinação levanta uma questão testável sobre o grau em que a demanda externa e os investimentos industriais selecionados compensam a menor formação doméstica de capital. Os preços ao produtor aumentaram 5,7% em termos anuais, enquanto os preços ao consumidor aumentaram apenas 0,7%; são índices de etapas e cestas diferentes, não uma compressão observada das margens de todas as empresas. [5]
 
-## 3. Europa e Reino Unido: inflação limita a resposta à perda de atividade
+
+## 5. Composição da inflação e restrições monetárias
 
 A divulgação da Eurostat de 18 de novembro registrou inflação anual ao consumidor na zona do euro de 4,0% em outubro, ante 3,8% em setembro. As taxas anuais dos componentes em outubro foram de 21,0% para energia, 3,3% para serviços, 1,5% para alimentos, álcool e tabaco, e 1,2% para bens industriais não energéticos. O instituto britânico ONS informou inflação anual pelo CPI de 3,6%, ante 3,5% em setembro. [3, 4]
 
@@ -94,50 +185,39 @@ A comparação utiliza os índices gerais de preços ao consumidor, não cestas 
 
 A revisão de estabilidade financeira do BCE de novembro examinou vulnerabilidades ligadas à precificação de empresas de tecnologia, à dívida pública e às tensões geopolíticas. O documento discutiu a defasagem entre a pressão sobre empresas e a deterioração da carteira e das operações de crédito dos bancos. [6] Essa diferença ajuda a conciliar duas observações: os balanços bancários atuais podem ainda não apresentar deterioração grave, ao mesmo tempo que os investidores têm razões para se preocupar com o desempenho futuro das dívidas. As evidências pertinentes seriam alterações na inadimplência, no provisionamento, nos critérios de concessão de crédito e nos custos de refinanciamento, e não uma afirmação genérica de que o sistema bancário já enfrenta uma crise.
 
-## 4. Mercados financeiros: reprecificação não equivale a fuga de capitais
+Os dados de contribuição da Eurostat tornam a distinção mais precisa: energia respondeu por 1,89 ponto percentual da inflação da zona do euro em outubro, serviços por 1,55, alimentos, álcool e tabaco por 0,29 e bens industriais não energéticos por 0,30, sujeitos a arredondamento. A energia representou, assim, quase metade da taxa anual publicada de 4,0%, mas os serviços permaneceram um componente independente expressivo. Em setembro, a contribuição da energia foi de 1,72 ponto percentual. Trata-se de decomposição da inflação medida, não de estimativa causal do efeito do petróleo sobre a política monetária. As evidências sustentam o acompanhamento tanto dos custos da energia entregue quanto da persistência dos preços de serviços, sem presumir que o petróleo bruto mais barato resolva automaticamente a inflação. [3]
 
-A reportagem da Reuters de sexta-feira descreveu pressão vendedora que ultrapassou as ações de tecnologia, um índice de volatilidade que atingiu 30 durante a sessão e um índice do dólar no nível mais elevado em dezenove meses. Também indicou pressão sobre o cobre. [8] São observações contemporâneas, não um conjunto sincronizado e completo dos preços de fechamento de sexta-feira. Não se calcula a partir delas um retorno semanal preciso de carteira.
 
-Uma taxa de desconto maior reduz o valor presente de determinado fluxo de renda futura. O efeito pode ser especialmente elevado para empresas cuja geração esperada de caixa está concentrada em períodos distantes. Uma revisão negativa dos lucros esperados acrescenta outra fonte de pressão. Nenhum dos mecanismos exige que os investidores duvidem da utilidade tecnológica da inteligência artificial. A questão econômica é se as receitas e margens esperadas são suficientes para sustentar o preço dos direitos sobre a renda futura e os investimentos físicos necessários para realizá-la.
+## 6. Restrições cambiais e respostas institucionais: por que o ajuste difere entre importadores
 
-Uma queda da capitalização de mercado é uma alteração de valor dos ativos. Não mede dinheiro retirado do mercado de ações nem a transferência de um montante equivalente em caixa para outro país. As alocações efetivas precisam ser medidas por aplicações, resgates, transações de carteira ou dados comparáveis de balanço de pagamentos. Da mesma forma, a valorização do dólar não estabelece o volume de saídas de capital dos mercados emergentes. Essas distinções evitam interpretar movimentos de mercado como evidência de redistribuição de propriedade.
+O banco central da Indonésia elevou sua taxa básica em 25 pontos-base, para 6,00%, em 18 de novembro, embora a inflação de outubro tivesse recuado de 3,28% para 3,23% e permanecesse dentro da faixa da meta. O comunicado relacionou a decisão à estabilidade cambial e à inflação futura, mantendo medidas macroprudenciais de estímulo ao crédito. A rupia estava em 18.245 por dólar em 17 de novembro, 0,66% mais fraca do que no fim de outubro. [13]
 
-A amplificação é possível se a queda do valor das garantias provocar aumento das exigências de margem, vendas de ativos e redução da disponibilidade de crédito. Trata-se de um mecanismo condicional. Ele requer evidências de alavancagem, pressão de margem ou liquidação forçada; a observação de volatilidade não demonstra que esses efeitos ocorreram. Devedores com reservas de caixa elevadas e passivos de longo prazo podem permanecer relativamente protegidos, enquanto aqueles dependentes de refinanciamento frequente no mercado são mais vulneráveis. A distribuição dos vencimentos importa mais do que uma classificação genérica de aversão ao risco.
+A África do Sul manteve sua taxa em 7,25% em 19 de novembro, apesar de a inflação ter atingido 5,2% em outubro, segundo a Reuters, que atribuiu o aumento principalmente à pressão dos combustíveis. Seu banco central identificou juros globais, energia e risco cambial como restrições importantes. [14, 15]
 
-## 5. Energia, comércio e economias emergentes
+| Autoridade monetária | Decisão na semana | Taxa básica | Inflação ao consumidor em outubro |
+|---|---|---:|---:|
+| Bank Indonesia | +25 pb | 6,00% | 3,23% |
+| South African Reserve Bank | Manutenção | 7,25% | 5,2% |
 
-O relatório de petróleo da AIE de novembro estimou oferta global de 105,4 milhões de barris por dia em outubro, aumento de 2,3 milhões de barris por dia em relação a setembro. Também estimou processamento nas refinarias de 81,3 milhões de barris por dia e registrou aumento de 52 milhões de barris nos estoques observados durante o mês. [7] A oferta e o processamento nas refinarias correspondem a etapas diferentes da cadeia de petróleo e não podem ser subtraídos para estimar um excedente exato de petróleo bruto ou uma escassez de combustíveis.
+Os instrumentos monetários e as cestas de preços não são idênticos; a comparação investiga como as autoridades respondem a restrições externas, não qual país possui a taxa real mais restritiva. A decisão indonésia é especialmente reveladora porque a inflação geral havia cedido, mas a vulnerabilidade cambial ainda justificava aperto na avaliação do banco central. A África do Sul ilustra uma resposta diferente à alta de preços impulsionada pela energia: manutenção de juros já restritivos, com reconhecimento dos riscos de alta da inflação. Nenhuma decisão demonstra que a política monetária neutralizou integralmente a inflação importada.
 
-A melhora da disponibilidade de petróleo bruto pode coexistir com custos elevados de entrega se o transporte for pouco confiável, os estoques estiverem distribuídos de maneira desigual, houver restrições nas refinarias ou o seguro encarecer. O risco geopolítico relevante não é apenas a variação das cotações de referência do petróleo, mas também a confiabilidade e o custo das entregas efetivas. A AIE descreve riscos persistentes para o transporte de energia no Golfo; o BCE considera as pressões de custos relacionadas uma possível fonte de vulnerabilidade financeira defasada. Nenhuma dessas fontes estabelece as consequências de cada incidente individual. [6, 7]
+Para importadores de combustíveis, o preço doméstico de uma importação faturada em dólar depende simultaneamente de seu preço em moeda estrangeira e do câmbio. Uma queda da referência internacional do petróleo pode não reduzir custos domésticos se a moeda enfraquecer ou se os prêmios dos derivados e dos fretes permanecerem elevados. A alta de juros pode conter expectativas cambiais e inflacionárias, mas não cria capacidade de refino ou transmissão elétrica. A combinação de operações cambiais, incentivos à liquidez bancária, medidas fiscais direcionadas e investimento em oferta física importa porque nenhum instrumento resolve isoladamente todos os mecanismos.
 
-```flow
-Se as entregas de energia encarecem ou se tornam menos confiáveis → empresas enfrentam maiores custos de transporte e insumos → margens ou preços ao consumidor podem absorver a alta → inflação persistente pode restringir o alívio monetário → refinanciamento e investimento podem enfraquecer se o crédito permanecer caro
-```
+As instituições comerciais podem influenciar outra parcela da estrutura de custos. A declaração dos líderes da APEC, divulgada em 21 de novembro após a reunião de Shenzhen, enfatizou integração regional, resiliência das cadeias de suprimentos e melhores condições de comércio e investimento. Os compromissos da APEC operam por consenso voluntário, não por tabelas tarifárias automaticamente vinculantes. [16] Uma declaração não estabelece mudança de tarifas, redução de custos de conformidade ou investimento privado executado. A implementação observável exigiria medidas como novos procedimentos aduaneiros, padrões de interoperabilidade, regulamentos publicados e dados posteriores de transações.
 
-O encadeamento é condicional, não uma estimativa causal histórica. Empresas podem absorver os custos em vez de elevar preços, utilizar proteção financeira, mudar fornecedores ou reduzir a produção. Se a demanda recuar suficientemente, a reação dos preços poderá ser menor que o aumento dos custos dos insumos. Essas alternativas importam porque o mesmo choque externo pode aparecer como inflação em uma economia e como redução de lucros ou investimentos em outra.
+A importância desses sinais decorre de seus mecanismos: a Indonésia oferece evidências de restrições monetárias relacionadas ao câmbio, a África do Sul de uma resposta distinta à inflação de combustíveis, e a APEC de um esforço institucional para reduzir obstáculos comerciais. Não são cotas regionais. As implicações alcançam outras economias dependentes de importações cuja capacidade de financiar resiliência pode ser limitada pelos custos do crédito externo e pela volatilidade cambial.
 
 ```map
-title: Canais regionais de transmissão, sem classificação quantitativa de exposição
-Estados Unidos | Taxas de desconto e pedidos industriais | Acompanhar crédito e demanda das famílias
-Europa | Custos da energia importada e inflação | Repasse varia por setor e cesta familiar
-China | Investimento doméstico e vendas industriais | Construção e manufatura avançada divergem
-Japão | Energia importada e demanda externa por manufaturados | Câmbio e renda das famílias importam
-Brasil | Receitas de commodities, câmbio e custos de crédito | Ganhos nas exportações podem coexistir com inflação doméstica
+title: Transmissão global por exposições físicas e financeiras distintas
+Leste e Sudeste da Ásia | Importação de energia do Golfo, semicondutores e câmbio | Exposições física e financeira diferem
+Oriente Médio | Receita de exportação e confiabilidade das rotas | Recuperação do petróleo bruto não implica recuperação dos derivados
+Europa | Energia importada e exposição financeira alavancada | Preços e refinanciamento respondem com defasagem
+África | Acessibilidade dos combustíveis e investimento elétrico | Crédito externo e poder de compra limitam o ajuste
+Américas | Oferta alternativa de petróleo e mercados de capitais | Oportunidades produtivas não equivalem a projetos contratados
 ```
 
-A vulnerabilidade dos mercados emergentes não é uniforme. Um importador líquido de petróleo com grandes obrigações em dólar próximas do vencimento pode estar exposto tanto a uma conta de combustível maior quanto à depreciação cambial. Um exportador de petróleo pode receber receitas externas adicionais enquanto suas famílias continuam enfrentando custos domésticos de transporte mais altos. Países com vencimentos mais longos, maior financiamento em moeda local e reservas líquidas podem sofrer um ajuste financeiro imediato menor. Não se estabelece uma classificação entre países sem observações comparáveis de reservas, vencimentos e contas correntes. O Canadá, outra economia produtora de commodities, divulgou seu índice de preços ao consumidor de outubro em 16 de novembro; essa divulgação reforça a necessidade de estudar separadamente as cestas de consumo doméstico e as estruturas nacionais de produção. [12]
 
-## 6. Brasil: política restritiva e exposição assimétrica às commodities
-
-O Brasil iniciou a semana com a meta Selic em 13,75%, mantida na reunião de novembro do Copom. A ata divulgada descreveu desaceleração da atividade doméstica, riscos inflacionários provenientes da energia e de outros choques de oferta, além de incertezas relacionadas às condições domésticas e ao câmbio. [9] São avaliações de política monetária disponíveis antes do período analisado, não uma nova decisão de juros tomada na semana.
-
-Para o Brasil, a fraqueza do investimento chinês associado à construção pode pressionar as perspectivas de demanda por determinadas commodities exportadas, enquanto o petróleo caro tem consequências distintas para exportadores, refinarias, empresas de transporte e consumidores. A receita das exportações pode sustentar as contas externas mesmo quando o encarecimento doméstico dos combustíveis comprime a renda disponível. A reação do câmbio depende da disposição global para assumir risco, das receitas comerciais, dos diferenciais de juros e das expectativas fiscais internas. Não deve ser inferida a partir de uma cotação isolada de commodity.
-
-O canal de crédito doméstico é especialmente relevante para famílias ou pequenas empresas que refinanciam dívidas frequentemente. Uma taxa básica alta não se transmite integralmente a todas as taxas de empréstimos porque o custo de captação bancária, a concorrência, as garantias e o risco do tomador diferem. Inversamente, mesmo a manutenção dos juros básicos pode coexistir com aumento do custo marginal de crédito se os credores se tornarem mais cautelosos. Não se infere nesta análise uma saída efetiva de capitais do Brasil, uma nova deterioração fiscal ou uma mudança observada na inadimplência local sem as respectivas séries diretas.
-
-A política fiscal possui seu próprio mecanismo de transmissão. Se os custos de captação do governo permanecerem elevados por um período prolongado, o impacto sobre a despesa de juros dependerá do estoque de passivos com taxas flutuantes, das novas emissões e dos vencimentos da dívida. Uma alteração temporária nos preços dos títulos não constitui uma projeção fiscal completa. Qualquer avaliação da sustentabilidade do endividamento precisa considerar resultado primário, crescimento nominal, despesas de juros e composição da dívida, em vez de simplesmente comparar a Selic com uma taxa de crescimento.
-
-## 7. Cenários e indicadores a acompanhar
+## 7. Cenários, sinais observáveis e refutação
 
 O cenário base contempla a continuidade de uma expansão desigual, com espaço limitado para alívio monetário imediato. Nesse cenário, os pedidos industriais e o emprego perdem força apenas em setores selecionados, a oferta de commodities melhora gradualmente e as pressões de preços cedem de maneira desigual. Não se presume uma decisão específica de juros nem uma projeção numérica de PIB.
 
@@ -152,6 +232,9 @@ Um cenário adverso combina custos persistentes de entrega de energia, novas per
 | Logística energética | Oferta, estoques, fretes e entregas efetivas segundo dados da AIE e outras fontes | Entregas confiáveis e custos menores enfraqueceriam o cenário adverso de oferta |
 
 A interpretação preferencial perderia força se houvesse melhora sincronizada do consumo familiar, investimento amplo e atividade industrial, acompanhada de menor pressão de preços e estabilidade dos mercados de crédito. Ganharia sustentação se o encarecimento do financiamento coincidisse com redução dos pedidos, queda do investimento e piora da capacidade de pagamento das dívidas. Os períodos de observação devem permanecer alinhados na avaliação desses testes. Uma divulgação futura de contas nacionais pode esclarecer as perspectivas sem alterar retrospectivamente aquilo que era conhecido em 22 de novembro.
+
+O teste conjunto decisivo é verificar se a recuperação da disponibilidade de petróleo bruto chega aos estoques em terra e aos derivados ao mesmo tempo que permanece viável o financiamento de novas capacidades energéticas e computacionais. Uma divergência entre essas observações exigiria rever a tese: normalização física sem melhora financeira aponta para restrição de demanda ou de balanço; melhora financeira sem normalização física aponta para restrição de entrega e capacidade. A recuperação simultânea enfraqueceria ambos os canais adversos. Nem os cenários da AIE nem a reprecificação das ações estabelecem qual trajetória se concretizará.
+
 
 ## Fontes e metodologia
 
@@ -173,10 +256,18 @@ A avaliação utiliza divulgações oficiais datadas, atas de bancos centrais, a
 
 [8] Reuters, global market sell-off, 20 November 2026 (intraday reporting): https://www.reuters.com/business/energy/global-markets-selloff-2026-11-20/
 
-[9] Banco Central do Brasil, minutes of 3–4 November Copom meeting: https://www.bcb.gov.br/publicacoes/atascopom/04112026?trk=article-ssr-frontend-pulse_little-text-block
+[9] BEA, 2026 release calendar (scheduled releases only): https://www.bea.gov/news/schedule/full
 
-[10] Japan Cabinet Office, first preliminary Q3 national accounts, 16 November 2026: https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/qe263/gdemenuea.html
+[10] IEA, World Energy Outlook 2026, executive summary, 19 November: https://www.iea.org/reports/world-energy-outlook-2026/executive-summary
 
-[11] BEA, 2026 release calendar (scheduled releases only): https://www.bea.gov/news/schedule/full
+[11] IEA, World Energy Outlook 2026, implications for energy security and affordability, 19 November: https://www.iea.org/reports/world-energy-outlook-2026/implications-for-energy-security-and-affordability
 
-[12] Statistics Canada, October CPI release, 16 November 2026: https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm
+[12] Reuters, global market closing report, 20 November, via London South East: https://www.lse.co.uk/news/global-markets-tech-leads-global-stocks-rout-treasury-yields-fall-whpwhcgftnu8g1y.html?mobile_view=desktop
+
+[13] Bank Indonesia, policy decision, 18 November 2026: https://www.bi.go.id/en/iru/highlight-news/Pages/BI-Rate-Raised-25-bps-to-6.00-percent-Strengthening-Stability,-Supporting-Economic-Growth.aspx
+
+[14] South African Reserve Bank, monetary policy statement, 19 November: https://www.reservebank.co.za/en/home/publications/publication-detail-pages/statements/monetary-policy-statements/2026/november
+
+[15] Reuters, South African monetary policy decision, 19 November: https://www.reuters.com/world/africa/south-africa-central-bank-maintains-policy-rate-close-call-2026-11-19/
+
+[16] APEC, Leaders' Declaration, published 21 November 2026: https://www.apec.org/meeting-papers/leaders-declarations/2026/2026-apec-leaders-declaration
