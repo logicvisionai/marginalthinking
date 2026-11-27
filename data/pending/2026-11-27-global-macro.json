@@ -33,9 +33,12 @@
     "trade-investment",
     "industry-production",
     "energy",
-    "commodities-resources"
+    "commodities-resources",
+    "geopolitics-security"
   ],
-  "phenomena": [],
+  "phenomena": [
+    "war-armed-conflict"
+  ],
   "format": "brief",
   "cadence": "daily",
   "sources": {
@@ -106,7 +109,7 @@
   },
   "signal_rationale": {
     "delta": "Compared with 26 November tariff proposals and GDP/PCE, the new delta is NBS industrial profits, Bank of England 26 November quantified AI-credit exposure, 27 November fund flows and contrasting inflation releases. Tariffs are not the lead.",
-    "evidence": "NBS 27 November official data; BoE Financial Stability Report 26 November; LSEG Lipper via Reuters 27 November; Japan Statistics Bureau and INE 27 November; Reuters oil and early markets.",
+    "evidence": "NBS 27 November official data; BoE Financial Stability Report 26 November; LSEG Lipper via Reuters 27 November; Japan Statistics Bureau and INE 27 November; Reuters oil and early markets. NBS separate interpretation quantifies non-ferrous metals contribution to profit growth (4.6 percentage points).",
     "scale_path": "AI demand and contracts support financing and supplier orders; financing repricing can affect new orders before current profits fall.",
     "transmission": "Expected AI returns → contract-backed debt and equity → data centre investment → equipment orders and industrial profit; energy and inflation constrain monetary offsets.",
     "falsifier": "Durable improvement in paid AI demand and cash flow, narrower credit spreads, diversified industrial profitability and sustained fund inflows weaken the thesis."
@@ -134,14 +137,29 @@
       "tables": 1,
       "flows": 1,
       "maps": 1,
-      "references_en": 11,
-      "references_pt": 11
+      "references_en": 12,
+      "references_pt": 12
     },
     "visual_evidence": {
       "charts": 2,
       "tables": 1,
       "flows": 1,
       "maps": 1
+    },
+    "source_audit": {
+      "references": 12,
+      "added_source": "NBS 27 Nov interpretation: non-ferrous mining +60.2%, smelting and rolling +71.7%, combined 4.6 pp contribution to aggregate industrial profit growth; not attributable to AI alone."
     }
+  },
+  "revision": 1,
+  "revised_at": "2026-11-27T09:04:49-03:00",
+  "revision_reason": "Resolve English substantive-depth shortfall, improve NBS profit contribution analysis and clarify accounting definitions; record seven-asset reconciliation.",
+  "reconciliation_run_id": "2026-11-27-mt-gm-2026-11-27-revision-1-publication-reconciliation",
+  "manual_preflight": {
+    "word_count_en": 1858,
+    "word_count_pt": 2172,
+    "chart_numeric_parity": true,
+    "reconciliation_run_id": "2026-11-27-mt-gm-2026-11-27-revision-1-publication-reconciliation",
+    "repository_build": "Not executed; fresh QA and CI remain required."
   }
 }
