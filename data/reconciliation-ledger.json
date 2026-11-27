@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-26T23:27:27-03:00",
+  "last_reconciled_at": "2026-11-26T23:54:42-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -11086,6 +11086,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Reviewed data/technology-signals.json (9466c57784881a610a4d227fe4b5c33c34157c69). AI-related equity prices, executive news and semiconductor demand do not establish a validated technical capability, deployment milestone or manufacturing-scale signal."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-mt-gmw-2026-11-23-revision-1-producer-reconciliation",
+      "reconciled_at": "2026-11-26T23:54:42-03:00",
+      "report_ids_reviewed": [
+        "MT-GMW-2026-11-23"
+      ],
+      "audit_note": "Producer-stage reconciliation of retrospective weekly macro revision 1. Read all seven active datasets and reviewed staged EN ce6f8acd6f6f8f293379bb57ff3d6571eea5a2e0 and PT-BR f0c26387d58de05062b9c5762e1e1cf65b691fa1. No canonical dataset changes justified. Report information cutoff remains 22 November 2026 23:59 BRT.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "IEA aggregate oil supply, refinery throughput and inventory observations support the existing Hormuz/Gulf delivery mechanism; neither bilateral exposure weights nor corridor-specific sustained flow changes or substitution capacity are established. No edge altered."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "China investment categories and financing conditions are aggregates; no identifiable project with committed capital, permits, capacity and demand is assessed."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "not_applicable",
+          "note": "Market valuation commentary does not document an ownership transfer, voting rights or change in strategic control."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Oil supply and refining throughput are flow measures, not evidence of a change in resource rights, concession, ownership or operator control."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "The report examines existing policy settings, inflation and scenarios rather than an implemented intervention with ex-post outcomes and counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Institutional reporting on energy transportation risk does not establish specific changes in actor, territorial control or verified conflict-system event; no canonical event added."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "AI equity repricing and Chinese high-tech investment are financial and activity indicators, not demonstrated technical milestones or independent validation."
         }
       ]
     }
