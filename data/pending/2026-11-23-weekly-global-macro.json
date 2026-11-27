@@ -4,7 +4,7 @@
   "id": "MT-GMW-2026-11-23",
   "slug": "2026-11-23-weekly-global-macro",
   "date": "2026-11-23",
-  "published_at": "2026-11-26T23:54:42-03:00",
+  "published_at": "2026-11-27T00:06:35-03:00",
   "kind": "weekly-global-macro",
   "priority": 10,
   "source_locale": "en",
@@ -45,111 +45,150 @@
   "sources": {
     "en": {
       "markdown": "staging/research/2026/11/2026-11-23-weekly-global-macro/en.md",
-      "title": "Weekly Global Macro — The limits of monetary relief: industrial divergence, energy costs and the repricing of capital",
-      "deck": "A retrospective review of 16–22 November: US industrial output, Chinese demand and investment, European inflation, oil supply and the conditional transmission of financial-market losses to credit.",
+      "title": "Weekly Global Macro — Energy is returning to the market, but financing the next wave of investment is becoming harder",
+      "deck": "The IEA's structural energy outlook and the ECB's financial stability assessment expose a shared constraint: restoring physical resilience requires capital just as technology financing faces a reassessment of expected returns. An evidence-led study of the week of 16–22 November.",
       "tags": [
         "Weekly Global Macro",
-        "industrial production",
-        "inflation",
-        "financial conditions",
-        "energy"
+        "energy security",
+        "capital allocation",
+        "AI financing",
+        "industrial demand",
+        "monetary policy"
       ],
       "keywords": [
-        "weekly macroeconomic review",
-        "China fixed asset investment",
-        "US industrial production",
-        "euro area HICP",
-        "oil market",
-        "credit transmission"
+        "World Energy Outlook 2026",
+        "oil inventory geography",
+        "hyperscaler debt",
+        "capital expenditure",
+        "energy security",
+        "financial stability",
+        "cross-border transmission"
       ],
-      "regime": "Uneven expansion with persistent inflation and limited room for monetary relief.",
-      "key_risk": "Asset repricing could amplify weaker demand if credit terms tighten while energy delivery costs remain high.",
+      "regime": "Partial recovery of physical energy supply, persistent delivery constraints and selective financing pressure.",
+      "key_risk": "A feedback loop between delayed infrastructure investment, recurring delivered-energy costs and tighter financing; conditional, not a measured systemic crisis.",
       "watch": [
-        "US PCE and GDP releases scheduled for 25 November",
-        "China retail and investment",
-        "Euro area HICP components",
-        "Credit spreads and lending standards",
-        "Oil delivery reliability"
+        "Onshore oil stocks and refined-product exports",
+        "Hyperscaler issuance and operating cash flows",
+        "Credit spreads and fund redemptions",
+        "Currency and fuel-price transmission",
+        "Industrial orders and capacity utilization",
+        "APEC implementation"
       ]
     },
     "pt-BR": {
       "markdown": "staging/research/2026/11/2026-11-23-weekly-global-macro/pt-BR.md",
-      "title": "Weekly Global Macro — Os limites do alívio monetário: divergência industrial, custos de energia e reprecificação do capital",
-      "deck": "Revisão retrospectiva de 16 a 22 de novembro: produção industrial americana, demanda e investimento chineses, inflação europeia, oferta de petróleo e transmissão condicional das perdas financeiras ao crédito.",
+      "title": "Weekly Global Macro — A energia retorna ao mercado, mas financiar a próxima onda de investimentos torna-se mais difícil",
+      "deck": "A perspectiva estrutural da energia da AIE e a avaliação de estabilidade financeira do BCE expõem uma restrição comum: restaurar a resiliência física exige capital justamente quando o financiamento tecnológico enfrenta uma reavaliação dos retornos esperados. Estudo da semana de 16 a 22 de novembro.",
       "tags": [
         "Weekly Global Macro",
-        "produção industrial",
-        "inflação",
-        "condições financeiras",
-        "energia"
+        "segurança energética",
+        "alocação de capital",
+        "financiamento da IA",
+        "demanda industrial",
+        "política monetária"
       ],
       "keywords": [
-        "revisão macroeconômica semanal",
-        "investimento em ativos fixos na China",
-        "produção industrial americana",
-        "HICP da zona do euro",
-        "mercado de petróleo",
-        "transmissão do crédito"
+        "World Energy Outlook 2026",
+        "distribuição geográfica dos estoques de petróleo",
+        "dívida de hyperscalers",
+        "investimento de capital",
+        "segurança energética",
+        "estabilidade financeira",
+        "transmissão transfronteiriça"
       ],
-      "regime": "Expansão desigual com inflação persistente e espaço limitado para alívio monetário.",
-      "key_risk": "A reprecificação dos ativos pode amplificar a fraqueza da demanda se o crédito ficar mais restritivo enquanto as entregas de energia permanecem caras.",
+      "regime": "Recuperação parcial da oferta física de energia, restrições persistentes de entrega e pressão seletiva de financiamento.",
+      "key_risk": "Retroalimentação entre atrasos em infraestrutura, custos recorrentes de energia entregue e crédito mais restritivo; condicional, não crise sistêmica observada.",
       "watch": [
-        "PCE e PIB dos EUA programados para 25 de novembro",
-        "Varejo e investimento chineses",
-        "Componentes do HICP da zona do euro",
-        "Spreads e critérios de concessão de crédito",
-        "Confiabilidade das entregas de petróleo"
+        "Estoques de petróleo em terra e exportação de derivados",
+        "Emissões e fluxos de caixa operacionais dos hyperscalers",
+        "Spreads de crédito e resgates de fundos",
+        "Transmissão cambial e preços de combustíveis",
+        "Pedidos industriais e utilização da capacidade",
+        "Implementação da APEC"
       ]
     }
   },
   "signal_rationale": {
-    "delta": "Integrates the November 16–22 data releases and compares real activity, inflation, energy supply and capital repricing rather than treating Friday market prices as the entire weekly macro assessment.",
-    "evidence": "Fed G17 October -0.4% m/m; China industrial value added +4.8% y/y, retail consumer goods +0.4%, fixed asset investment -8.1% Jan–Oct; Eurostat HICP 4.0%, ONS CPI 3.6%; IEA oil supply 105.4 mb/d; ECB financial stability review.",
-    "scale_path": "Household demand, sectoral production and investment affect orders and revenue; imported energy and funding costs influence the marginal financing decision.",
-    "transmission": "Conditional energy delivery costs → input prices or margins → inflation and policy response → borrowing terms and investment; asset prices may affect collateral and credit but flows are not inferred.",
-    "falsifier": "Synchronized improvement in household demand, investment and output with easing prices and stable credit markets would weaken the thesis."
+    "delta": "The 19 November IEA WEO introduces a structural capital-allocation and dependency perspective to the 18 November ECB financial-stability diagnosis; unlike the 21 November daily market report, this assessment tests the link between physical energy availability and the ability to finance the next wave of productive investment.",
+    "evidence": "IEA November oil supply 105.4 mb/d, observed stocks +52 mb, oil on water +86 mb, OECD stocks -47 mb; WEO scenarios and Asian exposure; ECB FSR boxes 3 and 4 on hyperscaler cash flow and >USD 200bn USD IG issuance; Friday cross-asset closing data; China fixed investment and producer/consumer prices; US G17 capacity utilization; Eurostat inflation contributions; Bank Indonesia and SARB decisions; APEC declaration.",
+    "scale_path": "Fuel delivery, inventory location and refining affect input costs and real income; substitution shifts demand toward grids and mineral processing; technology funding concentration and exchange-rate constraints affect project financing and subsequent productive capacity.",
+    "transmission": "Conditional physical energy constraints → delivered costs → inflation and financing constraints → investment delays; AI repricing and external debt exposures can amplify financing pressures or release capacity if demand falls. Distinguish stocks, flows, market valuations, policy actions and scenario outputs.",
+    "falsifier": "Simultaneous recovery in land-based inventories, refined product supply, credit issuance conditions and operating cash flow would weaken both proposed adverse feedback channels; independent demand and physical capacity evidence can distinguish alternative explanations."
   },
   "assessment_confidence": "medium",
   "key_constraints": [
-    "Review period 16–22 November 2026, information cutoff 22 November 23:59 BRT; retrospective production on 26 November, not original publication date.",
-    "US output uses November 17 vintage before annual revision.",
-    "China investment categories overlap; sectoral growth rates not contributions.",
-    "Market observations are intraday, not synchronized weekly closing data.",
-    "No unobserved portfolio flows or country-level quantitative scenarios inferred.",
-    "Coverage of Japan and Canada is qualitative; no numerical comparison from incompatible GDP or CPI series.",
-    "Independent QA, full repository validation and production deployment not yet performed."
+    "Week 16–22 November; information cutoff 22 November 23:59 BRT; retrospective revision made 27 November, not contemporaneous publication.",
+    "IEA OMR observed inventories include overlapping totals and components; supply, throughput and product flows are not interchangeable.",
+    "IEA WEO conditional scenario projections are not realized observations or committed projects; modeled copper gap is scenario-specific.",
+    "ECB hyperscaler capital-expenditure projection is an external estimate; issuance, cash flow and market valuation are distinct; euro-area bank NPL ratio uses significant institutions in Q2 2026.",
+    "Market reporting uses dated session windows and distinguishes daily and weekly changes; no complete global synchronized closing dataset or portfolio flow estimates.",
+    "China industrial value added covers enterprises above designated size; nominal export values are not volume; investment categories can overlap.",
+    "US G17 uses 17 November release vintage, before scheduled annual revision.",
+    "APEC voluntary declaration is not enacted tariff or measured trade impact.",
+    "Selective regional evidence, not exhaustive world survey; QA and full CI/deployment pending."
   ],
   "producer_checks": {
     "information_cutoff": "2026-11-22 23:59 America/Sao_Paulo",
     "comparative_editions": [
-      "MT-GM-2026-11-21"
+      "MT-GM-2026-11-21",
+      "MT-GMW-2026-11-23 revision 1 (unpublished)"
     ],
+    "signal_selection": {
+      "lead": "Joint physical resilience and financing constraint: WEO 19 Nov and ECB FSR 18 Nov, prioritized for systemic reach, persistence, new institutional evidence and cross-border transmission.",
+      "candidates": [
+        {
+          "signal": "Energy outlook and oil stock composition",
+          "decision": "Lead: structural dependency and observed inventory divergence."
+        },
+        {
+          "signal": "AI equity/credit repricing",
+          "decision": "Co-lead: newly documented external financing exposure, counterevidence of sovereign rally and strong bank asset quality."
+        },
+        {
+          "signal": "China and US industrial demand",
+          "decision": "Test real-economy mechanism with sectoral output and investment; avoid extrapolation to global GDP."
+        },
+        {
+          "signal": "Indonesia, South Africa monetary decisions",
+          "decision": "Test currency and energy pass-through; no forced regional quota."
+        },
+        {
+          "signal": "APEC and ASEAN institutional agenda",
+          "decision": "APEC included as implementation-dependent signal; ASEAN declaration dated 15 Nov outside review week and not used as a new finding."
+        },
+        {
+          "signal": "Other national releases and market moves",
+          "decision": "Omit standalone national sections without a distinct contribution to thesis; geographic scan is selective, not exhaustive."
+        }
+      ],
+      "counterevidence": "Recovery in Gulf crude supply, sovereign rally on Friday, resilient bank asset quality, positive industrial subsectors and potential substitution/capacity release."
+    },
     "fact_inference_scenario_separated": true,
     "bilingual_parity": {
       "same_numeric_series": true,
       "same_reference_count": true,
-      "charts": 3,
-      "tables": 4,
+      "charts": 5,
+      "tables": 7,
       "flows": 1,
       "maps": 1,
-      "references_en": 12,
-      "references_pt": 12
+      "references_en": 16,
+      "references_pt": 16
     },
     "visual_evidence": {
-      "charts": 3,
-      "tables": 4,
+      "charts": 5,
+      "tables": 7,
       "flows": 1,
       "maps": 1
     },
     "manual_preflight": {
-      "word_count_en": 2952,
-      "word_count_pt": 3440,
+      "word_count_en": 4703,
+      "word_count_pt": 5367,
       "ready_for_independent_qa": true,
-      "repository_script_validator": "Manual preflight only; full CI and independent review pending."
+      "repository_script_validator": "Manual checks for counts, chart numeric parity, reference URL parity, numbered reference usage; source verification sampled against primary publications and dated market reporting. Full repository CI and independent QA not yet executed."
     },
-    "reconciliation_run_id": "2026-11-26-mt-gmw-2026-11-23-revision-1-producer-reconciliation"
+    "reconciliation_run_id": "2026-11-27-mt-gmw-2026-11-23-revision-2-producer-reconciliation"
   },
-  "revision": 1,
-  "reconciliation_run_id": "2026-11-26-mt-gmw-2026-11-23-revision-1-producer-reconciliation",
-  "revision_reason": "Initial retrospective weekly edition requested by owner."
+  "revision": 2,
+  "reconciliation_run_id": "2026-11-27-mt-gmw-2026-11-23-revision-2-producer-reconciliation",
+  "revision_reason": "Substantive signal-led revision requested by owner: replace country checklist with structural research question, stronger primary evidence, transmission mechanisms and falsifiers."
 }
