@@ -4,10 +4,10 @@
   "slug": "2026-11-24-global-macro",
   "revision": 10,
   "program": "political-economy-markets",
-  "qa_status": "revoked",
-  "reviewed_at": "2026-11-25T22:57:50-03:00",
-  "reviewed_commit": "02a22a31cf906ed779f6d3873969dc8618ece212",
-  "pending_blob_sha": "46c5a74a856ce9512966c3c49e3b99853dd3c18a",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-27T18:02:38.715Z",
+  "reviewed_commit": "bfb964d080095c6da86c0550f09719e549f94287",
+  "pending_blob_sha": "6e39deb96fe7726884335015dfe04b087d1f65f2",
   "source_blob_shas": {
     "en": "dcb3ef6a1eaae0c1f30df0cf3576d8021217eef2",
     "pt-BR": "66ca8738f7ab8f1a0f31b6f0294f9ea493cbb0fc"
@@ -18,107 +18,93 @@
   "checks": {
     "source_integrity": {
       "result": "passed",
-      "summary": "Read the complete schema-v2 pending and both complete staged Markdown editions at main HEAD 02a22a31cf906ed779f6d3873969dc8618ece212. Exact Git blob tuple: pending 46c5a74a856ce9512966c3c49e3b99853dd3c18a; EN dcb3ef6a1eaae0c1f30df0cf3576d8021217eef2; PT-BR 66ca8738f7ab8f1a0f31b6f0294f9ea493cbb0fc. No public metadata exists for this ID/revision."
+      "summary": "Full EN/PT-BR read at pinned main; exact current pending SHA 6e39deb96fe7726884335015dfe04b087d1f65f2; both source SHAs match prior reviewed Markdown, but pending changed after revocation. No prior public bundle or index ID at initial snapshot."
     },
     "schema_and_taxonomy": {
       "result": "passed",
-      "summary": "Schema v2 and ready=true; canonical ID/slug, revision 10, daily-global-macro kind, priority 10, registered political-economy-markets program, global-system-power related program, global geography, controlled economy/politics dimensions, registered topics and attributed war-armed-conflict phenomenon, brief format and daily cadence are consistent."
+      "summary": "Schema v2, ready, registered daily-global-macro kind, controlled primary and related program, dimensions, topics, global geography, brief/daily and war-armed-conflict phenomenon verified against taxonomy and system registry."
     },
     "source_vintage_and_cutoff": {
       "result": "passed",
-      "summary": "The 24 November 2026 20:45 BRT information cutoff is explicit. Worldsteel and ifo releases dated 24 November, flash PMIs and market reporting dated 23–24 November, BCB Focus dated 19 November, IEA November report, FAO October index, IIF October flow estimate and the 18 November NFCI vintage all precede the cutoff. The 25 November NFCI release and later market data are excluded. Monthly, weekly, survey, settlement and forecast-vintage observations are kept distinct."
+      "summary": "24 November 20:45 BRT cutoff retained. Worldsteel and ifo released 24 Nov, PMI 23–24 Nov; FRED archived 18 Nov print explicitly -0.478 for week ending 13 Nov (subsequently revised, not used); Focus 19 Nov distinct from Ministry's 6 Nov forecast grid; Reuters 24 Nov closing syndication updated 17:59 EST, before cutoff; IEA 13 Nov and IIF 5 Nov are persistence/context, not new daily releases."
     },
     "factual_methodology": {
       "result": "passed",
-      "summary": "Primary-source checks confirm the PMI diffusion readings, Worldsteel October output and regional/country changes, ifo components, central-bank settings, US Treasury par curve, Chicago Fed NFCI, IIF October outflows, IEA supply/inventory estimates, FAO food-price components, Brazil Ministry 2027 grid and 19 November Focus medians. The 13.00% Focus terminal Selic median is distinguished from the Ministry's 12.93% accumulated parameter. Crude and refined products, US and EM financial conditions, survey indices and realised output are not conflated."
-    },
-    "evidence_traceability": {
-      "result": "passed",
-      "summary": "Both editions contain 30 numbered references, 32 unique URLs across 22 domains; the pending source audit classifies 20 primary institutional sources and 10 market-reporting sources. Material quantitative claims map to Worldsteel, ifo, central banks, BCB, Ministry of Finance, IEA, FAO, IIF, Chicago Fed/FRED, US Treasury and attributed Reuters/AP reporting. Conflict and shipping claims remain attributed; no unverified sustained output loss is asserted."
+      "summary": "Reopened Worldsteel table and ifo release; 142.4 Mt, -1.1% y/y, 1509.3 Mt YTD and all eight regional rows match; 90.6 versus 90.1 and weaker manufacturing sentiment corroborated. S&P Global US 54.6 and euro-area 51.7, national PMI reports, Fed 3.75–4% (10–2), BoE 4%, RBA 4.85%, ECB 2.50%, BCB 13.75% and BOJ 1.25% corroborated. Treasury 4.63/4.92/5.29; IIF monthly outflows 33.8/19.3 and prior inflows 27.4; IEA supply 105.4 mb/d; FAO commodity index and sugar; Ministry and Focus PDFs checked visually. Explicitly separate survey diffusion, annual/quarterly forecasts, nominal policy rates, broad NFCI and EM flow estimates."
     },
     "research_depth": {
       "result": "passed",
-      "summary": "Independent application of scripts/validate-editorial-depth.mjs word-count logic gives 4,378 substantive words EN and 5,091 PT-BR, with nine H2 sections in each edition, 32 source URLs, dated observations, multiple transmission mechanisms, contrary evidence, conditional scenarios and observable falsifiers. Both editions exceed the 1,700-word daily threshold."
+      "summary": "Recomputed repository word-count logic: 4378 EN and 5091 PT-BR, 9 H2 each, 32 unique URLs, 2 charts, 4 ordinary tables, 1 flow, 1 map per locale. Article links production/survey dispersion to common-rate transmission, refinancing access, inventories and delivered energy costs; tests alternatives through actual output, currency and flow observations. Substantive depth exceeds daily floor."
     },
-    "visual_evidence_readiness": {
+    "evidence_traceability": {
       "result": "passed",
-      "summary": "Both editions contain two explicit quantitative charts, four ordinary Markdown tables, one causal flow and one geographic exposure map. The chart numeric series match exactly across EN/PT-BR: PMI [54.6, 51.7, 55.0, 46.2, 52.3, 51.5, 56.3] and NFCI [-0.478, 0.000]. The visuals use cited observations and explicit units/qualifications; no fabricated series or coordinates."
-    },
-    "bilingual_equivalence": {
-      "result": "passed",
-      "summary": "EN and PT-BR preserve the same claims, observation periods, units, 30 numbered references, 32 URLs, 22 domains, two chart series, four tables, one flow and one map. The numeric chart series match exactly; Portuguese is idiomatic and substantively equivalent."
-    },
-    "novelty_vs_corpus": {
-      "result": "passed",
-      "summary": "Compared the public metadata for MT-GM-2026-11-23 revision 3 (China iron-ore/steel inventory), MT-GM-2026-11-22 revision 8 (AI productivity/valuation) and MT-GM-2026-11-21 revision 3 (cross-asset repricing). Revision 10 adds a distinct cross-region flash-PMI and industrial-output dispersion thesis linked to energy, monthly EM portfolio flows and Brazil's forecast-vintage changes."
+      "summary": "Fresh source-level checks of core thesis and prior defects: worldsteel.org/media/press-releases/2026/october-2026-crude-steel-production/; ifo 24 Nov; S&P Global US/euro-area 23 Nov and dated Reuters syndications for other country PMIs; https://fred.stlouisfed.org/graph/?chart_type=line&s%5B1%5D%5Bid%5D=NFCI&s%5B1%5D%5Brange%5D=5yrs with Nov 18 update; IIF 5 Nov tracker; BCB Focus 19 Nov and Finance Ministry bulletin pp.3,19; Treasury daily par curve; Fed, ECB, BoE, RBA, BCB and BOJ decisions; IEA November OMR; FAO 6 Nov; AP 23 Nov and Reuters 23–24 Nov market and oil reports. Direct ALFRED and certain Reuters endpoints unavailable; dated original-series FRED print and verbatim Reuters syndication establish main claims. Remaining peripheral source details sampled rather than every link exhaustively reopened."
     },
     "counterfactual_review": {
       "result": "passed",
-      "summary": "The report separates observed indicators from interpretation and conditional scenarios. It gives base and adverse paths and observable falsifiers, including narrowing Germany–France PMI dispersion, reversal of EM outflows, lower refined-product premiums and subsequent national-accounts/employment evidence."
+      "summary": "Six of seven PMI readings exceed 50; sector output and sentiment contradict a synchronized contraction; negative US NFCI is contrary to generalized tightening, crude supply recovery counters shortage thesis, and primary fiscal deficit improves on a year-earlier basis. Narrowing PMI gaps, positive EM flows, broad industrial acceleration and falling refined product premiums are observable falsifiers. EM borrowing costs and employment effects remain conditional, not measured."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Prior visual objections resolved: chart explicitly labels selected major economies plus euro-area aggregate, not all euro members. Both locales reproduce [54.6,51.7,55.0,46.2,52.3,51.5,56.3] and [-0.478,0.000]. Negative NFCI meaning is separate from conditional EM outflow transmission; map qualitative with dated observations, table units explicit."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Read complete EN/PT-BR, both contain identical 32 URLs, 30 numbered references, chart data and direction, equivalent policy/market dates, cutoff, uncertainty and scenario conditions."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "Compared canonical Nov 23 report on China iron-ore imports/inventory/exporter adjustments. Nov 24 adds genuinely new Worldsteel regional release and ifo data plus separate financing/market transmission; not a republished China report."
+    },
+    "geographic_neutrality": {
+      "result": "passed",
+      "summary": "New steel table spans Africa, Asia/Oceania, Europe, Middle East, North and South America. Published discussion is selective, not claimed exhaustive; Brazil forecast example is contextual and not lead. No claim that all regions have equivalent data availability."
     },
     "system_registry_reconciliation": {
-      "result": "blocked",
-      "summary": "Post-approval independent verification found that revision 10 still references 2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation. The publisher watchdog's latest completed run (2026-11-25 22:45 BRT, run 02be0101-4b34-8324-bacc-15b031063110) explicitly determined that the seven revision-8 decisions do not constitute reconciliation of revision 10. A new report-specific run with evidence and decisions for all seven active assets is required."
+      "result": "passed",
+      "summary": "Revocation cause explicitly resolved: ledger run 2026-11-26-mt-gm-2026-11-24-revision-10-publication-reconciliation names MT-GM-2026-11-24 and exact EN/PT source blob SHAs; pending top-level and producer_checks IDs both point to that run. Seven required asset decisions present, with evidence-based no-change/not-applicable/deferred explanations. This operational review does not change historical information cutoff."
     },
     "editorial_style": {
       "result": "passed",
-      "summary": "The editions use natural institutional analytical prose, numbered references at the end, attributed conflict/shipping reporting, explicit limits and no internal production labels, promotional language or unsupported causal assertions."
+      "summary": "Technical and institutional prose, distinguishes evidence and inferred mechanisms, attributed company and maritime reporting, no promotional copy. Minor terminology limitations documented."
     },
-    "producer_preflight_consistency": {
-      "result": "passed_with_limitation",
-      "summary": "The pending source audit's reference/URL/domain counts and visual inventory match the staged files. Its manual_preflight word counts (4,363 EN and 5,070 PT-BR) differ slightly from the independent repository word-count logic (4,378 and 5,091); both remain well above the daily threshold and the strict candidate checks pass."
-    },
-    "editorial_depth_script": {
-      "result": "passed_with_limitation",
-      "summary": "Exact-HEAD editorial-health workflow 45735078586 ran the strict draft checks. The aggregate workflow failed on six unrelated older drafts; MT-GM-2026-11-24 revision 10 was not among them. Independently applying the script's candidate checks confirms the two editions pass word, source, domain, chart, flow, map, table, heading, date and numeric-series-equivalence thresholds."
-    },
-    "pipeline_validation": {
+    "editorial_publication_readiness": {
       "result": "passed",
-      "summary": "Exact-HEAD workflow 45735078721 ran scripts/validate-pipeline.mjs successfully in the build job. The pipeline reported 213 public bundles, 20 pending-unpublished items, zero approved-unpublished approvals and six legacy pending items already public. The current revision remains pending until this approval is committed."
-    },
-    "repository_build": {
-      "result": "passed_with_limitation",
-      "summary": "Exact-HEAD workflow 45735078721 passed the build, research visual-semantics, generated-site and Worker bundle checks. The separate deploy job failed at Check Cloudflare credentials because CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID are absent; no deployment or live production verification is claimed."
+      "summary": "All recorded material post-limit defects remedied: Focus terminal rate 13.00% (12.75% one week and 11.75% four weeks earlier), chart geographic scope corrected, EM causal flow qualified, exact revision-specific registry reconciliation attached. No fourth rejection or deletion of historical rejection records."
     },
     "publication_snapshot_integrity": {
       "result": "passed",
-      "summary": "The publication field embeds the complete exact pending-v2 object from HEAD, including revision 10, sources, signal rationale, producer checks, key constraints, reconciliation_run_id and revision scope. The snapshot binds the exact pending/EN/PT-BR blob tuple recorded above."
-    },
-    "concurrent_approval_integrity": {
-      "result": "passed",
-      "summary": "Main was re-read immediately before writing at 02a22a31cf906ed779f6d3873969dc8618ece212. The only existing approval sidecar is revoked for revision 2 and binds a different tuple; the rejection history records three prior rejections and the revision-9 post-limit block. No public metadata exists for MT-GM-2026-11-24. The write will use a non-force compare-and-swap update against this exact HEAD."
-    },
-    "editorial_publication_readiness": {
-      "result": "blocked",
-      "summary": "Approval revoked because the pending v2 revision 10 lacks a revision-specific system-registry reconciliation run. The current linked ledger entry is explicitly revision 8 and predates revisions 9 and 10. Do not publish until the producer appends a new seven-asset reconciliation run and updates pending.producer_checks.reconciliation_run_id."
+      "summary": "Full current pending v2 object embedded without modification, exact current pending/source SHAs and reviewed main commit bound. Previous revoked approval retained in Git history with explicit audit pointer."
     }
   },
   "contrary_evidence": [
-    "Six of seven selected composite PMIs remain above 50, so the evidence indicates regional and sectoral dispersion rather than synchronized global contraction.",
-    "Germany's strong flash PMI coexists with a 9.6% year-on-year October fall in steel output and weaker ifo manufacturing confidence; the report explicitly treats the indicators as different measures.",
-    "Worldsteel's October global output fell 1.1% year on year, tempering a one-sided expansion narrative even as North America and Africa expanded.",
-    "IEA October supply increased by 2.3 million barrels per day and inventories rose, supporting crude rebalancing even while refined-product premiums and shipping constraints remained elevated.",
-    "The Chicago Fed NFCI was negative, indicating looser-than-average US conditions; this does not negate the separate IIF estimate of October EM portfolio outflows.",
-    "Brazil's central-government primary deficit improved year on year through September, with net revenue and expenditure growth both positive; this tempers a one-sided fiscal deterioration thesis.",
-    "Reuters-reported vessel attacks are attributed and do not quantify a sustained physical loss of oil production or exports."
+    "Positive majority of selected PMI surveys, alongside heterogeneous steel output and German manufacturing sentiment.",
+    "Negative US NFCI and recovering oil supply do not support a generalized financial tightening or aggregate crude shortage.",
+    "Improvement in Brazilian primary deficit relative to prior year counters one-sided fiscal deterioration; flows do not measure realized borrowing costs."
   ],
   "limitations": [
-    "Flash PMIs are diffusion surveys, not GDP growth rates or official output data.",
-    "Worldsteel covers 70 reporting economies representing approximately 98% of 2025 world crude-steel output; steel is a sector measure, not final demand, and US/Russian country figures are estimates.",
-    "IIF's US$33.8bn October figure is a monthly non-resident portfolio-flow estimate, not daily November flows, total capital flight or a direct measure of borrowing spreads, FX funding costs or realised investment.",
-    "The Chicago Fed NFCI is a broad US-wide composite; it does not describe financing conditions for every borrower or for emerging markets.",
-    "The 6.5% real revenue-growth figure in the Brazil fiscal paragraph refers to net revenue after transfers in the Ministry source; the prose uses the shorter term 'revenue'.",
-    "Conflict and shipping incidents are attributed to reporting sources or relevant actors; available evidence does not quantify a sustained loss of oil output.",
-    "The reconciliation run referenced by the pending is revision 8, but it remains the latest report-specific run and contains decisions for all seven active assets; revisions 9 and 10 did not introduce a new registry-state claim.",
-    "The independent word-count logic returns 4,378 EN and 5,091 PT-BR versus producer preflight counts of 4,363 and 5,070; both are far above the required threshold.",
-    "The build passed, but Cloudflare deployment and live production verification remain unconfirmed because repository credentials are missing."
+    "Some Reuters direct URLs and ALFRED release endpoint inaccessible in this review; original Reuters reporting via dated syndication and archived FRED update were used, not independent reporting origins.",
+    "Survey PMIs, estimated steel data, monthly portfolio flows and market settlements have distinct coverage, frequency and units. No direct comparable emerging-market borrowing-cost panel.",
+    "Ministry primary deficit amounts are at September 2026 prices; its 6.5% real revenue growth refers to net revenue after transfers. The report uses shorthand revenue, with the underlying primary source specifying scope.",
+    "Attributed security concerns and shipping reports are not independent findings of wrongdoing or quantified sustained physical export loss.",
+    "A complete link-by-link re-audit and CI execution were not performed; core thesis and all previously material rejection causes were freshly checked. No live publication asserted."
   ],
-  "notes": [
-    "Revision 10 was initially approved by independent QA, then the approval was revoked at 2026-11-25T23:02:00-03:00 after the report-specific system-registry gate was rechecked against the publisher watchdog's latest completed run.",
-    "The linked reconciliation run is 2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation. It contains seven asset decisions but is explicitly revision 8 and predates revisions 9 and 10; the publisher correctly refused to treat it as a revision-10 reconciliation.",
-    "The publication snapshot and exact pending/EN/PT-BR blob tuple are preserved for audit. No public metadata, report, index, CSS, taxonomy or institutional content was modified.",
-    "This is a post-limit block, not a fourth rejection. The rejection count remains 3. The producer must create a fresh revision-10 reconciliation run for all seven active assets, update pending.producer_checks.reconciliation_run_id, and resubmit."
-  ],
+  "notes": "Fresh procedural QA of corrected pending tuple, not reactivation of stale SHA. Prior revocation and three-rejection history remain in repository history and data/rejected; no source changes. Eligible for future publisher execution only.",
+  "supersedes_revoked_approval": {
+    "blob_sha": "5f2ef5e1a13c01a7d1f56015fb836868a6e89305",
+    "commit": "bfb964d080095c6da86c0550f09719e549f94287",
+    "previous_pending_blob_sha": "46c5a74a856ce9512966c3c49e3b99853dd3c18a",
+    "revocation": {
+      "revoked_at": "2026-11-25T23:02:00-03:00",
+      "revoked_by": "MT 4/5 — QA Editorial",
+      "original_approval_blob_sha": "73f4cc88ca8a534e16136fa3a0176cce8606ec00",
+      "original_approval_commit_sha": "597209227342d088716b6fee13cd8f445812d416",
+      "rejection_record_path": "data/rejected/2026-11-24-global-macro.json",
+      "reason": "Material system-registry reconciliation gap discovered after approval. The revision-10 pending links a run explicitly labelled revision 8; the publisher's own completed watchdog run confirmed that the old seven-asset decisions do not constitute reconciliation of revision 10.",
+      "publication_snapshot_preserved": true
+    },
+    "rejection_record": "data/rejected/2026-11-24-global-macro.json"
+  },
   "publication": {
     "schema_version": 2,
     "ready": true,
@@ -324,7 +310,7 @@
         "repository_script_validator": "Revision 10 corrects the PMI geographic scope, separates US NFCI from EM portfolio flows and qualifies downstream funding effects. Exact-HEAD validation must be rerun after this staging commit; independent QA remains required.",
         "revision": 10
       },
-      "reconciliation_run_id": "2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation"
+      "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-24-revision-10-publication-reconciliation"
     },
     "revision": 10,
     "revision_reason": "Revision 10 corrects the PMI chart's geographic scope, separates the negative US NFCI reading from emerging-market funding conditions, qualifies the IIF outflow-to-refinancing channel as conditional, and states that this edition does not measure EM borrowing costs or realised investment effects. It also replaces the broad 'credit remains expensive' heading with a financing-dispersion description. The 19 November BCB Focus correction from revision 9 is preserved.",
@@ -371,15 +357,6 @@
       "EM_BORROWING_COST_AND_INVESTMENT_DATA_LIMITATION_STATED",
       "CREDIT_HEADING_SCOPE_CALIBRATED"
     ],
-    "reconciliation_run_id": "2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation"
-  },
-  "revocation": {
-    "revoked_at": "2026-11-25T23:02:00-03:00",
-    "revoked_by": "MT 4/5 — QA Editorial",
-    "original_approval_blob_sha": "73f4cc88ca8a534e16136fa3a0176cce8606ec00",
-    "original_approval_commit_sha": "597209227342d088716b6fee13cd8f445812d416",
-    "rejection_record_path": "data/rejected/2026-11-24-global-macro.json",
-    "reason": "Material system-registry reconciliation gap discovered after approval. The revision-10 pending links a run explicitly labelled revision 8; the publisher's own completed watchdog run confirmed that the old seven-asset decisions do not constitute reconciliation of revision 10.",
-    "publication_snapshot_preserved": true
+    "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-24-revision-10-publication-reconciliation"
   }
 }
