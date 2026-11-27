@@ -1,18 +1,105 @@
 # Weekly Global Macro — 23 November 2026
 
-## The limits of monetary relief: industrial divergence, energy costs and the repricing of capital
+## Energy is returning to the market, but financing the next wave of investment is becoming harder
 
-*Review period: 16–22 November 2026. Information cutoff: 22 November 2026, 23:59 BRT. Retrospective edition; no observations released after the cutoff are used. Market commentary describes the observation window of each source, not necessarily final weekly closes.*
+*Week under review: 16–22 November 2026. Information cutoff: 22 November, 23:59 BRT. Retrospective assessment. All evidence and policy announcements precede the cutoff; longer-term scenarios are not observed outcomes.*
 
 ## Executive assessment
 
-The week's evidence points to a tension between the slowing parts of the real economy and the persistence of inflation that constrains monetary policy. The tension is more consequential than an isolated fall in equity prices. In the United States, the industrial production release showed a monthly contraction even while factory production rose. In China, industrial activity continued to increase from a year earlier, but household purchases and broad investment were much weaker. European inflation accelerated as energy remained expensive. The combination makes it difficult for monetary authorities to respond to weakness in demand with an uncomplicated reduction in borrowing costs.
+The most consequential development this week was not the equity sell-off in isolation. The International Energy Agency's World Energy Outlook, released on 19 November, set out a structural response to the energy crisis at precisely the moment when financial markets were reassessing the returns on capital-intensive technology. The two developments are connected: energy security requires upfront investment in grids, generation, alternative supply routes, efficiency and processing capacity, while the financing of large technology projects is increasingly exposed to the same cost of capital and to a reassessment of future revenues. The European Central Bank's 18 November Financial Stability Review identifies rising connections between sovereign debt, corporate financing and leveraged non-bank investors. [6, 10, 11]
 
-On 20 November, Reuters described selling across equities and industrial metals alongside a strong dollar and rising demand for protection against market volatility. These moves are consistent with investors reassessing the price of distant future earnings and the cost of financing new projects. They are not sufficient evidence of a collapse in aggregate consumption or a banking crisis. The European Central Bank's financial stability assessment gives a more useful framework for identifying when valuation losses might become a macroeconomic problem: losses can affect collateral and investment decisions first, while lending and debt-service problems emerge later. [6, 8]
+A distinction between physical supply and effective availability is essential. The IEA's November oil-market vintage showed October supply improving and observed inventories rising by 52 million barrels. Yet inventories at sea rose by 86 million barrels while onshore stocks continued to decline. The same oil may be counted as inventory without being immediately available to a refinery or final consumer. The aggregate stock recovery is therefore a limited signal of improved supply, not proof that the energy crisis is over. [7]
 
-The central assessment is conditional. Global growth can remain positive while the marginal project becomes less attractive to finance. For a business considering new capacity, a weaker sales outlook and a higher hurdle rate reinforce each other. For a household, a more expensive fuel bill and a loan reset can reduce spending even without unemployment. For a government, the effect depends on the cost and maturity structure of its debt, its exposure to imported energy and the way taxes or subsidies distribute the cost. These are different adjustment mechanisms, not interchangeable symptoms of recession.
+Capital markets supplied a second, independent test of the outlook. Reuters' Friday closing account recorded weekly losses of around 17% in Taiwanese equities and 17.1% in US semiconductor shares, while Treasury yields fell on Friday even with an expected December Fed increase. This separation between sovereign duration and risky equity exposure is consistent with a reassessment of expected returns and risk premiums rather than a simple parallel increase in every discount rate. It does not establish that credit markets have frozen. [12]
 
-## 1. United States: output composition matters as much as direction
+The underlying research question is whether investment required to reduce physical vulnerabilities can proceed under increasingly demanding financial conditions. The answer varies across economies, firms and technologies. Some projects reduce exposure to imported fuel; others depend on imported equipment, scarce refined materials, power connections or foreign-currency borrowing. The week supplied evidence of the constraints, not a measured global investment contraction. The adverse feedback loop is conditional: investment becomes harder to finance, physical resilience improves more slowly, and recurrent supply disruptions keep inflation and borrowing costs elevated. A faster improvement in delivered energy availability, credit conditions and operating cash flows would weaken that hypothesis.
+
+## 1. Physical recovery versus usable energy: the evidence behind the apparent oil surplus
+
+The IEA estimates October global oil production at 105.4 million barrels per day, up 2.3 million from September after a 3 million increase in that month. However, October global refinery throughput declined by 1.3 million barrels per day to 81.3 million. Total observed inventories increased while land-based buffers deteriorated. An international balance sheet can show recovery at the same time that individual importing economies, refinery operators and end users have difficulty obtaining particular fuels. [7]
+
+```chart
+type: bar
+title: October 2026 oil inventory changes — global total and selected components
+unit: million barrels; overlapping total and components
+Observed global inventories | 52
+Oil on water | 86
+OECD total stocks | -47
+```
+
+The bars are deliberately not additive: the global total and selected components have overlapping coverage. The 86 million barrel increase at sea exceeds the 52 million increase in the global observed total. This is evidence against interpreting the global total as an equivalent increase in immediately accessible fuel stocks. OECD stocks are a regional subset, not a proxy for all onshore stocks. [7]
+
+| Indicator | October observation | Interpretation |
+|---|---:|---|
+| Global oil supply | 105.4 mb/d | Estimated production flow |
+| Global refinery runs | 81.3 mb/d | Processing flow, different coverage from supply |
+| Gulf crude exports | 15 mb/d | Around 82% of pre-war level |
+| Gulf refined products and LPG exports | Roughly half pre-war level | Product-specific disruption |
+| OECD total stock change | -47 million barrels | Regional inventory change |
+
+The crude and product export figures are not comparable absolute volumes; one is a crude flow and the other a relative measure of refined products and LPG. The difference establishes why a crude-price decline can coexist with shortages or expensive deliveries of particular refined products. The analytical implication is a change in the relevant unit of risk: the delivered usable product, at the correct location and time, not simply the upstream barrel. [7]
+
+A refinery requires compatible crude, functioning equipment, logistics and working capital. If shipping takes longer, a buyer may need more financing for the same physical throughput because more cash remains tied up before delivery and sale. A firm may face this additional cost even if the benchmark crude price falls. A sufficiently large and durable recovery in product exports, onshore stocks and shipping reliability would disconfirm the idea that the constraint has migrated from aggregate crude supply to availability and processing.
+
+## 2. From emergency substitution to long-term capital allocation
+
+The World Energy Outlook gives a longer horizon to the inventory evidence. The IEA estimates cumulative Gulf supply losses during the 2026 crisis at 2.8 billion barrels of oil and 60 billion cubic metres of gas; its November assessment emphasizes the exposure of Asian and African fuel importers. Before the crisis, roughly 80% of oil and nearly 90% of LNG transiting Hormuz was destined for Asia. The two percentages describe different fuels and cannot be added. [10]
+
+The IEA models sharply different future oil and gas import paths depending on policy responses. Under its Additional Response Case, fuel-importing regions reduce oil and gas imports by about 15% by 2035, while imports remain approximately flat under its Stated Policies Scenario. These are conditional model outcomes rather than predictions. Electricity peak demand grows by 40–50% across its scenarios, and its Stated Policies Scenario identifies a possible 25% copper supply gap by 2035 relative to projected demand and existing or planned supply. [11]
+
+| Structural indicator | IEA assessment | Status |
+|---|---|---|
+| Oil and gas imports in importing regions, 2035 | About -15% in ARC; broadly flat in STEPS | Conditional scenarios |
+| Electricity peak demand, to 2035 | +40–50% across scenarios | Modelled range |
+| Copper supply gap, 2035 | 25% in STEPS | Conditional projection |
+| Population without electricity access | Approximately 720 million | Current IEA estimate |
+
+The significance is not that every importing economy should electrify at the same pace. It is that substitution changes the composition of dependency. Moving from imported fossil fuels towards electricity shifts expenditure toward generation, distribution, storage and equipment. It can reduce exposure to internationally traded fuels, yet create vulnerability to grid delays, imported machinery and mineral processing concentration. [10, 11]
+
+This changes the distribution of economic gains. A country with domestic renewable resources but high borrowing costs may possess a physical advantage that cannot be translated quickly into cheaper power. An equipment supplier can gain from an increase in installations without a proportional gain in margins if competition reduces selling prices. Mineral producers may gain from new demand only if projects can overcome permitting, power, transport and financing constraints. The IEA's copper scenario is not evidence that any particular mine is investable.
+
+The trade-off is especially consequential in lower-income fuel-importing economies, where spending on basic electricity access competes with the financing needed to make existing supply more resilient. A policy may reduce exposure to one external shock while increasing reliance on another supply chain. The right comparison is lifecycle system cost, reliability and financing capacity, not a universal technology ranking.
+
+## 3. The AI repricing: where losses could cross from markets into productive investment
+
+The Friday closing report provides a more complete test than the early-session observations in isolation. The Reuters account put the S&P 500 down 3.70% and Nasdaq down 5.28% on Friday, with the US two-year yield falling 13.21 basis points to 4.647% and the ten-year falling 10.43 basis points to 4.948%. These daily changes are separate from the weekly losses in technology equities. [12]
+
+```chart
+type: bar
+title: Selected US equity indices, 20 November 2026 session
+unit: daily %
+Dow Jones Industrial Average | -1.93
+S&P 500 | -3.70
+Nasdaq Composite | -5.28
+```
+
+The concentration of the losses in technology does not prove technology demand has fallen by the same amount. Financial assets price expected distributions of future income, whereas semiconductor orders, data-centre leases, electricity purchase agreements and actual utilisation measure activity over different horizons. [12]
+
+The ECB review documents the channels that make the distinction consequential: concentration in AI-related assets, growing use of external financing, fund leverage, and exposures across markets. It also reports an aggregate euro-area non-performing-loan ratio of 2.2%, evidence against claiming that banks were already experiencing generalized distress. [6] These observations point to potential amplification rather than a realised systemic crisis.
+
+A project with contracted revenue and committed financing behaves differently from one dependent on optimistic future utilization and recurring issuance. The latter may be postponed if investors revise either expected cash flows or required returns. Existing sunk expenditure is not necessarily reversed: construction may continue because stopping is more costly than completing it. New commitments can fall first, followed later by equipment orders, employment and demand for electricity. A sustained slowdown must therefore be tested with forward orders, committed capital expenditure, credit issuance terms and cash generation, not an equity-index decline alone.
+
+A separate financial channel runs through leveraged investors. A fall in collateral prices can lead to margin calls, redemptions and liquidation of assets that were not the original source of the shock. Sovereign bonds may initially act as a hedge but could be sold under cash pressure. The week's falling Treasury yields show that such generalized liquidation was not established by the Friday observations. [6, 12]
+
+```flow
+Lower expected project cash flows or higher risk premiums → lower asset valuations and potentially more expensive external financing → possible deferral of new projects → weaker future equipment and power demand
+Energy delivery constraints → higher operating costs and possible inflation persistence → limited monetary easing → greater financing pressure on new capital-intensive projects
+```
+
+These conditional chains can reinforce one another, but they can also break. Lower demand for power-intensive computing could release scarce grid capacity for industrial or household use. A reduction in equipment demand might lower equipment prices and make other investments more affordable. Conversely, delayed infrastructure can prolong power shortages if other sources of demand continue rising. The net consequence cannot be signed without evidence of local grid capacity, competing uses and contractual commitments.
+
+The main financial risk is consequently not a universal collapse in technology. It is a mismatch between long-lived investments, uncertain future income and the capacity of lenders and investors to finance projects through volatility. If new issuance remains orderly, operating cash flows strengthen and infrastructure projects proceed, the adverse feedback hypothesis loses force.
+
+### Distinguishing financial valuation from capital flows
+
+A higher discount rate reduces the present value of a given expected future income stream. The effect can be particularly large for companies whose expected cash generation lies far in the future. A downward revision to expected earnings adds a second source of pressure. Neither mechanism requires investors to doubt the technological usefulness of artificial intelligence. The economic question is whether expected revenues and margins are sufficient to support the prices paid for claims on future income and the physical investments needed to deliver it.
+
+A fall in market capitalization is a change in valuation. It is not a measurement of money withdrawn from the equity market or a transfer of an equivalent amount of cash to another country. Actual allocations must be measured with fund subscriptions, redemptions, portfolio transactions or comparable balance-of-payments data. Similarly, an appreciating dollar does not establish the amount of emerging-market capital outflow. Those distinctions prevent market commentary from being misread as evidence of a redistribution of ownership.
+
+Potential amplification occurs if falling collateral values lead to higher margin requirements, asset sales and a reduction in credit availability. That is a conditional mechanism. It requires evidence of leverage, margin pressure or forced sales; the observed volatility reading alone does not establish that these effects occurred. Borrowers with ample cash and long-maturity liabilities may remain insulated, while entities dependent on frequent market refinancing are more vulnerable. The distribution of refinancing dates matters more than a general label of risk aversion.
+
+
+## 4. Real activity: capacity utilisation, household demand and the composition of investment
 
 The Federal Reserve's 17 November release, before its scheduled annual revision, recorded a 0.4% monthly fall in total industrial production for October, following a 0.7% rise in September. Manufacturing grew 0.3%, mining declined 0.8%, and utilities fell 4.3%. Manufacturing excluding vehicles and parts declined 0.1%. Total industrial production remained 2.1% above its year-earlier level. [2]
 
@@ -38,9 +125,12 @@ The monthly and annual changes have different denominators and should not be com
 
 The October FOMC meeting minutes were released on 18 November. They provide evidence about deliberation at the earlier meeting rather than a fresh decision during the review week. [1] Market participants may adjust expectations after reading them, but a change in expected rates is not the same as a policy action. Investors therefore face two distinct questions: whether current demand warrants tighter or easier policy, and whether the inflation outlook permits that response.
 
-If industrial weakness spreads to payrolls and household spending, the argument for eventual relief becomes stronger. If price pressures persist, central bankers may instead require more evidence of slack. The resulting uncertainty can discourage companies from making large commitments before demand and funding conditions become clearer. The next US national accounts and consumption-price releases were scheduled for 25 November. Their outcomes were not known by the cutoff. [11]
+If industrial weakness spreads to payrolls and household spending, the argument for eventual relief becomes stronger. If price pressures persist, central bankers may instead require more evidence of slack. The resulting uncertainty can discourage companies from making large commitments before demand and funding conditions become clearer. The next US national accounts and consumption-price releases were scheduled for 25 November. Their outcomes were not known by the cutoff. [9]
 
-## 2. China and Asia: productive capacity is not synonymous with domestic demand
+The Federal Reserve also reported capacity utilization of 76.4%, three percentage points below its long-run average, and a 1.0% monthly rise in business equipment output alongside a 0.7% decline in consumer goods output. This supports a selective-demand interpretation, not a general capacity shortage. An investment boom in a narrow category can coexist with spare capacity elsewhere; the capacity needed for a particular grid connection, chip fabrication process or refinery cannot be inferred from national utilization. [2]
+
+
+### Industrial demand and the changing composition of China's investment
 
 China's October release, published on 16 November, showed industrial value added increasing 4.8% year on year, with manufacturing rising 5.4%. Retail sales of consumer goods increased only 0.4%. In the first ten months of 2026, overall fixed-asset investment excluding rural households fell 8.1% from the corresponding period of 2025; infrastructure investment fell 5.1%, manufacturing investment 2.9% and property development investment 21.6%. High-technology investment, in contrast, grew 4.0%. [5]
 
@@ -67,9 +157,10 @@ The adjustment is especially important in property because construction draws on
 
 The implication for China's trading partners depends on what they sell. An exporter of industrial machinery may be exposed to changes in investment composition, while a producer of bulk construction inputs may be more sensitive to the property adjustment. A consumer-goods supplier depends more on domestic spending. It is therefore misleading to reduce the international effect of Chinese activity to a single import elasticity.
 
-Japan's Cabinet Office published its first preliminary national accounts for the third quarter on 16 November. [10] That release belongs to a different observation period and measurement framework from China's monthly activity indicators. For Japan, the pertinent transmission channels include imported energy costs, household real purchasing power and external demand for manufactured goods. No numerical cross-country ranking of GDP growth is constructed from the unlike series. Comparable national accounts, export volumes and household spending are needed to evaluate whether Asian demand is broadening.
+China's fixed investment excluding real estate still declined 5.1% over January–October, while private investment fell 11.4%, including a 7.8% fall excluding real estate. That makes the weakness broader than construction alone. Nominal goods exports nevertheless increased 28.7% year on year in October. The nominal trade value can change through volumes, product mix and prices; it is not a real-volume measure. The combination raises a testable question about the degree to which external demand and selected industrial investments offset weaker domestic capital formation. China's producer prices increased 5.7% year on year, while consumer prices increased just 0.7%; these indices measure different stages and baskets, not an observed compression of every firm's margin. [5]
 
-## 3. Europe and the United Kingdom: inflation limits the response to weaker activity
+
+## 5. Inflation composition and monetary constraints
 
 Eurostat's 18 November release placed annual euro-area consumer inflation at 4.0% in October compared with 3.8% in September. The October component rates were 21.0% for energy, 3.3% for services, 1.5% for food, alcohol and tobacco, and 1.2% for non-energy industrial goods. The UK Office for National Statistics reported annual CPI inflation of 3.6%, up from 3.5% in September. [3, 4]
 
@@ -94,50 +185,39 @@ The comparison uses headline consumer indices rather than identical baskets. Pol
 
 The ECB's November Financial Stability Review examined vulnerabilities related to technology valuations, public debt and geopolitical tensions. It discussed the delay between pressure on firms and the deterioration of bank lending and asset quality. [6] This distinction helps reconcile two observations: current bank balance sheets may not show a severe deterioration while investors have reason to be concerned about future debt performance. The important evidence would be changes in arrears, provisioning, lending standards and the cost of refinancing, rather than a broad assertion that the banking system is already in distress.
 
-## 4. Financial markets: repricing is not the same as capital flight
+Eurostat's contribution data make the distinction more precise: energy accounted for 1.89 percentage points of October euro-area inflation, services for 1.55, food, alcohol and tobacco for 0.29 and non-energy industrial goods for 0.30, subject to rounding. Energy alone thus represented nearly half the published 4.0% annual rate, but services were still a substantial independent component. September's energy contribution was 1.72 percentage points. This is a decomposition of measured inflation, not an estimate of the causal effect of oil prices on monetary policy. The evidence supports monitoring both delivered energy costs and service-price persistence rather than assuming that lower crude prices automatically resolve inflation. [3]
 
-The Friday Reuters report described selling pressure that extended beyond technology shares, a volatility index reaching 30 during the session and a dollar index at its highest level in nineteen months. It also noted pressure on copper. [8] These are contemporaneous observations, not a complete synchronized dataset of Friday closing prices, and no precise weekly portfolio return is derived from them.
 
-A higher discount rate reduces the present value of a given expected future income stream. The effect can be particularly large for companies whose expected cash generation lies far in the future. A downward revision to expected earnings adds a second source of pressure. Neither mechanism requires investors to doubt the technological usefulness of artificial intelligence. The economic question is whether expected revenues and margins are sufficient to support the prices paid for claims on future income and the physical investments needed to deliver it.
+## 6. Currency constraints and institutional responses: why the adjustment differs across importers
 
-A fall in market capitalization is a change in valuation. It is not a measurement of money withdrawn from the equity market or a transfer of an equivalent amount of cash to another country. Actual allocations must be measured with fund subscriptions, redemptions, portfolio transactions or comparable balance-of-payments data. Similarly, an appreciating dollar does not establish the amount of emerging-market capital outflow. Those distinctions prevent market commentary from being misread as evidence of a redistribution of ownership.
+Indonesia's central bank raised its policy rate by 25 basis points to 6.00% on 18 November, although October inflation had declined from 3.28% to 3.23% and remained inside the target corridor. Its statement explicitly connected the decision to exchange-rate stability and future inflation, while maintaining accommodative macroprudential measures intended to support lending. The rupiah stood at 18,245 per dollar on 17 November, 0.66% weaker than at the end of October. [13]
 
-Potential amplification occurs if falling collateral values lead to higher margin requirements, asset sales and a reduction in credit availability. That is a conditional mechanism. It requires evidence of leverage, margin pressure or forced sales; the observed volatility reading alone does not establish that these effects occurred. Borrowers with ample cash and long-maturity liabilities may remain insulated, while entities dependent on frequent market refinancing are more vulnerable. The distribution of refinancing dates matters more than a general label of risk aversion.
+South Africa held its rate at 7.25% on 19 November despite inflation reaching 5.2% in October according to Reuters, which attributed the increase principally to fuel pressure. Its central bank identified global rates, energy and currency risk as important constraints. [14, 15]
 
-## 5. Energy, trade and emerging economies
+| Monetary authority | Decision during week | Policy setting | October consumer inflation |
+|---|---|---:|---:|
+| Bank Indonesia | +25 bp | 6.00% | 3.23% |
+| South African Reserve Bank | Hold | 7.25% | 5.2% |
 
-The IEA's November oil report estimated global supply at 105.4 million barrels per day in October, up 2.3 million barrels per day from September. It also estimated refinery runs of 81.3 million barrels per day and recorded a rise of 52 million barrels in observed inventories over the month. [7] The supply and refinery measures refer to different stages of the petroleum chain and cannot be subtracted to infer an exact excess of oil or a shortage of fuels.
+The policy instruments and price baskets are not identical; the comparison tests how central banks respond to external constraints, not which country has the more restrictive real rate. Indonesia's decision is particularly revealing because headline inflation had eased, yet exchange-rate vulnerability still warranted tightening in the central bank's judgment. South Africa illustrates a different response to an energy-driven increase in prices: maintaining an already restrictive rate while acknowledging upside risks. Neither action is evidence that policy has fully offset imported inflation.
 
-An improvement in crude availability can coexist with elevated delivered costs if shipping is unreliable, inventories are unevenly located, refinery capacity is constrained or insurance becomes expensive. The relevant geopolitical risk is therefore not just a change in crude benchmarks, but the reliability and cost of actual deliveries. The IEA describes continuing risks to Gulf energy transportation; the ECB treats related cost pressures as a potential source of delayed financial vulnerability. Neither source establishes the consequences of every individual incident. [6, 7]
+For fuel importers, the domestic price of a dollar-invoiced import depends jointly on its foreign-currency price and the exchange rate. A lower crude benchmark can therefore fail to reduce domestic costs if the currency weakens or product and freight premiums remain high. A rate rise may help contain currency and inflation expectations but cannot itself create more refinery output or transmission capacity. The mix of currency operations, bank liquidity incentives, targeted fiscal measures and investment in physical supply is important because no single instrument addresses all the mechanisms.
 
-```flow
-If energy deliveries become more costly or unreliable → firms face higher transport and input costs → margins or consumer prices may absorb the increase → persistent inflation may constrain policy relief → refinancing and investment may weaken if borrowing costs remain elevated
-```
+Trade institutions can influence a different part of the cost structure. APEC's leaders' declaration, issued on 21 November following the Shenzhen meeting, emphasized regional integration, supply-chain resilience and improved conditions for trade and investment. APEC's commitments operate through voluntary consensus, not automatically binding tariff schedules. [16] A declaration does not establish changed tariffs, a reduction in compliance costs or executed private investment. Observable implementation would require measures such as enacted customs procedures, interoperability standards, published regulations and subsequent transaction data.
 
-The flow is conditional rather than a measured historical causal estimate. Firms may absorb costs instead of increasing prices, use hedges, change suppliers or reduce production. If demand falls sufficiently, the price response may be weaker than the rise in input costs. These alternatives are important because the same external shock can appear as inflation in one economy and lower profits or investment in another.
+The importance of these signals follows from their mechanisms: Indonesia provides evidence of currency-related monetary constraints, South Africa of a different policy response to fuel inflation, and APEC of an institutional effort to reduce trade frictions. They are not regional quotas. The implications apply more broadly to import-dependent economies whose ability to finance resilience may be limited by external borrowing costs and currency volatility.
 
 ```map
-title: Regional transmission channels, not measured exposure rankings
-United States | Discount rates and manufacturing orders | Watch credit availability and household demand
-Europe | Energy import costs and inflation | Pass-through varies by sector and household basket
-China | Domestic investment and industrial sales | Construction and advanced manufacturing differ
-Japan | Imported energy and external manufacturing demand | Exchange rates and household income matter
-Brazil | Commodity receipts, currency and borrowing costs | Export gains may coexist with domestic inflation
+title: Global transmission through distinct physical and financial exposures
+East and Southeast Asia | Gulf fuel imports, semiconductor value chains and currencies | Physical and financial exposure differ
+Middle East | Export revenue and route reliability | Recovery in crude does not imply product recovery
+Europe | Imported energy and leveraged financial exposure | Consumer prices and refinancing respond with lags
+Africa | Fuel affordability and electricity investment | External funding and household purchasing power constrain adjustment
+Americas | Alternative oil supply and capital markets | Production opportunities are not committed projects
 ```
 
-Emerging-market vulnerability is not uniform. A net oil importer with large near-term dollar liabilities may be exposed both to a higher fuel bill and to exchange-rate depreciation. An oil exporter may receive additional export income while its households still face higher domestic transport costs. Countries with longer debt maturities, more local-currency financing and liquid reserves may experience a smaller immediate financial adjustment. No country ranking is made without comparable reserve, maturity and current-account observations. Canada, another commodity-producing economy, released its October consumer price report on 16 November; its existence is a reminder that domestic consumer baskets and national production structures must be studied separately. [12]
 
-## 6. Brazil: restrictive policy and asymmetric commodity exposure
-
-Brazil entered the week with a Selic target of 13.75%, maintained at the November Copom meeting. The published minutes described slower domestic activity, inflation risks from energy and other supply pressures, and uncertainty related to domestic conditions and exchange rates. [9] These are policy assessments available before the review period, not a new rate decision made during the week.
-
-For Brazil, weaker Chinese construction-related investment may pressure the demand outlook for certain commodity exports, while expensive oil has different consequences for exporters, refiners, transport firms and consumers. Export revenue can provide support to the external accounts even when higher domestic fuel costs compress disposable income. The exchange-rate response depends on global risk appetite, trade receipts, interest differentials and domestic fiscal expectations. It should not be inferred from an isolated commodity price.
-
-The domestic credit channel is particularly relevant where households or small businesses refinance debt frequently. A high policy rate does not translate one-for-one into every borrowing rate because bank funding costs, competition, collateral and borrower risk differ. Conversely, even unchanged policy rates can coincide with a rise in the marginal cost of credit if lenders become more cautious. The report does not infer realized Brazilian capital outflows, a new fiscal deterioration or a measured change in local default rates without direct series.
-
-Fiscal policy has its own transmission mechanism. If government borrowing costs stay high for an extended period, the impact on interest expenditure depends on the stock of floating-rate liabilities, new issuance and debt maturities. A temporary market-price movement is not a complete fiscal projection. Any assessment of debt sustainability must incorporate the primary balance, nominal growth, interest expense and debt composition rather than simply comparing the Selic with a growth rate.
-
-## 7. Scenarios and indicators to watch
+## 7. Scenarios, observable triggers and falsification
 
 The base scenario is a continued uneven expansion with limited immediate monetary relief. Under this scenario, manufacturing orders and employment weaken only in selected industries, commodity supplies gradually improve and price pressures subside unevenly. It does not presume a specific interest-rate decision or numerical GDP forecast.
 
@@ -152,6 +232,9 @@ An adverse scenario combines persistent energy delivery costs, renewed valuation
 | Energy logistics | IEA supply, inventories, freight and actual deliveries | Reliable deliveries and lower costs would weaken the adverse supply scenario |
 
 The preferred interpretation would be weakened by synchronized improvements in household demand, broad investment and industrial activity alongside easing price pressure and stable credit markets. It would gain support if rising borrowing costs coincide with weaker orders, falling investment and worsening debt service. The observation windows must remain aligned when evaluating these tests. A future national accounts release may clarify the outlook without retrospectively changing what was known on 22 November.
+
+The decisive joint test is whether the recovery in crude availability reaches land inventories and finished products at the same time that the financing of new energy and computing capacity remains viable. A divergence between those observations would require revising the thesis: physical normalization without financing improvement points to a demand or balance-sheet constraint; financing improvement without physical normalization points to a delivery and capacity constraint. Simultaneous recovery would weaken both adverse channels. Neither the IEA scenarios nor the equity repricing establish which path will materialize.
+
 
 ## Sources and methodology
 
@@ -173,10 +256,18 @@ The assessment uses dated official releases, central-bank minutes, institutional
 
 [8] Reuters, global market sell-off, 20 November 2026 (intraday reporting): https://www.reuters.com/business/energy/global-markets-selloff-2026-11-20/
 
-[9] Banco Central do Brasil, minutes of 3–4 November Copom meeting: https://www.bcb.gov.br/publicacoes/atascopom/04112026?trk=article-ssr-frontend-pulse_little-text-block
+[9] BEA, 2026 release calendar (scheduled releases only): https://www.bea.gov/news/schedule/full
 
-[10] Japan Cabinet Office, first preliminary Q3 national accounts, 16 November 2026: https://www.esri.cao.go.jp/en/sna/data/sokuhou/files/2026/qe263/gdemenuea.html
+[10] IEA, World Energy Outlook 2026, executive summary, 19 November: https://www.iea.org/reports/world-energy-outlook-2026/executive-summary
 
-[11] BEA, 2026 release calendar (scheduled releases only): https://www.bea.gov/news/schedule/full
+[11] IEA, World Energy Outlook 2026, implications for energy security and affordability, 19 November: https://www.iea.org/reports/world-energy-outlook-2026/implications-for-energy-security-and-affordability
 
-[12] Statistics Canada, October CPI release, 16 November 2026: https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm
+[12] Reuters, global market closing report, 20 November, via London South East: https://www.lse.co.uk/news/global-markets-tech-leads-global-stocks-rout-treasury-yields-fall-whpwhcgftnu8g1y.html?mobile_view=desktop
+
+[13] Bank Indonesia, policy decision, 18 November 2026: https://www.bi.go.id/en/iru/highlight-news/Pages/BI-Rate-Raised-25-bps-to-6.00-percent-Strengthening-Stability,-Supporting-Economic-Growth.aspx
+
+[14] South African Reserve Bank, monetary policy statement, 19 November: https://www.reservebank.co.za/en/home/publications/publication-detail-pages/statements/monetary-policy-statements/2026/november
+
+[15] Reuters, South African monetary policy decision, 19 November: https://www.reuters.com/world/africa/south-africa-central-bank-maintains-policy-rate-close-call-2026-11-19/
+
+[16] APEC, Leaders' Declaration, published 21 November 2026: https://www.apec.org/meeting-papers/leaders-declarations/2026/2026-apec-leaders-declaration
