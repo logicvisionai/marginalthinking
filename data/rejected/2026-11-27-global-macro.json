@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "MT-GM-2026-11-27",
+  "slug": "2026-11-27-global-macro",
+  "revision": 0,
+  "rejection_count_for_id": 1,
+  "rejection_loop_limit_reached": false,
+  "qa_status": "rejected",
+  "reviewed_at": "2026-11-27T09:04:49-03:00",
+  "reviewed_commit": "e46fedbb7f15812afd8bc90bb8a8413c0c3837d7",
+  "pending_blob_sha": "bab82203aa7adcf10f0058b4defe9a2ad691fb08",
+  "source_blob_shas": {
+    "en": "e5f44938ec70405beb3bd01856019fba7710915f",
+    "pt-BR": "3c7886c7ce2b1557ed2154a27c5e9f168164c582"
+  },
+  "previous_rejections": [],
+  "checks": {
+    "research_depth": {
+      "result": "failed",
+      "summary": "Exact validator substantive EN word count 1643 < 1700; PT-BR 1921 passes."
+    },
+    "system_registry_reconciliation": {
+      "result": "failed",
+      "summary": "No report-specific run ID or seven asset decisions yet."
+    },
+    "factual_methodology": {
+      "result": "passed_with_limitation",
+      "summary": "NBS, BoE, LSEG Lipper, Reuters, INE and BEA principal figures corroborated; clarify revenue recognition, potential exposure includes outstanding debt, and use verified Spanish INE URL."
+    }
+  },
+  "notes": "Reject original staged tuple, preserve history; revision requires fresh QA.",
+  "required_fixes": [
+    "Expand substantive English analysis with bilingual parity.",
+    "Record actual seven-asset reconciliation.",
+    "Correct accounting wording and primary reference links."
+  ]
+}
