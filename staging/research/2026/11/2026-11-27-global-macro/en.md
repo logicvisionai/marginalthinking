@@ -6,7 +6,7 @@
 
 The new evidence is not Friday's recovery in technology shares alone. It is the simultaneous emergence of three measures of the same investment cycle: a sharp concentration of industrial profit growth in China, the Bank of England's quantified assessment of AI financing commitments, and the largest weekly net withdrawal from global equity funds in fourteen months. They measure different populations and periods, but together clarify why a strong industrial earnings report and a fragile financial market can coexist. [1] [2] [3] [4]
 
-China's industrial profits increased 20.1% year on year in October, after 14.4% in September. The rebound is not evenly distributed. Meanwhile, the Bank of England estimates that the potential exposure of large cloud infrastructure firms, including contractual commitments outside their balance sheets, is slightly above US$4 trillion. That is neither realized debt nor expected losses. It identifies a financial transmission channel whose significance cannot be inferred from the price of a semiconductor share. [1] [2] [3]
+China's industrial profits increased 20.1% year on year in October, after 14.4% in September. The rebound is not evenly distributed. Meanwhile, the Bank of England estimates that the potential exposure of large cloud infrastructure firms, including contractual commitments outside their balance sheets, is slightly above US$4 trillion. The estimate combines debt with potential contractual liabilities; it is not a measure of outstanding debt alone or expected losses. It identifies a financial transmission channel whose significance cannot be inferred from the price of a semiconductor share. [1] [2] [3]
 
 The working assessment is that AI infrastructure demand can sustain the revenue of parts of global manufacturing even as investors become less willing to finance its future expansion. If that divergence lasts, the adjustment would appear first in new financing terms and project decisions, later in orders and employment. The inference is conditional: there is no verified aggregate cancellation of AI infrastructure investment in today's evidence.
 
@@ -27,7 +27,11 @@ Operating costs | 6.2
 
 All three observations cover the same cumulative period, but measure different accounting aggregates; the values are not additive. The gap does not establish that AI caused the aggregate increase. It can also reflect input prices, sector weights, operating leverage and changes in product mix.
 
-A manufacturer selling equipment to a data-centre supply chain receives revenue when a customer orders or accepts equipment; the ultimate return on the data-centre project may take years to emerge. Rising supplier profits thus need not prove that the buyer's future investment is economically viable. Conversely, a decline in the buyer's equity valuation does not erase existing purchase commitments. The lag between these two balance sheets is the central issue.
+A manufacturer supplying equipment to a data-centre project can receive orders well before revenue is recognized, generally when control of the contracted goods passes to the customer; the ultimate return on the data-centre project may take years to emerge. Rising supplier profits thus need not prove that the buyer's future investment is economically viable. Conversely, a decline in the buyer's equity valuation does not erase existing purchase commitments. The lag between these two balance sheets is the central issue.
+
+The concentration extends upstream. In its separate interpretation of the industrial data, the NBS attributed stronger demand and prices for basic metals in part to the development of new-energy and AI industries. Profits in non-ferrous metal mining increased 60.2% and in non-ferrous smelting and rolling 71.7%; the two activities together contributed 4.6 percentage points to aggregate industrial profit growth. [12] This contribution is measured for two industries, not for AI alone. Energy transition demand, commodity prices and other uses of these metals are also relevant.
+
+This distinction changes the policy interpretation. A rise in profits concentrated in electronics and upstream materials can strengthen tax receipts and corporate cash flow without resolving weak downstream demand. An external investment slowdown would affect the strongest contributors precisely when broader domestic demand is still weak. The NBS decomposition therefore provides a reason to track metal orders and realized margins alongside data-centre financing, rather than infer an economy-wide recovery from the headline profit growth. The data do not identify the final purchasers of Chinese metals or estimate the fraction consumed by AI infrastructure.
 
 ## 2. AI financing now extends well beyond equity prices
 
@@ -124,10 +128,12 @@ The next observations should be actual project financing and cancellation disclo
 
 7. Reuters, 27 Nov 2026, Tokyo inflation and monetary policy: https://www.reuters.com/markets/asia/core-inflation-japans-capital-accelerates-november-2026-11-26/
 
-8. INE Spain, 27 Nov 2026, November CPI and HICP flash estimates: https://www.ine.es/dyngs/Prensa/en/adIPC1126.htm
+8. INE Spain, 27 Nov 2026, November CPI and HICP flash estimates: https://www.ine.es/dyngs/Prensa/es/adIPC1126.htm
 
 9. Reuters, 27 Nov 2026, oil prices and supply concerns: https://www.reuters.com/business/energy/brent-trades-near-months-high-mideast-conflict-threatens-supply-2026-11-27/
 
 10. BEA, 25 Nov 2026, October personal income and outlays: https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026
 
 11. BEA, 25 Nov 2026, third-quarter GDP second estimate: https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026
+
+12. National Bureau of Statistics of China, 27 Nov 2026, interpretation of January–October industrial profit data: https://www.stats.gov.cn/sj/sjjd/202611/t20261127_1965950.html
