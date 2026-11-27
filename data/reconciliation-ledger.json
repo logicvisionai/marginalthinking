@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-26T14:39:29-03:00",
+  "last_reconciled_at": "2026-11-26T23:27:27-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -11041,6 +11041,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "Publication-stage recheck: Vaccine matching and diagnostic capacity are operational requirements; no new validated technical capability, deployment milestone or manufacturing-scale signal is established."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-mt-gm-2026-11-24-revision-10-publication-reconciliation",
+      "reconciled_at": "2026-11-26T23:27:27-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-24"
+      ],
+      "audit_note": "Fresh producer-stage reconciliation of revision 10; exact EN dcb3ef6a1eaae0c1f30df0cf3576d8021217eef2 and PT-BR 66ca8738f7ab8f1a0f31b6f0294f9ea493cbb0fc. Reviewed all seven active cumulative datasets against the revised PMI scope and conditional EM financing mechanism. No canonical dataset change justified. Information cutoff remains 24 November 20:45 BRT; this operational review is not new report evidence. QA remains revoked pending independent review of updated tuple.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Reviewed data/global-dependencies.json (d311452b0f03c1352e914500491636d414bc77a3). Existing dep-hormuz-gulf-exports and dep-eastwest-gulf-exports already represent the shipping mechanism. Worldsteel regional totals, PMI and IIF monthly flows do not identify bilateral weights or sustained changes in realized Gulf flows. Revision 10 makes EM refinancing and investment effects conditional; no new dependency edge or criticality change established."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "not_applicable",
+          "note": "Reviewed data/structural-opportunities.json (9776c07115e843ac495f1ce91d180e4c209728d1). Steel output and sentiment dispersion, ifo and borrowing conditions do not identify a project with verified sponsor, committed funding, capacity, permits and contracted demand."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Reviewed data/strategic-actors.json (e5b7df35b6612a7038e720443917eb260b35b7f1). Attributed Nvidia executive reinstatement and equity-price moves do not establish documented changes in ownership, voting rights or enduring strategic-control relations; insufficient primary board documentation to change actor record."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Reviewed data/resource-control-atlas.json (ccc503893cfff0a9048f65a1b1b64b014df19d47). Worldsteel output, IEA supply estimates and oil prices do not establish changes in concession, reserve ownership, resource rights or operator control."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Reviewed data/policy-cases.json (dbd5e673e2e3a850138281e0285d3f9655b3aafd). Central-bank settings and Brazilian macrofiscal forecast revisions do not constitute a completed evaluated intervention with measured ex-post outcomes and counterfactual."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Reviewed data/conflict-systems.json (b1caae37798e4fa6557cc1fd660991551f52a3fd). Attributed shipping incident reports at Hormuz do not establish independently verified incident details, sustained export loss or conflict-system state change. No canonical event added."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "Reviewed data/technology-signals.json (9466c57784881a610a4d227fe4b5c33c34157c69). AI-related equity prices, executive news and semiconductor demand do not establish a validated technical capability, deployment milestone or manufacturing-scale signal."
         }
       ]
     }
