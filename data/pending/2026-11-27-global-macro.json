@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GM-2026-11-27",
+  "slug": "2026-11-27-global-macro",
+  "date": "2026-11-27",
+  "published_at": "2026-11-27T08:42:00-03:00",
+  "kind": "daily-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "technology-production-society",
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "capital-markets",
+    "banking-credit",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources"
+  ],
+  "phenomena": [],
+  "format": "brief",
+  "cadence": "daily",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-27-global-macro/en.md",
+      "title": "AI equities rebound as industrial profits and credit exposures reveal a more concentrated global cycle",
+      "deck": "China's latest industrial profit figures, the Bank of England's quantified AI-financing assessment and global fund withdrawals reveal a divergence between current production and future investment financing. Tokyo and Spanish inflation and renewed oil supply risks constrain the monetary response.",
+      "tags": [
+        "Global Macro",
+        "AI financing",
+        "industrial profits",
+        "capital flows",
+        "inflation",
+        "oil"
+      ],
+      "keywords": [
+        "China industrial profits October 2026",
+        "Bank of England financial stability November 2026",
+        "hyperscaler credit",
+        "LSEG Lipper equity flows",
+        "Tokyo CPI",
+        "Spain CPI",
+        "Brent"
+      ],
+      "regime": "Selective risk recovery; concentrated industrial profit growth and differentiated credit conditions.",
+      "key_risk": "Higher financing costs and weaker project returns could slow infrastructure orders while energy price pressures restrict policy flexibility.",
+      "watch": [
+        "AI financing commitments and credit spreads",
+        "New equipment orders",
+        "Global fund flows",
+        "Japan and Spain final inflation",
+        "Gulf oil exports"
+      ],
+      "search_text": "27 November 2026 China industrial profits 20.1 percent October Bank of England hyperscaler exposure 4 trillion bonds 305 billion equity funds outflow 22.73 billion Tokyo CPI Spain inflation Brent 97.30"
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-27-global-macro/pt-BR.md",
+      "title": "Ações de IA se recuperam, mas lucros industriais e riscos de crédito revelam um ciclo global mais concentrado",
+      "deck": "Os novos dados de lucros industriais chineses, a avaliação quantitativa do financiamento da IA pelo Banco da Inglaterra e os resgates de fundos globais revelam uma divergência entre produção corrente e financiamento de investimentos futuros. Inflação de Tóquio e da Espanha e riscos na oferta de petróleo limitam a resposta monetária.",
+      "tags": [
+        "Global Macro",
+        "financiamento de IA",
+        "lucros industriais",
+        "fluxos de capital",
+        "inflação",
+        "petróleo"
+      ],
+      "keywords": [
+        "lucros industriais chineses outubro 2026",
+        "Banco da Inglaterra estabilidade financeira novembro 2026",
+        "crédito grandes empresas de nuvem",
+        "fluxos LSEG Lipper",
+        "IPC Tóquio",
+        "IPC Espanha",
+        "Brent"
+      ],
+      "regime": "Recuperação seletiva dos ativos de risco, concentração do crescimento dos lucros industriais e condições de crédito diferenciadas.",
+      "key_risk": "Financiamento mais caro e retornos menores podem reduzir encomendas de infraestrutura enquanto pressões de energia restringem a política monetária.",
+      "watch": [
+        "Compromissos de financiamento de IA e prêmios de crédito",
+        "Novas encomendas de equipamentos",
+        "Fluxos de fundos globais",
+        "Inflação definitiva no Japão e na Espanha",
+        "Exportações de petróleo do Golfo"
+      ],
+      "search_text": "27 novembro 2026 lucros industriais chineses 20,1 outubro Banco da Inglaterra exposição 4 trilhões títulos 305 bilhões resgate fundos 22,73 bilhões IPC Tóquio Espanha Brent 97,30"
+    }
+  },
+  "signal_rationale": {
+    "delta": "Compared with 26 November tariff proposals and GDP/PCE, the new delta is NBS industrial profits, Bank of England 26 November quantified AI-credit exposure, 27 November fund flows and contrasting inflation releases. Tariffs are not the lead.",
+    "evidence": "NBS 27 November official data; BoE Financial Stability Report 26 November; LSEG Lipper via Reuters 27 November; Japan Statistics Bureau and INE 27 November; Reuters oil and early markets.",
+    "scale_path": "AI demand and contracts support financing and supplier orders; financing repricing can affect new orders before current profits fall.",
+    "transmission": "Expected AI returns → contract-backed debt and equity → data centre investment → equipment orders and industrial profit; energy and inflation constrain monetary offsets.",
+    "falsifier": "Durable improvement in paid AI demand and cash flow, narrower credit spreads, diversified industrial profitability and sustained fund inflows weaken the thesis."
+  },
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "Market data intraday; US cash session not closed.",
+    "Fund flows are sampled, not total capital flows.",
+    "BoE exposure includes contingent contractual commitments, not losses.",
+    "Tokyo and Spain inflation definitions differ.",
+    "Physical oil losses not independently verified."
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-11-27 08:42 America/Sao_Paulo",
+    "comparative_editions": [
+      "MT-GM-2026-11-26",
+      "MT-GM-2026-11-25"
+    ],
+    "novelty_decision": "New industrial profit and financial stability evidence supports a distinct lead.",
+    "fact_inference_scenario_separated": true,
+    "bilingual_parity": {
+      "same_numeric_series": true,
+      "same_reference_count": true,
+      "charts": 2,
+      "tables": 1,
+      "flows": 1,
+      "maps": 1,
+      "references_en": 11,
+      "references_pt": 11
+    },
+    "visual_evidence": {
+      "charts": 2,
+      "tables": 1,
+      "flows": 1,
+      "maps": 1
+    }
+  }
+}
