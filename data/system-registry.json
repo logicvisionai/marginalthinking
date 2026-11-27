@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "updated_at": "2026-11-13T10:27:55.512Z",
+  "updated_at": "2026-11-26T23:54:42-03:00",
   "decision_states": [
     "updated",
     "verified_no_change",
@@ -954,6 +954,21 @@
       "update_mode": "event-driven",
       "reconciliation_required": false,
       "freshness_sla_hours": null
+    },
+    {
+      "id": "editorial-global-macro-weekly",
+      "type": "editorial-line",
+      "status": "active",
+      "kind": "weekly-global-macro",
+      "program": "political-economy-markets",
+      "public_route": "/reports/",
+      "source_files": [
+        "data/reports.json",
+        "RESEARCH-PUBLISHING.md"
+      ],
+      "update_mode": "weekly-event-driven",
+      "reconciliation_required": false,
+      "freshness_sla_hours": 192
     }
   ]
 }
