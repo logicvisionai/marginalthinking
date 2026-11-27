@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-26T23:54:42-03:00",
+  "last_reconciled_at": "2026-11-27T00:06:35-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -11131,6 +11131,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "AI equity repricing and Chinese high-tech investment are financial and activity indicators, not demonstrated technical milestones or independent validation."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-mt-gmw-2026-11-23-revision-2-producer-reconciliation",
+      "reconciled_at": "2026-11-27T00:06:35-03:00",
+      "report_ids_reviewed": [
+        "MT-GMW-2026-11-23"
+      ],
+      "audit_note": "Revision 2 producer reconciliation. Reviewed all active cumulative datasets (source blob SHAs: data/global-dependencies.json d311452b0f03c1352e914500491636d414bc77a3; data/structural-opportunities.json 9776c07115e843ac495f1ce91d180e4c209728d1; data/strategic-actors.json e5b7df35b6612a7038e720443917eb260b35b7f1; data/resource-control-atlas.json ccc503893cfff0a9048f65a1b1b64b014df19d47; data/policy-cases.json dbd5e673e2e3a850138281e0285d3f9655b3aafd; data/conflict-systems.json b1caae37798e4fa6557cc1fd660991551f52a3fd; data/technology-signals.json 9466c57784881a610a4d227fe4b5c33c34157c69); exact EN 681655e6a7ba497ac22a5148429491fd15b722b6, PT-BR db4b64d438ebb6f3cb053968be415d023ea139fd. Structural WEO and ECB evidence added; no canonical dataset edit justified within this weekly issue. Source cutoff unchanged. Independent QA remains required.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "WEO 2026 documents pre-crisis Asian destination shares for Hormuz oil/LNG and distinct crude versus product recovery; existing dependency edges describe Gulf-route risk. The additional WEO scenario paths are conditional and require a dedicated route/commodity observation audit before any canonical weight, edge or substitutability revision."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "WEO modelled copper gap, peak-power demand and substitution cases identify possible investment needs, not verified projects with committed capital, site, sponsor, permits, capacity and contracted demand. No candidate promoted on scenario evidence alone."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "ECB reports financing concentration, hyperscaler external debt and investor exposure, but the report does not identify a new beneficial ownership or voting-control relation or instrument-level mapping adequate to change actor records."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "IEA discusses mineral processing concentration and potential copper constraints; the weekly analysis does not establish changed title, concession, ownership or operator rights over specific reserves or assets."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "Indonesia and South Africa decisions and APEC declaration are recent policy actions, not ex-post evaluations with measured outcomes and counterfactual evidence."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "IEA aggregate Gulf supply losses and transport constraints evidence economic consequences, not independently verified incident-level or territorial/control changes. Do not infer new conflict events or attribution."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "not_applicable",
+          "note": "AI expenditure forecasts, equity movements, credit issuance and electricity scenarios are financial and system-demand evidence, not a demonstrated new technical capability or verified technology milestone."
         }
       ]
     }
