@@ -1,0 +1,129 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-TPS-2026-11-27-SOFTWARE",
+  "slug": "2026-11-27-software-commoditization-labor-scarcity",
+  "date": "2026-11-27",
+  "published_at": "2026-11-27T09:13:00-03:00",
+  "kind": "economic-paradigm-assessment",
+  "priority": 4,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "technology-production-society",
+  "related_programs": [
+    "political-economy-markets"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "technology-innovation",
+    "industry-production",
+    "demography-labor",
+    "trade-investment",
+    "institutions-governance"
+  ],
+  "phenomena": [
+    "institutional-change",
+    "social-change"
+  ],
+  "format": "research-report",
+  "cadence": "event-driven",
+  "signal_rationale": {
+    "delta": "Commoditization of implementation and labor scarcity, distinct from a daily technology signal.",
+    "evidence": "ITU connectivity, BLS projections, Stanford HAI and Digital Economy Lab, NBER and ILO.",
+    "scale_path": "Knowledge diffusion and reusable infrastructure lower implementation cost; AI accelerates selected execution tasks.",
+    "transmission": "Lower cost and expanded supply change substitution, wage bargaining and complementary asset rents.",
+    "falsifier": "Persistent growth in real wages and entry-level hiring for standardized tasks relative to validated output would weaken the thesis."
+  },
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "No harmonized global surplus measure; US data cannot establish worldwide displacement.",
+    "AI exposure and employment association are not causal estimates."
+  ],
+  "revision": 1,
+  "producer_checks": {
+    "information_cutoff": "2026-11-27",
+    "fact_inference_scenario_separated": true,
+    "novelty_decision": "Historical labor supply and product economics, differentiated from infrastructure-focused digital abundance research.",
+    "bilingual_parity": {
+      "same_numeric_series": true,
+      "same_reference_count": true
+    },
+    "manual_preflight": {
+      "word_count_en": 2801,
+      "word_count_pt": 3063,
+      "references_en": 10,
+      "references_pt": 10
+    }
+  },
+  "url": "/reports/2026/11/2026-11-27-software-commoditization-labor-scarcity.html",
+  "qa_status": "approved",
+  "qa_reviewed_at": "2026-11-27T12:13:00Z",
+  "qa_confidence": "medium",
+  "qa_reviewed_commit": "240c81d632c56406d6fb42d88b4f54a089751684",
+  "locales": {
+    "en": {
+      "markdown": "en.md",
+      "title": "Software After Scarcity: The Commoditization of Code and Technological Labor",
+      "deck": "The internet, open source, globally traded labor and AI have lowered the costs of technological production. Their cumulative effect may redistribute income between workers, software vendors and owners of complementary capital.",
+      "tags": [
+        "Technology",
+        "Labor",
+        "Software",
+        "Artificial Intelligence",
+        "Political Economy"
+      ],
+      "keywords": [
+        "software commoditization",
+        "labor economics",
+        "automation",
+        "open source",
+        "AI agents"
+      ],
+      "regime": "Declining implementation costs and uneven labor demand.",
+      "key_risk": "Entry-level opportunities and income distribution may deteriorate even as output rises.",
+      "watch": [
+        "Real wages by seniority",
+        "Verified software delivery",
+        "Entry-level vacancies",
+        "Infrastructure concentration"
+      ]
+    },
+    "pt-BR": {
+      "markdown": "pt-BR.md",
+      "title": "O software depois da escassez: a comoditização do código e do trabalho tecnológico",
+      "deck": "Internet, código aberto, globalização do trabalho e IA reduziram os custos da produção tecnológica. Seus efeitos cumulativos podem redistribuir renda entre trabalhadores, fornecedores de software e proprietários de capital complementar.",
+      "tags": [
+        "Tecnologia",
+        "Trabalho",
+        "Software",
+        "Inteligência Artificial",
+        "Economia Política"
+      ],
+      "keywords": [
+        "comoditização do software",
+        "economia do trabalho",
+        "automação",
+        "código aberto",
+        "agentes de IA"
+      ],
+      "regime": "Redução dos custos de implementação e demanda desigual por trabalho.",
+      "key_risk": "Oportunidades de entrada e distribuição da renda podem deteriorar-se mesmo com expansão da produção.",
+      "watch": [
+        "Salários reais por senioridade",
+        "Entregas validadas",
+        "Vagas de entrada",
+        "Concentração de infraestrutura"
+      ]
+    }
+  }
+}

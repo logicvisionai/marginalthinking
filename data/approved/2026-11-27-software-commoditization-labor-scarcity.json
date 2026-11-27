@@ -1,0 +1,210 @@
+{
+  "schema_version": 2,
+  "id": "MT-TPS-2026-11-27-SOFTWARE",
+  "slug": "2026-11-27-software-commoditization-labor-scarcity",
+  "revision": 1,
+  "program": "technology-production-society",
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-27T12:13:00Z",
+  "reviewed_commit": "240c81d632c56406d6fb42d88b4f54a089751684",
+  "pending_blob_sha": "3e428c64080d617a7e5516b880c0d7c455ea20c4",
+  "source_blob_shas": {
+    "en": "514fe1fe8e3ecb355aa2280d09762ae53b4abe43",
+    "pt-BR": "a6be174d4223d7dc17f1bb94225f3113d9c4a1e9"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed",
+      "summary": "Both staged sources and pending object reread; exact blob SHAs preserved."
+    },
+    "schema_and_taxonomy": {
+      "result": "passed",
+      "summary": "Existing taxonomy and schema v2 used."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "ITU 2026, BLS projections, Stanford August 2026 and earlier sources distinguished."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Replacement cost, benchmark inference, forecasts and descriptive evidence separated from causal inference."
+    },
+    "evidence_traceability": {
+      "result": "passed",
+      "summary": "Ten URLs per locale; core figures cross-checked against ITU, BLS, Stanford and HBS records; WTO, NBER, ILO and CMA references."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "EN 2687, PT 2941 words; historical, labor, product, capital and future scenarios."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two charts, two tables, one flow and one map per language."
+    },
+    "bilingual_equivalence": {
+      "result": "passed",
+      "summary": "Matching numbers, source set, mechanism and conclusions."
+    },
+    "novelty_vs_corpus": {
+      "result": "passed",
+      "summary": "Historical labor and software market thesis, not a daily signal."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Demand expansion can offset productivity; cyclical and structural effects differentiated."
+    },
+    "editorial_style": {
+      "result": "passed",
+      "summary": "Public substantive prose without process narration."
+    },
+    "system_registry_reconciliation": {
+      "result": "passed",
+      "summary": "Seven scope decisions recorded; no unsupported asset changes."
+    },
+    "publication_snapshot_integrity": {
+      "result": "passed",
+      "summary": "Identical staged and public Markdown blobs."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Same-session manual review for direct publication; full automated build not executed."
+    }
+  },
+  "contrary_evidence": [
+    "Demand expansion may increase employment.",
+    "Occupational projections diverge; exposure is not displacement."
+  ],
+  "limitations": [
+    "Same-session manual editorial review, not an independent second reviewer or locally executed full build.",
+    "No harmonized measure of global technology labor surplus; occupational estimates are not globally causal.",
+    "Scenarios are conditional and qualitative."
+  ],
+  "notes": "Direct publication requested; manual review documented without claiming independent QA.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-TPS-2026-11-27-SOFTWARE",
+    "slug": "2026-11-27-software-commoditization-labor-scarcity",
+    "date": "2026-11-27",
+    "published_at": "2026-11-27T09:13:00-03:00",
+    "kind": "economic-paradigm-assessment",
+    "priority": 4,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "technology-production-society",
+    "related_programs": [
+      "political-economy-markets"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "technology-innovation",
+      "industry-production",
+      "demography-labor",
+      "trade-investment",
+      "institutions-governance"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-27-software-commoditization-labor-scarcity/en.md",
+        "title": "Software After Scarcity: The Commoditization of Code and Technological Labor",
+        "deck": "The internet, open source, globally traded labor and AI have lowered the costs of technological production. Their cumulative effect may redistribute income between workers, software vendors and owners of complementary capital.",
+        "tags": [
+          "Technology",
+          "Labor",
+          "Software",
+          "Artificial Intelligence",
+          "Political Economy"
+        ],
+        "keywords": [
+          "software commoditization",
+          "labor economics",
+          "automation",
+          "open source",
+          "AI agents"
+        ],
+        "regime": "Declining implementation costs and uneven labor demand.",
+        "key_risk": "Entry-level opportunities and income distribution may deteriorate even as output rises.",
+        "watch": [
+          "Real wages by seniority",
+          "Verified software delivery",
+          "Entry-level vacancies",
+          "Infrastructure concentration"
+        ]
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-27-software-commoditization-labor-scarcity/pt-BR.md",
+        "title": "O software depois da escassez: a comoditização do código e do trabalho tecnológico",
+        "deck": "Internet, código aberto, globalização do trabalho e IA reduziram os custos da produção tecnológica. Seus efeitos cumulativos podem redistribuir renda entre trabalhadores, fornecedores de software e proprietários de capital complementar.",
+        "tags": [
+          "Tecnologia",
+          "Trabalho",
+          "Software",
+          "Inteligência Artificial",
+          "Economia Política"
+        ],
+        "keywords": [
+          "comoditização do software",
+          "economia do trabalho",
+          "automação",
+          "código aberto",
+          "agentes de IA"
+        ],
+        "regime": "Redução dos custos de implementação e demanda desigual por trabalho.",
+        "key_risk": "Oportunidades de entrada e distribuição da renda podem deteriorar-se mesmo com expansão da produção.",
+        "watch": [
+          "Salários reais por senioridade",
+          "Entregas validadas",
+          "Vagas de entrada",
+          "Concentração de infraestrutura"
+        ]
+      }
+    },
+    "signal_rationale": {
+      "delta": "Commoditization of implementation and labor scarcity, distinct from a daily technology signal.",
+      "evidence": "ITU connectivity, BLS projections, Stanford HAI and Digital Economy Lab, NBER and ILO.",
+      "scale_path": "Knowledge diffusion and reusable infrastructure lower implementation cost; AI accelerates selected execution tasks.",
+      "transmission": "Lower cost and expanded supply change substitution, wage bargaining and complementary asset rents.",
+      "falsifier": "Persistent growth in real wages and entry-level hiring for standardized tasks relative to validated output would weaken the thesis."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "No harmonized global surplus measure; US data cannot establish worldwide displacement.",
+      "AI exposure and employment association are not causal estimates."
+    ],
+    "revision": 1,
+    "producer_checks": {
+      "information_cutoff": "2026-11-27",
+      "fact_inference_scenario_separated": true,
+      "novelty_decision": "Historical labor supply and product economics, differentiated from infrastructure-focused digital abundance research.",
+      "bilingual_parity": {
+        "same_numeric_series": true,
+        "same_reference_count": true
+      },
+      "manual_preflight": {
+        "word_count_en": 2801,
+        "word_count_pt": 3063,
+        "references_en": 10,
+        "references_pt": 10
+      }
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-27T09:04:49-03:00",
+  "last_reconciled_at": "2026-11-27T12:13:00Z",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -11221,6 +11221,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "deferred_evidence_gap",
           "note": "Existing AI infrastructure-concentration signal is relevant, but new aggregate financing exposure and industrial profits do not demonstrate a new technical capability or deployment milestone; dedicated technology review required before changing state."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-software-commoditization-labor-scarcity-reconciliation",
+      "reconciled_at": "2026-11-27T12:13:00Z",
+      "report_ids_reviewed": [
+        "MT-TPS-2026-11-27-SOFTWARE"
+      ],
+      "audit_note": "Scope reconciliation of seven required assets; no unsupported canonical changes asserted.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "No changed bilateral supply link or exposure established."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Industrial integration opportunities lack specific verified projects or economics."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "Cloud competition evidence does not establish a new ownership or control event."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "No new resource rights or operator event."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "No newly evaluated policy intervention."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "not_applicable",
+          "note": "No conflict event assessed."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Historical cost and labor evidence does not establish a new technical deployment milestone."
         }
       ]
     }
