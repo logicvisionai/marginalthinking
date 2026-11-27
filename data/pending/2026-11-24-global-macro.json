@@ -203,7 +203,7 @@
       "repository_script_validator": "Revision 10 corrects the PMI geographic scope, separates US NFCI from EM portfolio flows and qualifies downstream funding effects. Exact-HEAD validation must be rerun after this staging commit; independent QA remains required.",
       "revision": 10
     },
-    "reconciliation_run_id": "2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation"
+    "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-24-revision-10-publication-reconciliation"
   },
   "revision": 10,
   "revision_reason": "Revision 10 corrects the PMI chart's geographic scope, separates the negative US NFCI reading from emerging-market funding conditions, qualifies the IIF outflow-to-refinancing channel as conditional, and states that this edition does not measure EM borrowing costs or realised investment effects. It also replaces the broad 'credit remains expensive' heading with a financing-dispersion description. The 19 November BCB Focus correction from revision 9 is preserved.",
@@ -250,5 +250,5 @@
     "EM_BORROWING_COST_AND_INVESTMENT_DATA_LIMITATION_STATED",
     "CREDIT_HEADING_SCOPE_CALIBRATED"
   ],
-  "reconciliation_run_id": "2026-11-25-mt-gm-2026-11-24-revision-8-publication-reconciliation"
+  "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-24-revision-10-publication-reconciliation"
 }
