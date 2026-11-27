@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "enforcement_start": "2026-09-22",
-  "last_reconciled_at": "2026-11-27T00:06:35-03:00",
+  "last_reconciled_at": "2026-11-27T09:04:49-03:00",
   "runs": [
     {
       "id": "2026-09-22-initial-registry-reconciliation",
@@ -11176,6 +11176,51 @@
           "asset_id": "technology-signal-ledger",
           "decision": "not_applicable",
           "note": "AI expenditure forecasts, equity movements, credit issuance and electricity scenarios are financial and system-demand evidence, not a demonstrated new technical capability or verified technology milestone."
+        }
+      ]
+    },
+    {
+      "id": "2026-11-27-mt-gm-2026-11-27-revision-1-publication-reconciliation",
+      "reconciled_at": "2026-11-27T09:04:49-03:00",
+      "report_ids_reviewed": [
+        "MT-GM-2026-11-27"
+      ],
+      "audit_note": "Reviewed seven active required datasets on main (global-dependencies d311452b0f03c1352e914500491636d414bc77a3; structural-opportunities 9776c07115e843ac495f1ce91d180e4c209728d1; strategic-actors e5b7df35b6612a7038e720443917eb260b35b7f1; resource-control-atlas ccc503893cfff0a9048f65a1b1b64b014df19d47; policy-cases dbd5e673e2e3a850138281e0285d3f9655b3aafd; conflict-systems b1caae37798e4fa6557cc1fd660991551f52a3fd; technology-signals 9466c57784881a610a4d227fe4b5c33c34157c69). Revised bilingual sources, NBS decomposition, BoE financing and Reuters market reporting do not establish a canonical asset-level change.",
+      "decisions": [
+        {
+          "asset_id": "global-dependency-network",
+          "decision": "deferred_evidence_gap",
+          "note": "Existing Hormuz/Gulf export constraint remains relevant; BoE potential aggregate exposure and NBS metal profits do not identify borrower-to-lender or supplier-to-buyer dependencies with sufficient instrument-level specificity or changed route throughput."
+        },
+        {
+          "asset_id": "structural-opportunity-atlas",
+          "decision": "deferred_evidence_gap",
+          "note": "Concentrated industrial profitability and data-centre financing demand do not establish new verifiable local project capacity, sponsors, permits or economics."
+        },
+        {
+          "asset_id": "strategic-actors",
+          "decision": "deferred_evidence_gap",
+          "note": "BoE identifies potential aggregate hyperscaler exposure and financing interconnections, not a verified change in a named actor's ownership or control relations; existing semiconductor and metals actor entries not altered."
+        },
+        {
+          "asset_id": "resource-control-atlas",
+          "decision": "not_applicable",
+          "note": "Chinese non-ferrous industrial profit growth measures profitability, not new ownership, concession or operator rights over copper or other resources."
+        },
+        {
+          "asset_id": "policy-case-atlas",
+          "decision": "not_applicable",
+          "note": "CPI observations and financing conditions do not supply a completed policy intervention evaluation with measured outcomes."
+        },
+        {
+          "asset_id": "conflict-systems",
+          "decision": "deferred_evidence_gap",
+          "note": "Attributed oil supply concerns and Brent price are not independent evidence of a verified physical supply loss or changed territorial control. No incident-level change justified."
+        },
+        {
+          "asset_id": "technology-signal-ledger",
+          "decision": "deferred_evidence_gap",
+          "note": "Existing AI infrastructure-concentration signal is relevant, but new aggregate financing exposure and industrial profits do not demonstrate a new technical capability or deployment milestone; dedicated technology review required before changing state."
         }
       ]
     }
