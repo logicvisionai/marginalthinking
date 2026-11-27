@@ -21,7 +21,7 @@ The publication invariant is:
 
 > **producer → staged sources → immutable pending sidecar → QA approval tied to exact Git blob SHAs → publisher copies approved sources into the public bundle → build validation → deploy**
 
-No producer or QA task may publish directly.
+No production or QA phase may publish directly. The same scheduled MT Editorial Engine may perform distinct roles in separate executions, subject to the temporal separation and immutable-state gates below. This is procedural separation, not independent reviewer identity. Never claim independent human or agent review merely because phases differ.
 
 ## Public and non-public trees
 
@@ -145,7 +145,7 @@ The producer must not:
 
 ## Stage 2 — QA
 
-`MT Research QA` reads the pending sidecar and both staged sources. It validates facts, sources, dates, methodology, language equivalence, editorial style, controlled taxonomy and visual evidence. For research governed by `RESEARCH-VISUALS.md`, QA must also verify visual sufficiency, factual reproducibility, dimensional compatibility, mechanism integrity and EN/PT-BR visual parity, recording the result in `checks.visual_evidence_readiness`.
+The MT Editorial Engine QA phase reads the pending sidecar and both staged sources. It validates facts, sources, dates, methodology, language equivalence, editorial style, controlled taxonomy and visual evidence. For research governed by `RESEARCH-VISUALS.md`, QA must also verify visual sufficiency, factual reproducibility, dimensional compatibility, mechanism integrity and EN/PT-BR visual parity, recording the result in `checks.visual_evidence_readiness`.
 
 QA must reject — not merely rewrite after publication — a draft that fails any of these editorial-integrity tests:
 
@@ -196,7 +196,7 @@ A rejected item is written to `data/rejected/<slug>.json`. Rejection history is 
 
 ## Stage 3 — Publisher
 
-`MT Publicador do Site` scans **approved v2 records**, not merely `data/pending/`.
+The MT Editorial Engine publication phase scans **approved v2 records**, not merely `data/pending/`.
 
 For every approved ID that is not already public, it must:
 
@@ -220,7 +220,7 @@ The publisher may leave staged files in place for auditability. They are not par
 
 ## Stage 4 — Non-blocking context maintenance
 
-After a public research commit has completed successfully, the same scheduled publisher run may perform a **separate, best-effort context-maintenance transaction** governed by `RESEARCH-CONTEXT.md`. This phase exists because scheduled-task capacity is intentionally kept small; it must behave as if it were an independent asynchronous worker.
+After a public research commit has completed successfully, the same scheduled engine run, acting in its publication phase, may perform a **separate, best-effort context-maintenance transaction** governed by `RESEARCH-CONTEXT.md`. This phase exists because scheduled-task capacity is intentionally kept small; it must behave as if it were an independent asynchronous worker.
 
 The publication commit must be complete before context work begins. Context maintenance must never be included in the publication commit and must never delay, roll back, invalidate or change an already valid public publication.
 
@@ -247,12 +247,15 @@ If no context changes are warranted, make no additional commit.
 
 ## Deterministic scheduling
 
-QA and publication are independent responsibilities but run on an ordered hourly cadence:
+A single hourly scheduled task, **MT Editorial Engine**, orchestrates the full pipeline. It derives its work queue from the registry, canonical public bundles, staged files, and pending/approval/rejection records on `main`, never from conversation memory alone.
 
-- QA runs first in the hour;
-- publisher runs later in the hour.
+Each run starts by reconciling actual repository state and due editions. Process actionable work in this order, with fairness across streams: publish previously approved and still-unmaterialized items; review complete previously staged items; produce or resume overdue and currently due items; verify live publication. Complete and verify each durable transaction before proceeding to another independent item. Prioritize oldest actionable work within each class, but reserve progress for current daily issues and overdue non-daily streams. A blocked item must not starve other eligible work.
 
-This avoids the previous race where the publisher could inspect a pending report before QA and then wait multiple hours before checking again.
+**Per-item temporal separation is mandatory:** staging and ready sidecar are committed in a producer execution; QA may review that exact committed snapshot only in a subsequent execution; public promotion may occur only in a further execution after approval is committed. Within one execution the engine may perform different roles for different items, but never advance the same item through multiple gated roles. Capture the initial main SHA and candidate state before writing; use that initial state to determine phase eligibility. An uncommitted or newly staged item is not eligible for QA in that run, and a newly approved item is not eligible for publication in that run. A fresh QA pass must independently re-check evidence against sources and existing editorial contracts, not rubber-stamp prior drafting. Because the reviewer is the same automated system across executions, this provides procedural separation, not independent-agent assurance. Record substantive findings and reject uncertainty rather than inventing approval.
+
+Incomplete production may persist meaningful bilingual draft work in non-public staging without a ready pending sidecar. Resume from the persisted state; write the immutable ready sidecar only once both editions meet the producer contract. Existing pending or approval records may not be silently mutated; follow the rejection/revision procedure and revalidate exact SHAs. Use safe non-force Git updates, preserve audit history and report exact blockers. No public bundle may exist before valid QA approval. A publication commit to main triggers the existing automatic deploy; do not change deployment configuration as part of routine publishing. Public visibility is verified separately and never inferred from a commit.
+
+An execution is operationally successful only when it records verified durable progress or verifies that no actionable work exists. A preliminary research summary is not an editorial deliverable. Context maintenance and optional document exports must not delay staging, QA or publication.
 
 The pipeline remains idempotent: a published ID is not republished, and an unchanged approval produces no new commit.
 
