@@ -121,6 +121,28 @@ Geographic levels are:
 
 Countries are identified by ISO 3166-1 alpha-2 code plus a stable English slug. Regions and subregions come only from the controlled taxonomy.
 
+### 3.1 Global, signal-led editorial selection (effective 27 November 2026)
+
+Marginal Thinking is a globally oriented research institution. Editorial relevance is not determined by the founder's nationality, the Portuguese secondary edition, the scheduling timezone, the geographic origin of the reader, or ease of access to domestic sources.
+
+Geography is a discovery and exposure dimension, not a quota. No country or region, including Brazil, the United States, China or Europe, receives an automatic section or guaranteed prominence in general global research. Conversely, no country is excluded in advance: a small economy, a port, a regulator, a supplier, a laboratory or a local institutional change may carry global significance through its position in a network.
+
+For global monitors, briefs, assessments and outlooks, screen across the Americas, Europe, Africa, Middle East, Asia and Oceania, with particular attention to systemic monetary areas, production networks, trade and logistics, capital, resources, technology, security and institutions. The screening universe is not the published outline. Do not require symmetrical regional coverage or fill quiet regions with stale commentary. Geographic and sector-specific research remains appropriate when explicitly within its defined scope.
+
+Prioritize candidate signals according to:
+
+- **Materiality:** scale relative to the affected system, economic or societal consequences, and potential severity.
+- **Transmission:** documented or defensible direct and indirect effects, cross-border dependencies, affected actors, substitution constraints and time lags.
+- **Novelty:** change relative to the prior evidence, expectations, policy baseline or canonical research; distinguish a new release from a genuinely new finding.
+- **Persistence and trajectory:** temporary noise versus a sustained regime change, cumulative shift or leading indicator.
+- **Evidence strength:** source provenance, observation date, methodological comparability, corroboration and uncertainty. High-impact low-confidence signals may be watched with explicit qualifications, not presented as established facts.
+
+Use editorial judgment rather than a fabricated numerical score. Rank the findings by relevance to the research question; explain why the leading finding matters, through what mechanism and to whom. Identify contrary evidence and observable falsifiers. Examine second-order implications without claiming unobserved outcomes. Avoid media-volume bias, home-country bias, large-country bias and English-language source bias; seek local primary sources where practicable, including native-language institutional material.
+
+Organize global reports around the dominant findings, mechanisms and meaningful comparisons rather than a fixed country-by-country checklist. Brazil and Latin America appear when evidence makes them material on the same terms as any other geography. Do not erase relevant Brazilian evidence or weaken legitimate country-specific research. The EN and PT-BR editions must retain the same priorities, geographic scope and evidentiary conclusions.
+
+This is an editorial selection rule within the existing four programs and frozen taxonomy; it does not create a new program, series, geography, format or controlled topic.
+
 ## 4. Topics are controlled analytical descriptors
 
 Topics answer **what mechanism is being studied**. They are not navigation-level editorial brands.
