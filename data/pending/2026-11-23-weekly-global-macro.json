@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "ready": true,
+  "id": "MT-GMW-2026-11-23",
+  "slug": "2026-11-23-weekly-global-macro",
+  "date": "2026-11-23",
+  "published_at": "2026-11-26T23:54:42-03:00",
+  "kind": "weekly-global-macro",
+  "priority": 10,
+  "source_locale": "en",
+  "taxonomy_version": "1.0",
+  "program": "political-economy-markets",
+  "related_programs": [
+    "global-system-power"
+  ],
+  "dimensions": [
+    "economy",
+    "politics",
+    "society"
+  ],
+  "geography": {
+    "level": "global",
+    "regions": [],
+    "subregions": [],
+    "countries": []
+  },
+  "topics": [
+    "macroeconomics",
+    "monetary-policy",
+    "fiscal-policy",
+    "capital-markets",
+    "banking-credit",
+    "currencies",
+    "trade-investment",
+    "industry-production",
+    "energy",
+    "commodities-resources",
+    "geopolitics-security"
+  ],
+  "phenomena": [
+    "war-armed-conflict"
+  ],
+  "format": "assessment",
+  "cadence": "weekly",
+  "sources": {
+    "en": {
+      "markdown": "staging/research/2026/11/2026-11-23-weekly-global-macro/en.md",
+      "title": "Weekly Global Macro — The limits of monetary relief: industrial divergence, energy costs and the repricing of capital",
+      "deck": "A retrospective review of 16–22 November: US industrial output, Chinese demand and investment, European inflation, oil supply and the conditional transmission of financial-market losses to credit.",
+      "tags": [
+        "Weekly Global Macro",
+        "industrial production",
+        "inflation",
+        "financial conditions",
+        "energy"
+      ],
+      "keywords": [
+        "weekly macroeconomic review",
+        "China fixed asset investment",
+        "US industrial production",
+        "euro area HICP",
+        "oil market",
+        "credit transmission"
+      ],
+      "regime": "Uneven expansion with persistent inflation and limited room for monetary relief.",
+      "key_risk": "Asset repricing could amplify weaker demand if credit terms tighten while energy delivery costs remain high.",
+      "watch": [
+        "US PCE and GDP releases scheduled for 25 November",
+        "China retail and investment",
+        "Euro area HICP components",
+        "Credit spreads and lending standards",
+        "Oil delivery reliability"
+      ]
+    },
+    "pt-BR": {
+      "markdown": "staging/research/2026/11/2026-11-23-weekly-global-macro/pt-BR.md",
+      "title": "Weekly Global Macro — Os limites do alívio monetário: divergência industrial, custos de energia e reprecificação do capital",
+      "deck": "Revisão retrospectiva de 16 a 22 de novembro: produção industrial americana, demanda e investimento chineses, inflação europeia, oferta de petróleo e transmissão condicional das perdas financeiras ao crédito.",
+      "tags": [
+        "Weekly Global Macro",
+        "produção industrial",
+        "inflação",
+        "condições financeiras",
+        "energia"
+      ],
+      "keywords": [
+        "revisão macroeconômica semanal",
+        "investimento em ativos fixos na China",
+        "produção industrial americana",
+        "HICP da zona do euro",
+        "mercado de petróleo",
+        "transmissão do crédito"
+      ],
+      "regime": "Expansão desigual com inflação persistente e espaço limitado para alívio monetário.",
+      "key_risk": "A reprecificação dos ativos pode amplificar a fraqueza da demanda se o crédito ficar mais restritivo enquanto as entregas de energia permanecem caras.",
+      "watch": [
+        "PCE e PIB dos EUA programados para 25 de novembro",
+        "Varejo e investimento chineses",
+        "Componentes do HICP da zona do euro",
+        "Spreads e critérios de concessão de crédito",
+        "Confiabilidade das entregas de petróleo"
+      ]
+    }
+  },
+  "signal_rationale": {
+    "delta": "Integrates the November 16–22 data releases and compares real activity, inflation, energy supply and capital repricing rather than treating Friday market prices as the entire weekly macro assessment.",
+    "evidence": "Fed G17 October -0.4% m/m; China industrial value added +4.8% y/y, retail consumer goods +0.4%, fixed asset investment -8.1% Jan–Oct; Eurostat HICP 4.0%, ONS CPI 3.6%; IEA oil supply 105.4 mb/d; ECB financial stability review.",
+    "scale_path": "Household demand, sectoral production and investment affect orders and revenue; imported energy and funding costs influence the marginal financing decision.",
+    "transmission": "Conditional energy delivery costs → input prices or margins → inflation and policy response → borrowing terms and investment; asset prices may affect collateral and credit but flows are not inferred.",
+    "falsifier": "Synchronized improvement in household demand, investment and output with easing prices and stable credit markets would weaken the thesis."
+  },
+  "assessment_confidence": "medium",
+  "key_constraints": [
+    "Review period 16–22 November 2026, information cutoff 22 November 23:59 BRT; retrospective production on 26 November, not original publication date.",
+    "US output uses November 17 vintage before annual revision.",
+    "China investment categories overlap; sectoral growth rates not contributions.",
+    "Market observations are intraday, not synchronized weekly closing data.",
+    "No unobserved portfolio flows or country-level quantitative scenarios inferred.",
+    "Coverage of Japan and Canada is qualitative; no numerical comparison from incompatible GDP or CPI series.",
+    "Independent QA, full repository validation and production deployment not yet performed."
+  ],
+  "producer_checks": {
+    "information_cutoff": "2026-11-22 23:59 America/Sao_Paulo",
+    "comparative_editions": [
+      "MT-GM-2026-11-21"
+    ],
+    "fact_inference_scenario_separated": true,
+    "bilingual_parity": {
+      "same_numeric_series": true,
+      "same_reference_count": true,
+      "charts": 3,
+      "tables": 4,
+      "flows": 1,
+      "maps": 1,
+      "references_en": 12,
+      "references_pt": 12
+    },
+    "visual_evidence": {
+      "charts": 3,
+      "tables": 4,
+      "flows": 1,
+      "maps": 1
+    },
+    "manual_preflight": {
+      "word_count_en": 2952,
+      "word_count_pt": 3440,
+      "ready_for_independent_qa": true,
+      "repository_script_validator": "Manual preflight only; full CI and independent review pending."
+    },
+    "reconciliation_run_id": "2026-11-26-mt-gmw-2026-11-23-revision-1-producer-reconciliation"
+  },
+  "revision": 1,
+  "reconciliation_run_id": "2026-11-26-mt-gmw-2026-11-23-revision-1-producer-reconciliation",
+  "revision_reason": "Initial retrospective weekly edition requested by owner."
+}
