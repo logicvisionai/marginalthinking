@@ -172,6 +172,265 @@
   {
     "schema_version": 2,
     "ready": true,
+    "id": "MT-GM-2026-11-24",
+    "slug": "2026-11-24-global-macro",
+    "date": "2026-11-24",
+    "published_at": "2026-11-24T20:45:00-03:00",
+    "kind": "daily-global-macro",
+    "priority": 10,
+    "source_locale": "en",
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "global-system-power"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "macroeconomics",
+      "monetary-policy",
+      "fiscal-policy",
+      "capital-markets",
+      "banking-credit",
+      "currencies",
+      "trade-investment",
+      "industry-production",
+      "energy",
+      "commodities-resources",
+      "infrastructure-logistics",
+      "institutions-governance",
+      "geopolitics-security"
+    ],
+    "phenomena": [
+      "war-armed-conflict"
+    ],
+    "format": "brief",
+    "cadence": "daily",
+    "signal_rationale": {
+      "delta": "The 23 November edition examined China's iron-ore/steel chain and exporter inventories. This edition retains a distinct cross-region activity and financing thesis but adds the newly released October global crude-steel data and Germany's November Ifo survey, then updates the market and oil session reported on 24 November. The new evidence shows regional industrial divergence rather than a synchronized collapse.",
+      "evidence": "Worldsteel reported 142.4 Mt crude-steel output in October across 70 economies, down 1.1% y/y; Jan-Oct output was down 0.8%. North America rose 5.6%, Africa 7.9%, the EU fell 4.0%, the Middle East fell 27.7%, South America fell 4.1%, and Asia/Oceania was flat. Germany's Ifo climate index rose to 90.6, but manufacturing confidence fell. Reuters reported Nasdaq -1.4%, S&P 500 -0.50%, Dow +0.85%, Brent +2.27% to US$91.40 and a 0.44% dollar decline in its 24 November session report. The Chicago Fed NFCI was -0.478 for the week ending 13 November, the latest observation available before the cutoff, indicating looser-than-average US financial conditions. The IIF's October EM portfolio-flow estimate is a separate monthly measure.",
+      "scale_path": "Regional steel production and survey dispersion can shape expectations for orders, employment, inventories and trade; the Chicago Fed NFCI describes broad US conditions while IIF portfolio flows describe non-resident EM allocations. EM outflows may pressure FX liquidity and external refinancing access if persistent, but this edition does not measure the resulting borrowing costs or investment effects. Yields, currencies and energy logistics then influence investment and delivered costs.",
+      "transmission": "Regional activity and steel output -> potential changes in orders, employment and inventories -> domestic inflation and monetary policy -> yields and FX. The Chicago Fed NFCI summarizes broad US money, debt and equity conditions and is negative at the cutoff; it is not a direct EM borrowing-cost measure. IIF monthly EM portfolio outflows may pressure FX liquidity and external refinancing access, potentially raising funding costs and restraining investment if persistent; these downstream effects are not directly measured in this edition. Oil supply and shipping reports -> crude and refined-product prices -> transport and industrial costs -> inflation expectations and policy response.",
+      "falsifier": "The thesis weakens if subsequent national accounts and industrial-production releases show broad, synchronized acceleration, regional steel-output gaps narrow, the Germany-France survey divergence closes, the Chicago Fed NFCI remains materially negative, non-resident EM portfolio flows return to positive territory and refined-product premiums decline."
+    },
+    "assessment_confidence": "medium",
+    "key_constraints": [
+      "Flash PMIs and the Ifo business-climate index are surveys, not GDP growth rates or measured industrial output.",
+      "Worldsteel's 70 reporting economies represented about 98% of global crude-steel output in 2025; US and Russian monthly output are estimates. Steel production is not a direct measure of final demand, inventories or trade.",
+      "The October steel figures are one month of sector output; year-to-date changes and country-level product mixes differ.",
+      "IIF portfolio flows are October monthly estimates, not daily November flows.",
+      "The Brazil Ministry of Finance parameter grid was closed on 6 November; it is a forecast vintage, not a realised outcome or market-consensus survey.",
+      "FAO's food-price index is an international commodity basket, not a retail-price or household-affordability measure; the latest meat component mixes projected and observed prices and can be revised.",
+      "Reports of vessel attacks around the Strait of Hormuz are attributed to Reuters reporting; the available material does not quantify a sustained loss of oil output or exports.",
+      "The US Treasury curve and the 24 November Reuters yield observation refer to different dates and should not be merged into a single curve.",
+      "The 23 November Brazil Focus medians are market expectations for 2026, not Central Bank forecasts, and are distinct from the Ministry of Finance's 2027 parameter grid.",
+      "The Chicago Fed NFCI is a weekly U.S.-wide composite across 105 money-, debt- and equity-market indicators; a negative reading signals looser-than-average U.S. conditions, not the absence of stress for every borrower or in emerging markets. At the 24 November 20:45 BRT cutoff, the latest published value was -0.478 for the week ending 13 November; the next release was scheduled for 25 November.",
+      "The IIF October portfolio-flow estimate does not measure emerging-market borrowing spreads, foreign-currency funding costs or realised investment effects; the outflow-to-refinancing channel is conditional, not an observed cost increase."
+    ],
+    "producer_checks": {
+      "information_cutoff": "2026-11-24 20:45 America/Sao_Paulo",
+      "comparative_editions": [
+        "MT-GM-2026-11-23",
+        "MT-GM-2026-11-22",
+        "MT-GM-2026-11-21"
+      ],
+      "novelty_decision": "Revision 10 preserves the distinct cross-region activity and financing-dispersion thesis from the 24 November edition. It corrects the PMI chart scope and separates broad US financial conditions from conditional emerging-market refinancing channels; it does not repeat the 23 November China iron-ore/steel-inventory edition.",
+      "fact_inference_scenario_separated": true,
+      "bilingual_parity": {
+        "same_numeric_series": true,
+        "same_reference_count": true,
+        "charts": 2,
+        "tables": 4,
+        "flows": 1,
+        "maps": 1,
+        "references_en": 30,
+        "references_pt": 30,
+        "semantic_scope_reviewed": true
+      },
+      "visual_evidence": {
+        "charts": 2,
+        "tables": 4,
+        "flows": 1,
+        "maps": 1,
+        "semantic_review": "The PMI chart title now identifies selected major economies and the euro-area aggregate. The flow separates the negative US NFCI observation from EM portfolio outflows and presents downstream funding/investment effects conditionally. EN/PT-BR labels remain semantically equivalent."
+      },
+      "source_audit": {
+        "references": 30,
+        "primary_institutional_sources": 20,
+        "market_reporting_sources": 10,
+        "urls_unique": 32,
+        "domains": 22,
+        "reproducibility_notes": {
+          "pmi_comparison": "Flash composite PMI output indices published 23–24 Nov 2026; 50 is the expansion/contraction threshold. The values are survey diffusion indices, not GDP growth rates.",
+          "treasury_curve": "US Treasury official daily par curve, 23 Nov 2026: 2-year 4.63%; 10-year 4.92%; 30-year 5.29%.",
+          "brazil_forecast": "Brazil Ministry of Finance November 2026 Macrofiscal Bulletin, summary p.3 and detailed grid discussion p.19; grid closed 6 Nov. For 2027, GDP 1.8% (September 2.3%), IPCA 4.5% (3.8%), accumulated Selic 12.93% (12.67%), average exchange rate R$5.34/US$ (R$5.23), and average Brent US$95.20/bbl (US$79.50). The grid's Selic is an accumulated parameter derived from the real rate implicit in the Focus median and converted to nominal terms with the SPE inflation projection; it is distinct from the Focus terminal Selic median of 13.00% at end-2027 in the 19 November report (12.75% one week earlier; 11.75% four weeks earlier). FX and Brent are annual averages, not terminal or spot prices.",
+          "oil_market": "Reuters settlement values for 23 Nov; IEA November report supplies October production and inventory estimates. Spot/futures settlement and monthly supply estimates are different observation types.",
+          "food_prices": "FAO October 2026 FFPI: 133.9, down 1.2% m/m; cereal 116.8, down 4.5%; sugar 121.3, up 6.6%.",
+          "market_flows": "IIF tracker published 5 Nov, estimating October non-resident EM portfolio outflows of US$33.8bn; monthly estimate, not daily flow. The IIF estimate does not measure EM borrowing spreads, foreign-currency funding costs or realised investment effects; those downstream links are conditional mechanisms, not observed outcomes in this report.",
+          "brazil_focus": "Banco Central do Brasil Focus report with reference date 19 Nov 2026, summarized by B3 on 23 Nov: 2026 GDP 1.70% (from 1.72%), IPCA 5.15% (from 5.11%), and year-end USD/BRL 5.55 (from 5.40). The 2027 terminal Selic median is 13.00% today, compared with 12.75% one week earlier and 11.75% four weeks earlier. These are market medians, not Central Bank forecasts, and are distinct from the Ministry of Finance's accumulated 2027 Selic parameter. Primary PDF: https://www.bcb.gov.br/content/focus/focus/R20261119.pdf.",
+          "japan_policy": "Bank of Japan policy decision published 18 Sep 2026 sets the uncollateralized overnight call-rate guideline around 1.25% and states that the change applies from the next business day, 24 Sep; the October 2026 Outlook Report confirms the level.",
+          "brazil_ptax": "Banco Central do Brasil PTAX OData historical query for 23 Nov 2026: selling rate 5.97080 at 13:06:23 BRT; date-filtered endpoint retained for reproducibility.",
+          "worldsteel_production": "World Steel Association, October 2026 release published 24 Nov 2026. Production for 70 reporting countries was 142.4 Mt (-1.1% y/y); Jan-Oct was 1,509.3 Mt (-0.8%). October regional changes: Africa +7.9%, Asia/Oceania 0.0%, EU -4.0%, Europe other +5.1%, Middle East -27.7%, North America +5.6%, Russia/CIS/Ukraine -6.8%, South America -4.1%. The 70 countries represented approximately 98% of 2025 world production. US and Russian country figures are estimates.",
+          "ifo_november": "ifo Institute press release 24 Nov 2026: Business Climate 90.6 (Oct 90.1); current conditions 89.4 (88.8); expectations 91.9 (91.5). Aggregate sentiment improved, but manufacturing weakened after six increases and expectations returned to negative territory; services and trade improved and construction slipped.",
+          "reuters_markets_24nov": "Reuters report dated 24 Nov 2026: Nasdaq -1.4%, S&P 500 -0.50%, Dow +0.85%; Nvidia shares >6% lower after prior session's +31.5%; dollar -0.44%; US 10-year yield 4.928% vs 4.92% late Monday; Brent January futures settled US$91.40/bbl, +US$2.03 or 2.27%, amid reported vessel attacks around Hormuz. Attribute incident reports and do not infer sustained physical output losses.",
+          "financial_conditions": "Federal Reserve Bank of Chicago National Financial Conditions Index: the 18 November 2026 release reported -0.478 for the week ending 13 November. Negative readings historically indicate looser-than-average US financial conditions. The index aggregates 105 indicators across money, debt and equity markets and traditional/shadow banking. Chicago Fed's release calendar showed the next update scheduled for 25 November (week ending 20 November), after this edition's 24 November 20:45 BRT cutoff. This broad US composite is not a corporate high-yield spread and does not describe emerging-market financing conditions. The negative US NFCI reading is kept separate from EM portfolio outflows and is not used as a direct measure of EM borrower funding costs."
+        }
+      },
+      "manual_preflight": {
+        "schema_v2": true,
+        "controlled_programs": true,
+        "controlled_topics": true,
+        "phenomena_valid": true,
+        "word_count_en": 4363,
+        "word_count_pt": 5070,
+        "references_en": 30,
+        "references_pt": 30,
+        "ready_for_independent_qa": true,
+        "repository_script_validator": "Revision 10 corrects the PMI geographic scope, separates US NFCI from EM portfolio flows and qualifies downstream funding effects. Exact-HEAD validation must be rerun after this staging commit; independent QA remains required.",
+        "revision": 10
+      },
+      "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-24-revision-10-publication-reconciliation"
+    },
+    "revision": 10,
+    "revision_reason": "Revision 10 corrects the PMI chart's geographic scope, separates the negative US NFCI reading from emerging-market funding conditions, qualifies the IIF outflow-to-refinancing channel as conditional, and states that this edition does not measure EM borrowing costs or realised investment effects. It also replaces the broad 'credit remains expensive' heading with a financing-dispersion description. The 19 November BCB Focus correction from revision 9 is preserved.",
+    "revision_scope": [
+      "Update the article title, executive assessment and information cutoff for the 24 November evening edition.",
+      "Incorporate Worldsteel October 2026 crude-steel output and regional/country divergence using the official 24 November release.",
+      "Add Germany's 24 November Ifo business-climate results and distinguish survey sentiment from sector output.",
+      "Update the latest reported US equity, dollar, Treasury and Brent market session with Reuters' 24 November report; retain the 24 November information cutoff and source vintage.",
+      "Add the regional October steel-output table in both locales and maintain semantic parity.",
+      "Update the regional transmission map, base case, conclusion and bilingual reference lists.",
+      "Reconcile all seven active cumulative registry assets and link the report-specific reconciliation run.",
+      "Remove ICE BofA US High Yield OAS values, chart and interpretations because public reproduction requires prior written permission.",
+      "Use the Chicago Fed NFCI observation of −0.478 for the week ending 13 November, released 18 November and available before the 24 November 20:45 BRT cutoff; distinguish broad US financial conditions from emerging-market portfolio flows.",
+      "Update the financing chart, map, scenarios, watch items, source audit, bilingual metadata and report-specific reconciliation record.",
+      "Correct the 19 November 2026 BCB Focus terminal Selic median for 2027 to 13.00%, with 12.75% one week earlier and 11.75% four weeks earlier, in EN, PT-BR and the source-audit notes.",
+      "Correct the PMI chart title in both locales so it describes selected major economies plus the euro-area aggregate, not all observations as euro-area constituents.",
+      "Separate the negative US NFCI observation from emerging-market portfolio outflows in the causal flow; qualify refinancing-cost and investment effects as conditional and state that no direct comparable EM borrowing-cost or investment series is included.",
+      "Replace the broad section heading 'credit remains expensive' with 'financing remains uneven' to match the evidence scope."
+    ],
+    "qa_fixes_applied": [
+      "EDITORIAL_DEPTH_H2_SECTION_STRUCTURE",
+      "NVIDIA_CATALYST_ATTRIBUTION",
+      "PMI_AGGREGATE_COMPONENT_QUALIFICATION",
+      "BOJ_POLICY_EFFECTIVE_DATE_PRIMARY_SOURCE",
+      "BOE_MEETING_VS_RELEASE_DATE",
+      "PTAX_DATE_FILTERED_API_SOURCE",
+      "NOVELTY_RATIONALE_CHRONOLOGY",
+      "TABLE_RENDERER_MARKDOWN_GRAMMAR",
+      "WORLDSTEEL_EXPECTED_DATE_CLAIM_REMOVED",
+      "BRAZIL_MACROFISCAL_ACCUMULATED_SELIC_DEFINITION",
+      "BRAZIL_MACROFISCAL_ANNUAL_AVERAGE_FX_BRENT_DEFINITION",
+      "BRAZIL_SELIC_GRID_METHOD_EXPLAINED",
+      "WORLDSTEEL_OCTOBER_RELEASE_INCORPORATED",
+      "IFO_NOVEMBER_RELEASE_INCORPORATED",
+      "NOVEMBER_24_REPORTED_MARKET_SESSION_ADDED",
+      "STALE_WORLDSTEEL_EXPECTED_RELEASE_CLAIM_REMOVED",
+      "REGIONAL_STEEL_OUTPUT_TABLE_ADDED_IN_BOTH_LOCALES",
+      "ICE_DATA_PUBLICATION_LICENSE_RESTRICTION_REMOVED",
+      "CHICAGO_FED_NFCI_PUBLIC_SOURCE_SUBSTITUTION",
+      "CREDIT_SPREAD_CLAIMS_RECALIBRATED_TO_BROAD_US_CONDITIONS",
+      "PMI_CHART_GEOGRAPHIC_SCOPE_TITLE_CORRECTED",
+      "US_NFCI_AND_EM_FLOWS_SEPARATED",
+      "EM_REFINANCING_CHANNEL_QUALIFIED_AS_CONDITIONAL",
+      "EM_BORROWING_COST_AND_INVESTMENT_DATA_LIMITATION_STATED",
+      "CREDIT_HEADING_SCOPE_CALIBRATED"
+    ],
+    "reconciliation_run_id": "2026-11-26-mt-gm-2026-11-24-revision-10-publication-reconciliation",
+    "url": "/reports/2026/11/2026-11-24-global-macro.html",
+    "qa_status": "approved",
+    "qa_reviewed_at": "2026-11-27T18:02:38.715Z",
+    "qa_confidence": "medium",
+    "qa_reviewed_commit": "bfb964d080095c6da86c0550f09719e549f94287",
+    "locales": {
+      "en": {
+        "markdown": "en.md",
+        "title": "Global growth is holding up, but industrial output is diverging",
+        "deck": "October crude-steel output fell 1.1% across 70 reporting economies, but regional production and business sentiment diverged; Germany’s improving climate, weaker manufacturing confidence and the US equity reversal show why aggregate growth headlines are incomplete.",
+        "tags": [
+          "Global Macro",
+          "industrial production",
+          "steel",
+          "PMI",
+          "capital flows",
+          "energy",
+          "financial conditions"
+        ],
+        "keywords": [
+          "global industrial production",
+          "October crude steel output",
+          "regional growth divergence",
+          "November flash PMI",
+          "Germany Ifo business climate",
+          "emerging-market portfolio flows",
+          "oil supply and Hormuz risk",
+          "Chicago Fed National Financial Conditions Index"
+        ],
+        "regime": "Global activity remains expansionary in several major economies, but industrial output, business sentiment and financing conditions differ sharply by region and sector.",
+        "key_risk": "A wider regional industrial slowdown combined with currency-market volatility and renewed energy-logistics disruption could weaken investment and employment before aggregate global GDP turns negative.",
+        "watch": [
+          "US Personal Consumption Expenditures inflation release on 25 November",
+          "China November official PMI release",
+          "Next IIF portfolio-flow tracker",
+          "OPEC+ 2027 output-policy meeting on 29 November",
+          "RBA meeting on 8 December",
+          "Federal Reserve meeting on 8–9 December",
+          "FAO Food Price Index scheduled for 4 December",
+          "Chicago Fed weekly National Financial Conditions Index"
+        ],
+        "search_text": "Global Macro 24 November 2026 global industrial production World Steel Association October 2026 crude steel output regional divergence Germany ifo Business Climate November 90.6 flash PMI United States euro area Germany France India Japan UK Chicago Fed NFCI US financial conditions IIF emerging market flows Brent Hormuz 91.40 US equity reversal Nvidia 24 November Brazil macrofiscal"
+      },
+      "pt-BR": {
+        "markdown": "pt-BR.md",
+        "title": "O crescimento global resiste, mas a produção industrial se distancia entre regiões",
+        "deck": "A produção global de aço bruto caiu 1,1% em outubro entre 70 economias reportantes, mas os resultados regionais e o sentimento empresarial divergiram; a melhora do Ifo alemão, a piora da confiança industrial e a reversão das bolsas americanas mostram os limites dos indicadores agregados.",
+        "tags": [
+          "Global Macro",
+          "produção industrial",
+          "aço",
+          "PMI",
+          "fluxos de capital",
+          "energia",
+          "condições financeiras"
+        ],
+        "keywords": [
+          "produção industrial global",
+          "produção de aço bruto em outubro",
+          "divergência regional do crescimento",
+          "PMI preliminar de novembro",
+          "clima empresarial Ifo Alemanha",
+          "fluxos de carteira dos emergentes",
+          "oferta de petróleo e risco em Hormuz",
+          "índice de condições financeiras do Federal Reserve de Chicago"
+        ],
+        "regime": "A atividade global permanece expansionista em várias economias importantes, mas a produção industrial, o sentimento empresarial e as condições de financiamento variam fortemente entre regiões e setores.",
+        "key_risk": "Uma desaceleração industrial regional mais ampla, combinada a volatilidade cambial e nova interrupção na logística de energia, pode enfraquecer investimento e emprego antes de o PIB global agregado ficar negativo.",
+        "watch": [
+          "Divulgação do índice de preços PCE dos Estados Unidos em 25 de novembro",
+          "PMI oficial chinês de novembro",
+          "Próximo rastreador de fluxos de carteira do IIF",
+          "Reunião da OPEP+ sobre a política de produção de 2027 em 29 de novembro",
+          "Reunião do RBA em 8 de dezembro",
+          "Reunião do Federal Reserve em 8–9 de dezembro",
+          "Índice de Preços de Alimentos da FAO previsto para 4 de dezembro",
+          "Índice semanal de Condições Financeiras Nacionais do Federal Reserve de Chicago"
+        ],
+        "search_text": "Global Macro 24 novembro 2026 produção industrial global World Steel Association aço bruto outubro de 2026 divergência regional Ifo Alemanha novembro 90,6 PMI preliminar de novembro Estados Unidos zona do euro Alemanha França Índia Japão Reino Unido índice NFCI condições financeiras dos EUA fluxos IIF mercados emergentes Brent Hormuz 91,40 reversão das bolsas americanas Nvidia 24 novembro macrofiscal Brasil"
+      }
+    }
+  },
+  {
+    "schema_version": 2,
+    "ready": true,
     "id": "MT-GMW-2026-11-23",
     "slug": "2026-11-23-weekly-global-macro",
     "date": "2026-11-23",
