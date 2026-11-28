@@ -99,6 +99,32 @@ Feudal and manorial institutions did not vanish on a single date. Some areas saw
 
 For a comparative archive, measure households by tenure, labor obligations per season, cash and produce rent, court fines, yields, wages, and the ability to relocate. Those variables can test whether peasants gained materially from commercial growth. The broader lesson is not that medieval Europe lacked economic rationality, but that contractual options and coercive rights organized who benefited from economic progress.
 
+## Halesowen: jurisdiction as an observable economic institution
+
+The English manor of Halesowen provides a bounded test of the relationship between legal dependence and the cost of exercising rights. In his study of manorial court records, Zvi Razi contrasts the intensive enforcement of attendance during the disputes of the 1270s and 1280s with a relaxation in the 1290s, when customary tenants without business before the court could instead pay two pence. This was a change in the cost of compliance, not evidence that all servile obligations disappeared. [8]
+
+Court attendance consumed time as well as money. Its opportunity cost depended on the agricultural calendar and the distance traveled. A change in the frequency of recorded appearances can therefore reflect a change in enforcement rather than migration or mortality. Razi identifies complete surviving records for 16 sessions in 1280 and 15 in 1307; these counts concern sessions, not residents or households. [8]
+
+The institutional distinction matters for economic history: a court could simultaneously enforce labor duties, recognize transfers of holdings, adjudicate debts and regulate shared resources. The National Archives guide identifies these different functions in English manorial records. A decline in recorded litigation cannot by itself establish a decline in the underlying transactions. [9]
+
+| Observation | Date | Interpretation | Limit |
+|---|---|---|---|
+| Complete surviving court sessions: 16 | 1280 | Intensive documentary observation | Not a population count |
+| Complete surviving court sessions: 15 | 1307 | Comparable annual session count | Attendance rules may differ |
+| Alternative payment of two pence | 1290s | Changed cost of compulsory attendance for eligible tenants | Not a universal rent or wage |
+
+Source: Razi [8], notes 18–20. Pence are historical nominal units, not modern purchasing power.
+
+```chart
+type: bar
+title: Halesowen court sessions with complete surviving records, Razi note 18
+unit: sessions in the specified year; not population or litigation volume
+1280 | 16
+1307 | 15
+```
+
+The competing explanations are institutional and demographic. If recorded attendance falls while holdings remain occupied and the court changes its attendance rules, enforcement is a plausible explanation. If independent evidence instead shows abandoned holdings and fewer surviving families under unchanged rules, demographic contraction becomes more credible. The two mechanisms may operate together. This case does not establish a general English or European rate of exploitation.
+
 ### Scholarship
 
 [1] Bouchard, Oxford Bibliographies, Feudalism: https://academic.oup.com/reference/62384/reference-article-abstract/555072719
@@ -114,3 +140,7 @@ For a comparative archive, measure households by tenure, labor obligations per s
 [6] Jedwab, Johnson and Koyama, Economic Impact of the Black Death: https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639
 
 [7] World History Encyclopedia, Black Death mortality estimates: https://www.worldhistory.org/article/1528/plague-in-the-ancient--medieval-world/
+
+[8] Zvi Razi, The Demographic Transparency of Manorial Court Rolls, notes 18–20: https://www.cambridge.org/core/journals/law-and-history-review/article/demographic-transparency-of-manorial-court-rolls/C2740B4535B6B657EAFB6E553DE97555
+
+[9] The National Archives, Manors, section 4: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manors/

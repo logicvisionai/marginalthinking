@@ -99,6 +99,32 @@ Instituições feudais e senhoriais não desapareceram numa data. Algumas regiõ
 
 Um arquivo comparativo deveria medir famílias por tipo de posse, dias de obrigação, renda em produtos e moeda, multas, colheitas, salários e liberdade de mudança. Os dados permitem testar se camponeses ganharam com comércio. A conclusão histórica não é falta de racionalidade econômica na Idade Média, mas que direitos e alternativas desiguais condicionavam quem recebia o benefício do progresso.
 
+## Halesowen: a jurisdição como instituição econômica observável
+
+O senhorio inglês de Halesowen permite examinar a relação entre dependência jurídica e custo de exercício dos direitos. Em seu estudo dos registros judiciais senhoriais, Zvi Razi contrapõe a exigência intensa de comparecimento durante os conflitos das décadas de 1270 e 1280 ao relaxamento na década de 1290, quando arrendatários consuetudinários sem assuntos a tratar no tribunal podiam pagar dois pence em vez de comparecer. Mudou o custo do cumprimento da obrigação, não necessariamente o conjunto dos deveres servis. [8]
+
+Comparecer ao tribunal consumia tempo além de dinheiro. O custo de oportunidade dependia do calendário agrícola e da distância percorrida. Uma alteração na frequência dos comparecimentos registrados pode, portanto, refletir mudanças na imposição das regras, e não migração ou mortalidade. Razi identifica registros completos sobreviventes de 16 sessões em 1280 e 15 em 1307; são contagens de sessões, não de moradores ou famílias. [8]
+
+A distinção institucional importa para a história econômica: um tribunal podia impor serviços de trabalho, reconhecer transferências de posses, arbitrar dívidas e regulamentar recursos compartilhados. O guia do Arquivo Nacional britânico identifica essas funções nos registros senhoriais ingleses. Uma queda nos litígios registrados não demonstra, isoladamente, diminuição das transações subjacentes. [9]
+
+| Observação | Data | Interpretação | Limite |
+|---|---|---|---|
+| Sessões com registros completos sobreviventes: 16 | 1280 | Observação documental intensa | Não é contagem populacional |
+| Sessões com registros completos sobreviventes: 15 | 1307 | Contagem anual comparável de sessões | Regras de comparecimento podem diferir |
+| Pagamento alternativo de dois pence | Década de 1290 | Alteração do custo de comparecimento obrigatório para arrendatários elegíveis | Não é renda ou salário universal |
+
+Fonte: Razi [8], notas 18–20. Pence são unidades monetárias nominais históricas, não poder aquisitivo moderno.
+
+```chart
+type: bar
+title: Sessões judiciais de Halesowen com registros completos sobreviventes, Razi nota 18
+unit: sessões no ano indicado; não população ou volume de litígios
+1280 | 16
+1307 | 15
+```
+
+As explicações concorrentes são institucionais e demográficas. Se o comparecimento registrado diminui enquanto as posses continuam ocupadas e o tribunal modifica suas regras de presença, a alteração da fiscalização é uma explicação plausível. Se evidências independentes mostram posses abandonadas e menos famílias sobreviventes sob regras inalteradas, a contração demográfica ganha credibilidade. Os mecanismos podem atuar conjuntamente. O caso não estabelece uma taxa geral inglesa ou europeia de exploração.
+
 ### Fontes acadêmicas
 
 [1] Bouchard, Oxford, Feudalism: https://academic.oup.com/reference/62384/reference-article-abstract/555072719
@@ -114,3 +140,7 @@ Um arquivo comparativo deveria medir famílias por tipo de posse, dias de obriga
 [6] Jedwab, Johnson e Koyama, Black Death: https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639
 
 [7] World History Encyclopedia, intervalo de mortalidade da Peste Negra: https://www.worldhistory.org/article/1528/plague-in-the-ancient--medieval-world/
+
+[8] Zvi Razi, The Demographic Transparency of Manorial Court Rolls, notes 18–20: https://www.cambridge.org/core/journals/law-and-history-review/article/demographic-transparency-of-manorial-court-rolls/C2740B4535B6B657EAFB6E553DE97555
+
+[9] The National Archives, Manors, section 4: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manors/
