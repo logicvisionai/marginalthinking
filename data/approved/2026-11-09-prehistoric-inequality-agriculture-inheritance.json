@@ -1,0 +1,233 @@
+{
+  "schema_version": 2,
+  "id": "MT-PE-2026-11-09-PREHISTORIC-INEQUALITY",
+  "revision": 2,
+  "qa_status": "approved",
+  "reviewed_at": "2026-11-28T01:49:02.068Z",
+  "reviewed_commit": "feba09c55b9c859b04f6bcc0ed2f601f9c43fde7",
+  "pending_blob_sha": "486f3d6475f8bff74a8209dfa9d25b49ca8a07b9",
+  "source_blob_shas": {
+    "en": "8715b8a3732b0194a22d3a0f1f34401851cec2de",
+    "pt-BR": "5ffba238497eba25d710c5312a4148bc3e177190"
+  },
+  "taxonomy_check": "passed",
+  "translation_check": "passed",
+  "confidence": "medium",
+  "checks": {
+    "source_integrity": {
+      "result": "passed_with_limitation",
+      "summary": "Fresh review reopened the AEA abstract, Kohler and Borgerhoff Mulder full text (PMC), Twiss full text (PLOS), Mittnik abstract (PubMed) and Max Planck institutional release, Trinkaus/Buzhilova and Robb full texts (Cambridge), and Marzian publisher indexed methods/abstract. Nature full-text fetch returned HTTP 500; indexed methods and abstract support the period and binning. No claim of complete original full-text access."
+    },
+    "factual_methodology": {
+      "result": "passed",
+      "summary": "Distinguishes archaeological house-area medians 0.17/0.27/0.35 from ethnographic average-of-averages 0.25/0.28/0.44 (n=5/4/8); 63 archaeological contexts, 21 ethnographic populations in the separate 2009 study, 104 Lech individuals and about 700 years, with explicit limits of inference."
+    },
+    "historical_chronology": {
+      "result": "passed_with_limitation",
+      "summary": "Rechecked Bowles/Fochesato 11,700–5,300 years ago, Kohler Old World 11,000–2,000 and American 3,000–300 years ago, Sunghir approximately 34,000 years, Çatalhöyük 7100–5950 cal BCE (chronological convention cited by Twiss), and Marzian first four millennia BCE with 200-year midpoint bins. Lech is bounded at broad third/second-millennium BCE and named archaeological periods, rather than a precise sample endpoint; 700-year continuity is explicitly distinguished from this broader envelope. A finer local chronology would be valuable but the text does not claim false precision."
+    },
+    "source_vintage_and_cutoff": {
+      "result": "passed",
+      "summary": "Eight cited studies published 2009–2025, within the 9 November 2026 retrospective research cutoff; no post-cutoff information used."
+    },
+    "evidence_traceability": {
+      "result": "passed_with_limitation",
+      "summary": "The key revisions and both quantitative chart series are traceable to original studies; some references were verified from publisher abstracts/indexed passages rather than complete articles."
+    },
+    "research_depth": {
+      "result": "passed",
+      "summary": "Fifteen analytical sections per locale, six-row evidence matrix, distinct comparative and counterfactual mechanisms, eight matching references. Simple whitespace counts including visual syntax and references are 4638 EN and 5064 PT-BR; both comfortably exceed the research-report floor."
+    },
+    "counterfactual_review": {
+      "result": "passed",
+      "summary": "Sunghir pathological and mortuary explanations explicitly accompany possible ascribed status; Cambridge original supports developmental abnormalities of both children and possibility of influence on burial treatment. No kin-based succession inferred. Section 14 distinguishes lineage continuity, redistribution, larger households, funerary duties and collective stores as alternative tests."
+    },
+    "visual_evidence_readiness": {
+      "result": "passed",
+      "summary": "Two source-reproducible bar charts, one evidence matrix, three-chain causal flow, mindmap and five-region comparison map per locale. Exact numerical parity verified; units, denominators and different observation types explicit."
+    },
+    "bilingual_parity": {
+      "result": "passed",
+      "summary": "Both full texts read; 15 numbered sections plus sources, same eight URLs in order, same charts and corresponding structural diagrams, chronology and pathological alternative in both."
+    },
+    "editorial_publication_readiness": {
+      "result": "passed",
+      "summary": "Revision 2 addresses substantive chronology and Sunghir rejection grounds; chronological precision at Lech remains limited but the broad dates and archaeological periods are transparent. Comparative economic, political and social thesis is supported without treating regional samples as global estimates."
+    },
+    "pipeline_validation": {
+      "result": "not_run",
+      "summary": "Repository-wide npm validators were not executed in a local checkout in this turn. Candidate-specific taxonomy, source URLs, section counts and visual parity were manually verified against pinned Git blobs; build validation remains necessary."
+    }
+  },
+  "contrary_evidence": [
+    "Elaborate Sunghir child burials precede agriculture, so social differentiation cannot be dated solely from cultivation.",
+    "2024 Çatalhöyük multi-proxy data show temporary inequalities and unequal access to nonstaples without a coherent durable institutional trend.",
+    "2017 house-area Gini medians show cross-context association, not causation or world-representative household income distribution.",
+    "John Robb 2025 challenges selective elite-tomb narratives and emphasizes collective checks on hierarchy in European prehistory.",
+    "Lech valley 2019 microregional genomic study supports enduring multigenerational status but does not establish a single continental origin date.",
+    "Sunghir funerary treatment may reflect individual developmental pathology, ritual practices or assigned status; it does not demonstrate hereditary succession."
+  ],
+  "limitations": [
+    "House-area Gini 0.17, 0.27 and 0.35 are archaeological sample medians using residential size as proxy, not modern income or wealth metrics.",
+    "2017 study covers 63 sites or contemporaneous-site groups and lacks balanced regional coverage of Africa, South Asia, South America and Oceania.",
+    "21 populations in the 2009 anthropological comparison are historical/contemporary, not direct archaeological observations of Neolithic people.",
+    "Lech valley 104 individuals and approximately 700 years concern a specific microregion and sampled cemeteries.",
+    "Sunghir funerary treatment does not establish a tax state or reconstruct all contemporary households.",
+    "2024 mound analysis samples approximately 5,000 selected funerary monuments and cannot describe the wealth distribution of the entire living population.",
+    "English and Portuguese versions are substantively parallel but require independent QA checking citations, nuance and visual grammar.",
+    "Git staging is not publication; independent approval SHA lock and publisher promotion are required.",
+    "2017 paper's independent ethnographic cross-check [0.25,0.28,0.44] uses mean group wealth Ginis from unequal category samples n=5,4,8, distinct from archaeological house-size Gini medians [0.17,0.27,0.35]; values cannot be directly paired or differenced.",
+    "Lech chronology uses an approximate wider millennium envelope plus Late Neolithic–Middle Bronze Age and the separately documented 700-year persistence; exact individual calibrated dates are not asserted.",
+    "Marzian full Nature page returned HTTP 500; publisher-indexed methods and abstract were available.",
+    "Repository-wide validators were not run locally; no independent human reviewer is claimed."
+  ],
+  "notes": "Fresh QA of committed revision 2 in a separate execution. Revision 1 rejection retained unchanged. Approval is limited to these exact source and pending blobs; public promotion only in a subsequent execution.",
+  "publication": {
+    "schema_version": 2,
+    "ready": true,
+    "id": "MT-PE-2026-11-09-PREHISTORIC-INEQUALITY",
+    "slug": "2026-11-09-prehistoric-inequality-agriculture-inheritance",
+    "date": "2026-11-09",
+    "published_at": "2026-11-09T08:19:00-03:00",
+    "kind": "historical-civilizations-research",
+    "priority": 60,
+    "source_locale": "en",
+    "sources": {
+      "en": {
+        "markdown": "staging/research/2026/11/2026-11-09-prehistoric-inequality-agriculture-inheritance/en.md",
+        "title": "Before and after agriculture: wealth, inheritance and the institutions of prehistoric inequality",
+        "deck": "Comparative archaeology of prehistoric wealth and power: house-area Gini estimates, Upper Paleolithic graves, Neolithic communities, Bronze Age inherited status and competing accounts of enduring inequality.",
+        "tags": [
+          "prehistoric inequality",
+          "wealth transmission",
+          "agriculture",
+          "inheritance",
+          "house-size Gini",
+          "Sunghir",
+          "Çatalhöyük",
+          "Bronze Age",
+          "political institutions",
+          "collective redistribution"
+        ],
+        "keywords": [
+          "Bowles Fochesato 2024 economic inequality",
+          "Kohler Smith Bogaard 2017 house size 63 sites",
+          "Borgerhoff Mulder 2009 wealth transmission",
+          "Mittnik 2019 Lech valley 104 genomes",
+          "Twiss 2024 Catalhoyuk inequality",
+          "John Robb 2025 achieving equality"
+        ],
+        "regime": "Farming expanded storable and inheritable assets but persistent inequality depended on institutions governing succession, exclusion, labor and coercion rather than agriculture alone.",
+        "key_risk": "Mistaking house-area Gini for income, singular elite tombs for entire social classes, kinship for legal inheritance, or cross-regional correlations for a universal causal timeline.",
+        "watch": [
+          "New household-level comparative archaeological datasets",
+          "Ancient DNA and isotope evidence for multigenerational status",
+          "New Neolithic studies that test redistribution and persistence",
+          "Broader regional comparison outside the 2017 sampled sites"
+        ],
+        "search_text": "Prehistoric inequality before and after agriculture, inheritance and asset persistence, house-size Gini foragers horticulture farming 0.17 0.27 0.35, Sunghir, Catalhoyuk, Lech valley Bronze Age kinship, egalitarian institutions."
+      },
+      "pt-BR": {
+        "markdown": "staging/research/2026/11/2026-11-09-prehistoric-inequality-agriculture-inheritance/pt-BR.md",
+        "title": "Antes e depois da agricultura: riqueza, herança e as instituições da desigualdade pré-histórica",
+        "deck": "Arqueologia comparada da riqueza e do poder na pré-história: Gini de áreas residenciais, sepultamentos paleolíticos, comunidades neolíticas, posições herdadas na Idade do Bronze e interpretações concorrentes sobre desigualdade duradoura.",
+        "tags": [
+          "desigualdade pré-histórica",
+          "transmissão de patrimônio",
+          "agricultura",
+          "herança",
+          "Gini de áreas de casas",
+          "Sunghir",
+          "Çatalhöyük",
+          "Idade do Bronze",
+          "instituições políticas",
+          "redistribuição coletiva"
+        ],
+        "keywords": [
+          "Bowles Fochesato 2024 desigualdade econômica",
+          "Kohler 2017 63 sítios Gini casas",
+          "Borgerhoff Mulder 2009 herança",
+          "Mittnik 2019 Lech 104 indivíduos",
+          "Twiss 2024 desigualdade Çatalhöyük",
+          "John Robb 2025 igualdade pré-história"
+        ],
+        "regime": "A agricultura ampliou ativos armazenáveis e transmissíveis, mas a desigualdade duradoura dependeu das instituições de sucessão, exclusão, trabalho e coerção, não somente do cultivo.",
+        "key_risk": "Confundir Gini das casas com renda, sepultamentos de elite com classe social inteira, parentesco com herança jurídica ou associação regional com causalidade universal.",
+        "watch": [
+          "Novos conjuntos comparativos de residências arqueológicas",
+          "DNA antigo e isótopos sobre posições sociais multigeracionais",
+          "Novos testes sobre redistribuição neolítica e persistência",
+          "Comparações regionais fora dos sítios amostrados em 2017"
+        ],
+        "search_text": "Desigualdade pré-histórica antes e depois da agricultura, herança e persistência patrimonial, Gini da área de casas caçadores horticultores agricultores 0.17 0.27 0.35, Sunghir, Çatalhöyük, vale do Lech, Bronze, instituições igualitárias."
+      }
+    },
+    "taxonomy_version": "1.0",
+    "program": "political-economy-markets",
+    "related_programs": [
+      "technology-production-society"
+    ],
+    "dimensions": [
+      "economy",
+      "politics",
+      "society"
+    ],
+    "geography": {
+      "level": "global",
+      "regions": [],
+      "subregions": [],
+      "countries": []
+    },
+    "topics": [
+      "inequality-distribution",
+      "institutions-governance",
+      "industry-production",
+      "demography-labor",
+      "social-change",
+      "commodities-resources"
+    ],
+    "phenomena": [
+      "institutional-change",
+      "social-change"
+    ],
+    "format": "research-report",
+    "cadence": "event-driven",
+    "revision": 2,
+    "assessment_confidence": "medium",
+    "related_research_ids": [
+      "MT-PE-2026-11-02-PALEOLITHIC-ECONOMY",
+      "MT-PE-2026-11-02-FORAGER-TERRITORY",
+      "MT-PE-2026-11-03-NEOLITHIC-TRANSITIONS",
+      "MT-PE-2026-11-03-CATALHOYUK-HOUSEHOLDS"
+    ],
+    "contrary_evidence": [
+      "Elaborate Sunghir child burials precede agriculture, so social differentiation cannot be dated solely from cultivation.",
+      "2024 Çatalhöyük multi-proxy data show temporary inequalities and unequal access to nonstaples without a coherent durable institutional trend.",
+      "2017 house-area Gini medians show cross-context association, not causation or world-representative household income distribution.",
+      "John Robb 2025 challenges selective elite-tomb narratives and emphasizes collective checks on hierarchy in European prehistory.",
+      "Lech valley 2019 microregional genomic study supports enduring multigenerational status but does not establish a single continental origin date.",
+      "Sunghir funerary treatment may reflect individual developmental pathology, ritual practices or assigned status; it does not demonstrate hereditary succession."
+    ],
+    "limitations": [
+      "House-area Gini 0.17, 0.27 and 0.35 are archaeological sample medians using residential size as proxy, not modern income or wealth metrics.",
+      "2017 study covers 63 sites or contemporaneous-site groups and lacks balanced regional coverage of Africa, South Asia, South America and Oceania.",
+      "21 populations in the 2009 anthropological comparison are historical/contemporary, not direct archaeological observations of Neolithic people.",
+      "Lech valley 104 individuals and approximately 700 years concern a specific microregion and sampled cemeteries.",
+      "Sunghir funerary treatment does not establish a tax state or reconstruct all contemporary households.",
+      "2024 mound analysis samples approximately 5,000 selected funerary monuments and cannot describe the wealth distribution of the entire living population.",
+      "English and Portuguese versions are substantively parallel but require independent QA checking citations, nuance and visual grammar.",
+      "Git staging is not publication; independent approval SHA lock and publisher promotion are required.",
+      "2017 paper's independent ethnographic cross-check [0.25,0.28,0.44] uses mean group wealth Ginis from unequal category samples n=5,4,8, distinct from archaeological house-size Gini medians [0.17,0.27,0.35]; values cannot be directly paired or differenced."
+    ],
+    "producer_checks": {
+      "information_cutoff": "9 November 2026 (BRT); peer-reviewed research through 2025.",
+      "editorial_novelty": "Fifth study in Civilizations, Economics & Power Block A, linking previously published Paleolithic, forager, Neolithic and Çatalhöyük studies to the next Uruk administrative-systems case.",
+      "visual_signature": "Two matched bilingual charts: archaeological house-area Gini medians [0.17,0.27,0.35] and separately measured ethnographic wealth Gini group-mean averages [0.25,0.28,0.44] (n=5,4,8); a six-row evidence matrix, causal flow, mind map and five-region comparative map. Different observational units explicitly separated.",
+      "source_check": "Eight identical bibliographic URLs in both locales: AEA, NCBI/PMC, Nature/PMC, PubMed, PLOS ONE, Antiquity DOI, Nature HSSC, Cambridge.",
+      "bilingual_parity": "15 numbered analytical chapters plus bibliographies, 8 same bibliographic URLs and source ordinals; two numerical chart series (0.17,0.27,0.35 and 0.25,0.28,0.44) identical in EN/PT, same 3 causal flow chains, one mindmap and 5-region map in each language.",
+      "research_depth": "English 34484 characters; Portuguese 37532 characters; original analytical sections, charts, comparative evidence and references retained.",
+      "editorial_status": "Producer correction revision 2; staged for fresh QA in a subsequent execution. Not approved or public.",
+      "revision_corrections": "Addresses rejection revision 1: explicit archaeological observation windows and dating conventions in both locales; Sunghir pathology, ritual and ascribed status treated as competing hypotheses. Sources [1], [3], [4], [5], [6], [7] rechecked for the corrected passages; original chronology cutoff retained. Full fresh QA required."
+    }
+  }
+}
