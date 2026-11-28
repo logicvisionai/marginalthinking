@@ -108,7 +108,7 @@
   ],
   "format": "research-report",
   "cadence": "event-driven",
-  "revision": 1,
+  "revision": 2,
   "assessment_confidence": "medium",
   "related_research_ids": [
     "MT-PE-2026-11-02-PALEOLITHIC-ECONOMY",
@@ -121,7 +121,8 @@
     "2024 Çatalhöyük multi-proxy data show temporary inequalities and unequal access to nonstaples without a coherent durable institutional trend.",
     "2017 house-area Gini medians show cross-context association, not causation or world-representative household income distribution.",
     "John Robb 2025 challenges selective elite-tomb narratives and emphasizes collective checks on hierarchy in European prehistory.",
-    "Lech valley 2019 microregional genomic study supports enduring multigenerational status but does not establish a single continental origin date."
+    "Lech valley 2019 microregional genomic study supports enduring multigenerational status but does not establish a single continental origin date.",
+    "Sunghir funerary treatment may reflect individual developmental pathology, ritual practices or assigned status; it does not demonstrate hereditary succession."
   ],
   "limitations": [
     "House-area Gini 0.17, 0.27 and 0.35 are archaeological sample medians using residential size as proxy, not modern income or wealth metrics.",
@@ -140,7 +141,8 @@
     "visual_signature": "Two matched bilingual charts: archaeological house-area Gini medians [0.17,0.27,0.35] and separately measured ethnographic wealth Gini group-mean averages [0.25,0.28,0.44] (n=5,4,8); a six-row evidence matrix, causal flow, mind map and five-region comparative map. Different observational units explicitly separated.",
     "source_check": "Eight identical bibliographic URLs in both locales: AEA, NCBI/PMC, Nature/PMC, PubMed, PLOS ONE, Antiquity DOI, Nature HSSC, Cambridge.",
     "bilingual_parity": "15 numbered analytical chapters plus bibliographies, 8 same bibliographic URLs and source ordinals; two numerical chart series (0.17,0.27,0.35 and 0.25,0.28,0.44) identical in EN/PT, same 3 causal flow chains, one mindmap and 5-region map in each language.",
-    "research_depth": "English 32,500 characters; Portuguese 35,385 characters; 15 analytical sections and eight academic references; explains the different units and samples of two Gini comparisons.",
-    "editorial_status": "Producer staged revised bilingual evidence (2 charts per locale) and submitted for independent SHA-locked QA. Not approved or publicly promoted."
+    "research_depth": "English 34484 characters; Portuguese 37532 characters; original analytical sections, charts, comparative evidence and references retained.",
+    "editorial_status": "Producer correction revision 2; staged for fresh QA in a subsequent execution. Not approved or public.",
+    "revision_corrections": "Addresses rejection revision 1: explicit archaeological observation windows and dating conventions in both locales; Sunghir pathology, ritual and ascribed status treated as competing hypotheses. Sources [1], [3], [4], [5], [6], [7] rechecked for the corrected passages; original chronology cutoff retained. Full fresh QA required."
   }
 }
