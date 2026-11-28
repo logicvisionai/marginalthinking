@@ -125,11 +125,26 @@ unit: sessions in the specified year; not population or litigation volume
 
 The competing explanations are institutional and demographic. If recorded attendance falls while holdings remain occupied and the court changes its attendance rules, enforcement is a plausible explanation. If independent evidence instead shows abandoned holdings and fewer surviving families under unchanged rules, demographic contraction becomes more credible. The two mechanisms may operate together. This case does not establish a general English or European rate of exploitation.
 
+## The timing of scarcity: disruption before bargaining gains
+
+A demographic shock changes both the supply of labor and the ability to coordinate production. The immediate aftermath of the plague cannot be inferred from a static model of scarce workers. Jedwab, Johnson and Koyama's 2020 working paper, section 2.1, reports that English real wages for skilled and unskilled workers fell approximately 20% in the two years following the arrival of plague in 1348. Spanish real wages in 1350 were 9% lower; estimated output per person also contracted in both economies. [10] These estimates concern different historical wage series, not a representative panel of manorial households.
+
+| Economy | Observation | Approximate real wage change | Source |
+|---|---|---:|---|
+| England | Two years following arrival in 1348 | -20% | [10], section 2.1 |
+| Spain | 1350 following arrival in 1348 | -9% | [10], section 2.1 |
+
+The observations qualify the scarcity mechanism rather than contradicting it. A household can face rising food prices, interrupted employment and disrupted access to markets before a durable improvement in bargaining power becomes possible. The subsequent direction of real remuneration depends on the recovery of production and the enforcement of labor obligations. The published 2022 review distinguishes the later wage and per capita income gains from their uneven persistence across Europe. [6]
+
+For lordship, the distinction between immediate and persistent effects is decisive. A landlord facing interrupted harvests may lose revenue even if nominal rents are unchanged. Once cultivation resumes, the ability of tenants to negotiate depends on competing employers, access to land and the enforceability of exit restrictions. The same mortality shock can therefore produce different distributions of income without requiring different biological mechanisms. A comparison should examine prices and wages alongside court enforcement, vacancies and actual receipts; a wage series alone cannot identify changes in customary tenure.
+
+Wickham's model provides a complementary explanation of demand: local exchange can expand under noncapitalist institutions. [2] A reduction in enforceable claims on peasant output can increase household purchasing capacity without transforming the legal basis of landholding. Conversely, a recovery of lordly extraction could redirect demand toward elite consumption. These are competing distributional channels, not measured causal effects for Halesowen.
+
 ### Scholarship
 
 [1] Bouchard, Oxford Bibliographies, Feudalism: https://academic.oup.com/reference/62384/reference-article-abstract/555072719
 
-[2] Chris Wickham, How Did the Feudal Economy Work?, Past & Present: https://academic.oup.com/past/article/251/1/3/6254199
+[2] Chris Wickham, How Did the Feudal Economy Work?, Past & Present: https://doi.org/10.1093/pastj/gtaa018
 
 [3] Benjamin Arnold, Peasants, Lords, and their Resources: https://academic.oup.com/book/1833/chapter-abstract/141546494
 
@@ -137,10 +152,12 @@ The competing explanations are institutional and demographic. If recorded attend
 
 [5] Bas van Bavel, Power, Property and Social Structures: https://academic.oup.com/book/8856/chapter-abstract/155066430
 
-[6] Jedwab, Johnson and Koyama, Economic Impact of the Black Death: https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639
+[6] Jedwab, Johnson and Koyama, Economic Impact of the Black Death: https://pubs.aeaweb.org/doi/10.1257/jel.20201639
 
 [7] World History Encyclopedia, Black Death mortality estimates: https://www.worldhistory.org/article/1528/plague-in-the-ancient--medieval-world/
 
 [8] Zvi Razi, The Demographic Transparency of Manorial Court Rolls, notes 18–20: https://www.cambridge.org/core/journals/law-and-history-review/article/demographic-transparency-of-manorial-court-rolls/C2740B4535B6B657EAFB6E553DE97555
 
 [9] The National Archives, Manors, section 4: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manors/
+
+[10] Jedwab, Johnson and Koyama (2020), IIEP Working Paper 2020-14, section 2.1: https://www2.gwu.edu/~iiep/assets/docs/papers/2020WP/JedwabIIEP2020-14.pdf

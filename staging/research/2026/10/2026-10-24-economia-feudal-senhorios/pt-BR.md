@@ -125,11 +125,26 @@ unit: sessões no ano indicado; não população ou volume de litígios
 
 As explicações concorrentes são institucionais e demográficas. Se o comparecimento registrado diminui enquanto as posses continuam ocupadas e o tribunal modifica suas regras de presença, a alteração da fiscalização é uma explicação plausível. Se evidências independentes mostram posses abandonadas e menos famílias sobreviventes sob regras inalteradas, a contração demográfica ganha credibilidade. Os mecanismos podem atuar conjuntamente. O caso não estabelece uma taxa geral inglesa ou europeia de exploração.
 
+## A temporalidade da escassez: desorganização antes dos ganhos de negociação
+
+Um choque demográfico altera tanto a oferta de trabalho quanto a capacidade de coordenar a produção. As consequências imediatas da peste não podem ser deduzidas de um modelo estático de escassez de trabalhadores. O texto de discussão de 2020 de Jedwab, Johnson e Koyama, seção 2.1, registra queda aproximada de 20% nos salários reais ingleses de trabalhadores qualificados e não qualificados nos dois anos seguintes à chegada da peste em 1348. Na Espanha, os salários reais em 1350 estavam 9% menores; a produção estimada por habitante também recuou nas duas economias. [10] As estimativas dizem respeito a séries salariais históricas distintas, não a um painel representativo de famílias senhoriais.
+
+| Economia | Observação | Variação aproximada do salário real | Fonte |
+|---|---|---:|---|
+| Inglaterra | Dois anos após a chegada em 1348 | -20% | [10], seção 2.1 |
+| Espanha | 1350 após a chegada em 1348 | -9% | [10], seção 2.1 |
+
+As observações qualificam o mecanismo da escassez, em vez de contradizê-lo. Uma família pode enfrentar alimentos mais caros, interrupção do emprego e dificuldades de acesso aos mercados antes que se torne possível uma melhora duradoura de seu poder de negociação. A trajetória posterior da remuneração real depende da recuperação produtiva e da imposição das obrigações de trabalho. A revisão publicada em 2022 distingue os ganhos posteriores de salários e renda por habitante de sua persistência desigual pela Europa. [6]
+
+Para o senhorio, a distinção entre efeitos imediatos e persistentes é decisiva. Um senhor que enfrenta a interrupção das colheitas pode perder receitas mesmo com rendas nominais inalteradas. Quando o cultivo é retomado, a capacidade de negociação dos arrendatários depende de empregadores concorrentes, acesso à terra e efetividade das restrições à saída. O mesmo choque de mortalidade pode, portanto, produzir distribuições distintas de renda sem exigir mecanismos biológicos diferentes. A comparação deve examinar preços e salários juntamente com a atuação judicial, posses vagas e receitas efetivas; uma série salarial isolada não identifica mudanças na posse costumeira.
+
+O modelo de Wickham oferece uma explicação complementar da demanda: as trocas locais podem crescer sob instituições não capitalistas. [2] A redução das reivindicações exigíveis sobre a produção camponesa pode ampliar a capacidade de compra familiar sem transformar a base jurídica da posse da terra. Inversamente, a recuperação da extração senhorial poderia redirecionar a demanda para o consumo das elites. São canais distributivos concorrentes, não efeitos causais mensurados para Halesowen.
+
 ### Fontes acadêmicas
 
 [1] Bouchard, Oxford, Feudalism: https://academic.oup.com/reference/62384/reference-article-abstract/555072719
 
-[2] Chris Wickham, How Did the Feudal Economy Work?: https://academic.oup.com/past/article/251/1/3/6254199
+[2] Chris Wickham, How Did the Feudal Economy Work?: https://doi.org/10.1093/pastj/gtaa018
 
 [3] Benjamin Arnold, Peasants, Lords, and their Resources: https://academic.oup.com/book/1833/chapter-abstract/141546494
 
@@ -137,10 +152,12 @@ As explicações concorrentes são institucionais e demográficas. Se o comparec
 
 [5] Bas van Bavel, Power, Property and Social Structures: https://academic.oup.com/book/8856/chapter-abstract/155066430
 
-[6] Jedwab, Johnson e Koyama, Black Death: https://pubs.aeaweb.org/doi/abs/10.1257/jel.20201639
+[6] Jedwab, Johnson e Koyama, Black Death: https://pubs.aeaweb.org/doi/10.1257/jel.20201639
 
 [7] World History Encyclopedia, intervalo de mortalidade da Peste Negra: https://www.worldhistory.org/article/1528/plague-in-the-ancient--medieval-world/
 
 [8] Zvi Razi, The Demographic Transparency of Manorial Court Rolls, notes 18–20: https://www.cambridge.org/core/journals/law-and-history-review/article/demographic-transparency-of-manorial-court-rolls/C2740B4535B6B657EAFB6E553DE97555
 
 [9] The National Archives, Manors, section 4: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/manors/
+
+[10] Jedwab, Johnson and Koyama (2020), IIEP Working Paper 2020-14, section 2.1: https://www2.gwu.edu/~iiep/assets/docs/papers/2020WP/JedwabIIEP2020-14.pdf
